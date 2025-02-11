@@ -10,4 +10,5 @@ tqdm>=4.66.1  # For progress bars
 ratelimit>=2.2.1  # For rate limiting requests
 matplotlib>=3.7.1  # For plotting
 seaborn>=0.12.2  # For enhanced plotting
-jupyter>=1.0.0  # For running notebooks 
+jupyter>=1.0.0  # For running notebooks
+scipy>=1.11.0  # For statistical calculations 
