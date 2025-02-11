@@ -1,0 +1,13 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+pandas>=2.0.0
+nltk>=3.8.1
+textblob>=0.17.1
+python-dateutil>=2.8.2  # For parsing dates
+selenium>=4.15.0  # For browser automation
+webdriver-manager>=4.0.1  # For managing Chrome driver
+tqdm>=4.66.1  # For progress bars
+ratelimit>=2.2.1  # For rate limiting requests
+matplotlib>=3.7.1  # For plotting
+seaborn>=0.12.2  # For enhanced plotting
+jupyter>=1.0.0  # For running notebooks 
