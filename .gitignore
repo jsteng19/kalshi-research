@@ -169,3 +169,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+notebooks/sotu_analysis copy.ipynb
