@@ -25,7 +25,7 @@ def rate_limited_request(url, headers):
 class TrumpSpeechScraper:
     def __init__(self, max_workers=12):
         self.speeches = []
-        self.base_url = "https://rollcall.com/factbase/trump/search/?type=Speech"
+        self.base_url = "https://rollcall.com/factbase/trump/search/"
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
         }
@@ -464,110 +464,3 @@ class TrumpSpeechScraper:
         except Exception as e:
             print(f"Error fetching transcript from {url}: {str(e)}")
             return None, None, None, None
-
-    def export_to_csv(self, filename):
-        """
-        Exports collected speeches to CSV
-        """
-        df = pd.DataFrame(self.speeches)
-        df.to_csv(filename, index=False)
-
-    def scrape_single_speech(self, url=None):
-        """
-        Scrapes a single speech and saves it to a text file
-        Args:
-            url (str, optional): URL of specific speech to scrape. If None, takes first one found.
-        """
-        print("Starting single speech scraper...")
-        
-        # Setup Chrome with WebDriver manager
-        print("Setting up Chrome WebDriver...")
-        options = webdriver.ChromeOptions()
-        options.add_argument('--headless')
-        options.add_argument('--disable-gpu')
-        options.add_argument('--no-sandbox')
-        options.add_argument('--disable-dev-shm-usage')
-        service = Service(ChromeDriverManager().install())
-        driver = webdriver.Chrome(service=service, options=options)
-        
-        try:
-            if not url:
-                print(f"Loading URL: {self.base_url}")
-                driver.get(self.base_url)
-                
-                # Wait for Vue.js app to initialize and content to load
-                print("Waiting for content to load...")
-                wait = WebDriverWait(driver, 20)
-                content = wait.until(
-                    EC.presence_of_element_located((By.ID, "factbase-content"))
-                )
-                
-                # Wait additional time for dynamic content
-                time.sleep(5)
-                
-                # Find first transcript link
-                transcript_links = driver.find_elements(
-                    By.CSS_SELECTOR, 
-                    'a[href*="/factbase/trump/transcript/"][title="View Transcript"]'
-                )
-                if not transcript_links:
-                    print("No transcript links found")
-                    return
-                
-                url = transcript_links[0].get_attribute('href')
-            
-            print(f"\nProcessing transcript: {url}")
-            
-            # Get the page content
-            response = requests.get(url, headers=self.headers)
-            soup = BeautifulSoup(response.text, 'html.parser')
-            
-            # Extract title
-            title = soup.find('title').text if soup.find('title') else ''
-            print(f"Found title: {title}")
-            
-            # Find all text chunks with the specific classes
-            text_chunks = []
-            chunks = soup.find_all('div', class_=lambda x: x and all(c in str(x) for c in ['flex-auto', 'text-md', 'text-gray-600', 'leading-loose']))
-            
-            print(f"\nFound {len(chunks)} text chunks")
-            
-            for i, chunk in enumerate(chunks):
-                # Get the speaker label from the h2 tag within the parent's parent div
-                parent_div = chunk.find_parent('div', class_='w-full')
-                if parent_div:
-                    speaker_elem = parent_div.find('h2', class_='text-md inline')
-                    speaker = speaker_elem.get_text(strip=True) if speaker_elem else "SPEAKER"
-                else:
-                    speaker = "SPEAKER"
-                
-                # Get the text content
-                text = chunk.get_text(strip=True)
-                text = re.sub(r'\[\d{2}:\d{2}:\d{2}\]', '', text)
-                
-                if text:
-                    print(f"\nChunk {i+1}:")
-                    print(f"Speaker: {speaker}")
-                    print(f"Text: {text[:100]}...")
-                    text_chunks.append(f"{speaker}: {text}")
-            
-            if text_chunks:
-                # Create filename from title
-                filename = re.sub(r'[^\w\s-]', '', title.split('-')[0].strip())
-                filename = re.sub(r'[\s]+', '_', filename).lower()
-                filename = f"data/{filename}.txt"
-                
-                # Save transcript
-                full_text = '\n\n'.join(text_chunks)
-                with open(filename, 'w', encoding='utf-8') as f:
-                    f.write(full_text)
-                print(f"\nSaved transcript to {filename}")
-                print(f"Total length: {len(full_text)} characters")
-            else:
-                print("No text chunks found")
-            
-        except Exception as e:
-            print(f"Error: {str(e)}")
-        finally:
-            driver.quit()
-            print("WebDriver closed") 
