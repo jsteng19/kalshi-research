@@ -250,20 +250,21 @@ class TrumpSpeechScraper:
             driver.quit()
             print("WebDriver closed")
 
-    def process_transcripts(self, urls=None):
+    def process_transcripts(self, url_path="data/transcript_urls.txt"):
         """
         Process a list of transcript URLs and save them to files in parallel
         Args:
-            urls (list, optional): List of URLs to process. If None, reads from transcript_urls.txt
+            urls (list, optional): List of URLs to process. If None, reads from url_path
+            url_path (str, optional): Path to file containing URLs. Defaults to "data/transcript_urls.txt"
         """
-        if urls is None:
-            try:
-                with open("data/transcript_urls.txt", 'r') as f:
-                    urls = [line.strip() for line in f if line.strip()]
-                print(f"Loaded {len(urls)} URLs from transcript_urls.txt")
-            except FileNotFoundError:
-                print("No transcript_urls.txt file found. Please run collect_transcript_urls first.")
-                return
+
+        try:
+            with open(url_path, 'r') as f:
+                urls = [line.strip() for line in f if line.strip()]
+            print(f"Loaded {len(urls)} URLs from {url_path}")
+        except FileNotFoundError:
+            print(f"No {url_path} file found. Please run collect_transcript_urls first.")
+            return
         
         # Create raw-transcripts directory
         os.makedirs('data/raw-transcripts', exist_ok=True)
