@@ -30,11 +30,11 @@ Speech transcripts are collected using an automated scraper that interfaces with
   - Tracks phrase evolution over time
   - Compare different types of appearances
 
-### Forecasting probabilities with Poisson distribution
+### Forecasting probabilities
 
 A simple approach is to use the past frequency of a phrase to forecast the probability of it occurring during the expected length of a future speech. Using the Poisson distribution, we assume each word is independent and identically distributed. This allows us to compute threshold probabilities for a phrase occurring a given number of times, which can be compared to the market's implied probability. However, this approach does not account for the clear dependence between words in a speech. The most obvious dependence is single word clustering: a word is often more likely to quickly be mentioned again after being mentioned once. The structure of a speech is also important: for example tariffs might be more likely to be mentioned in the second half of an address given they were not mentioned in the first half.
 
-### Other Statistical Models
+#### Other Statistical Models
 
 Negative Binomial Model:
    - Generalizes the Poisson distribution to allow for overdispersion
@@ -42,7 +42,11 @@ Negative Binomial Model:
    - More accurate for phrases that tend to appear in bursts
 
 
-We can use this to predict 
+We can use these models to predict the probability of a phrase occurring a given number of times in a future speech, given an assumed length.
+
+### Per Speech Analysis
+
+Important to compare per-word to per speech analysis.  
 
 
 ## Papers and research
