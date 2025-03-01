@@ -7,11 +7,16 @@ def process_transcript(input_file, output_file):
     
     # Skip the first line (source URL)
     processed_lines = []
+    
+    # Determine if this is a press briefing from the folder path
+    is_press_briefing = '/press briefing/' in input_file.lower()
+    speaker = 'Karoline Leavitt:' if is_press_briefing else 'Donald Trump:'
+    
     for line in lines[1:]:
-        # Check if line starts with "Donald Trump:" and extract the content
-        if line.startswith('Donald Trump:'):
-            # Remove "Donald Trump:" prefix and clean up
-            content = line.replace('Donald Trump:', '').strip()
+        # Check if line starts with the speaker name and extract the content
+        if line.startswith(speaker):
+            # Remove speaker prefix and clean up
+            content = line.replace(speaker, '').strip()
             # Remove audience reactions in square brackets
             content = re.sub(r'\[.*?\]', '', content).strip()
             if content:  # Only add non-empty lines

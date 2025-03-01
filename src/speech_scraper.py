@@ -25,7 +25,7 @@ def rate_limited_request(url, headers):
 class TrumpSpeechScraper:
     def __init__(self, max_workers=12):
         self.speeches = []
-        self.base_url = "https://rollcall.com/factbase/trump/search/"
+        self.base_url = "https://rollcall.com/factbase/?type=Press%20Briefing"
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
         }
@@ -234,7 +234,7 @@ class TrumpSpeechScraper:
             print(f"\nFinished collecting URLs. Found {len(transcript_urls)} unique transcripts after {target_date.strftime('%B %d, %Y')}.")
             
             # Save URLs to file in chronological order (newest first)
-            urls_file = "data/transcript_urls2.txt"
+            urls_file = "data/transcript_urls4.txt"
             os.makedirs(os.path.dirname(urls_file), exist_ok=True)
             with open(urls_file, 'w') as f:
                 for url in transcript_urls:  # Already in chronological order
@@ -315,9 +315,9 @@ class TrumpSpeechScraper:
             else:
                 category = 'Press Briefing' if clean_title.startswith('Press Briefing') else 'Uncategorized'
             
-            # Skip press briefings early
-            if category.lower() == 'press briefing':
-                return None
+            # # Skip press briefings early
+            # if category.lower() == 'press briefing':
+            #     return None
             
             # Extract date from title
             date_match = re.search(r'-\s*([A-Za-z]+\s+\d+,\s+\d{4})', title)
@@ -431,9 +431,9 @@ class TrumpSpeechScraper:
                     category = 'Uncategorized'
                     title_part = clean_title
             
-            # Skip press briefings
-            if category.lower() == 'press briefing':
-                return None, None, None, None
+            # # Skip press briefings
+            # if category.lower() == 'press briefing':
+            #     return None, None, None, None
             
             # Find all text chunks with the specific classes
             text_chunks = []
