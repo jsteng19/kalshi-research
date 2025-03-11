@@ -23,9 +23,10 @@ def rate_limited_request(url, headers):
     return requests.get(url, headers=headers)
 
 class TrumpSpeechScraper:
-    def __init__(self, max_workers=12):
+    def __init__(self, url, save_path, max_workers=12):
         self.speeches = []
-        self.base_url = "https://rollcall.com/factbase/?type=Press%20Briefing"
+        self.base_url = url
+        self.save_path = save_path
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
         }
@@ -234,7 +235,7 @@ class TrumpSpeechScraper:
             print(f"\nFinished collecting URLs. Found {len(transcript_urls)} unique transcripts after {target_date.strftime('%B %d, %Y')}.")
             
             # Save URLs to file in chronological order (newest first)
-            urls_file = "data/transcript_urls4.txt"
+            urls_file = self.save_path
             os.makedirs(os.path.dirname(urls_file), exist_ok=True)
             with open(urls_file, 'w') as f:
                 for url in transcript_urls:  # Already in chronological order
