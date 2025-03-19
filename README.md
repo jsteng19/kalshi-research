@@ -1,6 +1,6 @@
 # kalshi-research
 
-A data analysis project for prediction markets focused on predicting phrase occurrences in political speeches and public appearances.
+A data analysis project for event contracts resolving on phrase occurrences in political speeches and appearances of public figures
 
 ## Background
 
@@ -54,7 +54,7 @@ We can use these models to predict the probability of a phrase occurring a given
 
 ### Per Speech Analysis
 
-Important to compare per-word to per speech analysis.  
+Important to compare per-word to per speech analysis, due to clustering effects as well as phrases that occur at a per-speech frequency regardless of length.
 
 
 ## Papers and research
