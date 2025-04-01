@@ -173,3 +173,5 @@ cython_debug/
 data/html/
 claude_notes.txt
 .DS_Store
+
+returns/
