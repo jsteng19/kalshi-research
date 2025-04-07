@@ -50,28 +50,134 @@ class TrumpSpeechScraper:
         # Setup Chrome with WebDriver manager
         print("Setting up Chrome WebDriver...")
         options = webdriver.ChromeOptions()
-        options.add_argument('--headless')
+        options.add_argument('--headless=new')  # Updated headless mode
         options.add_argument('--disable-gpu')
         options.add_argument('--no-sandbox')
         options.add_argument('--disable-dev-shm-usage')
-        service = Service(ChromeDriverManager().install())
-        driver = webdriver.Chrome(service=service, options=options)
+        options.add_argument('--window-size=1920,1080')
+        options.add_argument('--start-maximized')
+        options.add_argument('--disable-blink-features=AutomationControlled')
+        
+        # Add additional options to bypass anti-bot measures
+        options.add_argument('--disable-extensions')
+        options.add_argument('--disable-infobars')
+        options.add_argument('--ignore-certificate-errors')
+        options.add_argument('--ignore-ssl-errors')
+        options.add_argument('--disable-popup-blocking')
+        
+        # Add user agent to make the request more like a regular browser
+        options.add_argument('--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36')
+        
+        # Force Chrome to log all console messages, to help diagnose issues
+        options.add_argument('--enable-logging')
+        options.add_argument('--v=1')
+        
+        driver = None
+        service = None
         
         try:
-            print(f"Loading URL: {self.base_url}")
-            driver.get(self.base_url)
+            # Try using ChromeDriverManager
+            try:
+                print("Attempting to use ChromeDriverManager...")
+                service = Service(ChromeDriverManager().install())
+            except Exception as e:
+                print(f"ChromeDriverManager failed: {str(e)}")
+                print("Trying alternative methods...")
+                
+                # Try looking for chromedriver in current directory or PATH
+                import shutil
+                chromedriver_path = shutil.which('chromedriver.exe') or './chromedriver.exe'
+                if os.path.exists(chromedriver_path):
+                    print(f"Found chromedriver at: {chromedriver_path}")
+                    service = Service(chromedriver_path)
+                else:
+                    print("No chromedriver found. Please download manually or install with: pip install webdriver-manager")
+                    return []
             
-            # Wait for Vue.js app to initialize and content to load
-            print("Waiting for content to load...")
-            wait = WebDriverWait(driver, 20)
-            content = wait.until(
-                EC.presence_of_element_located((By.ID, "factbase-content"))
-            )
-            print("Content loaded successfully")
+            max_init_retries = 3
+            for init_attempt in range(max_init_retries):
+                try:
+                    print(f"Initializing Chrome WebDriver (attempt {init_attempt + 1}/{max_init_retries})...")
+                    driver = webdriver.Chrome(service=service, options=options)
+                    
+                    # Set page load timeout
+                    driver.set_page_load_timeout(60)
+                    
+                    print(f"Loading URL: {self.base_url}")
+                    driver.get(self.base_url)
+                    
+                    # Print page title to help diagnose issues
+                    print(f"Page title: {driver.title}")
+                    
+                    # Wait for Vue.js app to initialize and content to load
+                    print("Waiting for content to load...")
+                    wait = WebDriverWait(driver, 45)  # Increased timeout to 45 seconds
+                    
+                    # First wait for the document to be ready
+                    wait.until(lambda d: d.execute_script('return document.readyState') == 'complete')
+                    
+                    # Check if we've been blocked or redirected
+                    current_url = driver.current_url
+                    if "rollcall.com/factbase" not in current_url.lower():
+                        print(f"Warning: Redirected to {current_url} - possible security measure")
+                        if "captcha" in driver.page_source.lower() or "robot" in driver.page_source.lower():
+                            print("Detected Captcha or bot detection page")
+                            raise Exception("Bot detection triggered - manual verification needed")
+                    
+                    # Then wait for the specific content
+                    try:
+                        content = wait.until(
+                            EC.presence_of_element_located((By.ID, "factbase-content"))
+                        )
+                        print("Content loaded successfully")
+                    except Exception as content_error:
+                        print(f"Content element not found: {str(content_error)}")
+                        print("Looking for alternative elements...")
+                        
+                        # Try to find any links matching our expected pattern
+                        try:
+                            transcript_links = driver.find_elements(By.CSS_SELECTOR, 
+                                'a[href*="/factbase/trump/transcript/"]')
+                            if transcript_links:
+                                print(f"Found {len(transcript_links)} transcript links directly")
+                            else:
+                                # Save page source for debugging
+                                with open("page_source.html", "w", encoding="utf-8") as f:
+                                    f.write(driver.page_source)
+                                print("Page source saved to page_source.html for debugging")
+                                raise Exception("No transcript links found and no factbase-content element")
+                        except Exception as e:
+                            print(f"Alternative element search failed: {str(e)}")
+                            raise
+                    
+                    # Wait additional time for dynamic content
+                    time.sleep(15)  # Increased initial wait time
+                    
+                    break  # If we get here, initialization was successful
+                    
+                except Exception as e:
+                    print(f"Initialization attempt {init_attempt + 1} failed: {str(e)}")
+                    if init_attempt < max_init_retries - 1:
+                        print("Retrying initialization...")
+                        time.sleep(10)  # Increased wait time between retries
+                        if driver:
+                            driver.quit()
+                            driver = None
+                    else:
+                        if driver:
+                            # Save screenshot and page source for debugging
+                            try:
+                                driver.save_screenshot("error_screenshot.png")
+                                with open("error_page.html", "w", encoding="utf-8") as f:
+                                    f.write(driver.page_source)
+                                print("Error screenshot and page saved for debugging")
+                            except:
+                                pass
+                        raise Exception("Failed to initialize WebDriver after multiple attempts")
             
-            # Wait additional time for dynamic content
-            time.sleep(5)
-            
+            if driver is None:
+                return []
+        
             # Keep track of URLs and their dates
             transcript_urls = []  # Maintain chronological order
             url_dates = {}  # Track dates for each URL
@@ -91,17 +197,28 @@ class TrumpSpeechScraper:
                     # Find all transcript links on current page with retry
                     for attempt in range(3):
                         try:
+                            # Try more general selector first
                             transcript_links = WebDriverWait(driver, 10).until(
                                 EC.presence_of_all_elements_located((
                                     By.CSS_SELECTOR, 
-                                    'a[href*="/factbase/trump/transcript/"][title="View Transcript"]'
+                                    'a[href*="/factbase/trump/transcript/"]'
                                 ))
                             )
+                            print(f"Found {len(transcript_links)} links with general selector")
+                            
+                            # If found with general selector, we can try to filter for title if needed
+                            title_links = driver.find_elements(By.CSS_SELECTOR, 
+                                'a[href*="/factbase/trump/transcript/"][title="View Transcript"]')
+                            
+                            if title_links:
+                                print(f"Found {len(title_links)} links with title 'View Transcript'")
+                                transcript_links = title_links
+                                
                             break
                         except Exception as e:
                             if attempt == 2:  # Last attempt
                                 raise
-                            print(f"Retry {attempt + 1}/3 finding transcript links")
+                            print(f"Retry {attempt + 1}/3 finding transcript links: {str(e)}")
                             time.sleep(2)
                     
                     current_transcript_count = len(transcript_links)
@@ -134,7 +251,7 @@ class TrumpSpeechScraper:
                                 break
                             except Exception as e:
                                 if attempt == 2:  # Last attempt
-                                    print(f"Failed to get URL after 3 attempts")
+                                    print(f"Failed to get URL after 3 attempts: {str(e)}")
                                     continue
                                 time.sleep(1)
                     
@@ -169,10 +286,26 @@ class TrumpSpeechScraper:
                             window.contentChanged = true;
                         });
                         
-                        window._factbaseObserver.observe(
-                            document.getElementById('factbase-content'),
-                            { childList: true, subtree: true }
-                        );
+                        try {
+                            const content = document.getElementById('factbase-content');
+                            if (content) {
+                                window._factbaseObserver.observe(
+                                    content,
+                                    { childList: true, subtree: true }
+                                );
+                                console.log("Observer attached successfully");
+                            } else {
+                                console.log("factbase-content element not found for observer");
+                                // Try to observe the body instead
+                                window._factbaseObserver.observe(
+                                    document.body,
+                                    { childList: true, subtree: true }
+                                );
+                                console.log("Observer attached to body instead");
+                            }
+                        } catch (e) {
+                            console.error("Error setting up observer:", e);
+                        }
                     """
                     driver.execute_script(setup_observer)
                     
@@ -194,7 +327,7 @@ class TrumpSpeechScraper:
                     content_changed = False
                     new_scroll = current_scroll
                     
-                    while time.time() - wait_start < 10:  # Wait up to 10 seconds
+                    while time.time() - wait_start < 15:  # Increased wait time to 15 seconds
                         content_changed = driver.execute_script("return window.contentChanged;")
                         new_scroll = driver.execute_script("return window.pageYOffset;")
                         
@@ -248,8 +381,9 @@ class TrumpSpeechScraper:
             print(f"Error collecting URLs: {str(e)}")
             return []
         finally:
-            driver.quit()
-            print("WebDriver closed")
+            if driver:
+                driver.quit()
+                print("WebDriver closed")
 
     def process_transcripts(self, url_path="data/transcript_urls.txt"):
         """
