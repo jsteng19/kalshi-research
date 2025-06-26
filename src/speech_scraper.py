@@ -106,6 +106,34 @@ class TrumpSpeechScraper:
                     print(f"Loading URL: {self.base_url}")
                     driver.get(self.base_url)
                     
+                    # Wait a moment for popups to appear
+                    time.sleep(2)
+                    
+                    # Try to close popups if present
+                    try:
+                        # Example: close by button text
+                        popup_selectors = [
+                            "//button[contains(text(), 'Accept')]",
+                            "//button[contains(text(), 'Close')]",
+                            "//button[contains(text(), 'No Thanks')]",
+                            "//button[contains(text(), 'I Agree')]",
+                            "//button[contains(text(), 'OK')]",
+                            "//button[contains(text(), 'Got it')]",
+                            "//div[contains(@class, 'popup')]//button",
+                            "//div[contains(@class, 'modal')]//button"
+                        ]
+                        for selector in popup_selectors:
+                            elements = driver.find_elements(By.XPATH, selector)
+                            for el in elements:
+                                try:
+                                    el.click()
+                                    print(f"Closed popup with selector: {selector}")
+                                    time.sleep(1)
+                                except Exception as e:
+                                    print(f"Failed to click popup button: {e}")
+                    except Exception as e:
+                        print(f"Popup handling error: {e}")
+                    
                     # Print page title to help diagnose issues
                     print(f"Page title: {driver.title}")
                     
