@@ -1,63 +1,85 @@
-# kalshi-research
+# Kalshi Research
 
-A data analysis project for event contracts resolving on phrase occurrences in political speeches and appearances of public figures
+This repository contains tools for analyzing political speech transcripts and making predictions for Kalshi markets.
 
-## Background
+## Features
 
-Prediction markets are powerful tools for aggregating information and forecasting future events by allowing participants to trade contracts based on event outcomes. [Kalshi](https://kalshi.com) is the first CFTC-regulated exchange for event contracts in the US, enabling traders to take positions on various outcomes, including the occurence of specific phrases in political speeches.
+### Multi-Politician Support
+- **Trump Analysis**: Original analysis framework for Donald Trump speeches
+- **Harris Analysis**: Parallel analysis framework for Kamala Harris speeches
+- **Configurable Scraper**: Single scraper works for both politicians via URL and parameter configuration
 
-This project analyzes Donald Trump's speech patterns to inform trading on his mention markets, focusing on:
-- Pre-inauguration appearances (currently back to Sept 2023)
-- Post-inauguration appearances (Jan 20, 2025 onwards) 
-- Previous State of the Union addresses (2017-2020)
+### Data Collection
+- Automated web scraping from Roll Call Factbase
+- Support for multiple transcript types (speeches, interviews, press briefings, etc.)
+- Configurable date ranges and filtering
 
-The analysis provides a valuable reference for event contract speculators by:
-- Gathering and cleaning data
-- Identifying patterns in phrase usage over time
-- Quantifying the frequency of specific phrases and applying statistical models
-- Understanding contextual factors that influence speech content (type of appearance, phrase clustering, etc.)
+### Statistical Analysis
+- **Phrase Frequency Analysis**: Track key phrases over time
+- **Poisson Modeling**: Predict phrase occurrences in future speeches
+- **Negative Binomial Modeling**: Account for overdispersion in phrase usage
+- **Time Series Analysis**: Visualize trends and patterns
+- **Contextual Analysis**: Extract usage examples with surrounding context
 
-## Data Collection
+## Usage
 
-Speech transcripts are collected using an automated scraper that interfaces with Roll Call's ([factba.se](https://rollcall.com/factbase/)) archive. The scraper:
-- Navigates through historical speech archives
-- Extracts full transcripts while preserving speaker attribution
-- Categorizes speeches by type (speeches, remarks, interviews, etc.) and records the date
+### Trump Analysis
+```python
+# Data Collection
+# Run notebooks/run_scraper.ipynb
 
+# Analysis  
+# Run notebooks/trump_appearance.ipynb
+```
 
-## Analysis Methodology
+### Harris Analysis
+```python
+# Data Collection
+# Run notebooks/harris_run_scraper.ipynb
 
-### Time Series Analysis:
-  - Tracks phrase frequency over time
-  - Compare different types of appearances
+# Analysis
+# Run notebooks/harris_appearance.ipynb
+```
 
-### Previous State of the Unions
+### Custom Politician Analysis
+```python
+from src.speech_scraper import TrumpSpeechScraper
 
-Small sample size for rare phrases, but useful for gauging stable common phrases as well as the general tone and composition of the addresses. Also used to forecast the length of future SOTU addresses.
+# Configure for any politician
+scraper = TrumpSpeechScraper(
+    url="https://rollcall.com/factbase/[politician]/search/",
+    save_path="data-[politician]/transcript-urls/urls.txt", 
+    politician="[politician]"
+)
+```
 
-### Forecasting probabilities with statistical models
+## Data Structure
 
-Use the past frequency of a phrase to forecast the probability of it occurring during the expected length of a future speech. 
+```
+data/                    # Trump data
+├── raw-transcripts/
+├── processed-transcripts/
+└── transcript-urls/
 
-#### Poisson Distribution
-Using the Poisson distribution, we assume each word is independent and identically distributed. This allows us to compute threshold probabilities for a phrase occurring a given number of times, which can be compared to a market's implied probability. However, this approach does not account for the clear dependence between words in a speech. The most obvious dependence is single word clustering: a word is often more likely to quickly be mentioned again after being mentioned once. The structure of a speech is also important: for example tariffs might be more likely to be mentioned in the second half of an address given they were not mentioned in the first half.
+data-harris/             # Harris data  
+├── raw-transcripts/
+├── processed-transcripts/
+└── transcript-urls/
+```
 
-#### Other Statistical Models
+## Key Files
 
-Negative Binomial Model:
-   - Generalizes the Poisson distribution to allow for overdispersion
-   - Better handles clustered occurrences where frequency variance > mean
-   - More accurate for phrases that tend to appear in bursts
+- `src/speech_scraper.py`: Configurable web scraper for any politician
+- `src/process_transcripts.py`: Text processing with politician-specific speaker patterns
+- `notebooks/trump_appearance.ipynb`: Comprehensive Trump analysis
+- `notebooks/harris_appearance.ipynb`: Comprehensive Harris analysis
+- `notebooks/run_scraper.ipynb`: Trump data collection
+- `notebooks/harris_run_scraper.ipynb`: Harris data collection
 
+## Requirements
 
-We can use these models to predict the probability of a phrase occurring a given number of times in a future speech, given an assumed length.
+See `requirements.txt` for Python dependencies.
 
-### Per Speech Analysis
+## License
 
-Important to compare per-word to per speech analysis, due to clustering effects as well as phrases that occur at a per-speech frequency regardless of length.
-
-
-## Papers and research
-
-[How to Analyze Political Attention with Minimal
-Assumptions and Costs](https://www.law.berkeley.edu/files/TopicModelAJPS(2).pdf)
+See LICENSE file.

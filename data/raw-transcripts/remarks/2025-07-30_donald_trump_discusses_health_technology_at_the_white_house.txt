@@ -1,0 +1,201 @@
+Source: https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-health-technology-white-house-july-30-2025
+
+Note: [Microphone was muted for the first three seconds.]
+
+Donald Trump: And we have a lot of great people here and we've been looking forward to this day, but we sort of look forward to every day because we have a lot of surprises, most of which are good. Today you saw GDP was much higher than anticipated. And Scott, good job. Scott Bessent has been working, just got back from a little excursion and a meeting with China in Europe and that went well.
+
+Donald Trump: We've done very well with the EU deal. It's a very big deal. I guess they say the biggest trade deal ever made by far -- probably is. Just completed Japan and many other countries and hundreds of billions of dollars is flowing into our country. We've never seen anything even close. And that's not me saying it, that's everybody saying it. And it's going to be something really, really very special.
+
+Donald Trump: Maybe even more importantly, factories for AI and for cars and for lots of other things are being built in this country or planned to be built very shortly, they'll be starting. And where they need great amounts of energy like for AI, they're going to be -- I've given them approval and Lee Zeldin has given them very fast approval to build their own electric powering plants and they'll build them with a factory so we don't have to worry about an ancient grid and all of the other problems, the obstacles people thought we were going to have that would make it impossible.
+
+Donald Trump: And we're leading AI by a lot. And I think people are very impressed with our country. As they said, the king of Saudi Arabia and various leaders, just about every leader I can even imagine. We were in the Middle East and Qatar, UAE, Saudi Arabia. They said one year ago your country was dead and today you have the hottest country anywhere in the world.
+
+Donald Trump: And that's true. So, I congratulate everybody in the room that's helped, but we're doing a good job together. I'd like to begin by saying a few words about the unbelievable kind of numbers that we've been putting up. And as I said, the number of 3 percent, the pace in the second quarter, we smashed all expectations.
+
+Donald Trump: They thought it would be maybe a little bit less than 2 and it was 3, a little bit more than 3. Consumer spending is up, business investment is way up, domestic manufacturing is way up, real disposable family income is up, and personal savings are up. Other than that, we're not doing so great. [Laughter] We have the hottest country.
+
+Donald Trump: And I'll tell you, it's a great -- we're having a lot of fun with it. At the same time, we dramatically slashed government spending for the second quarter in a row, down nearly 4 percent, which people were surprised at. We do a lot of cutting also. The private sector has boomed with nearly 600,000 jobs added, way above expectations, while we have reduced the federal workforce by 70,000 jobs.
+
+Donald Trump: So, these are private jobs that are coming back to our country. Federal jobs are being cut. Critics said that our tariffs would hurt the economy, but the data shows the exact opposite, and the exact opposite is happening. The US Treasury has taken in $150 billion from tariffs and will be adding about $200 billion, next month for totals that nobody's ever seen before, frankly.
+
+Donald Trump: And foreign imports were down 30 percent in the second quarter, while the domestic auto production surged by a stunning 36 percent. How about that number, Dr. Oz? That's good, that's good. We want to do that with your patients too. We'll have a very healthy -- we're going to have a very healthy country. At the same time, inflation continues to fall faster than expectations, and for the fifth consecutive month, core inflation was lower than predicted, substantially.
+
+Donald Trump: This is truly the dawn of the golden age of America. That's what we're in. We want to keep it that way. This afternoon we're gathered to announce another historic victory for the American people, a very important one. Today, the dream of easily transportable electronic medical records finally becomes a reality.
+
+Donald Trump: I want to thank Secretary Scott Bessent and Robert F. Kennedy, Jr. for joining us, as well as administrator of the centers for Medicare and Medicaid Services, Dr. Mehmet Oz, all friends of mine. White House AI and Crypto Czar David Sacks, and acting administrator of DOGE, Amy Gleason, all here. And we have various great Senators here, Senator Rounds, Senator Cassidy, thank you very much -- very much for being here and helping out.
+
+Donald Trump: I also want to thank representatives from Apple, Google, Samsung, Amazon, OpenAI, Anthropic, Epic, Oracle, Athena Health, Noom, and that's not a bad group of people. Wow. And they're the top people, we don't play games. You know, when you invite people to the White House, the top ones, that's a big net worth sitting in this room right now, boy, oh boy.
+
+Donald Trump: We better make sure the room is nice and safe, this is half the net worth of our country. I'm also grateful to be joined by many numerous Congressmen. I'm not going to name you if you don't mind. I'll probably never get their vote again, but it's too many. Thank you very much for being here. The Congress has been great, Senators have been great, and the Congress men and women have been great.
+
+Donald Trump: We just passed the most important, I think -- look, I can't say most important, but certainly one of the most, but the most consequential and the largest bill in the history of Congress and I call it the Great Big, Beautiful Bill. We call it different names, but it all means the same thing. For decades, America's health care networks have been overdue for a high-tech upgrade and that's what we're doing.
+
+Donald Trump: The existing systems are often slow, costly and incompatible with one another. But with today's announcement, we take a major step to bring health care into the digital age, something that is absolutely vital, we've got to do it -- moving from clipboards and fax machines into a new era of convenience, profitability and speed and, frankly, better health for people.
+
+Donald Trump: Under the leadership of Administrator Oz, we're officially launching the CMS Digital Health Tech Ecosystem to give health care providers, insurers and software companies the tools they need to empower Americans with a 21st century experience on health.
+
+Donald Trump: The key breakthrough we've made is getting many of the biggest names in health care and technology to agree to industry-wide standards for electronic medical records. All of those great companies that you just heard have gotten together with this group of very brilliant people. I think -- I don't know who's more brilliant, them or them?
+
+Donald Trump: I don't know. It could be them. I hate to tell you. It could very well be them, but I don't know. I'm going to take my team. But the key breakthrough we've made is getting many of the biggest names in healthcare and technology to agree to that real -- those standards of electronic medical records that we talk about and you've heard about for so many years, and now it's happening.
+
+Donald Trump: This will allow patients to easily transmit information from one doctor to another, even if they're different networks and using different record-keeping systems. No matter what system they use, they're all transferable. The new standards will also make it simple for patients to access their own personal health records.
+
+Donald Trump: I don't want to see mine, please. I don't want to see it. I don't know about you. They have all sorts of things. Sir, they can tell you exactly what your problem is going to be in six years. We can do it. You know, they have all these different things. I don't know if they work or not, but I didn't want to hear it. I didn't want to hear it. If I got a problem, I don't want to know about it right now, but it is amazing what they're doing.
+
+Donald Trump: I don't know. Does it actually work? Can they do that?
+
+Mehmet Oz: Yes.
+
+Donald Trump: All right. Well, then I'm glad I said. I don't want to know. But thanks to this announcement, health care providers across the country will also finally be able to kill the clipboard. It's an expression that's used, capital -- with a capital C, kill the clipboard. Instead of filling out the same tedious paperwork at every medical appointment, patients will simply be able to grant their doctors access to their records at the push of a button.
+
+Donald Trump: Just a button and you're all set and all the information the doctor needs will be immediately transmitted. The system will be entirely opt-in and there will be no centralized government-run database, which everyone is always concerned about. I'm less concerned than anybody. I say, whatever it is, it is. But people are very, very concerned about the personal records.
+
+Donald Trump: They want to keep them very quiet and that's their choice. I think it's a great thing because it will be. It will be absolutely quiet. Instead, doctors and patients will always remain in control. The benefits to millions of Americans will be enormous. We will save time. We will save money and most importantly, we'll save lives.
+
+Donald Trump: It's just going to make people live longer and be a lot healthier. I think that's really what you're looking to do. And now I'd like to ask Secretary Kennedy to say a few words, followed by David Sacks, Dr. Oz and Amy Gleason. Thank you very much, everybody. Thank you.
+
+Robert F. Kennedy Jr.: Thank you very much, Mr. President and I just want to begin by making a comment that is irrelevant to what we're gathered here today to talk about. But I've been coming to this building for 65 years and I have to say that it has never looked better. And I've spent some time -- I've spent some time in the Oval Office, which really has -- it's been transformed.
+
+Robert F. Kennedy Jr.: And I was looking at a picture of the Oval Office the other day when I was there, when I was a kid with my uncle and it was an extraordinary -- it's always an extraordinary to go into that sacred space. But I have to say that it looked kind of drab in the pictures and they were black and white pictures but looked drab and it looks the opposite of drab today.
+
+Robert F. Kennedy Jr.: And I think, I know all these portraits, I hope you get a chance to look at them when you go out there, that they were hand-picked by the president. And many of them hijacked from other agencies that were trying to keep them.
+
+Donald Trump: That's right.
+
+Robert F. Kennedy Jr.: But I mean, you know, my uncle, my Aunt Jackie, who were deeply committed to design, to beauty and who understood that it's important to have our public buildings be beautiful because it inspires us, it elevates the human spirit. It's one of the -- it's a template, it's an exemplar for democracy, the releasing through freedoms of the creativity of the human spirit and this building of all buildings should look beautiful.
+
+Robert F. Kennedy Jr.: And under your stewardship, it looks extraordinary today. So thank you, Mr. President, for that. A couple of -- about three weeks ago, I met with the Indonesian health minister and Indonesia today is regarded as the highest flourishing nation on Earth. Since 1990, it has increased the life span of its women by eight years, of its men by nine years.
+
+Robert F. Kennedy Jr.: There is no country that has a record like that. And there are two major innovations that allowed them to achieve that extraordinary outcome and one of those was to disincentivize people from eating processed foods. Oh, you are paid not to eat processed foods and you are penalized for eating processed foods.
+
+Robert F. Kennedy Jr.: The other innovation that really transformed Indonesia was allowing people control of their individual health records. He showed me the app that they used that everybody in Indonesia has and it shows your height, your weight, your blood type, your BMI, your cardiac markers, your diabetes markers, your cholesterol and any kind of individualized treatments that you've had.
+
+Robert F. Kennedy Jr.: So if you go to a doctor in another town, he doesn't do what we have to do here, which is to sit there with a clipboard and a fax machine in order to get your health records. It's available and it allows them to give better treatment, but it also allows you to make better choices over your life. And there's other apps like Yucca in Indonesia that allow you to choose good foods when you go to the grocery store.
+
+Robert F. Kennedy Jr.: So you can turn your app on, on your phone and you can get full information of those foods. Well, now if you have your medical records, you can get personalized advice and that app will also give you advice about a better alternative. So we're going to be able to -- we met -- Dr. Oz and I met with the former Prime Minister Rudd of Australia just before just after the election during the transition phase.
+
+Robert F. Kennedy Jr.: And he, after his retirement as prime minister, he ran a commission to reorganize the Australian health system and they revolutionized it and they vastly improved health in Australia. And he said the single thing that he did that was most important to that transformation was the transparency that occurs when people control their own health records, because it gives people the choice over their own health decisions and over their own lives.
+
+Robert F. Kennedy Jr.: And it gives them a sense of responsibility and allows them to measure the interventions if they change their diet, if they change their exercise. It can show you how many steps you took today. It can tell you if your glucose is spiking. And all of that information will now be available to American citizens. 60 years ago today, we passed Medicaid and Medicare in this country, and we have 60 CEOs in this room of these extraordinary companies, some of which the president just mentioned, that have all agreed voluntarily to start sharing information.
+
+Robert F. Kennedy Jr.: President Trump, during his first term, passed the interoperability rule and it was intended to do this. For 20 years, the federal government has been trying to do this. Everybody recognizes it's absolutely critical innovation for us advancing the health of American citizens, to give them responsibility and to give them control over their own health care choices.
+
+Robert F. Kennedy Jr.: But unfortunately, you ran out of time the last time around. President Trump gave us instructions that he wanted this to happen within six months. We barely made it under the wire, thanks to Dr. Oz's leadership. And within six months, every American is going to be doing it, thanks to the cooperation of the corporate leaders in this room.
+
+Robert F. Kennedy Jr.: You know, about three months ago, I met with the food executives and I asked them to voluntarily come forward and get rid of food dyes, of the nine synthetic petroleum dyes. And this is something, again, the government, Democrats and Republicans have been trying to do for 20 years and the industry came forward and now 40 percent of the food industry in this country has taken the pledge to remove food dyes from all of their foods.
+
+Robert F. Kennedy Jr.: That happened because of your leadership, Mr. President. A month ago, we got after a lot of work by Chris Klump and Dr. Oz and a lot of other people in our agency, we got all the insurance executives to come together in our country and in our offices and agree to get rid of preauthorization for 80 percent of the DSM codes.
+
+Robert F. Kennedy Jr.: This is a voluntary agreement, 80 percent of the industry has now agreed to do that. So, this is happening because of good leadership. President Trump, you've asked us to think big. You've inspired us to dream big, and you have -- you've enabled us to accomplish things that no other president has been able to do. So, I want to thank you for your leadership for allowing this to happen.
+
+Robert F. Kennedy Jr.: And with your leadership, we're going to make America healthy again. Now I want to introduce my friend, my colleague, the crypto czar, the acting administrator of DOGE, David Sacks.
+
+David Sacks: Thank you, Secretary Kennedy. I recently got a text message from a friend whose wife has been suffering from a chronic illness for something like a decade. And they've been trying to figure out what it is; they've never been able to figure it out. I just want to read this to you right off my phone. He said, I uploaded my wife's bloodwork into one of our leading AI engines on Friday; it essentially diagnosed her as having a rare genetic defect that causes bone marrow failure.
+
+David Sacks: It's caused every single thing that's happened to her. She has every single symptom. It started at exactly the same age of presentation as 10 people out of 1 million. There's absolutely no way this is not it. So, wow, that was -- it's really an incredible example of what AI is already able to do just today and we're just getting started.
+
+David Sacks: And this was one person putting his wife's data in one of our consumer AI apps and he's already been able to get that diagnosis and that's going to help them tremendously. The key is here is the unlocking of the data because the more data that AI has, the better it performs. And so, kudos to Dr. Oz and Secretary Kennedy for this pledge today, they were able to get 60 major companies across different sectors of the economy to agree to unlock their data so that AI can use it to drive better patient outcomes.
+
+David Sacks: And this is all due to your leadership and President Trump's leadership to put the American people's healthcare needs first. And I remember Dr. Oz, he was one of the first people to call me after -- during the transition when the president announced I'd be AI czar, because he wanted to ask me about how AI could better be used in healthcare.
+
+David Sacks: So, kudos to you, Dr. Oz. Your passion is really incredible. And kudos to you, Secretary Kennedy, your passion as well. And I remember a couple of years ago, I was a big fan of Bobby Kennedy when he was running as a Democrat. And I remember thinking.
+
+Robert F. Kennedy Jr.: I had a lot more money than President Trump. [Laughter]
+
+David Sacks: Well, I remember thinking there's this one problem with Bobby Kennedy, he's not a Republican, but thanks to President Trump, I think we fixed that. So, and I think that getting people like Dr. Oz and Bobby Kennedy into the administration is a testament to President Trump and the talent that he's able to attract and pull together.
+
+David Sacks: And the partnerships that he's able to forge because these are people who could be doing other things. So, it's really a testament to the great talent that President Trump always attracts around him. Today's pledge by these companies is going to tear down barriers that allows both startups and established firms to compete freely.
+
+David Sacks: We're opening up the playing field so that the best tools can scale, compete on value and discover new methods for making Americans healthy again. Technologies like AI, they do things like they will expand access to care, cut administrative costs, reduce fraud and deliver better results for patients and doctors.
+
+David Sacks: And I want to thank you, President Trump, for your promise to not only make Americans healthy again, but also to ensure that America has the predominant AI superpower. Just last week, you announced a major AI action plan with hundreds of billions of dollars of new investment in AI infrastructure, and also getting red tape out of the way so that we can be the leading country in AI. And it's these lifesaving applications that are going to be built on top of all of that infrastructure.
+
+David Sacks: So, thank you for your leadership and making the United States the number one country in AI. Thank you. Thank you, sir. And now Dr. Oz.
+
+Mehmet Oz: Mr. President, today, we are making American health technology remarkably great again. We've always been at the leadership. David's right, I called him early on after the president offered me the position and him as well. And we began brainstorming on this. Secretary Kennedy, from day one, appreciated the crisis that we're in and how we needed to address it. So, today is a remarkably important day, one that you will remember, I believe, for years to come for three reasons.
+
+Mehmet Oz: Yes, it is the 60th birthday of Medicare and Medicaid. The first patient by the way, was Harry S. Truman. Although, Lyndon Johnson signed the legislation 60 years ago today, not far from here, it is not just the ability to bring 60 of the top incumbents and insurgents in health technology, hospital systems, insurance companies, electronic medical record companies, AI companies, the big players.
+
+Mehmet Oz: You're all here and we appreciate that very much. But Mr. President, you used the power to convene. That's fundamentally what I think the president has been able to offer us. And Secretary Kennedy offered us, as a group, some examples, but there are more to come. And I want to touch on some of these, but first I've got to do what doctors often have to do, which is to tell you the truth even if you don't want to hear it. So, here goes.
+
+Mehmet Oz: These beautiful programs, which are the backbone of the social network, the social support system of this country, the safety net, they're flailing. They're flailing for a bunch of reasons. Medicaid is a unique entity. It has deviated from its original purpose by drift and by design. The One Big, Beautiful Bill, the OB3 law, was elegant for that very reason.
+
+Mehmet Oz: And Mr. President, I don't know if you remember this, I can share this, but he called me once and he was upset at me because I was going to strident at something. And he said this is about fraud, waste and abuse. That's what we're interested in doing. And that's exactly what the One Big, Beautiful Bill accomplished.
+
+Mehmet Oz: And it especially did it to save Medicaid by putting $200 billion more dollars into it and allocating funds very specifically to use to support rural America. And primarily some of that money will be used to support digital infrastructure, which is terribly lacking in many parts of the country. The money that's sent from Washington doesn't get to rural America.
+
+Mehmet Oz: About 7 percent of Medicaid dollars get to rural hospitals. We now have an ability to infuse funds through this $50 billion Rural Health Transformation Fund into that system. The gathering today is another example of how we can actually jump start that and accelerate it. The other reality is COVID broke the system.
+
+Mehmet Oz: It didn't for many reasons, Medicaid expenses went up 50 percent in five years. Medicare, the trust fund that we met at actually Treasury with Secretary Bessent and Secretary Kennedy as trustees, it goes bankrupt in 2033, and that is actually a conservative estimate. It could go bankrupt as early as 2029. Thankfully, due to the economy, that's not going to happen.
+
+Mehmet Oz: But we don't want to have to take that risk and there's some fundamental changes we need to make accordingly. Now there's one other big reality about making the system more efficient, which is why what everyone here is talking about is so critical. And let's just pick an average American born in 1964. That average American born in '64 will retire this year at age 61. If just that one group of people born in '64 could work three years longer because they're healthy, because they feel like they want to do it, because they feel vital and vigorous and they're flourishing.
+
+Mehmet Oz: Just that one year working longer is $1 trillion to the US GDP and it's $300 billion of tax revenue to pay for a lot of the problems that people are concerned about. So, it's not just keeping people out of the hospital, getting them to thrive and flourish that makes what we're doing so critical today. I think there are a lot of realities to how health care has gone.
+
+Mehmet Oz: Unfortunately, the system is frozen and it has been for many reasons despite efforts in the first administration. It's frozen in time, so it cannot address the quality lags that exist. While Netflix and Airbnb and Uber drivers are racing ahead, making arrangements, identifying the problems that are challenging us in healthcare have become incredibly difficult.
+
+Mehmet Oz: You can't make appointments. The average Americans are tired. They're tired of waiting for a doctor's appointment. They're tired of waiting for the surprise of what your hospital bill is going to offer. That's being addressed by one of the president's executive orders. They're tired of waiting for access to their medical records.
+
+Mehmet Oz: You own your medical records, they're yours. Why you can't have access to them is the stunning reality in modern day America. They're also tired of waiting for Washington to take action. And this president early on emphatically stated that wasn't going to happen anymore. And today, we made that vision into a reality.
+
+Mehmet Oz: And there's a fine line between vision and hallucination. What you did today was show us a vision because you share it with us and we're moving ahead on it. And that's what today's commitments essentially are reflecting. They are pledges, they're not laws, they're nimble and they're fast and they're quick because the president understands that you -- each of you in your own way understand these needs.
+
+Mehmet Oz: And Secretary Kennedy spoke beautifully about the reality of what happens when you actually have electronic records because what he said is happening in Indonesia we'll have here. Within a year, on your device, and 91 percent of Medicaid patients have smartphones. On this device you'll get insights based on your records if you want.
+
+Mehmet Oz: You don't have to take this, but if you desire, Amy Gleason, who is one of the smartest people I've ever worked with, has built a mechanism to be able to get you that information in a way with all these partners helping so that you can get nudged to pay attention to what you're eating and avoid processed foods as Secretary Kennedy smartly and wisely highlighted is so dangerous to our well-being.
+
+Mehmet Oz: All this, by the way, is that it will be at the fingertips. In addition, advice about which doctor to see, when to go see them, nudges reminding you why you didn't do certain things. If you're a doctor like me, it's a very different story. It's to help you navigate the system better. It's giving you advice, decision support -- which is becoming increasingly important as medicine gets more difficult.
+
+Mehmet Oz: But I'll tell you the best thing of all -- how many of you have been with your doctor telling them something heartfelt, very emotional and they're looking to the side, typing into their computer, right? It's common. Put your hands up. I just want to see it. Yeah, most everybody. And that's unfortunate because the whole sacrament, the whole covenant of being with the doctor is having them look you in the eyes and realize you're there for each other.
+
+Mehmet Oz: That process is going to go away. We will, within the workflow of doctors, be able with your help, allow physicians to take care of patients, gather the information while they're doing it and we'll destroy the upcoding that has hurt Medicare Advantage and other programs in a similar fashion. The IT infrastructure that's going to change promises to improve a lot of things.
+
+Mehmet Oz: We're going to cut fraud, waste and abuse. Mr. President, we announced with the DOJ two weeks ago a $15 billion bust, $15 billion. It's a multinational criminal syndicate based primarily, we believe in the Soviet Union, in Russia. And what they did was hack using beneficiary numbers into the system. We'll be able to stop that because of a system that Amy has put together and the wonderful work of Amy Brandt, who has a fraud war room using this kind of technology, because we'll know who you are and who your doctor is so we can block this.
+
+Mehmet Oz: We're going to have remarkable advances in how consumers can use their own records. We'll have beneficiaries, be able to get advice and prevention tips and even be able to nudge them and reward them perhaps for that. And all this comes back to one fundamental issue, Mr. President, which is leadership. I think 60 people, the biggest, the best the willing came forward because of your leadership, because you weren't going to take no for an answer and they know it. We are building a robust and safe -- I emphasize that safe system.
+
+Mehmet Oz: It's going to protect the data better than we could have imagined. We're going to be able to accomplish goals that all of us wished from day one that would be in place. These pledges are now confirmed, they're signed in public and you have therefore empowered Americans to own their property, which is their medical records.
+
+Mehmet Oz: Let me introduce Amy Gleason. She is acting director of DOGE, US Digital Service as well and was actually the brilliant woman who pulled together the pieces of this puzzle with so many members of the audience. Amy Gleason.
+
+Amy Gleason: Good afternoon. First, I would like to thank President Trump for his leadership in this area and Secretary Kennedy and Administrator Oz for driving this work with clarity and urgency. I would also like to thank my colleagues who have been instrumental to this and we worked a lot of late nights and hard times on this and it would not have been possible without them.
+
+Amy Gleason: I want to start today with my daughter Morgan, who's here in the audience. If you'd please stand up. I am so inspired and energized by your strength every day. And we also have two other patients here, Randi and Tom, who have been very inspiring. Thank you for being here today. You're why this all matters.
+
+Amy Gleason: Let me start talking about my daughter's history. So 15 years ago, she was diagnosed with a rare disease. She was 11 years old and she started showing mysterious symptoms. Over the last year and a half after that, she saw the country's best doctors, but she still continued to get worse. At some point, she couldn't stand up off the floor or walk up the stairs and we still had no answers.
+
+Amy Gleason: I carried a binder of paper records to every doctor's appointment so that I could keep them aligned. And I truly believe that if one of those doctors had been able to see her whole history, they would have diagnosed her faster. And if we had just had today's AI, then they could have connected the dots that the humans missed.
+
+Amy Gleason: Today, Morgan takes 21 pills a day, gets two infusions a month and has over 40 patient portals. Her disease is very rare, but her experience is very common and that is what we're here to fix today. Too many patients are forced to remember all the doctors that they've been to and log into portal after portal, repeating their story at every visit and they don't have the digital tools to help them stay well.
+
+Amy Gleason: Meanwhile, every other part of our life is digital. I can order groceries and have them delivered in minutes. I get personalized recommendations on my other apps, but in healthcare, we still see it on paper and manual situations. But today, thanks to President Trump, we're changing that. Over 15 years, we've tried to regulate our way to a better outcome and we have gotten a path forward, but they have not delivered the modern healthcare experience that Americans expect and deserve.
+
+Amy Gleason: I'm so proud today that these 60 companies have voluntarily stepped forward to make a pledge to take action and to join us to say we're ready, let's fix this, we're in. We're trying something different. It's not regulation or rulemaking. This is a voluntary alignment around a shared vision, a commitment to work across boundaries, across competitors and across silos.
+
+Amy Gleason: We're bringing together data sharing, networks, electronic medical records, doctors, health systems, payers and app developers. And we're asking one simple question, what can we do right now to make this work for patients? The companies pledging today are agreeing to collaborate even with their direct competitors because they know we can't keep kicking the can down the road.
+
+Amy Gleason: We have to stop talking about data interoperability and make the data flow. Here's something important. Not all patients will want these tools. Some will rely on their caregivers and others will rely on their doctors so they don't have to carry it themselves. But no matter how people engage, we must make sure it works for everyone.
+
+Amy Gleason: CMS is doing its part. We're clearing the path for innovation by building the long overdue national provider directory, a kind of digital map for healthcare that connects systems in real time and helps patients get more coordinated care. We're also modernizing medicare.gov to feel more seamless and smart like other apps we use, but the government can't do this and shouldn't do it alone.
+
+Amy Gleason: These tools we need to make daily decisions must come from the private sector and that's why this is so important. So let me tell you what this might look like after our collaborative effort. So Morgan, in six months from now might show up to her doctor's appointment and instead of filling out a clipboard with her 21 medications, 12 doctors and her entire medical history, she can just pull out her phone and tap or scan a QR code and seamlessly transfer her digital insurance card, her verified medical record and a digital summary that could help her provider get up to speed faster.
+
+Amy Gleason: We call this kill the clipboard, as President Trump said. After the visit, Morgan opens her AI assistant, a tool that she has authorized to access her records and ask, what did the doctor say today? What did these results mean? What should I watch for now? And the assistant responds using her actual health history, explains her care plan in plain language, helps her track her symptoms and even schedules follow up visits if she needs them.
+
+Amy Gleason: And lastly, she has a new favorite app that helps her manage her chronic conditions, because for years, Morgan has said what other patients say, I only see a doctor a few days a year, but I live with this disease every day. Today, we're starting with apps that can support patients 24-hours a day from anywhere in the world.
+
+Amy Gleason: They don't replace doctors, they just fill in the gap between visits so that care is continuous and not episodic. So what makes this effort different? Today, we have all these apps that want to provide these services, but they can't get the data because it is so hard for patients to access their records.
+
+Amy Gleason: But today, we have 18 network companies who are here pledging to fix the infrastructure that makes this possible. They're doing this through modern data sharing networks that removes the burden on patients and providers and makes it available in real time using modern identity just like when you check in at the airport.
+
+Amy Gleason: These honor patient privacy and transparency and most importantly, it's a movement to work together to remove the friction that's holding us back. Because access to information shouldn't be a luxury, it should be a standard. So for all the Morgan's out there, come join this movement with us at cms.gov. Let's kill the clipboard and ax the fax.
+
+Amy Gleason: Let's help make Health Tech Great Again, or in this case, maybe it's for the first time. Thank you, President Trump.
+
+Donald Trump: Great job. Great job. Thank you very much. That was great. And hello. You look very, very healthy to me. You look really great. So just, I want to thank all of the companies that are here. These are big names, great people and now you're doing something that's so important for our country, really for the world.
+
+Donald Trump: It's beyond our country, I suspect. It's really for the world, so just keep it up. And you've hit new highs almost virtually every day for the last few months and that makes your job probably a little bit easy, easier. You're under very little stress, but someday you might have a little bit, but you're not going to have much.
+
+Donald Trump: I think we're really going to great heights. But I just want to thank everybody, political people and the teachers and the companies and all of our cabinet. I even see Newt. Do I see Newt? I see Newt. Look at him. He's such a handsome man. He's a healthy man. We don't have to do any tests on him. But good to see you Newt.
+
+Donald Trump: But I just want to thank everybody. This is a very big undertaking and it's a very serious undertaking. It's going to make a lot of people lead a much better life. Thank you all very much for coming. Appreciate it. Thank you.

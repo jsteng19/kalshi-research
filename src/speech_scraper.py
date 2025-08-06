@@ -23,10 +23,12 @@ def rate_limited_request(url, headers):
     return requests.get(url, headers=headers)
 
 class TrumpSpeechScraper:
-    def __init__(self, url, save_path, max_workers=12):
+    def __init__(self, url, save_path, max_workers=12, politician="trump", data_dir="data"):
         self.speeches = []
         self.base_url = url
         self.save_path = save_path
+        self.politician = politician.lower()
+        self.data_dir = data_dir
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
         }
@@ -165,7 +167,7 @@ class TrumpSpeechScraper:
                         # Try to find any links matching our expected pattern
                         try:
                             transcript_links = driver.find_elements(By.CSS_SELECTOR, 
-                                'a[href*="/factbase/trump/transcript/"]')
+                                f'a[href*="/factbase/{self.politician}/transcript/"]')
                             if transcript_links:
                                 print(f"Found {len(transcript_links)} transcript links directly")
                             else:
@@ -229,14 +231,14 @@ class TrumpSpeechScraper:
                             transcript_links = WebDriverWait(driver, 10).until(
                                 EC.presence_of_all_elements_located((
                                     By.CSS_SELECTOR, 
-                                    'a[href*="/factbase/trump/transcript/"]'
+                                    f'a[href*="/factbase/{self.politician}/transcript/"]'
                                 ))
                             )
                             print(f"Found {len(transcript_links)} links with general selector")
                             
                             # If found with general selector, we can try to filter for title if needed
                             title_links = driver.find_elements(By.CSS_SELECTOR, 
-                                'a[href*="/factbase/trump/transcript/"][title="View Transcript"]')
+                                f'a[href*="/factbase/{self.politician}/transcript/"][title="View Transcript"]')
                             
                             if title_links:
                                 print(f"Found {len(title_links)} links with title 'View Transcript'")
@@ -430,7 +432,7 @@ class TrumpSpeechScraper:
             return
         
         # Create raw-transcripts directory
-        os.makedirs('data/raw-transcripts', exist_ok=True)
+        os.makedirs(f'{self.data_dir}/raw-transcripts', exist_ok=True)
         
         # Process URLs in parallel using ThreadPoolExecutor
         with ThreadPoolExecutor(max_workers=self.max_workers) as executor:
@@ -502,7 +504,7 @@ class TrumpSpeechScraper:
                 
                 filename = re.sub(r'[^\w\s-]', '', clean_title)
                 filename = re.sub(r'[\s]+', '_', filename).lower()
-                potential_path = f"data/raw-transcripts/{category.lower()}/{date_str}_{filename}.txt"
+                potential_path = f"{self.data_dir}/raw-transcripts/{category.lower()}/{date_str}_{filename}.txt"
                 
                 # Check if file already exists
                 if os.path.exists(potential_path):
@@ -514,7 +516,7 @@ class TrumpSpeechScraper:
             
             if transcript_text and title and category:
                 # Create category directory if it doesn't exist
-                category_dir = f"data/raw-transcripts/{category.lower()}"
+                category_dir = f"{self.data_dir}/raw-transcripts/{category.lower()}"
                 os.makedirs(category_dir, exist_ok=True)
                 
                 # Convert date to YYYY-MM-DD format
