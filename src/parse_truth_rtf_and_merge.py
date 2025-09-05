@@ -184,11 +184,18 @@ def parse_rtf_posts(rtf_path: str) -> pd.DataFrame:
 def load_existing_csv(csv_path: str) -> pd.DataFrame:
     """Load the existing CSV and return just Trump's posts with date + text."""
     df = pd.read_csv(csv_path, dtype=str)
-    # Keep only Trump's own account posts
-    mask = (df.get("account_handle").fillna("") == "realDonaldTrump") | (
-        df.get("account_name").fillna("") == "Donald J. Trump"
-    )
-    df = df.loc[mask, ["post_date", "status_text"]].copy()
+    
+    # Handle different CSV formats
+    if "account_handle" in df.columns and "account_name" in df.columns:
+        # Original dataset format - filter for Trump's posts
+        mask = (df.get("account_handle").fillna("") == "realDonaldTrump") | (
+            df.get("account_name").fillna("") == "Donald J. Trump"
+        )
+        df = df.loc[mask, ["post_date", "status_text"]].copy()
+    else:
+        # Already filtered format (trump_truths_full.csv) - just select columns
+        df = df[["post_date", "status_text"]].copy()
+    
     # Normalize whitespace in status_text
     df["status_text"] = df["status_text"].fillna("").apply(lambda s: re.sub(r"\s+", " ", s).strip())
     # Drop empties as user wants text content
@@ -229,7 +236,7 @@ def main():
     )
     parser.add_argument(
         "--csv",
-        default="/Users/jstenger/Documents/repos/kalshi-research/data/truth-social/trump_truths_dataset.csv",
+        default="/Users/jstenger/Documents/repos/kalshi-research/data/truth-social/trump_truths_full.csv",
         help="Absolute path to the existing CSV dataset.",
     )
     parser.add_argument(
