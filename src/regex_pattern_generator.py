@@ -60,10 +60,10 @@ def _generate_single_pattern(phrase: str) -> str:
     if len(alt_patterns) == 1:
         combined_pattern = alt_patterns[0]
     else:
-        combined_pattern = '|'.join(alt_patterns)
+        combined_pattern = '(?:' + '|'.join(alt_patterns) + ')'
     
     # Wrap in word boundary and compound word logic
-    full_pattern = rf'\b(?:\w+-)*(?:{combined_pattern})(?:-\w+)*(?=\W|$)[.,!?;:]*'
+    full_pattern = rf'\b(?:\w+-)*{combined_pattern}(?:-\w+)*(?=\W|$)[.,!?;:]*'
     
     return full_pattern
 
@@ -88,28 +88,29 @@ def _generate_phrase_pattern(phrase: str) -> str:
         # Single word - generate singular, plural, possessive forms
         return _generate_word_forms(words[0])
     else:
-        # Multi-word phrase - handle spaces, hyphens, commas between words
-        word_patterns = []
+        # Multi-word phrase - generate all combinations of word forms
+        # For each word, get its forms (singular, plural, possessive)
+        word_form_lists = []
         for word in words:
-            word_forms = _generate_word_forms(word)
-            word_patterns.append(word_forms)
+            word_forms = _get_word_forms_list(word)
+            word_form_lists.append(word_forms)
         
-        # Join with flexible spacing that allows hyphens and commas
-        flexible_space = r'[\s,\-]+'
-        phrase_pattern = flexible_space.join(word_patterns)
+        # Generate all combinations of word forms
+        phrase_variations = _generate_phrase_combinations(word_form_lists)
         
-        return phrase_pattern
+        # Join all variations with OR operator
+        return '|'.join(phrase_variations)
 
 
-def _generate_word_forms(word: str) -> str:
+def _get_word_forms_list(word: str) -> List[str]:
     """
-    Generate all forms (singular, plural, possessive) for a single word.
+    Get all forms (singular, plural, possessive) for a single word as a list.
     
     Args:
         word: The word to generate forms for
     
     Returns:
-        Regex pattern matching all forms of the word
+        List of all forms of the word
     """
     # Clean the word and convert to lowercase for pattern generation
     clean_word = word.lower().strip("'\".,!?;:")
@@ -148,8 +149,49 @@ def _generate_word_forms(word: str) -> str:
             unique_forms.append(form)
             seen.add(form)
     
+    return unique_forms
+
+
+def _generate_phrase_combinations(word_form_lists: List[List[str]]) -> List[str]:
+    """
+    Generate all combinations of phrase variations with flexible spacing.
+    
+    Args:
+        word_form_lists: List of lists, where each inner list contains all forms of a word
+    
+    Returns:
+        List of phrase patterns with flexible spacing between words
+    """
+    from itertools import product
+    
+    # Generate all combinations of word forms
+    combinations = list(product(*word_form_lists))
+    
+    # Create patterns with flexible spacing for each combination
+    phrase_patterns = []
+    flexible_space = r'[\s,\-]+'
+    
+    for combo in combinations:
+        # Join words with flexible spacing pattern
+        phrase_pattern = flexible_space.join(combo)
+        phrase_patterns.append(phrase_pattern)
+    
+    return phrase_patterns
+
+
+def _generate_word_forms(word: str) -> str:
+    """
+    Generate all forms (singular, plural, possessive) for a single word.
+    
+    Args:
+        word: The word to generate forms for
+    
+    Returns:
+        Regex pattern matching all forms of the word
+    """
+    forms = _get_word_forms_list(word)
     # Join with OR operator
-    return '|'.join(unique_forms)
+    return '|'.join(forms)
 
 
 # Initialize inflect engine for pluralization
