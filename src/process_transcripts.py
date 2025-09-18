@@ -54,7 +54,7 @@ def process_transcript(input_file, output_file, speaker_patterns=None):
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write('\n\n'.join(processed_lines))
 
-def process_all_transcripts(data_prefix="data", speaker_patterns=None):
+def process_all_transcripts(data_prefix="data", output_dir="processed-transcripts", speaker_patterns=None):
     """
     Process all transcripts with configurable data directory and speaker patterns.
     
@@ -64,11 +64,12 @@ def process_all_transcripts(data_prefix="data", speaker_patterns=None):
     """
     # Define base directories using os.path.join for cross-platform compatibility
     raw_dir = os.path.join(data_prefix, 'raw-transcripts')
-    processed_dir = os.path.join(data_prefix, 'processed-transcripts')
+    processed_dir = os.path.join(data_prefix, output_dir)
     
     # Create processed-transcripts directory
     os.makedirs(processed_dir, exist_ok=True)
     
+    print(f"Processing directory: {raw_dir}")
     # Walk through raw-transcripts directory
     for root, dirs, files in os.walk(raw_dir):
         for file in files:
@@ -88,11 +89,11 @@ def process_all_transcripts(data_prefix="data", speaker_patterns=None):
                 except Exception as e:
                     print(f"Error processing {input_file}: {str(e)}")
 
-def process_new_transcripts(data_prefix="data", speaker_patterns=None):
+def process_new_transcripts(data_prefix="data", output_dir="processed-transcripts", speaker_patterns=None):
     """Process only transcripts that exist in raw-transcripts but not in processed-transcripts"""
     # Define base directories using os.path.join for cross-platform compatibility
     raw_dir = os.path.join(data_prefix, 'raw-transcripts')
-    processed_dir = os.path.join(data_prefix, 'processed-transcripts')
+    processed_dir = os.path.join(data_prefix, output_dir)
     
     # Create processed-transcripts directory if it doesn't exist
     os.makedirs(processed_dir, exist_ok=True)
@@ -140,6 +141,12 @@ def process_trump_transcripts():
     """Process Trump transcripts with Trump-specific speaker patterns"""
     trump_patterns = [r'Donald\s+Trump\s*:\s*']
     process_all_transcripts("data", trump_patterns)
+
+# Convenience functions for specific politicians
+def process_vance_transcripts():
+    """Process Trump transcripts with Trump-specific speaker patterns"""
+    vance_patterns = [r'J.D.\s+Vance\s*:\s*']
+    process_all_transcripts("data", "vance-processed-transcripts", vance_patterns)
 
 def process_harris_transcripts():
     """Process Harris transcripts with Harris-specific speaker patterns"""

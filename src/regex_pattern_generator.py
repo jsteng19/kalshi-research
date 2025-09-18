@@ -56,14 +56,15 @@ def _generate_single_pattern(phrase: str) -> str:
         alt_pattern = _generate_phrase_pattern(alt)
         alt_patterns.append(alt_pattern)
     
-    # Combine alternatives with OR operator
+    # Combine alternatives with OR operator and wrap in non-capturing group
     if len(alt_patterns) == 1:
         combined_pattern = alt_patterns[0]
     else:
         combined_pattern = '(?:' + '|'.join(alt_patterns) + ')'
     
     # Wrap in word boundary and compound word logic
-    full_pattern = rf'\b(?:\w+-)*{combined_pattern}(?:-\w+)*(?=\W|$)[.,!?;:]*'
+    # The (?:...) ensures the compound word logic applies to all alternatives
+    full_pattern = rf'\b(?:\w+-)*(?:{combined_pattern})(?:-\w+)*(?=\W|$)[.,!?;:]*'
     
     return full_pattern
 
@@ -113,14 +114,18 @@ def _get_word_forms_list(word: str) -> List[str]:
         List of all forms of the word
     """
     # Clean the word and convert to lowercase for pattern generation
-    clean_word = word.lower().strip("'\".,!?;:")
+    # But preserve the apostrophe if it's part of the word (like McDonald's)
+    clean_word = word.lower().strip('".,!?;:')
     
     # Handle special cases and contractions
     if clean_word.endswith("'s"):
-        # Already possessive, extract base word
-        base_word = clean_word[:-2]
-    else:
+        # This is already possessive or a word like McDonald's
+        # For words like McDonald's, we want to keep it as is
         base_word = clean_word
+        is_already_possessive = True
+    else:
+        base_word = clean_word.strip("'")
+        is_already_possessive = False
     
     # Generate forms
     forms = []
@@ -128,18 +133,23 @@ def _get_word_forms_list(word: str) -> List[str]:
     # Base form (singular)
     forms.append(base_word)
     
-    # Plural form
-    plural = _make_plural(base_word)
-    if plural != base_word:
-        forms.append(plural)
-    
-    # Possessive forms
-    forms.append(f"{base_word}'s")
-    forms.append(f"{base_word}s'")  # Plural possessive
-    
-    # If plural is different, add its possessive
-    if plural != base_word:
-        forms.append(f"{plural}'")
+    # Only generate plural and possessive forms if not already possessive
+    if not is_already_possessive:
+        # Plural form
+        plural = _make_plural(base_word)
+        if plural != base_word:
+            forms.append(plural)
+        
+        # Possessive forms
+        forms.append(f"{base_word}'s")
+        forms.append(f"{base_word}s'")  # Plural possessive
+        
+        # If plural is different, add its possessive
+        if plural != base_word:
+            forms.append(f"{plural}'")
+    else:
+        # For words like McDonald's, also add the possessive of possessive form
+        forms.append(f"{base_word}'")
     
     # Remove duplicates while preserving order
     unique_forms = []
@@ -201,7 +211,7 @@ _inflect_engine = inflect.engine()
 def _make_plural(word: str) -> str:
     """
     Generate the plural form of a word using the inflect library,
-    with special handling for proper nouns.
+    with special handling for proper nouns and edge cases.
     
     Args:
         word: The singular word
@@ -211,6 +221,29 @@ def _make_plural(word: str) -> str:
     """
     word_lower = word.lower()
     
+    # Handle special cases and irregular plurals
+    irregular_plurals = {
+        'crisis': 'crises',
+        'analysis': 'analyses',
+        'basis': 'bases',
+        'thesis': 'theses',
+        'synopsis': 'synopses',
+        'diagnosis': 'diagnoses',
+        'oasis': 'oases',
+        'hypothesis': 'hypotheses',
+        'axis': 'axes',
+        'crypto': 'cryptos',  # Modern tech terms
+        'photo': 'photos',
+        'video': 'videos',
+        'memo': 'memos',
+        'demo': 'demos',
+        'auto': 'autos',
+    }
+    
+    # Check for irregular plurals first
+    if word_lower in irregular_plurals:
+        return irregular_plurals[word_lower]
+    
     # For proper nouns (capitalized words) or words that look like surnames,
     # use simple pluralization to avoid inflect's Latin/Italian rules
     if _is_likely_proper_noun(word):
@@ -219,7 +252,12 @@ def _make_plural(word: str) -> str:
         else:
             return word_lower + 's'
     
-    # Use inflect for common nouns
+    # Words ending in 'o' that should just add 's' (not 'es')
+    if word_lower.endswith('o') and not word_lower.endswith(('oo', 'eo')):
+        # Most modern words ending in 'o' just add 's'
+        return word_lower + 's'
+    
+    # Use inflect for other common nouns
     plural = _inflect_engine.plural(word_lower)
     return plural if plural else word_lower + 's'  # Fallback to simple 's' if inflect fails
 
