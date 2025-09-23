@@ -1,0 +1,127 @@
+Source: https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-technology-roundtable-ceos-june-19-2017
+
+Donald Trump: Hello everybody. Thank you very much. It's great to have you at the White House. And I just wanted to pass on word -- Otto Warmbier has just passed away. He spent a year and a half in North Korea. A lot of bad things happened. But at least we got him home to be with his parents, where they were so happy to see him, even though he was in very tough condition. But he just passed away a little while ago. It's a brutal regime, and we'll be able to handle it.
+
+Donald Trump: But I want to thank you all for being here, special people. I'm really thrilled to welcome many of you for the first time, and certainly the first time meeting as the American Technology Council. We're joined by an incredible group of leaders on the absolute cutting edge of innovation, including many CEOs from the world's most successful businesses.
+
+Donald Trump: We have approximately $3.5 trillion of market value in this room -- but that's almost the exact number that we've created since my election. [Laughter] In fact, I think we have you beat by a little bit, which is a pretty good number. But I congratulate you all. Done an amazing job. Thank you for lending your time and your talent to the American people. A lot of ideas have come out of the room today, and a lot of ideas will over the next short period of time.
+
+Donald Trump: I also want to welcome Secretary Mnuchin, Secretary Kelly, Administrator Verma, and my Budget Director, Mick Mulvaney. Thank you all. Done a great job. I want to thank Jared and Chris -- Chris Liddell -- for assembling such a spectacular group of people. They're working very, very hard. I want to thank Ivanka for working so hard on it; it's a real passion.
+
+Donald Trump: Our goal is to lead a sweeping transformation of the federal government's technology that will deliver dramatically better services for citizens, stronger protection from cyberattacks -- which we were just discussing in the Oval Office with a little bit smaller group. That's a big problem, there's no question about it. We're going to be working on it and we're going to solve the problem -- and up to a trillion dollars in savings for taxpayers over the next 10 years. Over a trillion.
+
+Donald Trump: We're embracing big change, bold thinking, and outsider perspectives to transform government and make it the way it should be, and at far less cost.
+
+Donald Trump: My administration has already taken very historic steps to modernize critical IT systems and make government more transparent. As an example, you're seeing what we're doing with the airports, with all of the billions and billions of dollars that have been spent on planes flying all in the wrong directions -- we're getting a change. They've spent many billions of dollars, and we are getting that whole system fixed. Money wasted over the last six or seven years -- billions.
+
+Donald Trump: VA Secretary Shulkin recently announced that we're upgrading technology to allow the seamless transfer of veterans' medical records from the Defense Department, which has been a huge problem for decades and decades for our great veterans. We'll have it fixed very soon, but it's been a problem for many, many decades. Across government, we're fixing problems in months that others have not fixed in many, many years. And we're just getting started.
+
+Donald Trump: Fifty years ago, our government drove the innovation that inspired the world and put Americans on the moon. Today, many of our agencies rely on painfully outdated technology, and yet, we have the greatest people in technology that the world has ever seen right here with us in this room. And most of them are just nodding as I say that. They're actually agreeing with me, which -- [Laughter] -- that's interesting, Eric, right?
+
+Donald Trump: Government needs to catch up with the technology revolution. We're going to change that with the help of great American businesses like the people assembled. The businesses represented here today employ hundreds of thousands of American workers. Your innovation has shaped the modern world and created millions of jobs. America should be the global leader in government technology just as we are in every other aspect, and we are going to start our big edge again in technology -- such an important industry. I view it from the standpoint of jobs and other things; you view it somewhat differently. But we're all in the same ballpark. It's so important. So important.
+
+Donald Trump: My administration is embracing a new spirit of innovation that will make life better for all Americans. And when it comes to what we're here for today, American technology, we're working very diligently with everybody, including Congress, on immigration so that you can get the people you want in your companies. And it's been a tremendous problem that you've had over the past long period of time. So we're working very hard on that and we'll be able to solve that problem. I want to thank everyone in the room for lending your time, again.
+
+Donald Trump: And, what I'd like to do, is maybe just go around the room briefly and just introduce yourself and, perhaps the name of your company. We won't go with too many long speeches, but we'll maybe just, uh, we'll start with our wonderful, great genius from Microsoft, who has done one hell of a job. Congratulations on the job you've done. Go ahead.
+
+Satya Nadella: Thank You Mr. President. Thanks for the opportunity today to spend the time both learn and contribute, I think, to what is one of the most important dialogues, which is about modernizing our government with the latest technology, and so that the people of America can benefit from it. So I think the first thing I took away is how important an agenda it is to modernize technology. The second thing I think is for us to do our best work as an industry, and in collaboration with the government, to skill the people of the United States for the jobs of the future.
+
+Satya Nadella: Technology will play a role both in creation of the jobs and the skills. And then lastly, I would say that we also need to increase American competitiveness, and the two things that the government can and has done is spending in big research. After all, all the technology that we have today is because it started, in fact, in the government, and the research institutions you funded, as well as well as the enlightened immigration policy. Of course, I'm a beneficiary of that, and I hope that we continue to be able to sort of really make sure that the American competitiveness is what helps us set policy for it.
+
+Donald Trump: Well, thank you Satya. and perhaps we could keep it a little shorter than that? [Laughter] Otherwise we might be here for a long time. Anyway, Jeff?
+
+Jeff Bezos: All right, I will be short. I think, you know when we met before in December, I encouraged this this administration that you could be the innovation administration. I'd like to see that kind of thinking continue. I applaud the formation of the Innovation Council, and I thank Jared for doing that. Just a couple of things that you could certainly focus on. One would be using commercial technologies wherever possible. I think you guys are already headed that way, but to leverage those will save taxpayers a lot of money. The second one is to continue to work hard on... figure out ways to retrain and upskill workers all over the U.S.
+
+Jeff Bezos: We have a program at Amazon called Career Choice that's been doing that. We've already got 10,000 people in the program. Ivanka knows about this program. And then the third thing to keep your eye on, and I think it would be impossible to overstate this, is that the United States needs to, in every way, at every level, to be working on machine learning and artificial intelligence, and that can be used in every part of government to improve the services the government provides to citizens.
+
+Donald Trump: Thank you Jeff. Very good, thank you. Okay, next?
+
+Rafael Reif: Mr. President, Rafael Reif. I'm MIT's president and I'm delighted to be part of this terrific group. Let me say that I applaud the focus of your administration in innovation. We are the most innovative country in the world today, and... and the biggest issue we have among ourselves right now, in my view, is to stay where we are as the most innovative country in the world 30 years from now and beyond.
+
+Donald Trump: Well, my uncle was a professor there for a long time, so, uh, I have a lot of respect for MIT, believe me. Great place, thank you. Thank you very much. Okay, yes?
+
+Carol Folt: Carol Folt, I'm the chancellor at UNC, and I too am delighted to be here talking about innovation and workforce and talent, and people have said what's really important, but when I think about the future I think of all those kids that have such capacity, and what we're talking about is trying to take every resource we have to put to building that innovation capacity for the country, and so it's great to be here.
+
+Donald Trump: Thank you very much. Yes, thank you.
+
+Tom Leighton: I'm Tom Leighton from Akamai, and we protect government websites from attackers. The majority of the government websites, including whitehouse.gov.
+
+Donald Trump: The DNC could have used you. [Laughter]
+
+Tom Leighton: Well, it's... it's an important job, and as you can imagine, there's a lot of folks out there trying to do bad things and we're delighted to help.
+
+Donald Trump: Good.
+
+Tom Leighton: We have the effort to save a trillion dollars and to secure the government.
+
+Donald Trump: Good, thank you.
+
+Zack Bookman: Thank You Mr. President I'm Zack Bookman, CEO of a company called OpenGov. We we have about 1,500 governments across the country as customers of our smart government cloud for budgeting and intelligence and open data. I'm really excited and honored to be a part of today's conversation, and I applaud the work that, that Jared and so many others here are leading. It's clear to me that a lot of the thinking being applied is exactly what's been needed for a long time, and and I think it's just the beginning of a lot of innovation so...
+
+Donald Trump: I think that's right. Thank you very much.
+
+Pat Gelsinger: Pat Gelsinger, CEO of VMware [Inaudible] and we're... some 70+ percent of government workloads running the VMware software today, so we're thrilled to be able to be in that role today. But more importantly, moving it forward to the cloud, we think is critical. This potential in cyber, and really putting in place cyber hygiene, and ultimately we as an industry are the product of the seed corn that was planted to 30, 40, 50 years ago, from the great research investments of government and university, and we deeply believe that we need to be planting those seed corns for our children and grandchildren
+
+Donald Trump: Great, Thank You.
+
+Steven Mollenkopf: Mr. President, Steve Mullen, CEO of Qualcomm we... thank you for the opportunity to contribute today. I would say our company works a lot on creating the base technology that allows big transitions to exist in cellular technologies, and we're very excited about the upcoming 5G transition. It's going to be a big job creator worldwide. I think it's important that the U.S. stays competitive, and we applaud the direction that the administration is taking.
+
+Donald Trump: Thank you very much.
+
+John Doerr: Mr. President my name is John Doerr, Chairman of Kleiner Perkins, and of a startup company called Nuna, and Jeff would say that your administration will be the innovation administration, and I'd like to challenge it to also be the data liberation administration. There's a trillion dollars worth of value locked up in government databases, and if we unlock that we can transform healthcare, we can improve services for citizens, we can lower the costs of government, and if you set the data free, the entrepreneurs are going to do the rest. I'm particularly impressed by the thinking of Seema Verma over in your Medicare and Medicaid teams, and I look forward to working with you and your administration.
+
+Donald Trump: Thank you very much. Thank you.
+
+Michael Drake: I'm Michael Drake, President of The Ohio State University. Glad to be here today, and very happy to participate in this conversation. You know we tried to enable and empower and inspire young people to make a difference, and being able to partner with their colleagues here around the table and with the government, to do that in a better way is something that we're very excited about.
+
+Donald Trump: Thank you very much.
+
+Ajay Banga: I'm Ajay Banga, the CEO MasterCard, and thank you for having us, Mr. President. I think in addition to what technology and the internet of things is going to do for all of us as an opportunity, side-by-side, comes a tremendous responsibility on cybersecurity. I think working that the right way, with the right public-private partnerships, but also working it where the weakest link -- which is small merchants and the individual consumer -- get the right level of safety that they demand from us is really important. And I think the level of engagement on that dialogue today, it was very very interesting.
+
+Donald Trump: Thank you very much.
+
+Ginni Rometty: Mr. President, Ginni Rometty from IBM, and you know I've had the pleasure of being in a number.. and the honor... of being a number of these sessions, and I think it's worth noting that the efforts around workforce development, around cybersecurity, around modernization... while they're difficult, in this short time there has been progress already made. and so I would really say on behalf of both you know Ivanka and Jared and Chris and Reed, those of us who've been in it from the beginning, I can already see... and actions have been taken. So while these are difficult problems I... I would just encourage us to keep going, because I actually can see the change happening already so I think this is a good sign of progress.
+
+Donald Trump: Thank You Ginni. Thank you very much.
+
+Eric Schmidt: Mr. President, thanks to Jared and Ivanka for sort of driving this so hard. I'm absolutely convinced that during your administration is going to be a huge explosion in new opportunities, because of the platforms that are getting built in our industry. Those will create huge, very large new business opportunities for which we entrepreneurs, technical talent, immigration and so forth that you understand... it can drive America very, very positively forward. It's going to happen soon during your leadership.
+
+Donald Trump: We will Eric. Peter?
+
+Peter Thiel: Mr. President, I'm Peter Thiel. I'm a venture capitalists in Silicon Valley. Very honored to be here today with all these, uh terrific people I think that the tech industry's the industry that is doing well in America and we need to sort of make it do even better, and give it the support... the regulatory support, in all sorts of different ways. I think your administration's off to terrific start doing these things.
+
+Donald Trump: Thank you Peter. Thank you for your help. Appreciate it
+
+Shantanu Narayen: Mr. President, I'm Shantanu Narayen. I'm CEO of Adobe, a company that's best known for Photoshop and PDF and - thank you for having us today. Two quick things. One is, I think you're championing a culture of innovation. I think is going to be critical to our country's future leadership and shared services for improving government will, I believe, drive a lot of efficiency.
+
+Donald Trump: Thank you very much.
+
+Brian Krzanich: Mr. President, Brian Krzanich, CEO of Intel. You know what I got out of today -- first is a great honor to be here and a real pleasure -- but also it was a great outreach. I think between the private public partnerships that we can really drive innovation much, much faster, and so I hope today is just the start of what we can accomplish together.
+
+Donald Trump: Thank you, a great company, and I appreciate it. Thank you very much.
+
+Alex Karp: I'm deeply honored to be here. I'm Alex Karp, Palantir. I know many people in the room and in your White House, from our work, and have supported General McMaster on the front line, and many of the special operations people in America, and around the world. What's very gratifying about what you're doing is the focus on getting more output for the input, which I don't think there's been a, a, a deep focus on in the past, and I really grateful to your staff for pushing it forward. We focused on rooting out waste, fraud and abuse in the government, which is something I think all Americans would welcome, and I thank you for your efforts.
+
+Donald Trump: Thank you. Thank you very much.
+
+Bill McDermott: Mr. President, Bill McDermott from SAP. It's been a great pleasure working with your team on the intellectual renewal of America. We've had the opportunity, the great opportunity, to work with the Army, the Navy, even states like Indiana, and driving results, and I know you want to drive results. So, in addition to the trillion in costs we can take out, probably we can add another two trillion on the numerator in terms of digital business, by getting the public and the private sector in full cooperation under your administration. Look forward to supporting you everywhere I can.
+
+Donald Trump: Thank you very much, appreciate it.
+
+Bill McDermott: Thank you Mr. President.
+
+Kiron Skinner: Hi, I'm Kiron Skinner. I think you know me from the campaign, on the foreign and diplomacy side, and from transition as well. But I'm also a professor at Carnegie Mellon University, where I work on international security issues, cyber security with the engineers and computer scientists, and what I liked most about today is that we talked about recreating the ecosystem of the early decades of the Cold War between... among government and the private sector in the university, to regenerate our economy and create innovation. I'm also a fellow at the Hoover Institution at Stanford and they'll get mad at me if I don't mention that. [Laughter]
+
+Donald Trump: That's good. Thank you very much. Appreciate it.
+
+Julie Sweet: Thank You Mr. President. Mr. President, I'm Julie Sweet, CEO of North America for Accenture. The level of discourse and enthusiasm in the sessions today, which were very productive, is a powerful reminder of the importance of collaboration, and I think two very clear themes were that modernizing the government is not about technology. It is about outcomes for our citizens; and second is the investment, also in our great public servants that this will be bring about, and the opportunities for the many people who serve in the federal government today, to help them bring better services and outcomes for the citizens. And those are both very important and exciting themes.
+
+Donald Trump: Thank you. Thank you very much.
+
+Safra Catz: I'm Safra Catz, CEO of Oracle. we had an absolutely tremendous day working together. It... the partnership between academia, the government, and commercial enterprises is such a powerful combination together with leadership, which is critical for real success, and you had volunteers from all sides, and a lot of people working already and raring to go for the next level. So thank you.
+
+Donald Trump: Thank you Sarra.
+
+Tim Cook: I'm Tim Cook from Apple. The U.S. should have the most modern government in the world, and today it doesn't. And it's great to see the effort that Jared is putting in, in working on things that will pay back in 5 or 10 or 20 years. The... the government should be focused on its citizens, and the services of the government should be measured on how pleased the citizens are with receiving their services. That basic premise is not how it's done today. And so I would really encourage you to ask the cabinet how they're measuring their... their parts of government, and what they're doing to serve the citizens that they're... they're meant to do. Secondly, totally unrelated but something I feel very passionate about. Coding should be a requirement in every public school. We have a huge deficit in the skills that we need today versus the skills that are there, and we're... we're trying to do our part or hopefully more than our part in doing that. But I think leadership from government is also key.
+
+Donald Trump: Thank you very much, Tim. Appreciate it. Appreciate all you're doing over the last number of months for jobs. Thank you all. Thank you very much. Appreciate it. Thank you.

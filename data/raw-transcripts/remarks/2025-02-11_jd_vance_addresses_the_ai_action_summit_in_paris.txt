@@ -1,0 +1,73 @@
+Source: https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-jd-vance-paris-france-ai-action-summit-february-11-2025
+
+Note: [Video begins in progress]
+
+JD Vance: -- the kind introduction and I want to start by thanking President Macron for hosting the event and, of course, for the lovely dinner, last night. During the dinner, President Macron looked at me and asked if I would like to speak. And I said, Mr. President, I'm here for the -- for the good company and free wine.
+
+JD Vance: But I have to earn my keep, today, and I, of course, want to thank Prime Minister Modi for being here and for co-hosting the summit, for all of you for participating. And I'm not here, this morning, to talk about AI safety, which was the title of the conference a couple of years ago, I'm here to talk about AI opportunity.
+
+JD Vance: When conferences like this convene to discuss a cutting edge technology, oftentimes, I think our response is to be too self-conscious, too risk averse. But never have I encountered a breakthrough in tech that so clearly calls us to do precisely the opposite. Now our administration, the Trump Administration believes that AI will have countless revolutionary applications and economic innovation, job creation, national security, healthcare, free expression and beyond.
+
+JD Vance: And to restrict its development now will not only unfairly benefit incumbents in this space, it would mean paralyzing one of the most promising technologies we have seen in generations. Now with that in mind, I'd like to make four main points, today. Number one, this administration will ensure that American AI technology continues to be the gold standard, worldwide, and we are the partner of choice for others, foreign countries and certainly businesses, as they expand their own use of AI. Number two, we believe that excessive regulation of the AI sector could kill a transformative industry just as it's taking off.
+
+JD Vance: And we'll make every effort to encourage pro-growth policies. And I like to see that deregulatory flavor making its way into a lot of the conversations this -- this conference. Number three, we feel very strongly that AI must remain free from ideological bias and that American AI will not be co-opted into a tool for authoritarian censorship.
+
+JD Vance: And finally, number four, the Trump Administration will maintain a pro-worker growth path for AI, so it can be a potent tool for job creation in the United States. And I appreciate Prime Minister Modi's point. AI, I really believe will facilitate and make people more productive. It is not going to replace human beings.
+
+JD Vance: It will never replace human beings. And I think too many of the leaders in the AI industry when they talk about this fear of replacing workers, I think they really miss the point. AI, we believe, is going to make us more productive, more prosperous and more free. The United States of America is the leader in AI, and our administration plans to keep it that way.
+
+JD Vance: The US possesses all components across the full AI stack, including Advanced Semiconductor Design, Frontier Algorithms and of course, Transformational applications. Now the computing power this stack requires is integral to advancing AI technology and to safeguard America's advantage, the Trump Administration will ensure that the most powerful AI systems are built in the US with American designed and manufactured chips.
+
+JD Vance: Now just because we're the leader doesn't mean we want to or need to go it alone, of course. And let me be emphatic about this point. America wants to partner with all of you and we want to embark on the AI revolution before us with the spirit of openness and collaboration. But to create that kind of trust, we need international regulatory regimes that fosters the creation of AI technology, rather than strangles it. And we need our European friends, in particular, to look to this new frontier with optimism, rather than with intrepidation.
+
+JD Vance: Now the development of cutting edge AI in the US is no accident. By preserving an open regulatory environment, we've encouraged American innovators to experiment and to make unparalleled R & D investments. Of the $700 billion, give or take, that's estimated to be spent on AI in 2028, over half of it will likely be invested in the United States of America.
+
+JD Vance: Now this administration will not be the one to snuff out the startups and the grad students producing some of the most groundbreaking applications of artificial intelligence. Instead, our laws will keep big tech, little tech and all other developers on a level playing field. Now with the president's recent executive order on AI, we're developing an AI action plan that avoids an overly precautionary regulatory regime, while ensuring that all Americans benefit from the technology and its transformative potential.
+
+JD Vance: Now we invite your countries to work with us and to follow that model, if it makes sense for your nations. However, the Trump Administration is troubled by reports that some foreign governments are considering tightening the screws on US tech companies with international footprints. Now America cannot and will not accept that, and we think it's a terrible mistake, not just for the United States of America, but for your own countries.
+
+JD Vance: The US innovators of all sizes already know what it's like to deal with onerous international rules. Many of our most productive tech companies are forced to deal with the EU's Digital Services Act and the massive regulations it created about taking down content and policing so-called misinformation. And of course, we want to ensure the internet is a safe place, but it is one thing to prevent a predator from preying on a child on the internet, and it is something quite different to prevent a grown man or woman from accessing an opinion that the government thinks is misinformation.
+
+JD Vance: Meanwhile, for smaller firms, navigating the GDPR means paying endless legal compliance costs or otherwise risking massive fines. Now for some, the easiest way to avoid the dilemma has been to simply block EU users, in the first place. Is this really the future that we want, ladies and gentlemen? I think the answer for all of us should be, no. There is no issue where we worry about more than regulation when it comes to energy.
+
+JD Vance: And again, I appreciated the comments of so many at the conference because they recognize that we can't -- we stand now at the frontier of an AI industry that is hungry for reliable power and high-quality semiconductors. Yet too many of our friends are deindustrializing on the one hand and chasing reliable power out of their nations and off their grids, with the other.
+
+JD Vance: The AI future is not going to be won by hand-wringing about safety; it will be won by building from reliable power plants to the manufacturing facilities that can produce the chips of the future. Now at a personal level, what excites me most about AI is that it is grounded in the real and the physical economy.
+
+JD Vance: The success of the sector isn't just a matter of smart people sitting in front of a computer screen and coding, it depends on those who work with their hands. Even as robotics will change our factories, it will certainly make our healthcare providers better at treating diseases, but it will also depend on the data produced by those healthcare providers, by those doctors and nurses.
+
+JD Vance: I believe it will help us create and store new modes of power in the future, but right now, AI cannot take off, unless the world builds the energy infrastructure to support it. Now it's my view that tech innovation over the last 20 years has often conjured images of smart people staring at computer screens, engineering in the world of bits.
+
+JD Vance: But the AI economy will primarily depend on and transform the world of atoms. Now at this moment, we face the extraordinary prospect of a new industrial revolution, one on par with the invention of the steam engine or Bessemer steel, but it will never come to pass if overregulation deters innovators from taking the risks necessary to advance the ball.
+
+JD Vance: Nor will it occur if we allow AI to become dominated by massive players looking to use the tech to censor or control users' thoughts. And I'd ask, if you step back a moment and ask yourself, who is most aggressively demanding that we, meaning political leaders gathered here today, do the most aggressive regulation?
+
+JD Vance: It is very often the people who already have an incumbent advantage in the market. And when a massive incumbent comes to us asking us for safety regulations, we ought to ask whether that safety regulation is for the benefit of our people or whether it's for the benefit of the incumbent. Over the last few years, we've watched as governments, businesses and nonprofit organizations have advanced unpopular, and I believe downright ahistorical social agendas through AI. In the US, we had AI image generators trying to tell us that George Washington was black or that America's doughboys in World War I were, in fact, women.
+
+JD Vance: Now we laugh at this now and of course, it was ridiculous but we have to remember the lessons from that ridiculous moment. And what we take from it is that the Trump Administration will ensure that AI systems developed in America are free from ideological bias and never restrict our citizens' right to free speech.
+
+JD Vance: We can trust our people to think, to consume information, to develop their own ideas and to debate with one another in the open marketplace of ideas. Now we've also watched as hostile foreign adversaries have weaponized AI software to rewrite history, surveil users and censor speech. This is hardly new, of course.
+
+JD Vance: As they do with other tech, some authoritarian regimes have stolen and used AI to strengthen their military intelligence and surveillance capabilities, capture foreign data and create propaganda to undermine other nations' national security. I want to be clear, this administration will block such efforts, full stop.
+
+JD Vance: We will safeguard American AI and chip technologies from theft and misuse, work with our allies and partners to strengthen and extend these protections and close pathways to adversaries attaining AI capabilities that threaten all of our people. And I would also remind our international friends here today that partnering with such regimes, it never pays off in the long-term.
+
+JD Vance: From CCTV to 5G equipment, we're all familiar with cheap tech in the marketplace that's been heavily subsidized and exported by authoritarian regimes. But as I know, and I think some of this -- some of us in this room have learned from experience, partnering with them means chaining your nation to an authoritarian master that seeks to infiltrate, dig in and seize your information infrastructure.
+
+JD Vance: Should a deal seem too good to be true, just remember the old adage that we learned in Silicon Valley, if you aren't paying for the product, you are the product. Finally, this administration wants to be very clear about one last point. We will always center American workers in our AI policy. We refuse to view AI as a purely disruptive technology that will inevitably automate away our labor force.
+
+JD Vance: We believe and we will fight for policies that ensure that AI is going to make our workers more productive, and we expect that they will reap the rewards with higher wages, better benefits and safer and more prosperous communities. From law to medicine, manufacturing the most immediate applications of AI almost all involve supplementing, not replacing the work being done by Americans.
+
+JD Vance: Now combined with this administration's worker first approach to immigration, we believe that a US labor force prepared to use AI to its fullest extent will, instead, attract the attention of businesses that have offshored some of these roles. To accomplish this, the administration will make sure that America has the best trained workforce in the world.
+
+JD Vance: Our schools will teach students how to manage, how to supervise and how to interact with AI-enabled tools, as they become more and more a part of our everyday lives. And as AI creates new jobs and industries, our government, businesses and labor organizations have an obligation to work together to empower the workers, not just of the United States, but all over the country -- all over the world.
+
+JD Vance: To that end, for all major policy decisions coming from the federal government, the Trump Administration will guarantee American workers a seat at the table, and we're very proud of that. Now I've taken up enough of your time, so I'd like to close with just a quick story. This is a beautiful country, President Macron, and I know that you're proud of it and should be. And yesterday, as I was touring [Inaudible] with [Inaudible], with my three kids, was kind enough to show me the sword that belonged to America's dearest international friend from our own revolution, of course, the Marquis de Lafayette.
+
+JD Vance: He let me hold the sword but of course, he made me put on the white gloves beforehand, and it got me thinking of this country, France ,and of course, of my own country and of the beautiful civilization that we have built together with weapons like that saber, weapons that are dangerous in the wrong hands but are incredible tools for liberty and prosperity in the right hands.
+
+JD Vance: I couldn't help but think of the conference, today, if we choose the wrong approach on other things that could be conceived of as dangerous, things like AI, and choose to hold ourselves back, it will alter not only our GDP or the stock market, but the very future of the project that Lafayette and the American Founders set off to create.
+
+JD Vance: Now this doesn't mean, of course, that all concerns about safety go out the window, but focus matters. And we must focus now on the opportunity to catch lightning in a bottle, unleash our most brilliant innovators and use AI to improve the wellbeing of our nations and their peoples. With great confidence, I can say it is an opportunity that the Trump Administration will not squander and we hope everyone convened here today feels exactly the same.
+
+JD Vance: Thank you and God bless you all.

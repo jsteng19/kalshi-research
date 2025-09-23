@@ -1,0 +1,145 @@
+Source: https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-nasa-coronavirus-april-24-2020
+
+Donald Trump: You know everybody, huh?
+
+Jim Bridenstine: Yes sir.
+
+Donald Trump: They know you as well as anybody. Why don't you give a little presentation?
+
+Jim Bridenstine: Absolutely, yes sir. So, NASA has been hard at work. Part of the the whole-of-government approach to combat the coronavirus, and so a lot of our work force has been staying at home, as has been the guidance. The question is: what do you do with rocket scientists when they stay at home? Well, what they do is they -- they build amazing things, and in this particular case, I've just got three to showcase here, but there's so many others that we could talk about, but I'll just go from left to right, Mr. President.
+
+Donald Trump: Okay.
+
+Jim Bridenstine: This is -- this is an oxygen hood. So a person who is -- who has coronavirus, we want to make sure that they have pressure for their lung, with a hundred percent oxygen. So we put this hood on them, and we also want to make sure they're not shedding virus at the same time. So it protects the the healthcare workers that --
+
+Donald Trump: Wow.
+
+Jim Bridenstine: -- that are, that are -- that are working on it working on the patient. So this is -- it's a it's an oxygen hood. It was created by scientists at the Armstrong Flight Research Center in California, in conjunction with the -- with the -- what's called Virgin Galactic, which is a commercial company that will be launching people to space, sub-orbital space, straight up and straight down here, in just a very short period of time.
+
+Jim Bridenstine: Just commercially. Tourists, if you will.
+
+Donald Trump: So that's going straight up --
+
+Jim Bridenstine: Straight up.
+
+Donald Trump: A little whatever and then straight down
+
+Jim Bridenstine: Straight down, and it's -- it's a commercial enterprise.
+
+Donald Trump: What's the level of safety of that?
+
+Jim Bridenstine: It's, well, it's -- it's -- I think it's very safe, and if you ask them, they'll say it's very safe. It's a Sir Richard Branson's organization. He took it public, so it's now publicly traded on the New York Stock Exchange, and -- and they're getting customers very rapidly.
+
+Donald Trump: How high up do they go?
+
+Jim Bridenstine: They go up to about 50 miles -- over 50 miles, as a matter of fact, straight up.
+
+Donald Trump: And do they immediately come straight down?
+
+Jim Bridenstine: They do.
+
+Donald Trump: Or do they tour around?
+
+Jim Bridenstine: They will get about 10 minutes of weightlessness before they come back to earth, so it's not so much of a tour around but just a period of time where you get to experience weightlessness.
+
+Donald Trump: Would you do it?
+
+Jim Bridenstine: I would absolutely do it. Are you kidding? In a heartbeat. And in fact --
+
+Donald Trump: I -- I'll pass.
+
+Jim Bridenstine: -- NASA actually contracts with them for experiments.
+
+Donald Trump: That's good.
+
+Jim Bridenstine: So we take experiments ups from period of time. Now this red box, sir, is something you are going to love and I mean it's -- it's impressive. NASA has this technology. When we launch a robot to Mars, which, as you know, we are going to do here in July, when we launch a robot to Mars, we have to sterilize the robot.
+
+Jim Bridenstine: We have to make sure that there's not a microbe on the robot because we don't want to accidentally put a microbe on Mars because we want to make sure anything we discover on Mars is something that was already there. So -- so here's what -- here's what this does. We took that technology to sterilize a spacecraft, and we said how do we use it to sterilize the inside of a room, and that is what this device is. AMBUstat.
+
+Jim Bridenstine: So think of it as a fogger. It will fog the room, and every surface in the room will then be sterilized. No coronavirus. So we use it right now. It's NASA technology used by ambulances, but now we are going to use it for the inside of schools, the inside of prisons.
+
+Donald Trump: So people can breathe this in?
+
+Jim Bridenstine: It will take about an hour and after the room is clear of the fog -- think of it as an atomized sterilant that touches every surface and guarantees that there's no germs. That is what we are doing with this. We have been using it in ambulances now for a while. Now we want to take it and use it to sterilize entire rooms so schools -- schools can open, and businesses can open.
+
+Donald Trump: So it is emptied out, and then you would do it?
+
+Jim Bridenstine: Yes, that's right.
+
+Donald Trump: Do you turn it on remotely or not?
+
+Jim Bridenstine: You just bring it in a room, set it down, let it fog, and then every surface ends up being clean and -- and people can go back to work knowing that their workspace is cleaned and it doesn't leave a film on any of the surfaces. You don't have to wipe down the surface.
+
+Donald Trump: What is it that cleans the room?
+
+Jim Bridenstine: It is what we call a sterilant. So think of it as a fog. So the fog goes throughout the room, it touches all of the surfaces, and it kills viruses. We have used it specifically for MERS, we have used it for Ebola and -- and we believe it is very effective, and we are proving it out right now. We believe it's going to be very effective for coronavirus as well.
+
+Donald Trump: That's great.
+
+Jim Bridenstine: It is, yes, sir. And I will let Dave hear from JPL, the Jet Propulsion Laboratory out in California talk about this, but this is an amazing capability built by scientists and engineers out in California at the Jet Propulsion Laboratory. So, Dave, I will let you talk about it.
+
+Dave Gallagher: So Mr. President, this is actually a great news story in the midst of this pandemic. When we started stay-at-home about four weeks ago, one of our engineers just could not stand the idea of sitting back and doing nothing with the spreading coronavirus and came up with a design. Very rapidly we built the team which did a lot of the work remotely working from home and in just over four weeks have developed a COVID-19 ventilator.
+
+Dave Gallagher: It is unique in many ways and -- and JPL we build spacecraft, we don't build medical products and the innovation and creativity of -- of the men and women of JPL it is incredible. So this thing has about 80 parts; a normal ICU ventilator has about an order of magnitude higher than that.
+
+Donald Trump: Right.
+
+Dave Gallagher: These parts are not in the ventilator supply chain. They are kind of regular parts, so we will not -- by building these we will not interrupt the supply chain for ICU ventilators. Most importantly, COVID-19 patients have their lungs are noncompliant, so you need high pressure, and this is a high-pressure ventilator from day one.
+
+Dave Gallagher: We got Mount Sinai doctors on the front line involved. We got the FDA involved. This thing just finished a couple of days of testing at Mount Sinai. We submitted it for FDA approval.
+
+Donald Trump: How did it do?
+
+Dave Gallagher: It did great. They have the most high-fidelity lung simulator anywhere.
+
+Donald Trump: So how would this compared to a really high-quality ventilator?
+
+Dave Gallagher: So the difference is --
+
+Donald Trump: Which is heavily computerized by the way.
+
+Dave Gallagher: The real difference is a -- a ICU ventilator, a traditional one that you would find in a hospital right now is meant to deal with any kind of situation. This is really targeted for COVID-19 patients and so --
+
+Donald Trump: Because of the pressure?
+
+Dave Gallagher: Because of the pressure. It is very easy to manufacture so we submitted the FDA approval, and then just this morning JPL is operated for NASA it is by Caltech and so this morning Caltech we went live with a royalty-free worldwide license, and we have you know what I hear hundreds of companies are interested in manufacturing these.
+
+Dave Gallagher: They should be very inexpensive to manufacture. I don't want to say --
+
+Donald Trump: This is great.
+
+Dave Gallagher: -- what -- what it is, but it is just a wonderful story.
+
+Donald Trump: This is really great. What do you think it will cost to produce that?
+
+Dave Gallagher: I -- I hesitate to say but it should --
+
+Donald Trump: But less expensive than [Inaudible]?
+
+Dave Gallagher: It should be an I would guess a factor of 10 less to manufacture.
+
+Donald Trump: It will be much less expensive.
+
+Dave Gallagher: Maybe $3,000, $4,000, something like that.
+
+Donald Trump: Very good. Yeah, that is fantastic. Well, congratulations.
+
+Dave Gallagher: I am very proud of our people and happy to show it to you.
+
+Donald Trump: Congratulate the engineer, right?
+
+Dave Gallagher: I sure will. Dave Van Buren is his name.
+
+Donald Trump: Say hello to Dave. That's good.
+
+Dave Gallagher: I will do that.
+
+Donald Trump: Thank you.
+
+Dave Gallagher: Thank you.
+
+Donald Trump: Okay. Thank you very much, everyone. That's fantastic.
+
+Jim Bridenstine: Thank you, sir.
+
+Donald Trump: [Inaudible]

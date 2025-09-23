@@ -1,0 +1,335 @@
+Source: https://rollcall.com/factbase/trump/transcript/donald-trump-cdc-press-telebriefing-coronavirus-june-25-2020
+
+Operator: Welcome, and thank you all for standing by. At this time, I would like to inform all participants that your lines have been placed on a listen-only mode until the question-and-answer session of today's call. Today's call is also being recorded. If anyone has any objection, you may disconnect at this time. And I would now like to turn the call over to Mr. Ben Haynes. Sir, you may begin.
+
+Ben Haynes: Thank you, sue. And thank you for joining us today for this embargoed briefing to update you on CDC's COVID-19 response. All of the information included today is embargoed for 1:00 p.m. Eastern time. We are joined today by CDC director Dr. Robert Redfield and CDC's COVID-19 incident manager, Dr. Jay butler.
+
+Ben Haynes: And Dr. Redfield and Dr. Butler will discuss CDC's updates on who is at higher risk for severe illness due to COVID-19. Following their remarks, Dr. Dana Meaney-Delman will join us for the questions and answers. At this time, I'd like to turn the call over to Dr. Redfield.
+
+Robert Redfield: Thank you, Ben, and thank you all for joining us today. When Dr. Butler and I talked to you last, we spoke about the need to understand and consider your personal risk in the situations in your community. As states continue to adjust mitigation efforts, I want to remind you about how to protect yourself, your family, and your community in advance of the 4th of July holiday.
+
+Robert Redfield: While the past few weeks saw cases begin to trend downwards, there are a number of states across the united states, particularly in the Southeast and Southwest that are seeing increases. Evidence tells us that these increases are driven by many factors, including outbreaks in settings that are particularly challenging, as well as increased testing, and community transmission as well.
+
+Robert Redfield: In addition, in some instances, the hospitalizations are going up as people seek care for non-COVID-related health issues as well as COVID-19. CDC is closely monitoring these increases and currently have deployed well over 100 staff to more than 20 or so states, including those states seeing these increases to support the state and local health officials.
+
+Robert Redfield: We continue to work to get information we need to understand the complexities of this disease and share that with the public. We can't lose sight of the fact that this pandemic is caused by a new virus that was totally unknown to us just a year ago. And we will continue to refine guidelines on how we can best reduce the risk of infection based on data and science.
+
+Robert Redfield: As we move forward and each of us weigh our risk of infection and make decisions about how to go about our lives, it's important for all of us to try the best we can to continue to take steps that we know are effective in preventing COVID-19. For those at higher risk, we recommend limiting contacts with others as much as possible or restricting contact to a small number of people who are willing to take measures to reduce the risk of becoming infected.
+
+Robert Redfield: In other words, when you must go out into the community, being in contact with few people is better than many, shorter periods are better than longer, and contact at greater distance, ideally, at least six feet, are better than closer. Everyone can take these steps to protect themselves, their family, and their communities, but they are particularly important for people who are at higher risk and for people who live with and care for individuals at higher risk.
+
+Robert Redfield: In summary, the keys to COVID prevention remain -- number one, social distancing. Number two, frequent hand washing and hand hygiene. Number three, staying away from others if you're ill. And number four, properly wearing a face covering when you're unable to social distance. I want to share with you some other important news.
+
+Robert Redfield: After gathering and thoroughly reviewing the most current evidence, CDC is updating its information that we're providing about people who are at the higher risk of severe outcomes from COVID-19. First, we want to be clear about what we think puts people at higher risk for severe disease, hospitalization, intensive care, and even death.
+
+Robert Redfield: We know that risk is a continuum. It's not just the risk of those ages 65 and older. And based on what we've learned, we now understand that as you get older, your risk for severe disease, hospitalization, and death increases. We also updated the list of underlying health conditions that can put you at higher risk for severe disease, hospitalization, and death, based on the latest review of scientific evidence to date.
+
+Robert Redfield: A key point is that we want to make sure that people know that as your numbers of underlying medical conditions increase, your risk of severe illness from COVID also increases. I'd like to turn it over now to Dr. Jay butler, our COVID-19 incident manager, to provide further discussion on these issues. Thank you.
+
+Jay Butler: Thank you, Dr. Redfield. And good afternoon, or good morning, everyone. It's good to be able to speak with you again. Let me provide a bit more detail about the update to the underlying medical conditions that increase one's risk for a severe outcome due to COVID-19. First, as Dr. Redfield mentioned, we know that the risk of severe illness from COVID-19 increases progressively with increasing age.
+
+Jay Butler: Or to put it another way, there's not an exact cutoff of age at which people should or should not be concerned. Second, we want to reiterate and update information about which underlying health conditions put people at higher risk. Part of the reason why risk increases with age is because as people get older, they are more likely to have other health issues that may place them at higher risk.
+
+Jay Butler: We reviewed the evidence related to each of these conditions and determined whether there was strong, mixed, or limited evidence whether they were associated with increased risk of more severe illness, which may be measured by hospitalization, ICU admission, or death. The underlying conditions for which there is the strongest evidence of higher risk are: cardiovascular disease, chronic kidney disease, chronic obstructive pulmonary disease, such as emphysema, obesity -- that is, a body mass index of more than 30, any immunosuppressing condition or treatment, Sickle Cell Disease, history of organ transplants and type 2 diabetes.
+
+Jay Butler: We also clarified a list of conditions that might increase the risk of severe illness. Some of these conditions include: Chronic lung diseases, including moderate to severe asthma and cystic fibrosis, High blood pressure, A weakened immune system, as may occur among persons after blood or bone marrow transplant, immune deficiencies, poorly controlled HIV, or use of other immune weakening medicines, Neurologic conditions, such as dementia or history of stroke, Liver disease, And pregnancy Let me tell you a bit more about that last one.
+
+Jay Butler: Today we'll be publishing an MMWR that compares data on pregnant and nonpregnant women with laboratory-confirmed COVID-19. Based on analysis of these surveillance data, pregnant women with COVID-19 were more likely to be admitted to the ICU and also to receive mechanical ventilation than were nonpregnant women.
+
+Jay Butler: Based on the data available now, it does not appear that pregnant women are at higher risk of death from COVID-19. We are collecting additional information, and we're working to find out if COVID-19 is associated with pregnancy complications. As always, we're sharing these updates and others as we learn more so that you can have the best, most-current, science-based information to help all of us make decisions about how to protect ourselves, our families, and our communities.
+
+Jay Butler: We want to live as safely as we can and minimize the risk of COVID-19 while it is circulating. As Dr. Redfield mentioned earlier, each person has to make decisions about what level of risk they're comfortable with as we go about our daily lives. CDC is committed to providing science-based information about how everyone can reduce the risk.
+
+Jay Butler: I'll turn it back to ben, and I look forward to taking your questions.
+
+Ben Haynes: Thank you, Dr. Butler, and thank you, Dr. Redfield. Sue, we are now ready to take questions.
+
+Operator: Thank you. One moment, please. In order to provide everyone the opportunity to ask questions, we do ask that you limit your questions to one question and one follow-up. If you do have any further questions, simply reinsert yourself back into the queue, and your additional questions will be answered as time permits.
+
+Operator: To ask a question, please ensure that your phone is unmuted. Press star-1, and record your name clearly. If you wish to withdraw your question, press star-2. Again, to ask a question, please press star-1. One moment for the first question. The first question is from Eben Brown with Fox News. You may go ahead.
+
+Eden Brown: Good afternoon. Good morning. Thank you for doing this. I'm speaking to you from Florida where we've had another day of 5,000-plus new positive cases. This number has -- we've seen similar numbers in other southern states. Now the northeastern states are imposing a mandatory quarantine for anyone who travels from here to there.
+
+Eden Brown: It's something that Florida did to the northeastern states a couple months ago. Are these quarantines really going to be effective? Is there that much migration between the two regions that it's really going to cause a problem? Or is the problem for these surges elsewhere?
+
+Robert Redfield: You know, thank you for your question. I think the comment that I will make is that, clearly, we have seen, as you commented, in the Southern states some increases in cases. You know, I keep trying to remind people that the real focus is the consequence of those cases, particularly hospitalizations, mortality, and death.
+
+Robert Redfield: Obviously, there are also consequences in terms of the disruption of the economy, education system, et cetera. So, I don't think we have any clear evidence. As you know right now, the individual states are making their individual decisions. I think the tone of your question, which is good, is I think, but we don't have any evidence-based data to support the public health value of that decision.
+
+Robert Redfield: Obviously, it's an independent decision that independent governors are going to make.
+
+Ben Haynes: Great. Thank you.
+
+Operator: Thank you. The next question is from Helen Branswell with STAT. Go ahead.
+
+Helen Branswell: Hi, thank you very much for taking my question and for doing this. I'm wondering if CDC is concerned that the public may be getting mixed messages about the risk of COVID-19 transmission at this point. You know, the president is telling people that the virus is receding, and yet, it clearly is not in parts of the country.
+
+Helen Branswell: As a consequence, it seems that a lot of people are no longer following the sort of prudent social distancing measures that are really needed to drive back transmission of the virus. Does this concern you all?
+
+Robert Redfield: I'm going to make a comment and then ask Jay to follow up with his perspective. I think, obviously, that we're seeing right now infections that are targeting younger individuals. As you know, in Florida, a significant number of the infections, and actually in the Southeast and Southwest, are in individuals now that are younger than the age of 50. I think, Helen, one of the points I want to make is, in the past, I just don't think we diagnosed these infections.
+
+Robert Redfield: CDC has completed a series and will continue to do fairly extensive surveillance throughout the nation using antibody testing. And our best estimate right now is that for every case that was recorded, there actually are ten other infections. But in the past, we didn't really aggressively pursue diagnostics in young, asymptomatic individuals.
+
+Robert Redfield: So that's the first thing I want to say, is you know, how much of what we're seeing now was occurring and just not recognized because now we're getting the younger population to get diagnosed. But I will say, I remain concerned about trying to understand the effective public health messaging that we need to get to those individuals that are say under the age of 45, under the age of 30, whereas the impact and consequences of COVID-19 infection on them may not be highly associated with hospitalization and death.
+
+Robert Redfield: They do act as a transmission connector for individuals that could, in fact, be at higher risk. So, trying to understand the effectiveness. The last thing I'll say on this and turn it to Jay, is this is one of the reasons I think it's important that we really have good data at a granular level. When you look right now at some of the maps you've seen on television, you know, it looks like a substantial portion of the united states is red.
+
+Robert Redfield: But in reality, we have probably about 110, 120 counties that we consider as having significant transmission. We refer to them as hotspots. That represents about 3% of the counties in the United States. So, when you see that it basically looks like the whole state is red, I do think that that can have a mixed message for the public health response.
+
+Robert Redfield: I remember, for example, in my days as an AIDS researcher, when the messaging came out to the African American male that happens to have sex with men, that you have a 50% lifetime risk of getting infected. Many young people just assumed that prevention didn't really play a major role in their lives because the risk was so high.
+
+Robert Redfield: I think it's important that we be very granular in understanding where we're having this transmission risk. I think it's very important we continue to try to figure out effective public health messaging for the younger group. But let me ask Jay what his comments would be.
+
+Jay Butler: Yeah, thank you, Dr. Redfield. One of the things that I will add is, as we look at the cases that have occurred over the past month compared to those that occurred in the months before that, we are seeing a greater proportion of cases that are being diagnosed in younger people. And this could reflect a number of things, including the fact that people actually are hearing and understanding the messages, including the message that people who are at higher risk need to take more precautions.
+
+Jay Butler: So, it's possible that we're seeing a smaller proportion of infections in older people because there actually is less exposure. I think the question of how to best communicate these messages to younger people is one that I will defer to health communications experts. But earlier this week, the MMWR put out a report about a cluster of infections that occurred in college students returning from spring break.
+
+Jay Butler: So, I think getting that message out that young people are not somehow naturally immune to this new virus, although they may be at lower risk of death or severe infection, doesn't mean that they are completely unable to become infected or to potentially transmit it to others. So, I think being able to get that message out more clearly than probably I just tried to articulate it is very important.
+
+Jay Butler: Thank you.
+
+Helen Branswell: Could I follow up, please? You know, it sounds, Dr. Redfield, like you are actually sort of playing down the significance of the situation that is occurring in the southern and eastern -- or western united states? Texas is now in a situation where they're deferring elective surgeries again -- or not again, in their case, but deferring elective surgeries because of the stress on hospitals.
+
+Helen Branswell: There's a lot of virus spreading in parts of the united states. And if it's spreading among young people, it won't stop spreading just among young people. They will infect other people. That's the way this works. I'm a little surprised that you seem to --
+
+Robert Redfield: Yeah, Helen, I think you're misunderstanding me. I'm not playing it down at all. This is a significant event. We are obviously concerned. I was trying to get people to understand, there's cases and consequences. It's not to underplay the cases. We have significant increase in cases. We need to understand that.
+
+Robert Redfield: We need to try to interrupt that. And we're going to continue to do that. What I was trying to do, in contrast to where we were, say, in March, where we had, obviously, cases, hospitalizations and deaths that were greater than now. If you look back about eight to ten weeks, it was shocking to me that over 27% of all deaths that occurred in the United States occurred in somebody that died of a pneumonia, influenza, or coronavirus.
+
+Robert Redfield: 27%. One in four. All right? Today we're back to the baseline, which is about 7%. So, I really hope that you don't misinterpret or misrepresent what I'm saying. This is still serious. It's significant. Everything you said, we may have a lag in what we see in hospitalizations and deaths, because that can lag by three or four weeks.
+
+Robert Redfield: But I'm asking people to recognize that we're in a different situation today than we were in March, in April, where the virus was disproportionately being recognized in older individuals with significant co-morbidities that was causing significant hospitalizations and deaths. Today we're see more virus. It's in younger individuals.
+
+Robert Redfield: Fewer of those individuals are requiring the hospitalizations and having a fatal outcome, but that is not to minimize it. I think if you listen careful to me, I am one of the individuals that's highly concerned about the complexity that we're going to be facing in the fall with the coronavirus and when we have influenza.
+
+Robert Redfield: I'm also, you know, I think it's important to recognize, we're not talking about a second wave right now. We're still in the first wave, and that first wave is taking different shapes. We're going to continue to respond. I mean, I'm happy to see that when we have outbreaks like we did in North Carolina and Alabama, CDC provided technical assistance to help the local health departments.
+
+Robert Redfield: Those hotspots are beginning to turn around. But these hotspots that we see, don't minimize them. They're significant. We need to respond to them. And as you see in certain areas, like in Houston, Texas, in Arizona, these cases are actually now causing challenges, as you mentioned, in terms of hospitalizations.
+
+Robert Redfield: So, I am not minimizing it. It's a significant issue. I'm just trying to let individuals understand the distinction between where we were in March and April and where we are today.
+
+Ben Haynes: Next question, please.
+
+Operator: Thank you. The next question is from Leigh Ann Winnick with CBS News. You may go ahead.
+
+Leigh Ann Winnick: Thank you. I'd like to touch on two things you just said about the younger people and the prospect of lingering effects in both younger and older people. What are those concerns and how are you messaging to younger people? Is there not some kind of advertising campaign that's specifically targeted to younger people after now three months of grappling with this?
+
+Robert Redfield: Jay, do you want to comment on that, since I spoke on the last one?
+
+Jay Butler: Sure. So, the question of a long recovery is a very good one. We hear anecdotal reports of people who have persistent fatigue, shortness of breath. So, how long that will last is hard to say. Again, we're talking about a new disease. So, whether or not this could be something that could persist for more than a few months, we don't yet know.
+
+Jay Butler: There is work that is ongoing to create a follow-up of people who have confirmed COVID-19 so that we can determine better what some of those long-term effects are. In terms of messaging to younger people, I think you're exactly right, that the message needs to include, even if there's not as much interest in the risk of transmitting to those who are at higher risk, everyone needs to understand that there is some risk of severe illness, including among younger people.
+
+Jay Butler: The tools that can be used include social media. We're exploring Tik Tok tools, PSAs are a bit older, but that is something that in the right media can help to reach younger people as well. Thank you. Next question, please.
+
+Leigh Ann Winnick: Can I just follow up? If there's some Tik Toks that are out there, if you could flag those at the press office, supply those to us?
+
+Jay Butler: At this time, we do not have any, but that's something that we are looking into. And I'm of the age, I have to stop and think, what is a Tik Tok? But I've learned that over the past month.
+
+Ben Haynes: Next question, please?
+
+Operator: Thank you. The next question is from Jeremy Olson. With the Minneapolis Star Tribune. You may go ahead.
+
+Jeremy Olson: Thank you for taking my question. I was just wondering, there are tracker apps that now exist, google platforms, android platforms, that could aid with the monitoring of these local hotspots and contact tracing, but it seems like it's been left to states and it's really been a fledgling start with these apps.
+
+Jeremy Olson: I wonder if there's been any federal or national effort to make use of this technology to improve our tracking?
+
+Jay Butler: So, there has been work to determine the utility of these devices. One of the challenges has been the willingness of the members of the public to utilize these devices. So, it's -- it has a lot of promise. I think it also has some challenges. There are a large number of apps that are out there, so we don't endorse any one of those, but the ultimate authority in conducting contact tracing as well as case investigation is going to be at the local, state, or tribal level.
+
+Ben Haynes: Next question, please.
+
+Operator: Thank you. The next question is from Maggie Fox from CNN. You may go ahead.
+
+Maggie Fox: Thanks. Dr. Redfield, I was very intrigued by something you said, that for every case that's tested positive, there might be ten that weren't detected. Can you expand on that? And I think you probably know, the Wall Street Journal has said that the CDC estimates many millions more cases than has been diagnosed.
+
+Maggie Fox: Thanks.
+
+Robert Redfield: Yeah. Thank you for the question. I mean. We have one of the realities, because this virus causes so much asymptomatic infection. And again, we don't know the exact number. There's ranges between 20%, as high as 80% in different groups. But clearly, it causes significant asymptomatic infection. The traditional approach of looking for symptomatic illness and diagnosing it obviously underestimated the total amount of infections.
+
+Robert Redfield: So, now, with the availability of serology, the ability to test for antibodies, CDC has established surveillance throughout the united states using a variety of different mechanisms for serology, and that information now is coming in and will continue as we look at the range, for example, where you have a different range of percent infections, say on the west coast, where it may be limited, say 1% or so, and then you have the northeast, where it may be much more common.
+
+Robert Redfield: The estimates that we have right now, that I mentioned -- and again, this will continue with more and more surveillance -- is that it's about ten times more people have antibody in these jurisdictions that had documented infection. So that gives you an idea. What the ultimate number is going to be -- is it 5-1, is it 10-1, is it 12-1? But I think a good rough estimate right now is 10-1. And I just wanted to highlight that, because at the beginning, we were seeing diagnosis in cases of individuals that presented in hospitals and emergency rooms and nursing homes.
+
+Robert Redfield: And we were selecting for symptomatic or higher-risk groups. There wasn't a lot of testing that was done of younger-age symptomatic individuals. So, I think it's important for us to realize that, that we probably recognized about 10% of the outbreak by the methods that were used to diagnose it between March, April, and May.
+
+Robert Redfield: And I think we are continuing to try to enhance surveillance systems for individuals that are asymptomatic to be able to start detecting that asymptomatic infection more in real time.
+
+Maggie Fox: May I follow up on that, please? You're also talking about younger people becoming infected, and perhaps they're at lower risk, but you've also updated the list of people with the underlying conditions that place them at higher risk. That includes pregnant women, who, of course, by definition, will be younger.
+
+Maggie Fox: And we also have a high rate of obesity and diabetes in our younger population. Can you talk about how not everybody is young and perfectly healthy and that, perhaps, the US younger population might be at higher risk of complications?
+
+Robert Redfield: Yeah, I think it's a critical question. I'm going to let dan and Jay chime in on it, but I think you've hit it. And I think we have to recognize the reality. Our nation isn't as healthy as some other nations, particularly as you look at the issue of obesity or at some of these chronic medical conditions.
+
+Robert Redfield: But I think dana may talk about pregnancy? And Jay, if you want to talk about the existence of co-morbidities in younger populations.
+
+Jay Butler: Sure, Dr. Redfield. And I think, again, it highlights the fact that younger people in no way are completely immune to the effects of SARS-CoV-2, nor are they at risk of more severe manifestation. And among young people, that risk is elevated in those with underlying illnesses or health conditions, including things like diabetes or obesity.
+
+Jay Butler: As you mentioned, pregnancy, of course, is going to be always in younger people. And so, the emerging data on the increased risk of more severe illness among people who are pregnant is something that has become more visible as we have increasing numbers of cases occurring. And I would anticipate that we'll get more granularity on our understanding of the degree of risk as we continue on and we have additional data.
+
+Jay Butler: I'll turn it over to Dr. Meaney-Delman to see if she has any additional comments on the risks associated with pregnancy.
+
+Dana Meaney-Delman: Thanks for your comment. We appreciate that. I think there's a good news/bad news picture here. The good news is that at least from the data we have so far, pregnant women are not at increased risk of death. And to your point, I think that's because there are -- pregnant women are generally a younger population.
+
+Dana Meaney-Delman: So that's the good news. But we do see higher rates of admission to the ICU and mechanical ventilation based on this data set that we have to date. And so, I think it's very important to get the information out there that pregnant women need to take precautions with regard to coming in contact with others, the number of people they come in contact with, wearing face coverings, social distancing.
+
+Dana Meaney-Delman: So, we really think this is a pivotal moment to emphasize those precautions that people can take as they're living their lives in the face of COVID-19.
+
+Ben Haynes: Next question, please.
+
+Operator: Thank you. The next question is from Alison Aubrey with NPR. You may go ahead.
+
+Alison Aubrey: Hi. Thanks so much for taking my call. One question a lot of our listeners are asking is how do I affect my own personal risk? And one factor of course to look at here is the spread in your community or in your state. But people are confused about the best metric to look at. One metric is of the severity of the spread is the positivity rate.
+
+Alison Aubrey: We see rising positivity rates in Arizona, 25%, South Carolina, multiple other sunbelt states. New York is now down to fatal digits. Doing more testing. They say you want to see a single-digit positivity rate. Does the CDC have guidance? Is there an agreed-upon threshold of what a good -- of what an -- positivity rate or what a low positivity rate is? Would it be 3%, 5%? Do you have a specific guidance?
+
+Jay Butler: Yeah, I think the answer to that question is lower is better, and that may be obvious. But again, there's no magic number above which we would say everyone needs to, basically, stay home, and no number below which we would say don't worry about this at all, unless that number is zero and there's a significant amount of testing that's occurring.
+
+Jay Butler: I think it may be more important to look at some of the other metrics as well, such as whether or not your local health department is reporting a significant number of cases occurring. And also, look at the trends. Is it on the upward trajectory, or is it coming back down again? In terms of assessing the risk for getting out into the community, I think you've touched on an important factor, what is the amount of transmission occurring in your community.
+
+Jay Butler: Also, also the issue of personal assessment, and that's one of the real areas of focus in the discussion today, thinking about increasing age, increased risk, also the presence of underlying health conditions. And then finally, where are you going to go when you go out? Being around fewer people is better than being around a greater number.
+
+Jay Butler: Being able to keep a distance of at least six feet is better than being closer. Probably it's better to be out of doors than indoors. And being around people who are using face coverings is likely better than being around those who do not. There's a lot of different variables, I recognize, but they all play an important role.
+
+Alison Aubrey: But I just want to help people understand, if the transmissions or cases are growing in their area -- you just mentioned several different metrics. And I think what's confusing for folks is, like, everyone's saying, oh, check with your local health people to say, you know, are cases growing? What's the risk in your area?
+
+Alison Aubrey: But there's no easy way for people to do that. I know that Tom Frieden and others have suggested a sort of green light, orange light, red light for the amount of spread in your area. Some simple indicator that we know works in public health to signal to people, what is the risk in my area? Are cases up or down?
+
+Alison Aubrey: I think there's a lot of interpretation you're asking people to do that they're not capable of doing, and I'm wondering if you might be able to -- have you thought about sort of setting a consistent, easy signal for people to know what the risk is in their area?
+
+Jay Butler: Yeah. I think the challenging words in that question is easy and simple, because we all want those. And that's certainly something that we continue to look at the data to determine what are the best metrics. You know, we've never had a coronavirus pandemic before. We are only a few months into this, so that is a big focus of what we're trying to do, is to be able to get the data together to give people the best advice possible.
+
+Jay Butler: But at this point in time, there is not a simple answer to that question.
+
+Ben Haynes: Next question, please?
+
+Operator: Thank you. The next question is from Marilynn Marchionne with Associated Press. You may go ahead.
+
+Marilynn Marchionne: Thank you. I have two quick questions. The first is, you've reset the list of who is at high risk from coronavirus and add pregnant women. Why did you also not include Blacks, Hispanics, and Native Americans, given all the findings about higher hospitalization and death among racial and ethnic minorities?
+
+Marilynn Marchionne: I have a second question as well.
+
+Jay Butler: Yeah, great to hear from you. So, we actually do have some additional information coming out on the risks that are associated with race and ethnicity. And thank you for raising that question as well. There are increased risks of infection in certain racial and ethnic groups. Much of this may be driven by the fact that it is very difficult for people of lower socioeconomic status to be able to do things like telework or to be able to maintain social distancing, at lower socioeconomic levels, certain racial and ethnic groups are overrepresented.
+
+Jay Butler: And so, that is likely a major driver to why we are not -- we are seeing some inequities in terms of the rates of infection and outcomes in some groups. Someone said early on that the pandemic is a boat that we're all in. I think the pandemic is a storm that we're out to sea together in, but some of us are able to be in better boats than others.
+
+Jay Butler: So, looking at how we can achieve better health equity is a big part of what we need to too.
+
+Marilynn Marchionne: My other question is for Dr. Redfield about the new estimate that was just released, that 20 million Americans had been infected. Is that a CDC estimate? Did the CDC come up with that? And what can you tell us about where those surveys were done, if they were nationally representative or just in hotspots, how you've determined this 20 million?
+
+Marilynn Marchionne: And that would mean about 6% of the population has been infected, and doesn't that mean the vast majority remain susceptible? And these are lower than the 25% asymptomatic estimates we've been hearing.
+
+Robert Redfield: Yeah, we're still collecting serological data. This is happening across the nation and we continue to add samples to those surveys, you know, each month, to continue to look to see what the extent is. There is great variability, and I'm confident at some time in the near future that that will be collated into information that can be broadly shared through the MMWR.
+
+Robert Redfield: I think two points are important. One, the one that you said at the end. It's clear that many individuals in this nation are still susceptible. There are, as I mentioned before, states that are going to have antibody prevalence base of less than 2%, which would mean a majority of those individuals in those regions are still susceptible.
+
+Robert Redfield: There's other areas like the New York metropolitan area that clearly had a higher penetration of antibody positivity and will have fewer individuals that remain susceptible. But all in all, I think you're in the right range, that somewhere between 5%, 6%, 7%, 8% of the American public has experienced infection, whether they recognized it or not.
+
+Robert Redfield: The estimate that we have given you at this point is it appears that the rate is -- and this is CDC's serology data -- that the rate is approximately ten seropositive antibody individuals for every one case. Obviously, that will be refined in the weeks ahead, but I think, you're right, looks like somewhere between 5% and 8% of the American public.
+
+Robert Redfield: That will be refined. And it does suggest the critical point that you point out and let me re-emphasize, this outbreak is not over. This pandemic is not over. The most powerful tool that we have, most powerful weapon, is social distancing. The virus doesn't like -- it's not efficient at going, you know, six, seven, ten feet between individuals.
+
+Robert Redfield: So, if we can maintain the six-feet distancing, if we can wear face coverings when we're in public, and particularly when we can't maintain the distancing, but we recommend them in public, and maintain vigilance in our hand hygiene, so we don't end up self-inoculating ourselves from certain surfaces that are contaminated, it's really important, powerful tools.
+
+Robert Redfield: And as we go into the fall and the winter, these are going to be really, really important defense mechanisms for you, for all of us, because as you pointed out, a significant majority of the American public, probably greater than somewhere -- greater than 90% of the American public hasn't experienced this virus yet, and yet, remain susceptible.
+
+Marilynn Marchionne: The sero surveys that were nationwide, you said they were nationally representative. Have you done -- do you have bloodwork from, you know, half of the states? Just help us understand --
+
+Robert Redfield: The way this is being done -- and we can give you more information -- we have surveys that are being done through samples that were collected for other reasons, whether it's blood banks or laboratory testing, and then they've been sampled in a representative way across the nation. And that process is continuing.
+
+Robert Redfield: There's additional projects, protocols that are actually being added to continue to make it more and more representative across this nation so that we'll have a pretty complete understanding as we get through this over the next month or two. But we have a pretty good representation already across the country through blood banks and other sampling sites that we've done around the country.
+
+Ben Haynes: Next question, please.
+
+Operator: Thank you. The next question is from Elizabeth Weise with USA Today. You may go ahead.
+
+Elizabeth Weise: Hi. Thanks for taking my question and I'm so happy that we get to have these briefings with you all. I had two questions on pregnancy, and I wanted to get the correct spelling of Dr. Delman's name. The first question is, do we have any data on outcomes for the babies yet? Probably not, because there hasn't been enough time for many women to actually give birth.
+
+Elizabeth Weise: And secondly, do we have any data on where in pregnancy you get sick and whether that affects either your outcome, the woman's outcome, or the fetus' outcome? I'm thinking of things like German measles, wondering if there's any correlation there.
+
+Dana Meaney-Delman: So, thank you for those terrific questions. Many of the same ones we're facing here. As you alluded to, pregnancy's nine months, so we don't have a lot of data that we need given where we are in the outbreak, so I don't think we know the answer to the outcomes of pregnancy specific to COVID-19. We do know that other infections increase risk for things like preterm birth.
+
+Dana Meaney-Delman: I wouldn't be surprised if that's a factor here, but we need more data and more time to collect that information about outcomes. In terms of timing, the MMWR that's coming out shortly did not collect information about trimester. So, it's hard to know at this point. A good move during this pandemic is we're collecting pregnancy status as part of our surveillance data from states, in a much more robust fashion, and we are going to follow along with more information about gestational age.
+
+Dana Meaney-Delman: Given that this is a surveillance data point, my suspicion is that we probably have more in the mid-trimester or late because it's easier to identify someone who's pregnant than in the first trimester, but we don't actually have the data yet. And it would make sense, based on the physiology in the third trimester and limitations on respiratory function, since this is a respiratory virus.
+
+Dana Meaney-Delman: I think I emailed you my information, so let us know if you don't have that.
+
+Ben Haynes: Next question, please.
+
+Operator: Thank you. The next question is from Roni Rabin with the New York Times. You may go ahead.
+
+Roni Rabin: Yeah, I was curious about -- it seems you're downgrading the risk of hypertension. This has been up there along with diabetes since the beginning of the outbreak in china as a risk factor that increases the risk for severe COVID-19 illness, and I'm just wondering what's caused the change, and obviously, also seem to put obesity up higher.
+
+Roni Rabin: Then if you can discuss that a bit, a little bit more about the concerns for the US. Where obesity rates are so high and also among young people.
+
+Jay Butler: Sure, and I appreciate the opportunity to clarify a bit. So, we're really talking about the strength of evidence, rather than the downgrading or upgrading the level of risk. The question of hypertension is one that came up very early on, even as we were receiving some of the early data out of china. I think what we've been able to do, as more data become available, recognizing that hypertension is a risk factor for other diseases, such as heart disease, chronic kidney failure, we've been able to tease apart a little bit more how much just having hypertension alone, as opposed to having some of those end-organ manifestations of hypertension, may be driving the increased risk.
+
+Roni Rabin: So does the same go for obesity, then? I mean, obesity, you're actually separating it as a risk factor in and of itself.
+
+Jay Butler: Yes, and it does, of course, interact with some of the other issues, such as diabetes. But also, I want to just highlight that early on, it was most obvious among people that had severe obesity -- that is, a body mass index above 40 -- as we have more data, it appears that even obesity at the lower levels, such as the body mass index above 30, may increase the risk as well.
+
+Jay Butler: So, obesity is appropriate to include as one of those conditions where there might be at increased risk.
+
+Operator: Thank you. The next question is from Tom Howell with the Washington Times. You may go ahead.
+
+Tom Howell: Hi. Thanks for doing the call. Just wanted to be clear on the list of underlying conditions. Can you tell us which conditions are new? You said it's an updated list. Maybe you said it. I just want to understand which ones have been added. And also, you mentioned july 4th is coming up. What are your concerns in terms of gatherings, cookouts, et cetera, fireworks?
+
+Tom Howell: And what should people do to take care of themselves? Thanks.
+
+Jay Butler: Sure. In terms of what is new, again, it's a little bit complex because some of it is rearranging based on the strength of the evidence and the stratification there. So it may be best just to get back with you on that. Regarding the upcoming fourth of July holiday, again, the issues are the same in terms of how you can reduce your level of risk.
+
+Jay Butler: Gatherings that are smaller are better than gatherings that are large. Being able to maintain social distance or physical distance, at least six feet, is better than being in closer proximity. Being outdoors is probably better than being indoors. And being around people who are wearing face coverings is better than not around those -- around people who are not utilizing face coverings.
+
+Jay Butler: So, we do recognize that families will want to be together over the holidays, but being able to minimize the people that you are around, particularly people that you have not been around in the past, is particularly important.
+
+Robert Redfield: And to reinforce the message, because there are going to be family gatherings, how important it is, you know, what we stressed even back in march -- just to re-emphasize that message, that we have responsibility to practice these social mitigation strategies to protect the vulnerable, to protect the elderly.
+
+Robert Redfield: I will also just say, you know, a lot of us may not even know which one of our close friends have, or even family members may have some of these significant medical co-morbidities. So, again, I think stressing the importance that we all have a critical role, not for ourselves, per se, but to protect the vulnerable.
+
+Robert Redfield: And I've said it before, I've been really proud and congratulate the American public. I think most of us back in March, when we did the 15 days of slow the spread, I mean the 30 days of slow the spread. I'm not sure all of us really believed that the American public was going to listen and buy into it. As a physician, which I am, I've worked over my lifetime to help my patients stop smoking or lose weight or exercise more, or you know, do other things to improve their health.
+
+Robert Redfield: And it's very hard to be able to affect behavioral change as a physician, when you're asking someone to do this to improve their own health. But I really think it was remarkable that the American people really did embrace the mitigation steps when the consequence was to protect the health of somebody else.
+
+Robert Redfield: We're asking that again, so we really think that's important. This is one of the complexities now with the younger individuals. As we see these infection case numbers go up, it's just really important. And so, for the fourth of July, which is a family event, we want to re-emphasize that it's really important that we get back to being vigilant to our collective commitment to do these social mitigation steps to protect the vulnerable friends, family, community, and those individuals that we don't know that we're interacting with, from potentially getting infected and having a poor, negative outcome because of the co-morbidities.
+
+Ben Haynes: We have time for two more questions, please.
+
+Operator: Thank you. Our next question is from Donna Young with S& P Global News. You may go ahead. >> thank you. Appreciate you taking my question and holding the call today. This question is for Dr. Redfield. Dr. Redfield, are you willing to admit that it was a mistake to dismiss Dr. Messonnier's February 25th warnings, to hold that press conference that HHS held later in the day where the officials there, including Dr. Fauci, tried to minimize what she said, tried to say that it was education for the future but nothing that people needed to be doing at that point, and that you, as well as Dr. Fauci, all throughout January, February, and well into March, were advising Americans that they did not need to make any behavioral changes or any changes to their daily activities, as well as also, I wanted to ask about the masks.
+
+Operator: Why did you think later that there was a difference in wearing a cloth mask, later on, that that was okay, but officials were shaming Americans early on for wearing, most of them, you know, cloth masks? Why was that shaming actually going on? But if you could, you know, please -- it seems like you're able to say now, well, you know, it's a new virus, we didn't know what was going on. But early on, it seems like you were very willing to say, there's no need to wear a mask, you know, we're right about this, and pretty much dismissed Dr. Messonnier for what she -- well, actually, did dismiss.
+
+Operator: Americans were pretty much told to ignore that for now, that's something for the future, education for the future, but don't pay attention to her today, on February 25th. So, thank you.
+
+Ben Haynes: Donna, this is Benjamin. I will follow up with you on that question after the briefing. Sue, can you give us the last question, please?
+
+Operator: Sure. The last question is from Will Feuer with CNBC. You may go ahead.
+
+Will Feuer: Hi. Thanks for taking my question. I do think that I speak for all of us to say that I am interested to hear the answer to the previous question. But my question is about contact tracing. Dr. Redfield, you testified earlier this week there's about 27,000 or 28,000 contact tracers deployed now across the nation.
+
+Will Feuer: I'm wondering, though -- and you said you're going to ramp that up. What is the goal there? And I know that number shifts and the goal might shift depending on the epidemics around the country. But you know, roughly what kind of number are you looking for with the number of contact tracers? And you know, I understand it's mostly an effort run by local health departments.
+
+Will Feuer: So, what's the CDC doing to support local health departments in ramping up capacity to conduct contact tracing?
+
+Robert Redfield: Thank you very much. A very important question. And it's important, it's not just contact tracing, but it's the consequence of that, to have the ability to isolate individuals. You know, in January, the estimate of the country was, there was about the health departments collectively had about 6,000 individuals that were in this contact tracing space.
+
+Robert Redfield: I think the second of January, when the states were polled by intergovernmental affairs, it was now almost 28,000, I think 27,800, approximately. But if you ask the states, when all polled, it's close to 77,000, 78,000. I've estimated that I think the nation's going to need close to 100,000 in this space.
+
+Robert Redfield: You know, Tom Frieden has estimated he thought as high as 300,000. I think we have to work, as we begin to build this workforce capacity, to get it in praise and get those individuals. The efforts that we have -- and again, congress has been, you know, I think provided leadership in this regard. They've provided CDC significant resources.
+
+Robert Redfield: We've disbursed $10,250,000,000 to the states to augment their testing, contact tracing and isolation capability. The states have put together their plans for June and July, which have undergone review and areas of weakness have been discussed so they can correct them. And then they'll have their formal plans for basically the rest of the year due on the tenth of July.
+
+Robert Redfield: Significant human resource. Significant financial resources to help them. CDC has, obviously, embedded people. We have over 650 people embedded now in the state and local tribal territory, also environments we've augmented. We've offered the states the opportunity to hire individuals though our foundation.
+
+Robert Redfield: We've obviously given them their own resources to hire. AmeriCorps now is making AmeriCorps volunteers available. Some of the states have used other state employees. Some of the states have looked at different strategies. So, we're going to continue. I think one of the critical things to do in parallel, though, is we can't just build contact tracing.
+
+Robert Redfield: You've got to build the capacity to isolate people. And it's important to be able to isolate people that live in congregate living settings or that live in a setting that would then put another individual significantly at risk, so they couldn't, in fact, minimize the risk to an elderly parent or grandparent.
+
+Robert Redfield: Obviously, it's another issue in isolating individuals that are homeless. So, this has to be built. I think the bottom line that I like to tell people is, for decades, this nation has underinvested in the core capabilities of public health, whether it's data analytics and predictive analysis, whether it's resilience in the public health laboratories across our country, whether it's the public health workforce that we just talked about, obviously, whether it's related to emergency funding to respond in a timely fashion.
+
+Robert Redfield: But you know, that will continue to be the core. And being able to effectively operationalize the contact tracing and isolation that's going to be required. And yes, it is going to be different plans by different states that are trying to put those, and we will continue to provide guidance, technical assistance, training manuals, training curriculum, to get these contact tracers in place over the summer.
+
+Ben Haynes: Thank you, Dr. Redfield. Thank you, Dr. Butler. And thank you, Dr. Delman. And thank you all for joining us for today's briefing. As I mentioned at the start of the briefing, the information we shared is embargoed until 1:00 p.m. Please check CDC's COVID-19 website for the latest updates on CDC's response effort.
+
+Ben Haynes: And an audio recording and transcript of this briefing will be posted on CDC newsroom at www.CDC.gov/media. If you have further questions, please call the main media line at 404-629-3286 or email media@CDC.gov. Thank you.
+
+Operator: Thank you. That does conclude today's conference. Thank you all for participating. You may now disconnect.

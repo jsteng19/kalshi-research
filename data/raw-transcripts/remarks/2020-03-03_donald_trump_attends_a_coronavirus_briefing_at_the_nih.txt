@@ -1,0 +1,237 @@
+Source: https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-nih-coronavirus-briefing-march-3-2020
+
+Anthony Fauci: Mr. President, thank you very much for coming to the NIH today.
+
+Donald Trump: Thank you.
+
+Anthony Fauci: We really are very pleased --
+
+Donald Trump: Thank you, Tony.
+
+Anthony Fauci: -- with your visit. And I want just, again, thank you for your support of everything that we've been doing in this obviously very important problem. What I've asked is just first to have Francis Collins --
+
+Donald Trump: Good.
+
+Anthony Fauci: -- our director, just make a couple of comments about the NIH in general. And then I'll talk to you about some of the things that you and I have been talking about for the past few weeks.
+
+Donald Trump: Good. Thank you.
+
+Francis Collins: Well, Mr. President, welcome to NIH. It's wonderful to have you here --
+
+Donald Trump: Thank you, Francis.
+
+Francis Collins: -- even though we are, in fact, faced with a very serious public health situation. We have a lot of people here that are working hard on it and are honored by your presence, and honored also by the presence of the Secretary, my boss, and a wonderful boss he is indeed. Maybe I just quickly say who else is at the table so you understand who we're with here.
+
+Francis Collins: Starting over here, Dr. Barney Graham; he's the Deputy Director of the Vaccine Research Center, and that's where we are right now. Next to him is Dr. Kizzmekia Corbett, who is the front line on the bench, making this coronavirus vaccine happen.
+
+Donald Trump: Good.
+
+Francis Collins: So a wonderfully talented young scientist in our midst. You know Dr. Fauci, of course. Next to him, Dr. John Mascola, who's the Director of the Vaccine Research Center. And next to him, Dr. Larry Tabek, who's the Principal Deputy Director of NIH.
+
+Donald Trump: Good.
+
+Francis Collins: And we are all thrilled to have you here. I just wanted to say a word about NIH because we haven't had the privilege of having you with us before, and just to sort of set the context for this remarkable institution -- supported by your administration -- the largest supporter of biomedical research in the world, the National Institutes of Health.
+
+Francis Collins: We distribute most of our funds -- more than 80 percent -- to institutions all over the country. So when you hear about a breakthrough in medical research that happened at the University of Illinois or Florida, it was probably supported by NIH. And we use the most rigorous peer review system in the world to decide what we're going to fund.
+
+Francis Collins: And we do everything from fundamental discovery to clinical trials and everything in between. You could say we do Alzheimer's to Zika, or A to Z, or some version of that. And we also support infrastructure that makes it possible at a time like this to be able to move rapidly in terms of developing a vaccine.
+
+Francis Collins: And you'll hear more about that from Dr. Fauci. The consequences of NIH research you could measure in various ways: extension and longevity. Reduction in deaths from heart attack down to 70 percent from what they used to be; strokes likewise. Cancer rates of death dropping about 1 or 2 percent a year. HIV, which used to be a death sentence, now compatible with long survival.
+
+Francis Collins: Cystic fibrosis disease used to be maybe able to get kids to live for 8 or 10 years; now, just in the last few months, announcement of a drug therapy. That means a lot of those individuals are planning for retirement.
+
+Donald Trump: Wow. That's great.
+
+Francis Collins: What a big change that has been. Economics: I think we could also say this is one of the government's best investments, because the return on investment -- every dollar that NIH spends is about 8 dollars and 38 cents, because of all of the other economic activity that that inspires. But a major component of NIH -- though it's only about 11 percent of the budget -- is the intramural program, and that's where you are now on this campus.
+
+Francis Collins: More than 5,000 MDs, PhDs, and MD-PhDs work here on a wide variety of things. A few hundred yards from here, the largest research hospital in the world, the NIH Clinical Center. Among our achievements: the first chemotherapy for leukemia; the development of AZT for HIV; cancer immunotherapy now saving lives, including people who thought that there was no hope for them and are now being not just helped but cured; dramatic advances in treating depression.
+
+Francis Collins: Lithium was invented here. Ketamine now turning to be a really exciting development for people with resistant depression. The first gene therapy for humans done here at NIH and now evolving to a point where we are curing, on this campus, people with sickle cell disease with gene therapy. And, of course, vaccines -- vaccines -- developed here for childhood meningitis, for HPV, for Ebola.
+
+Francis Collins: And now we're going to talk about coronavirus. So for all these reasons, people call us the "National Institutes of Hope," and we're happy to embrace that particular description. And you have next to you the -- probably most highly regarded infectious disease expert in the country -- I might even say in the world --
+
+Donald Trump: I agree.
+
+Francis Collins: -- Dr. Tony Fauci. And we have been graced by his presence for many decades, and he is exactly the right person to tell you what we're doing right now about coronavirus and how we're going to address the need for a vaccine, in order to tackle this really difficult problem. So thank you for being here. I hope that's helpful.
+
+Donald Trump: Thank you. Thank you, Francis. Thank you very much.
+
+Anthony Fauci: Okay. Again, thanks again. I just want to connect what we've been talking about over the past few weeks. So if I could just get the -- see, this slide here, remember when I mentioned that the fastest from the time that you get a pathogen -- you know what it is -- to the time you do a phase one trial for safety?
+
+Anthony Fauci: So look at what's happened. When SARS was in 2003, from the time we got the virus to the time we did the first phase one trial -- remember, that doesn't mean you have a vaccine; it means for safety -- it was 20 months. Then, H5N1 influenza, we got it down to 11. H1N1 influenza, 4. Zika, 3.25. And now, we believe, as I've told you several times, it's two to three months.
+
+Anthony Fauci: I think it's going to be two.
+
+Donald Trump: That's fantastic. That's great.
+
+Anthony Fauci: So that kind of thing is what this place is all about. It's kind of like the SWAT team of going out and responding to emerging microbes.
+
+Donald Trump: Right.
+
+Anthony Fauci: So, you know, this building, this entire center, was first started in response to making a vaccine for HIV. But the crew that we brought together -- and we brought the best of the best from all over the country -- Dr. John Mascola, who's the director of this place -- we do everything, from fundamental basic science to the clinical trials.
+
+Anthony Fauci: We would -- I mean, and I say this with some pride but also with some modesty, is that there's a lot questions and things that we need to do, but this group is so good at what they do that every time we have a challenge -- and that challenge could be flu, that challenge could be Ebola, that challenge could be anything -- we always turn to this team to do that.
+
+Anthony Fauci: And it's really something that we feel that is -- we're proud of, but I think the nation should know that these are the kind of things we have available for them. John, do you want to --
+
+John Mascola: I would just like to also welcome you, Mr. President, Mr. Secretary --
+
+Donald Trump: Thank you, John.
+
+John Mascola: -- to our vaccine research center. We look forward to a brief tour for you upstairs, where you can have Dr. Corbett and Dr. Graham tell you about how we're working on the coronavirus vaccine.
+
+Anthony Fauci: Right.
+
+Donald Trump: Good.
+
+Anthony Fauci: Just to give you a comparison, because we always talk about SARS and we always talk about MERS and things like that -- if we could have -- just go through the slide. I just want to -- go to the next slide. [A presentation slide is displayed] Just -- this is an article that I wrote a little while ago and I called it "Coronavirus Infections--More Than Just the Common Cold." The reason is, up until recently, coronaviruses were like mild things.
+
+Anthony Fauci: They were just common cold and they just -- next slide. In fact, those are all different kinds of viruses. The ones with the red circle around them are the four viruses that cause the common cold. That was until 2002. Then we got a big surprise. And the surprise was -- next -- is that we had the severe acute respiratory syndrome, and that was SARS. Multiple years later, we got the Middle East respiratory syndrome.
+
+Anthony Fauci: But a story that you may remember, if you -- next slide. In China, in the Guangdong province -- this sort of history repeats itself, Mr. President.
+
+Donald Trump: Right. Right.
+
+Anthony Fauci: In China, in the Guangdong province, there was this strange disease that came up that nobody knew what it was. The Chinese didn't really tell anybody about it for a few months, November, until it got to Hong Kong. When it got to Hong Kong -- next slide -- in a hotel in Hong Kong -- and this was way back in 2003 -- someone from China went to the hotel, infected a bunch of people -- next slide -- and this is what you had: You had flights going -- at the time, we didn't make any restrictions the way you did, which I think saved us, really, a lot of -- a lot of hurt.
+
+Anthony Fauci: Next slide. And then this is what happened: There were 8,000 cases, 774 deaths. And that's how I get the number that I've been telling you that the mortality of SARS was about 9 or 10 percent. If you do that math, that's what it is.
+
+Donald Trump: Right. Wow.
+
+Anthony Fauci: Next slide. The other one is the MERS coronavirus, which was the one that was in Saudi Arabia. That was also from an animal reservoir. Next. In fact, it was from a bat. Next. From a bat to camel. And then for the people in the Middle East who got it, that was the infection there. So these are the kind of things that go from an animal reservoir to a human.
+
+Anthony Fauci: Sometimes it doesn't go anywhere; it just goes one to two people. But sometimes it adapts itself to function very, very, very efficiently. Next. And that's what happened. We had MERS coronavirus in Saudi Arabia, we had a few cases in the United States, but not many. And finally -- next -- this is where we are right now, with the coronavirus.
+
+Anthony Fauci: And then, just getting back to the last -- we got this sequence about a week after the Chinese were able to put it up on the board and -- next -- and then these are the things that we do: Therapeutics, vaccines. So we'll stop there, but we'd really like to hear some comments from you, Mr. President, if you want to --
+
+Donald Trump: Well, I want to thank you all. This is incredible. And I've heard about you, and I know all of you by name, and now I get to meet you. unfortunately, I get to meet you, because we're talking about this. But we've made tremendous progress. I know you're dealing with other nations to help them out because they really -- they got hit, some of them very badly.
+
+Donald Trump: And we're talking to them also. And we're making decisions as to whether or not we're allowed to travel -- they're allowed to travel. They've been -- we've been pretty severe on those restrictions, but I guess we did the right thing by being severe. NIH is the home of -- I mean, I see so many different factors, and it's true -- the greatest doctors.
+
+Donald Trump: I've heard that for so long. I heard that from my uncle, Dr. John Trump. He -- big fan of what you've done and how it started. And it's really been an incredible situation. But the scientists and researchers all over the world, they say this is the best there is. And I think the world is extremely happy that you're involved.
+
+Donald Trump: And, Tony, your reputation is second to none. I think we all agree with that. You have to agree with that, John, right? I mean, you have no choice.
+
+John Mascola: Indeed, sir.
+
+Donald Trump: But the fact is, it is -- in this case, it's true. And we're very lucky to have you. I will say that the Vice President is over on the Hill. He's just leaving now, and I told him to stay there and finish it up. But we're doing very well in terms of getting the funding we need, the necessary funding. And I asked for X, and they want to give us more than X. And that's okay, as far as I'm concerned.
+
+Donald Trump: In this case, Francis, that's unusual, but that's okay. But I just want to thank everybody at NIH and all of the great scientists and doctors and everything. I know you're working around the clock. I know you've made some great finds already, and that's -- really, it makes us feel very good. We had some good meetings yesterday with the companies that -- I guess you ultimately would go to the companies?
+
+Donald Trump: You'd have to go to the companies. So we had Pfizer and Johnson & Johnson and some of the other great companies, and they were very positive as what -- as to the outcome. And therapeutics were a very big thing, because I guess therapeutics can happen faster than the actual vaccine. And certainly the result can happen a lot faster.
+
+Donald Trump: So we're looking for some good answers. But I just want to thank you very much, Tony. And we really appreciate it. And, John, thank you. Thank you very much. Fantastic job. Thank you very much.
+
+Francis Collins: Great to have you here.
+
+Donald Trump: And, you, I don't have to shake hands with. [Laughter] I see him every -- I see him every day, so I don't have to bother. So thank you all very much. Great job. Appreciate it.
+
+Question: Mr. President, would you travel to Japan or Italy right now?
+
+Donald Trump: Well, I haven't been asked to. But I think we're making decisions on certain parts of those countries, as you know. We've already made a decision on parts of Italy. And Japan -- it's very unfortunate because I've seen the incredible job they did on the Olympics. As you know, they're building a facility; it's really finished.
+
+Donald Trump: It's beautiful. It's finished right on time -- as usual, with the Japanese. The Prime Minister, a very good friend of mine. And -- Prime Minister Abe. And so I don't know what they're going to do. They have this magnificent facility, and I don't know what they're going to do, but they'll make the right decision, I know that.
+
+Donald Trump: But, yes, if it was necessary, I would do it. Yes.
+
+Question: What's your timeline on further travel restrictions, Mr. President?
+
+Donald Trump: Well, we're looking at different areas, and we'll make that decision with these professionals. We made an early decision based on a little bit of luck, I suspect, but that was the original decision on China itself. And China, in all fairness to them, they never blamed us. It was, you know, a tough decision for them, but they fully understood.
+
+Donald Trump: They were very reasonable about it. But that was a hard decision to make. But I guess we would have had a lot more people with difficulty if we didn't make that decision very early on. But we'll be making additional decisions as they arise, I guess, Tony.
+
+Question: What about closing the southern border? Is that still on the table?
+
+Donald Trump: We're not looking at it very strongly. We're not seeing a lot of evidence in that area. We're closing it, I guess, automatically because we have a very strong border there now. We didn't have a strong border at all. We've built 129 miles of wall, and the wall area is 100 percent secure. But we haven't seen any great -- I don't think we've seen any great evidence of that area as a problem at this moment.
+
+Donald Trump: So we won't have to bother with that at this moment. Anybody? You're so nice today. I can't believe it. [Laughter]
+
+Anthony Fauci: This is the NIH. That's it.
+
+Donald Trump: It's the NIH. It rubbed off.
+
+Question: What about Super Tuesday?
+
+Donald Trump: Say it?
+
+Question: Tell us about Super Tuesday, how you're watching the primaries that are taking place.
+
+Donald Trump: Well, it's going to be a very interesting evening of television. I think it's really going to be something. It's -- they've got some races going on that didn't seem to exist a few days ago. And now Biden has come up a little bit. And I don't know what's happened with Bernie. I think they're trying to take it away from him.
+
+Donald Trump: I don't know if that's fair, but I guess it's politics when you get right down to it and what's fair. But I think it's going to be a very interesting evening of television. And because of the time difference -- California time difference -- it's going to go a little bit later than we're accustomed to, right?
+
+Question: And who would you like to most --
+
+Donald Trump: And I will be watching -- who would I like to win? Anybody. I'll take anybody I have to. That's the way it's going to work. Doesn't matter.
+
+Question: You have a favorite opponent?
+
+Donald Trump: No, I have -- I really just -- you know, we've done a great job. We have the strongest economy on Earth. We -- we've gone up and, you know -- as you know, China's economy has been hurt very badly, long before this. We've done a really good job, and I think people understand that. And I'm looking at polls that are very good.
+
+Donald Trump: But, you know, whoever it is, it is. We'll take them on. We have no choice, right? Anything else? Steve?
+
+Question: Do you have a reaction to the North Korean launch of those missiles yesterday?
+
+Donald Trump: No, I have no reaction. Short-term missiles? No. No. None.
+
+Question: And on the Afghanistan -- was that your first conversation with the leader of the Taliban?
+
+Donald Trump: I don't want to say that. But we had a very good conversation with the leader of the Taliban today, and they're looking to get this ended, and we're looking to get it ended. I think we all have a very common interest. We'll find out about the country itself. But the country really has to get it ended. We've been there for 20 years.
+
+Donald Trump: Other presidents have tried and they have been unable to get any kind of an agreement. The relationship is very good that I have with the mullah. And we had a good, long conversation today. And, you know, they want to cease the violence. They'd like to cease violence also.
+
+Question: And the Afghan government seems reluctant to turn over those 5,000 prisoners.
+
+Donald Trump: Well, they may be reluctant. You know, they've been -- they've done very well with the United States for many years, far beyond military, if you look at all the money that we've spent in Afghanistan. We've spent trillions of dollars. Trillions of dollars. And we're really a police force. We're really not fighting, per se. It's a fight that, if we had to, we'd win.
+
+Donald Trump: But I don't want to kill millions of people. We would win it fairly quickly, but I don't want to kill millions of people. I think it's crazy. And so we've been there -- we'll be very -- very soon, it'll be 20 years. And I said, right from the beginning, not easy to get out of these conflicts. Very complex in terms of all of the people you have to deal with, including, frankly, people in the Senate, people in the House.
+
+Donald Trump: And a lot of people feel differently about things. But I've been amazed at how positive the response is to getting out of Afghanistan and to moving on. And I really had a great conversation with him today. Yes?
+
+Question: Back to coronavirus. Are you considering new guidelines for nursing homes, given the cluster in Washington State?
+
+Donald Trump: I could ask you to answer that question.
+
+Alex Azar: So I --
+
+Anthony Fauci: Mr. Secretary?
+
+Alex Azar: So, actually, we have been educating healthcare providers, really, from day one, back in January, about the need to be on guard against respiratory syndrome. And then, when we had this case of the long-term care facility in Washington, we sent out special alerts to long-term care facilities to be very mindful about infection control, isolation, with these most vulnerable of our seniors and other individuals who have comorbid conditions.
+
+Alex Azar: And that's really -- what we've been seeing around the world is the prevalence of fatalities have been in the elderly and those who have other forms of medical fragility, comorbid conditions. And so really being on very high alert in our nursing home community is called for.
+
+Question: Mr. Secretary, can you talk about your meeting with lawmakers today and what specifically they're asking the federal government? What's their biggest concern?
+
+Alex Azar: Well, I think it's the same concern that we've all had, which is getting testing out there rapidly into the community so that we can be testing as many people as possible. As you know, our excellent teams down at the CDC developed the test really in record time, within weeks of getting the genetic sequence back in January.
+
+Alex Azar: And we approved the diagnostic at CD- -- at the FDA, under an emergency use authorization in record time. We've been able to be testing at CDC throughout, without any backlog in testing. Our throughput has been great there. We've had 12 labs qualify to be able to do the testing. We did suffer a manufacturing issue on that test as it went out to the rest of the public health labs.
+
+Alex Azar: We've gotten that issue solved in the last week, so that's up and running in the public health labs. We also have gotten this test produced by this contractor to get it out. So we will, this week, have up to 75,000 tests shipping out there to public health labs, as well as available to hospitals who order it. And then something really important happened on Saturday morning.
+
+Alex Azar: So one of the biggest issues around testing that people don't understand is, during the Obama administration, the FDA, for the first time, asserted control and regulatory jurisdiction over what are called "lab developed tests." Before that, if a hospital or a lab, like a Quest Diagnostics, a Lab Corps, or an academic medical center would develop a test on their own with reagents and tests, they could just do that if they were a certified clinical lab, called a CLIA lab.
+
+Alex Azar: But under the Obama administration, the FDA asserted jurisdiction and said, "You have to come to us first and get approval of that test before you can do it." On Saturday morning, Commissioner Hahn issued guidance saying, under an emergency use authorization, we are permitting these labs -- these public health labs, these hospital labs, commercial labs -- to go ahead, get the test going, do your own test, make it available, and come to us for approval after the fact under emergency use authorization.
+
+Alex Azar: That will make, as Commissioner Hahn has said, millions of tests per week available quite rapidly.
+
+Question: Mr. Secretary, can I ask you about the study from the CDC today that showed the Americans most at risk of contracting coronavirus are the ones with people living with patients? So should Americans be less worried about catching the virus from, say, people on the street or people at an airport?
+
+Alex Azar: So what we said at the press conference just yesterday is very consistent with that, which is: For the average American, in your daily life, the risk of getting coronavirus -- the novel coronavirus -- is very low. But if you are around individuals who have the novel coronavirus, the risk obviously is higher.
+
+Alex Azar: And that's why the efforts we're taking with the state of Washington and with Santa Clara County, and elsewhere in the country, are around what's called "community mitigation," which is to isolate individuals who have the disease, as well as to reduce social contact to bring the level of disease spreading down.
+
+Question: And, Mr. President, I don't know if you had seen reports about the Vice President having shaken hands with students from a Florida school, one of whom have been placed in a voluntary self-quarantine. Does that concern you at all? What did you think about that?
+
+Donald Trump: I haven't seen that report. No.
+
+Alex Azar: I haven't seen it either.
+
+Donald Trump: I haven't seen it.
+
+Question: Mr. President, how much money should go to hospitals for the uninsured?
+
+Donald Trump: Well, we're going to look at the uninsured because they have a big problem. And we're going to look at the uninsured people that -- you know, this came -- it was a surprise to all of us. It just happened. It shows what can happen in life. But we're going to be looking at the uninsured and see if we can help them out.
+
+Alex Azar: We're working -- as part of the emergency supplemental, we'll work with Congress on programs to help hospitals as they care for the uninsured with novel coronavirus.
+
+Donald Trump: Okay. Thank you all very much. Thank you.

@@ -1,0 +1,1243 @@
+Source: https://rollcall.com/factbase/trump/transcript/donald-trump-testimony-new-york-business-records-hush-money-april-22-2024
+
+Note: [Editor's note: The following transcript was provided by the New York State Unified Court System, available here: https://cqrc.al/ny-people-v-donald-j-trump. These documents were reprocessed by optical character recognition (OCR), reviewed, formatted and checked for errors by our internal A.I. systems, and reviewed by a human. However, please check against the PDFs before quoting. A searchable PDF incorporating the corrected text can be viewed or downloaded at: https://cqrc.al/trump-ny-trial-2024-04-22 for verification.]
+
+Juan Merchan: Good morning.
+
+Court Clerk: The People of the State of New York, indictment 71543 of 2023. Appearances, please, starting with the People.
+
+Joshua Steinglass: For the People, ADA Joshua Steinglass, Matthew Colangelo, Susan Hoffinger, Christopher Conroy, Becky Mangold and Katherine Ellis. Good morning everyone.
+
+Juan Merchan: Good morning.
+
+Todd Blanche: Good morning, your Honor. Todd Blanche. I am joined this morning by President Trump and the rest of the team, Emil Bove, Susan Necheles and Gedalia Stern. Good morning.
+
+Juan Merchan: Good morning. Good morning, Mr. Trump. So we have a couple of housekeeping matters to take care of before we get started. People, how long do you expect your opening statement to be?
+
+Matthew Colangelo: Your Honor, about 40 minutes.
+
+Juan Merchan: Okay. Mr. Blanche?
+
+Todd Blanche: About 25.
+
+Juan Merchan: Okay. That's fair. Because, unfortunately, we are going to have to break a little bit earlier or a lot earlier than I anticipated. We were informed this morning by juror number 620, who is alternate number six, you may recall that she had a toothache last week. She was able to make an emergency appointment today at three o'clock.
+
+Juan Merchan: Perhaps because of the holiday, I don't know why, that appointment was moved up to 1:20. So, I told her that we can break at 12:30 and I think that's just something we have to do to make sure we don't lose an alternate.
+
+Joshua Steinglass: Can I just ask you a quick question, Judge? Would it be okay, for logistical and bathroom purposes, if after the opening we take a short break to get our witnesses upstairs and to go the bathroom?
+
+Juan Merchan: Sure, of course. The other issue is, we received a call on Friday from juror number nine, who was juror number 423, and I did not speak with the juror, but my understanding is that the juror was concerned about the media attention and wasn't a hundred percent sure that she wanted to be here. The juror is here today.
+
+Juan Merchan: I think that we should speak with the juror. I see we have a courtroom full of people. We can either -- we can do it in my chambers. I am sorry, in my robing room and I will ask the court reporter to come in. Your client has waived Antommarchi, right?
+
+Todd Blanche: Yes.
+
+Juan Merchan: If possible, I would ask that not every single one of your colleagues come in with us, just one or two, find out what the issue is and see if this juror can continue to serve.
+
+Note: [The following proceedings were held in Judge Merchan's robing room.]
+
+Juan Merchan: Let the record reflect, we are in the robing room. Mr. Bove, Ms. Necheles, Ms. Hoffinger, Mr. Steinglass and Mr. Blanche are present. I would ask those of you who can sit, please sit, so it's less intimidating for the juror and there is another chair here, maybe Mr. Bove can sit in that chair there and then we can bring the juror in and she can stand.
+
+Sergeant: Would like me to shut the door?
+
+Juan Merchan: When she comes in, yes.
+
+Sergeant: Juror entering.
+
+Note: [Whereupon, juror number nine entered the robing room.]
+
+Juan Merchan: Good morning. I apologize for all of this. We need to do everything on the record. I understand that you called on Friday to express some concerns. Do you want to talk about this?
+
+Sworn Juror: Yeah, I calmed down now. It was as soon as I left on Thursday people were figuring out it was me based on what was released. I was a little concerned that it was posted that I live by myself. I am a girl that lives by myself. So I feel, I just, I started thinking further into the trial. I started getting nervous that as if -- what if more information comes out?
+
+Sworn Juror: Would I need to be worried for my safety? I was a little uneasy once there were things being posted about me that I didn't necessarily anticipate was going to happen.
+
+Juan Merchan: How do you feel today?
+
+Sworn Juror: I feel better today. I feel grounded. I, obviously, the gravity kind of set in and I just hope that I can continue to stay as anonymous as possible. I live by myself. It was posted that I live by myself. I had concerns if my name were ever to get out there, obviously, that poses a safety risk to me and that was really my biggest concern, if anyone ever figured out who I was, where I lived, and that I lived by myself that I wouldn't be safe.
+
+Sworn Juror: That was really my only concern.
+
+Juan Merchan: I can appreciate that. Just a couple of things that, hopefully, will reassure you. First, the jury was the story last week. Hopefully, I expect that the jury will no longer be the story.
+
+Sworn Juror: Yes, yes.
+
+Juan Merchan: Second, it's not entirely possible to read the description and know who would know that it was you, not surprising, so that works out. You know, if anything were to change, if there ever comes a time when you feel like you can't do this, just bring it to my attention. You should know that after the first day, I did speak to the press from the bench.
+
+Juan Merchan: I expressed my disappointment with how much information got out and since that time it's really been very different. Alright?
+
+Sworn Juror: Yes.
+
+Juan Merchan: Anything else you want to tell us?
+
+Sworn Juror: No, it was just safety concerns. Thank you.
+
+Juan Merchan: Thank you. You can go back to the jury room.
+
+Note: [Juror exits the robing room.]
+
+Juan Merchan: Anything anybody wants to put on the record about that?
+
+Joshua Steinglass: No.
+
+Todd Blanche: No.
+
+Juan Merchan: Are you comfortable with her staying on the jury?
+
+Joshua Steinglass: Yes.
+
+Susan Hoffinger: Yes.
+
+Note: [End of Inquiry.]
+
+Note: [In open court.]
+
+Juan Merchan: We are back on the record. Juror number nine is going to remain with us. So that's not going to be an issue. Again, just a couple of housekeeping matters. One of the issues that were raised at the end of last week had to do with the limiting instruction regarding Michael Cohen's guilty plea to FICA violations.
+
+Juan Merchan: The People submitted a version. The defense submitted a version. I reviewed them both and, ultimately, I drafted my own, which is really, it's consistent with what I would normally do. So let me hand it down. You can take a look at it, let me know if you have an objection to it. There is still plenty of time to correct anything that's a problem.
+
+Joshua Steinglass: Thank you.
+
+Juan Merchan: You are welcome.
+
+Note: [Document is handed to the attorneys.]
+
+Joshua Steinglass: That's fine.
+
+Juan Merchan: Anybody wish to be heard on that?
+
+Joshua Steinglass: We have no objection.
+
+Juan Merchan: Counsel?
+
+Todd Blanche: Nothing new, your Honor.
+
+Juan Merchan: Thank you. There was also an issue regarding at Access Hollywood tape last week and to what extent the People would be permitted to elicit information about it. I promised I would go back and review the transcript. I did. I don't really see the confusion. The issue of the People introducing a transcript was never raised or not raised or what was raised was that the People would be permitted to go into what was discussed in the Access Hollywood tape and that the tape would not be played.
+
+Juan Merchan: If the People were to request and seek to introduce a transcript, I would hear argument of both sides as a matter of evidence, not as a matter of this is the Access Hollywood tape and, therefore, some special rule applies. At this point, I don't see any reason why a transcript which accurately summarizes what was said in the tape should not be admitted into evidence.
+
+Joshua Steinglass: Thank you.
+
+Juan Merchan: I will hear you on that.
+
+Todd Blanche: Your Honor, we, obviously, objected for the reasons we put in our letter and the reason we talked about last week and continue to object, but your Honor has ruled.
+
+Juan Merchan: Thank you. Finally, we did have the Sandoval Hearing last week on Friday and I will read my ruling from the bench. This Court conducted a Sandoval Hearing on Friday, April 19, 2024. At that time, the People disclosed the list of all misconduct and criminal acts of the defendant not charged in the indictment, which the People intend to use at trial to impeach the credibility of the defendant pursuant to CPL Section 245.20, subdivision (3 (a). The People referred to six different proceedings involving a total of thirteen determinations.
+
+Juan Merchan: The defendant contends, among other things, that prior conduct is too similar to the crimes to which he is being charged and will permit the jury to infer guilt from propensity based on the priors. The Court has considered many relevant factors and balanced the prejudice to the defendant against his willingness to advance his own self interest in reaching the Sandoval compromise.
+
+Juan Merchan: The operative standard is familiar and, therefore, briefly repeated. It is well settled that the scope and content of cross-examination rests within the sound discretion of the trial judge. That's People v. Sandoval, 34 New York 2d 371, 1974. The Court in exercising its discretion prior to trial may limit the People's use of the defendant's history of criminal, vicious and immoral acts to impeach the defendant with cross-examination.
+
+Juan Merchan: Sandoval at 373. The Judge balances the act's probative value on questioning the defendant's credibility against the risk of unfair prejudice resulting from their admission. Sandoval at 375. There is no precise formula in determining which prior acts are appropriate impeachment material. People v Walker, 83 New York 2d 455, 1994. The trial court's analysis is not bound by the age, nature or number of defendant's prior crimes.
+
+Juan Merchan: People v. Gray, 84 New York 2d 713. A defendant can even be impeached with prior acts or prior bad acts that did not result in a criminal charge and that's Gray citing Sandoval. Indeed, a trial court my exclude such evidence entirely, may alternatively limit inquiry to the mere fact that there has been a prior conviction.
+
+Juan Merchan: It may limit the inquiry to the existence and nature of the prior conviction or it may permit examination to the facts and circumstances underlying the prior conviction. People v. Hayes, 97 New York 2d 203. Thus, even a ruling that permits cross-examination regarding a defendant's entire criminal record does not without more indicate an abuse of discretion.
+
+Juan Merchan: People v. Walker, 83 New York 2d at 458. In short, the ultimate question as to whether to permit such impeachment is a matter that rests with the trial judge who exercises a wide range of discretion in ruling on a Sandoval application. That's People v. Contreras 108 AD 2d 627. Moreover, as far as probative crimes -- withdrawn.
+
+Juan Merchan: Moreover, as far as probative crimes go, the mere similarity of a defendant's prior conviction or prior conduct to one of the crimes charged, does not automatically preclude cross-examination. That's People v. Pavao, P-A-V-A-O, New York 2d 282. That case dealt with violence. The principal was the same. The mere fact that the conduct was similar does not in and of itself preclude going into it. It has long been recognized that a defendant cannot shield himself from impeachment on the basis of frequency of his offense or his tendency to specialize in a particular type of crime.
+
+Juan Merchan: People v. Rahman, R-A-H-M-A-N, 62 AD 2d 968. It is settled law that a criminal defendant who chooses to testify on his own behalf may be cross-examined about any prior criminal, vicious or immoral acts that bear logically on his credibility, including those acts by defendant that did not result, again, in a criminal conviction.
+
+Juan Merchan: This Court is not required to preclude the People from asking about the incidents because they might keep the defendant off the stand. People v. Hayes. The Court of Appeals has stated that the alleged singularity of the defendant's testimony does not require the Court to limit otherwise appropriate impeachment material.
+
+Juan Merchan: In fact, Court's have recognized that if the defendant is the only witness, it may be that much more important that the jury be able to access his credibility accurately. Thus, the possible unavailability of other witnesses may cause the trial court to conclude this factor increases the importance of defendant's credibility.
+
+Juan Merchan: Of course, fairness dictates that the Court must be mindful of the potential prejudice to the prosecution in the fact-finding process denying the jury access to probative evidence of the defendant's credibility. People v. Bennette, B-E-N-N-E-T-T-E, 55 New York 2d at 147. Finally, any perceived unfair prejudice by a permitted inquiry may be alleviated by the Court's careful and specific limiting instructions at the time of cross-examination and, again, during final charge.
+
+Juan Merchan: In fact, the Court in clear and forceful language should instruct the jury that they are to consider the defendant's previous conduct only in assessing his credibility and under no such circumstances are to use his prior conduct as proof that he committed the instant crime, given those precise instructions, which the jurors are presumed to follow, People v. Davis 58 New York 2d 1102, the Court is permitted to reach a Sandoval compromise.
+
+Juan Merchan: Upon applying that law, if defendant takes the stand, the Court will permit the People to inquire into the following six determinations involving four separate proceedings. First, as to the proceeding of People by James v. Trump, index number, 452564, document number 1688, the Court will allow the People to elicit that on February 16, 2024, the defendant was found to have violated Executive Law Section 63 (12) by fraudulently misstating the value of his assets for an economic benefit.
+
+Juan Merchan: The Court ordered the defendant to pay penalties and enjoined the defendant from serving as an officer or director of any New York Corporation for a period of three years. Next, document number 1584, the Court will allow the People to elicit that on October 20, 2023, the defendant violated a court order by failing to remove an untrue, disparaging and personally identifying post about the Court's Principal Law Clerk from the website, Donald J. Trump dot com.
+
+Juan Merchan: The Court fined the defendant $5,000. And the third document from that incident, document number 1598, the Court will allow the People to elicit that on October 25, 2023, the defendant was found to have intentionally violated a court order by making public attacks on the Judge's law clerk, despite two prior court orders not to do so. The Court fined the defendant $10,000. Moving on to the next proceeding, and that would be Carroll v. Trump, 22, CV, 7311, and that would be ECF number 214. The Court will allow the People to elicit that on September 6, 2023, the defendant was found to have defamed E. Jean Carroll in public statements in 2019 by making false statements with actual malice.
+
+Juan Merchan: As to the next proceeding, that would be Carroll v. Trump, 22, CV, 10016, and that would be ECF number 174. The Court will allow the People to elicit that on May 9, 2023, the defendant was found to have defamed E. Jean Carroll in public statements made in 2022 on Truth Social by making a false statement with actual malice.
+
+Juan Merchan: A jury awarded the Plaintiff compensatory and punitive damages. And the fourth one would be People by James v. Trump, index 451130 of 2018. The Court will allow the People to elicit that on December 11, 2018, the defendant stipulated to the dissolution of the Donald J. Trump Foundation to resolve claims by the New York Attorney General that he engaged in repeated and willful self-dealing transactions.
+
+Juan Merchan: The Court has struck this compromise in order to permit the defendant to testify in his own behalf if he chooses to. In doing so, the Court has excluded inquiry to some degree into each of the six proceedings, including two proceedings that the Court will not permit any inquiry at all. Further, the Court has greatly curtailed the extent to which the prosecution may inquire into the underlying facts, the specific claims or charges and the amounts of the significant penalties.
+
+Juan Merchan: The Court cautions defendant that this Sandoval Ruling is a shield and not a sword. After a trial court has made a Sandoval Ruling, a defendant who offers misleading testimony about his background and prior conduct opens the door to questioning that otherwise has been excluded. People v. Fardan, F-A-R-D-A-N, 82 New York 2d 638, at 645 to 647. Would you like to be heard on that?
+
+Todd Blanche: No.
+
+Juan Merchan: I believe that takes care of all of the preliminary matters. Can we bring the jurors out?
+
+Joshua Steinglass: Judge, I wanted to clarify the record on one point. The Sandoval materials, including the chart, was provided to defense counsel pursuant to your ruling back on March 10th of 2024. Other than that, there is no reason we can't bring in the jury.
+
+Juan Merchan: Okay, let's get the jury, please.
+
+Sergeant: Jurors entering.
+
+Juan Merchan: All rise.
+
+Note: [Whereupon, the sworn jury entered the courtroom and were properly seated.]
+
+Juan Merchan: Please be seated. Good morning jurors. Welcome back. Members of the Jury, we are about to proceed with the trial of the People of the State of New York versus Donald J. Trump. At the outset, I am going to explain the various stages of a trial and what you may expect to see and hear during the trial so that you may better understand what is taking place.
+
+Juan Merchan: I will also remind you of some basic principles of law which apply to this and all criminal trials. At the conclusion of the case, I will again remind you of those principles. I will define the crimes charged, explain the law that applies to those charged crimes and list for you the elements that the People must prove beyond a reasonable doubt.
+
+Juan Merchan: These introductory instructions will take about 30 minutes and may sound similar to what you heard last week. As you can see, a court reporter is taking down everything that is being said. What the reporter takes down is called the record of the trial. Sometimes you will see a witness use his or her hands to illustrate something.
+
+Juan Merchan: For example, a witness may say that an object was this far away, indicating with their hands. Normally, we will then hear the lawyers, or the Court, say something to the effect of, let the record reflect that the witness is indicating about a foot. We do that because sometimes it becomes necessary to have the court reporter read back what a witness has said or what a witness is indicating.
+
+Juan Merchan: If somebody does not say orally for the record that the witness is indicating with his or her hands, when that portion of the record is read back we may not remember what the witnesses indicated. You, of course, will be able to see with your own eyes and you can make your own judgment. The trial formally begins with what the law calls an opening statement by the prosecutor.
+
+Juan Merchan: The law requires the prosecutor to make an opening statement. The law, however, does not require the defendant to make an opening statement. If the defendant does not make an opening statement, that is not a factor from which you may draw any inference unfavorable to him. Remember, what the lawyers say in an opening statement, or at any time thereafter, is not evidence.
+
+Juan Merchan: The lawyers are not witnesses. What I say is not evidence. I am not a witness. You must decide this case on the evidence and remember at all times that what the lawyers say at any time is not evidence. After the completion of the opening statements, the prosecutor will proceed with the presentation of evidence.
+
+Juan Merchan: I remind you that the indictment is not evidence. It is simply a document that contains an accusation. The defendant has pled not guilty to those accusations and a trial is for you to hear the evidence and decide whether the defendant is guilty, or not guilty. I remind you also that evidence is the testimony of witnesses, the stipulations, if any, that are agreed to by the parties and documents or other physical objects which are received in evidence.
+
+Juan Merchan: Testimony is, of course, the most common form of evidence and comes from the questioning of the witnesses by the lawyers, and perhaps by the Court. A question by itself is not evidence. It is the question with the answer that is evidence. Sometimes a question will assume, for example, sometimes a question will assume something to be true.
+
+Juan Merchan: You are not, however, to conclude that an assumption in a question is true unless the answer in your judgment confirms it to be true. So you must consider the question and the witness' answer and decide whether you find the answer believable and accurate. Because, again, it is the question with the answer that is the evidence.
+
+Juan Merchan: Next, evidence may come in the form of a stipulation. A stipulation is information which both parties agree to present to the jury as evidence without calling a witness to testify to that information. Thus, evidence may come in the form of physical items such as documents, photographs, clothing or charts.
+
+Juan Merchan: When a lawyer is questioning a witness and in the question refers to a physical object for the first time, the object is normally marked with a number or a letter of the alphabet so that we can more easily identify the object and refer to it. That procedure is very helpful in keeping track of physical objects.
+
+Juan Merchan: Sometimes, depending on the type of physical object, it may be too difficult or inconvenient to mark the object and the object is deemed marked rather than actually marked. Normally, when the object is first referred to a lawyer will ask the Court to have the object marked for identification. If the People make the request and the Court grants the request, the object is indeed marked with a number.
+
+Juan Merchan: If the defendant makes a request and the Court grants the request, the object is deemed or marked with a letter of the alphabet. That just helps us to remember who introduced the Exhibit. Sometimes to save time during the trial we will have certain physical objects deemed or marked for identification before the trial begins and you will then hear the lawyer refer to the object by its number or letter.
+
+Juan Merchan: An item deemed or marked for identification, is not evidence and is, therefore, not available for your inspection and consideration. It's only the objects that are actually received into evidence that are evidence. Sometimes a lawyer will ask the Court to receive an object in evidence and when a lawyer does that the other lawyer is permitted to ask the witness questions designed to determine whether the object can, under the law, be admitted into evidence.
+
+Juan Merchan: Again, if I grant the request to admit the object in evidence, the object becomes evidence and is available for your inspection and consideration. I advise you that it is common and permissible for a lawyer or an investigator for a lawyer to speak to a witness about his or her testimony before calling him or her to the stand.
+
+Juan Merchan: Also, a witness may review documents and other material pertaining to the case before he or she testifies at the trial. Generally, a witness scheduled to testify at trial may not be present in the courtroom during the testimony of other witnesses, but there are exceptions. After the People have completed the presentation of their evidence, the defendant may, but is not required, to present evidence.
+
+Juan Merchan: I remind you that throughout these proceedings the defendant is presumed to be innocent. As a result, you must find the defendant not guilty unless on the evidence presented at this trial you conclude that the People have proven the defendant guilty beyond a reasonable doubt. That a defendant does not testify as a witness is not a fact from which any inference unfavorable to the defendant may be drawn.
+
+Juan Merchan: The defendant is not required to prove that he is not guilty. In fact, the defendant is not required to prove or disprove anything. To the contrary, the People have the burden of proving the defendant guilty beyond a reasonable doubt. That means before you can find the defendant guilty of a crime, the People must prove beyond a reasonable doubt every element of the crime, including that the defendant is the person who committed that crime.
+
+Juan Merchan: The burden of proof never shifts from the People to the defendant. If the People fail to satisfy their burden of proof, you must find the defendant not guilty, and if the People satisfy their burden of proof, you must find the defendant guilty. The law uses the terms, proof beyond a reasonable doubt to tell you how convincing the defendant's guilt must be to permit a verdict of guilty.
+
+Juan Merchan: The law recognizes that in dealing with human affairs there are very few things in this world that we know with absolute certainty. Therefore, the law does not require the People to prove a defendant guilty beyond all possible doubt. On the other hand, it is not sufficient to prove that the defendant is probably guilty.
+
+Juan Merchan: In a criminal case the proof of guilt must be stronger than that. It must be beyond a reasonable doubt. A reasonable doubt is an honest doubt of the defendant's guilt for which a reason exists based upon the nature and the quality of the evidence. It is an actual doubt, not an imaginary doubt. It is a doubt that a reasonable person acting in a matter of this importance would be likely to entertain because of the evidence that was presented or because of the lack of convincing evidence.
+
+Juan Merchan: The proof of guilt beyond a reasonable doubt is proof that leaves you so firmly convinced of a defendant's guilt that you have no reasonable doubt of the existence of any element of the crime or of the defendant's identity as the person who committed that crime. In determining whether the People have proven the defendant's guilt beyond a reasonable doubt, you should be guided solely by a full and fair evaluation of the evidence.
+
+Juan Merchan: After carefully evaluating the evidence, each of you must decide whether that evidence convinces you beyond a reasonable doubt of the defendant's guilt. Whatever your verdict may be, it must not rest on baseless speculation nor may it by influenced in any way by bias, prejudice, sympathy or by a desire to bring an end to your deliberations or to avoid an unpleasant duty.
+
+Juan Merchan: Again, if you are not convinced beyond a reasonable doubt that the defendant is guilty of the charged crime, you must find the defendant not guilty of the crime. And if you are convinced beyond a reasonable doubt that the defendant is guilty of a charged crime, you must find the defendant guilty of that crime.
+
+Juan Merchan: Now, when each witness, by whomever called, is first examined, that is they are asked questions by the lawyer who calls the witness to testify, that is called direct examination. When the direct examination is completed, the other lawyer is permitted to ask questions of the witness and that is called cross-examination.
+
+Juan Merchan: The lawyers are responsible for questioning the witnesses. The Court may at times ask a witness a question. The jurors may not ask questions of the witnesses. You may, but are not required, to take notes. If you wish to take notes we will provide materials to you for that purpose. If you decide to take notes, you must follow these rules.
+
+Juan Merchan: Remember, every word of each witness is recorded by the court reporter and during deliberations upon your request the testimony will be read back to you in whole or in part. So there is no need to take verbatim notes of a witness' testimony. Notes by definition are a brief written record of something to assist your memory.
+
+Juan Merchan: A note should not take precedence over your own independent recollection. Remember, also, you are the finders of fact who are responsible to evaluate the believability and accuracy of a witness' testimony. It is, thus, important that you be able to both fully comprehend what a witness is saying and how a witness is saying it. Accordingly, you must not permit note taking to distract you from the proceedings.
+
+Juan Merchan: If you make a note, it should be brief and not distract you from what the next question and answer are. Any notes a juror takes are only for that juror's own personal use in refreshing his or her recollection. Thus, jurors who chose not to take notes must rely on their own independent recollection and must not be influenced by any notes another juror may have taken.
+
+Juan Merchan: Also, a juror's notes are not a substitute for the recorded transcript of the testimony or for any exhibit received into evidence. If during your deliberations there is a discrepancy between a juror's recollection and his or her notes regarding the evidence, you should ask to have the relevant testimony read back or the exhibit produced for your inspection.
+
+Juan Merchan: At the end of each day, you will leave your notes on your chair. They will be collected and safeguarded here and at the end of trial they will be destroyed. As judge's of the fact, you alone determine the truthfulness and accuracy of each witness. You must decide whether a witness tells the truth and was accurate or instead testified falsely or was mistaken.
+
+Juan Merchan: You must also decide what importance to give to the testimony you accept as truthful and accurate. It is the quality of the testimony that is controlling, not the number of witnesses who testified. There is no particular formula for evaluating the truthfulness and accuracy of another person's testimony or statements.
+
+Juan Merchan: You bring to this process all of your varied life experiences. In life you frequently decide the truthfulness and accuracy of statements made to you by other people. The same factors used to make those decisions should be used in this case when evaluating the testimony. At the end of the trial I will give you some examples of those factors.
+
+Juan Merchan: There are rules for all stages of a trial, including rules that govern whether certain evidence may be introduced and, if so, how and when. Part of my job is to enforce those rules. Some of these rules you may understand the nature of the rule but some of them you may not understand unless you studied the law.
+
+Juan Merchan: The rules have been carefully developed over hundreds of years for the sole purpose of guaranteeing a fair and orderly trial. In other words, the rules are not designed to determine whether the evidence you hear and see is true or false, accurate or inaccurate. It is for you, not for me, to evaluate the evidence and make those decisions.
+
+Juan Merchan: The rules are designed to ensure that the evidence you hear and see is relevant and in a form that permits you to evaluate it fairly. A witness usually can testify only about matters the witness has personal knowledge of, that is, something the witness has personally seen, heard, felt, touched or tasted.
+
+Juan Merchan: Thus, a witness is not permitted to guess or speculate or say what he or she thinks another person saw, heard, felt, touched or tasted. Also, a witness is not permitted to give an opinion about matters for which a special expertise is necessary unless, of course, the witness purports to be an expert on the matter he or she is being questioned about.
+
+Note: [Whereupon, Principal Court Reporter, Susan Pearce-Bates, was relieved by Senior Court Reporter, Lisa Kramsky.]
+
+Juan Merchan: With some exceptions, what a witness may have been thinking when something has taken place is not relevant evidence. Finally, a witness is often not permitted to testify to hearsay, meaning generally that a witness cannot testify to what the witness may have said before the trial, or what another person may have said to that witness before the trial.
+
+Juan Merchan: But there are many exceptions to the hearsay rule for a variety of sound reasons, too numerous to go into at this time. I will, however, explain a couple of exceptions that frequently arise during a trial. Sometimes, a witness will be permitted to testify that the witness did something because of what someone said in that circumstance.
+
+Juan Merchan: It does not matter who uttered the statement or how the speaker gathered the information for the statement, or even whether the statement is truthful and accurate. It matters only that someone uttered the words and the witness did something upon hearing those words. So in that instance you may not consider what the witness was told for the truth of the words said to the witness.
+
+Juan Merchan: You may consider the words only for the reason they are offered, that is, to explain what the witness did after hearing the statement. During the presentation of evidence, the lawyers for the parties will in turn ask questions of the witnesses, and during that questioning a lawyer is not permitted to make comments on the witness's answers or on the case.
+
+Juan Merchan: That is not allowed. That happens on TV and in the movies, but it doesn't happen in real trials. In a real trial, it is at the end of the case that the lawyers are permitted to address the jurors in what are called a summation. And it is then that the lawyers may comment on the witnesses, the testimony, and any other evidence.
+
+Juan Merchan: During the questioning of a witness, the lawyer may use a question or some other presentation of evidence. If not in accord with a rule of law, that lawyer will object. When an objection is made, I will decide whether the rules permit the question to be asked or the evidence to be introduced. The objection will be one word: Objection.
+
+Juan Merchan: Anything more than that, then a party might gain an unfair edge. Making objections is part of the lawyer's job. You are not to draw any unfavorable inference because objections are made, they take place at every trial. A lawyer may object before a witness answers a question or after a witness answers a question.
+
+Juan Merchan: When an objection is made to a question before the witness answers, if I overrule the objection, the witness will be permitted to answer. If I sustain the objection, there is no answer and, therefore, no evidence. Remember, a question alone is not evidence. If a lawyer objects after the witness has answered the question and I overrule the objection, the answer stands as evidence.
+
+Juan Merchan: If I explain the objection, the answer is not evidence. The question and answer is stricken from the record, and you are to completely disregard that answer as though it were never said. Also, the Court has an obligation under the laws of New York to make sure that fundamental rules are followed, even if one of the lawyers does not actually voice an objection.
+
+Juan Merchan: So, on occasion, you may hear me say sustained or words to that effect, even though no one has actually objected. Any ruling by the Court on an objection of counsel or otherwise is based on our law and expresses no opinion about the facts of the case or whether the defendant is guilty or not guilty. Remember, you are responsible for making that decision.
+
+Juan Merchan: Now, from time to time during the course of the trial, there will be conferences at the bench with counsel and if they become prolonged it may be necessary for the Court to ask the jury to return to the jury room. These conferences that deal with questions and matters of law and scheduling of the trial are my responsibility, so when the occasion arises when there are conferences at the bench or outside of your presence, I ask for your understanding.
+
+Juan Merchan: Upon completion of the presentation of evidence, the lawyers will address you in a closing statement, or what the law calls a summation. What a lawyer says in a summation is not evidence. The summations, however, provide each lawyer an opportunity to review the evidence presented and submit for your consideration the facts, inferences and conclusions which they contend may be properly drawn from the evidence.
+
+Juan Merchan: After summations are concluded, I will instruct you on the rules of law applicable to the case. You must accept and follow those rules. You will then begin your deliberations. During your deliberations, your function as jurors will be to decide what the facts are and to apply the rules of law that I set out.
+
+Juan Merchan: You will determine what the facts are from all of the testimony that you hear, the exhibits that are submitted and any stipulations the parties have agreed to. In other words, you will decide the case on the evidence. The conclusion you reach from determining the facts and applying the law will be your verdict, guilty or not guilty.
+
+Juan Merchan: Remember, you have promised to be a fair juror. A fair juror is a person who will keep their promise to be fair and impartial and who will not permit the verdict to be influenced by bias or prejudice in favor of or against the person who appeared in this trial on account of that person's race, color, national origin, ancestry, gender, gender identity or expression, religion, religious practice, age, disability, or sexual orientation.
+
+Juan Merchan: And, further, a fair juror must be mindful of any stereotypes or attitudes about people or about groups of people that the juror may have, and must not allow those stereotypes or attitudes to affect their decision. As I explained during jury selection, we all develop and hold unconscious views on many subjects.
+
+Juan Merchan: Some of those unconscious views may come from stereotypes and attitudes about people or about groups of people that may impact on a person's thinking and decision-making without that person even knowing it. As a juror, you are asked to make a very important decision about another member of the community.
+
+Juan Merchan: I know you would not want to make that decision based on such stereotypes or attitudes, that is, on implicit biases. And it would be wrong for you to do so. A fair juror must guard against the impact of such stereotypes or attitudes. You can do this by asking yourself during your deliberations whether your views and conclusions would be different if the defendant, witnesses or others that you have heard about or seen in court were of a different race, color, national origin, ancestry, gender, gender identity or expression, religious practice, age, political affiliation or sexual orientation or if they did not have a disability.
+
+Juan Merchan: If the answer is yes, then in keeping with your promise to be fair, reconsider your views and conclusions along with the other jurors, and make sure your decision is based on the evidence and not on stereotypes or attitudes. Justice requires no less. Under our law, Juror Number 1 will serve as the jury's foreperson.
+
+Juan Merchan: During the trial, the foreperson has the same responsibilities as any other juror. During deliberations, the foreperson will sign any note that the jury sends to me, including that the jury has reached a verdict. The foreperson will announce the jury's verdict. Thus, in sum, the stages of the criminal trial are the opening statements, the presentation of evidence, summations, the final instructions of the Court to the jury on the law, and the deliberation of the jury and the verdict.
+
+Juan Merchan: During the trial, if you need to speak with me about something relating to your jury service or the trial, please tell a court officer that you need to speak to me. I will then arrange a meeting with the parties, in the courtroom or in my robing room. Do not discuss with your fellow jurors whatever you feel necessary to bring to my attention.
+
+Juan Merchan: And after we have had our conversation, do not discuss with your fellow jurors whatever it is that we discussed. During the trial we do our best to avoid delay, but from experience I know delays are inevitable for a multitude of reasons, through no one's deliberate fault. When those delays occur, I ask for your understanding and your patience.
+
+Juan Merchan: I assure you your time is important to me. I never take it for granted, and I never want to waste it. I request that you please be here at the times I set so that the absence or lateness of a juror is not the occasion for delay. If an emergency arises that may make you late or prevent you from attending, please call the Court, leave a number where you can be reached and explain the problem so we can minimize everyone's inconvenience.
+
+Juan Merchan: In this case, we have six alternate jurors. An alternate juror is expected to pay the same close attention to the case as any one of the first 12 jurors. The only difference between an alternate juror and one of the first 12 jurors is that the alternate juror does not know whether that juror will be called upon at some point during the trial to substitute for one of the 12 jurors.
+
+Juan Merchan: That substitution could take place only if some presently unforeseen extraordinary emergency arises that makes it totally impossible for one of the first 12 jurors to complete the trial. Our law expects that the first 12 jurors who begin the trial will be the same 12 jurors who complete the trial. So it takes an extraordinary emergency before there may be a substitution of an alternate.
+
+Juan Merchan: Finally, our law requires jurors to follow certain instructions in order to help assure a just and fair trial. And I am required by law to read these admonitions to you whenever we separate. You will hear them countless times during the course of the trial. I will now give you those instructions: Do not speak either among yourselves or with anyone else about anything related to the case.
+
+Juan Merchan: You may tell the people with whom you live or your employer that you are a juror, and give them information about when you will be required to be in court, but you may not talk with them or anyone else about anything related to the case. Do not at any time during the trial request, accept, agree to accept or discuss with any person the receipt or acceptance of any payment or benefit in return for supplying any information concerning the trial.
+
+Juan Merchan: You must promptly report directly to me any incident within your knowledge involving any attempt by any person to improperly influence you or any members of the jury. Do not visit or view the locations or places that a charged crime was allegedly committed or any other premises or place involved in the case.
+
+Juan Merchan: And you must not use internet Maps, Google Earth or any other program or device to search for and view any location discussed in the testimony. Do not read, view or listen to any accounts or discussions of the case reported by newspapers, television, radio, the internet or any other news media. Do not attempt to research any fact, issue or law related to the case, whether by discussion with others, by research in a library or on the internet, or by any other means or source.
+
+Juan Merchan: I want to emphasize that in addition to not speaking face-to-face with anyone about the case, you must not communicate with anyone about the case by any other means, including by telephone, text messages, email, chat rooms, blogs, social websites such as Facebook or X. And you must not provide any information about the case to anyone by any means whatsoever, and that includes the posting of information about the case, or what you were doing on the case, on any device or anything outside the case, including chats, blogs, social websites or any other means.
+
+Juan Merchan: You must also not Google or otherwise search for any information about the case or the locations involved in the case or the people involved in the case, including the defendant, the witnesses, the lawyers or myself. Now, jurors, I want you to understand why these rules are so important. Our law does not permit jurors to speak with anyone else about the case or permit anyone to talk to them about the case because only you are authorized to render a verdict.
+
+Juan Merchan: Only you have been found to be fair, and only you have promised to be fair. No one else has been so qualified for this trial. Our law also does not permit jurors to speak among themselves about the case until the Court tells them to begin their deliberations, because premature discussions can lead to a premature final decision.
+
+Juan Merchan: Our law does not permit you to visit a place discussed in the testimony. First, you cannot always be sure that the place is in the same condition as it was on the day in question. Second, even if it were in the same condition, once you go to a place discussed in the testimony to evaluate the the evidence, in light of what you see, you become a witness, not a juror.
+
+Juan Merchan: As a witness, you may now have an erroneous view of the scene that may not be subject to the correction by either party. That would not be fair. Finally, our law requires that you not read or listen to any news accounts or posts of the case and that you not attempt to research any fact, issue or law related to the case.
+
+Juan Merchan: Your decision must be based solely on the testimony and other evidence presented in this courtroom. It would not be fair to the parties for you to base your decision on a reporter's view or opinion or upon information that you acquire out of the courtroom. These rules are designed to help guarantee a fair trial, and a violation of any of these rules can jeopardize the integrity of these proceedings.
+
+Juan Merchan: Accordingly, our law sets forth serious consequences if the rules are not followed. I trust you understand and appreciate the importance of following these rules. And in accordance with your ultimate promise, I know you promise to do so. Before we begin with the opening statement, I know we briefly discussed scheduling.
+
+Juan Merchan: We tried to contact all of you to let you know that we would be working through lunch today and ending at 2:00, so that you wouldn't be surprised when you got here. There is a slight change today, and we are only going to be working until 12:30 only today. Tomorrow we are going to start at 11. Once again, we are going to work through lunch, and we will end the day at 2:00. Wednesday is my calendar day, so we cannot meet on Wednesdays.
+
+Juan Merchan: We will work all day Thursday, Friday. And then Monday and Tuesday next week we will be back to working through lunch until 2:00 because of the holiday. After that, we should settle into a much more normal routine of 9:30 to 4:30. Having concluded my preliminary instructions, I will now ask the People to deliver their opening statement.
+
+Juan Merchan: People.
+
+Matthew Colangelo: Good morning, your Honor, counsel, members of the jury. This case is about a criminal conspiracy and a cover-up. The defendant, Donald Trump, orchestrated a criminal scheme to corrupt the 2016 presidential election, then he covered up that criminal conspiracy by lying in his New York business records over and over and over again.
+
+Matthew Colangelo: In June of 2015, Donald Trump announced his candidacy for president in the 2016 election, a few months later this conspiracy began. He invited his friend, David Pecker, to a meeting at Trump Tower here in Manhattan. Mr. Pecker was the CEO of a media company that, among other things, owned and published the National Enquirer tabloid.
+
+Matthew Colangelo: Michael Cohen was also at that meeting. He worked for the defendant as the defendant's special counsel at his company, the Trump Organization. And those three men formed a conspiracy at that meeting to influence the presidential election by concealing negative information about Mr. Trump in order to help him get elected.
+
+Matthew Colangelo: As one part of that agreement, Michael Cohen paid $130,000 to an adult film actress named Stormy Daniels just a couple of weeks before the 2016 election to silence her and to make sure the public did not learn of the sexual encounter with the defendant. Cohen made that payment at the defendant's direction, and he did it to influence the presidential election.
+
+Matthew Colangelo: After the election, the defendant then reimbursed Cohen for that payment through a series of monthly checks, all of which were processed through the defendant's company, the Trump Organization, and they disguised what the payments were for. The defendant said in his business records that he was paying Cohen for legal services pursuant to a retainer agreement.
+
+Matthew Colangelo: But, those were lies. There was no retainer agreement. Cohen was not being paid for legal services. The defendant was paying him back for an illegal payment to Stormy Daniels on the eve of the election. The defendant falsified those business records because he wanted to conceal his and others' criminal conduct.
+
+Matthew Colangelo: In total, the defendant falsified 34 business records to cover up that criminal conspiracy. As a result of his conduct, the defendant was indicted by a Grand Jury in Manhattan on 34 counts of falsifying business records. And the first count of that indictment reads: The Grand Jury of the County of New York, by this indictment, accuses the defendant of the crime of Falsifying Business Records in the First Degree in violation of Penal Law Section 175.10, committed as follows: The defendant, in the County of New York and elsewhere, on or about February 14th, 2017, with intent to defraud and intent to commit or conceal another crime and to aid and conceal the commission thereof, made and caused a false entry in the business records of an enterprise, to wit: An invoice from Michael Cohen, dated February 14th, 2017, marked as a record of the Donald J. Trump Revocable Trust and kept and maintained by the Trump Organization.
+
+Matthew Colangelo: Now, the remaining 33 counts in this indictment detail the rest of the false business records charges for each monthly payment. The fraudulent cover-up scheme involved falsifying three different types of business records: An invoice, falsely describing a request for payment for legal services rendered in a given month, a voucher entry in the Trump Organization's general ledger system falsely describing the payment as one for legal services, and payment checks with check stubs that also falsely describe the nature and payments.
+
+Matthew Colangelo: All in all, the defendant disguised his payments to Michael Cohen through 11 falsified invoices, 12 falsified ledger entries and 11 falsified checks for a total of 34 false business records in the books and records of his company, the Trump Organization. But, as Judge Merchan told you, the indictment is not evidence.
+
+Matthew Colangelo: So, let's talk about what the evidence will be. It starts with that August 2015 meeting in Trump Tower. The defendant had just announced that he was running for president. And he asked David Pecker to come to Trump Tower to talk. At the time, David Pecker was the chairman and CEO of a major media company called American Media, Incorporated or AMI. AMI owned and published celebrity magazines, health and fitness magazines, and supermarket tabloids like the National Enquirer.
+
+Matthew Colangelo: As the man in charge of AMI, Pecker had the ultimate say over publication decisions. He had the say over what stories to publish or not publish in any of AMI's magazines or tabloids. And Trump and Pecker were joined at that meeting by Michael Cohen, who, as I mentioned, worked for the defendant at the Trump Organization and served as special counsel to the defendant.
+
+Matthew Colangelo: Now, Cohen's job, really, was to take care of problems for the defendant. You will hear evidence at trial that he was even referred to as Trump's "fixer". So, those three men, Donald Trump, David Pecker and Michael Cohen, struck an agreement at that meeting, together, they conspired to influence the 2016 presidential election in three different ways.
+
+Matthew Colangelo: First, they agreed that Pecker would help the defendant's campaign by acting as eyes and ears for the campaign. Pecker would use AMI's network of sources through all of its magazines and publications to gather information that might be harmful to Trump's candidacy, report that information to Cohen, so Donald Trump would then prevent the information from becoming public.
+
+Matthew Colangelo: Second, they agreed that AMI would use its tabloids and magazines to publish flattering stories about the defendant. And, third, they agreed that AMI would use those same publications to attack Mr. Trump's political opponents. After the meeting, David Pecker told the National Enquirer's Editor-in-Chief, a man named Dylan Howard, to report directly to Pecker about this Trump Organization conspiracy and he enlisted his help in carrying it out.
+
+Matthew Colangelo: And, together, those coconspirators then followed through on every aspect of this scheme I just described. So, for example, the National Enquirer ran headline after headline that extolled the defendant's virtues, headlines that Mr. Pecker specifically directed his publication to make because of the conspiracy he reached at the Trump Organization agreement.
+
+Matthew Colangelo: Many of those headlines and the stories behind them were even shown to Cohen and the defendant in advance before they were published so the defendant could review them, request changes, accept or reject publication stories, even cover art. The National Enquirer also ran stories attacking Mr. Trump's political opponents.
+
+Matthew Colangelo: You will see evidence of those stories at trial. They include tabloid headlines and stories attacking one of his political opponents, Dr. Ben Carson, accusing him of medical malpractice. They ran other stories attacking a then-candidate named Senator Ted Cruz, accusing him of sexual infidelity, accusing him of having some family connection to the JFK assassination.
+
+Matthew Colangelo: The National Enquirer ran these stories as a part of that conspiracy that was launched at the Trump Tower meeting, and they did it to help the defendant's campaign. And after some of these stories came out, the defendant even followed up with his contacts at AMI to thank them for their stories and to praise them for their attacks in their publications on his political opponens.
+
+Matthew Colangelo: So, you had three parts of this conspiracy: You had the agreement to run positive coverage, you had the agreement to attack his opponents, and then the core of the conspiracy was David Pecker's agreement to act as eyes and ears for the campaign in an effort to locate damaging information about the defendant and then take steps to try to bury it to help Trump get elected.
+
+Matthew Colangelo: It was a core part of this conspiracy that the coconspirators then executed through three different transactions over the course of the next year. They used a practice called catch-and-kill. Catch-and-kill is when the tabloid buys up damaging information about someone, demands that the source sign a non-disclosure agreement to prevent them from taking that information or that story anywhere else, and then the tabloid declines to publish the story to prevent it from ever seeing the light of day.
+
+Matthew Colangelo: So it's a way of buying damaging information not to publish it, but to hide it, make it go away. And in this case, to help the candidate. Now, Trump and Pecker and Cohen carried out three different catch-and-kill deals to help him get elected. First, just a few months after the Trump Tower meeting, David Pecker learned that a former Trump Tower doorman named Dino Sajudin was trying to sell information about an alleged out-of-wedlock child that Trump had fathered with one of his former housekeepers.
+
+Matthew Colangelo: So, as they agreed at the Trump Tower meeting, Pecker immediately contacted Cohen with that information. Cohen then told the defendant, Donald Trump, who told Cohen to take care of it. After consulting with Cohen, Pecker directed Howard, his Editor-in-Chief at the National Enquirer, to negotiate an agreement to pay $30,000 to Sajudin to buy the exclusive rights of that story.
+
+Matthew Colangelo: And the evidence will show that Pecker was not acting as a publisher, he was acting as a coconspirator. The evidence will show that this was a highly unusual deal. Even for tabloid journalism, it was a lot more money than they would usually pay to a source. They bought Sajudin's story without even fully investigating it. And it was the first time that David Pecker had ever paid anyone for information about Donald Trump.
+
+Matthew Colangelo: But, Pecker directed that the deal take place because of the agreement he had reached and because he had promised Donald Trump at the Trump Tower meeting in August of 2015 that he would use his media empire to help the defendant's campaign. And they knew that public disclosure of Sajudin's information would hurt that campaign.
+
+Matthew Colangelo: Michael Cohen even coordinated with AMI throughout the whole process and insisted that AMI amend the agreement with Mr. Sajudin after it was signed, to add a $1 million damages penalty fee if Sajudin violated the confidential agreement. So you have the candidate's fixer actively colluding with a catch-and-kill deal with the media enterprise by adding deal terms to lock up the negative information even tighter to keep it from coming out before the election.
+
+Matthew Colangelo: And when AMI later determined that Mr. Sajudin's allegations weren't even true, Cohen told Pecker not to release Sajudin, not to release him from his NDA until after the presidential election. And because of the agreement they he had reached, Pecker did what Cohen said. Pecker deliberately delayed releasing Sajudin from his non-disclosure agreement with AMI until after the November 2016 election, when it could no longer hurt Trump's candidacy.
+
+Matthew Colangelo: So that was just the first of the three catch-and-kill deals that I mentioned that came out of the Trump Tower conspiracy. The second involved a woman named Karen McDougal, a former Playboy playmate. About five months before the presidential election, in June of 2016, Dylan Howard of the National Enquirer heard from one of his frequent sources, a lawyer named Keith Davidson.
+
+Matthew Colangelo: Davidson was representing Ms. McDougal, and she was shopping around her account of her affair with Mr. Trump. Davidson told Howard that he had, quote, a blockbuster Trump story. Karen McDougal said that she had had a romantic and sexual relationship with the defendant while he was married that lasted nearly a year.
+
+Matthew Colangelo: So, as David Pecker had tasked him at the Trump Tower meeting, Howard got in touch with Cohen, the Trump Organization right away and told him what he had learned, Cohen then told the defendant, and the evidence will show that the defendant desperately did not want this information about Karen McDougal to become public because he was concerned about its effect on the election.
+
+Matthew Colangelo: And at David Pecker's direction, Howard flew to California, he met with Karen McDougal and her lawyer, Keith Davidson, in person. Before the meeting, during the meeting, after the meeting, Howard and Pecker were in frequent and urgent contact with Michael Cohen, who wanted updates on the progress of their discussions.
+
+Matthew Colangelo: You are going to see the flurry of text messages, the barrage of phone calls around those conversations and around that meeting. And when Howard called Cohen after the meeting with Karen McDougal, Howard said he thought the allegations were true. So, Cohen asked AMI to make arrangements to buy McDougal's information quickly so they could prevent anyone else from publishing it. Trump and Pecker and Cohen, all, they had a series of conversations and discussions about who would put up the money for that payoff deal.
+
+Matthew Colangelo: Pecker ultimately agreed that he would have AMI make a $150,000 payment to McDougal in exchange for the limited life rights to the story of her affair. To provide some cover for that payoff, AMI added other terms to the deal. Ms. McDougal would appear on magazine covers, with the help of a ghost writer, they would run lifestyle articles under her name in other AMI magazines.
+
+Matthew Colangelo: But the real reason Pecker directed AMI to make this payment to McDougal was to make sure she didn't publicize her accounts of her affair with Trump before the 2016 election. David Pecker will also testify that $150,000 was way more than AMI would ordinarily pay for this type of story. But he discussed it directly with Donald Trump and he discussed it with Michael Cohen, and he agreed to the deal on the understanding that Trump was going to find a way to pay AMI back.
+
+Matthew Colangelo: You will hear David Pecker testify about his conversations with Donald Trump about the McDougal payoff. And three months before Election Day, AMI and McDougal signed that deal. But as the weeks dragged on and the defendant hadn't yet made good on his agreement to pay AMI back, Pecker started getting antsy, and he was frustrated, and he said so to Michael Cohen.
+
+Matthew Colangelo: So to show Pecker that Trump really did plan to pay AMI back for the McDougal payoff, Cohen used his cell phone to record a conversation with Donald Trump in September of 2016. You will get a chance to hear that recording during this trial. On that tape, Cohen tells the defendant that he will create a company to buy up McDougal's story from AMI. Cohen tells the defendant that he spoke to Allen Weisselberg, who is the Trump Organization Chief Financial Officer, about how to set the whole thing up. And on that recording, you will hear the defendant in his own voice.
+
+Matthew Colangelo: You will hear him ask Cohen: So what do we got to the pay for this? One-fifty? You will even hear Mr. Trump suggest in his own voice, you will hear him suggest paying in cash. After that conversation, Cohen then proceeded to set up a shell company for the transfer. It was less than six weeks to Election Day, and Cohen then worked out a deal with David Pecker for AMI to sell its rights to the McDougal story to Cohen's shell company.
+
+Matthew Colangelo: That way AMI could get paid back and Trump would then own the rights to the McDougal story. Just as Cohen was doing, Pecker also used a middleman to hide the true nature of the transaction. He agreed to have another company put together a fake invoice billing Cohen's shell company for so-called advisory services.
+
+Matthew Colangelo: Trump would become the new owner of Ms. McDougal's story, but to any observer looking at those records neither Pecker nor Trump would even appear as parties to the transaction. After the agreement was signed, but before any money changed hands, David Pecker consulted with AMI's general counsel. And based on that conversation, Pecker got cold feet.
+
+Matthew Colangelo: He told Cohen that the deal was off, the deal to transfer the rights to Cohen's shell company was off and AMI would instead eat the cost of paying off McDougal. So that's the second catch-and-kill deal that came out of the Trump Tower agreement. You will see all of that evidence. You will see AMI learned about a blockbuster Trump story about a Playboy playmate's extramarital affair with Donald Trump.
+
+Matthew Colangelo: The company coordinated directly with the candidate to pay her off, to help the campaign by keeping her quiet just months before the election. You will see the company not only made that corporate contribution, but that falsified other corporate records to hide the details of the deal. And you will hear the defendant's own voice on tape, in a recorded conversation, working out the intention for payment.
+
+Matthew Colangelo: Next, about a month before the election, the Washington Post published a news story on video, which the evidence will show turned the rest of the presidential campaign entirely upside-down. On October 7th, 2016, The Post published a video of Donald Trump, caught on a hot mic on the set of a television show called Access Hollywood.
+
+Matthew Colangelo: He didn't know he was being taped. And you will see an email that the Washington Post reporter emailed to the campaign's press secretary, Hope Hicks, a few hours before the story ran. And they sent her a transcript of the Access Hollywood tape. And the transcript depicts Donald Trump bragging about sexual assault.
+
+Matthew Colangelo: It shows, it depicts, and I'm quoting the defendant's words from the transcript that you will see in this trial: "You know, I'm automatically attracted to beautiful women, I just start kissing them, it's like a magnet, just kiss, I don't even wait, when you are a star they let you do it, you can do anything, grab them by the pussy, you can do anything." End quote.
+
+Matthew Colangelo: Those were Donald Trump's words on a video that was released one month before Election Day. And the impact of that tape on the campaign was immediate and explosive. Prominent allies withdrew their endorsements, they condemned Donald Trump's language. You will hear testimony that the Republican National Committee even considered whether it was too late to replace their own nominee and find another candidate for the election a month before Election Day. The defendant and his campaign staff were deeply concerned that the tape would irreparably damage his viability as a candidate and reduce his standing with female voters in particular.
+
+Matthew Colangelo: And they knew it was damaging not only because Trump bragged about sexual assault, they knew it was damaging not only because the language on the tape was crude and vulgar, the campaign was also worried about the damage the tape would cause precisely because it was on video seeing and hearing a candidate in his own words, in his own voice, in his own body language, his own gestures has a much greater impact on voters than words on paper.
+
+Matthew Colangelo: So the campaign went into immediate damage control mode to blunt the impact of the tape. Now, the defendant's initial public response to the Access Hollywood tape was to call it locker room talk. He told voters it was just words, not behavior, and that's the context to what happened next. One day after the Access Hollywood tape was released, Dylan Howard, he's the National Enquirer's Editor-in-Chief, told David Pecker that another woman had come forward with the claim of a sexual encounter that she had had with the defendant while he was married.
+
+Matthew Colangelo: That woman was an adult film actress, a porn star named Stormy Daniels. As Pecker had promised and as they had done for the last year, Howard got in touch with Michael Cohen at the Trump Organization immediately. Howard told Cohen about the story. He connected him with Stormy Daniels' lawyer, Keith Davidson, the same lawyer who had represented Karen McDougal.
+
+Matthew Colangelo: And Cohen then discussed the situation with Trump, who was adamant that he did not want the story to come out. Another story about sexual infidelity, especially with a porn star, on the heels of the Access Hollywood tape could have been devastating to his campaign. So at Trump's direction, Cohen negotiated a deal to buy Ms. Daniels' story in order to prevent American voters from learning that information before Election Day. Under that deal, another non-disclosure agreement, Daniels agreed that she would not disclose the sexual encounter in exchange for a payment of $130,000. But Trump directed Cohen to try to delay finalizing the deal, to delay making any payment as long as possible, while also at the same time preventing Daniels from publicizing the story.
+
+Matthew Colangelo: His hope was to delay it until after the election and then not pay at all. And Cohen was able to put it off for a time with a series of excuses, but Daniels and her representatives figured out that they were being strung along. It became clear that the story would become public if the deal wasn't finalized immediately.
+
+Matthew Colangelo: So with pressure mounting and Election Day fast approaching, Donald Trump agreed to the payoff and directed Cohen to proceed. Cohen tried several times to get Pecker to agree to pay for this catch-and-kill deal, too, but Pecker was unhappy that he had never been paid back for the Karen McDougal deal or the Sajudin deal.
+
+Matthew Colangelo: He was still willing to use AMI's resources to help close the deal so long as someone else put up the money. So Cohen discussed other payment options with Trump and with Allen Weisselberg, the Chief Financial Officer of the Trump Organization. And Trump didn't want to write a check himself to make the $130,000 payment, so he asked Cohen and Weisselberg to figure out some other way to make the payment.
+
+Matthew Colangelo: And after discussing different possibilities with Weisselberg, they agreed that Cohen would make the payment through a shell company to make it harder to track. But before putting up his own money, Cohen confirmed with Trump that Trump would pay him back. And at Trump's request, Cohen agreed to lay out his own money for the payment to keep Stormy Daniels quiet.
+
+Matthew Colangelo: Two weeks before the presidential election, on the morning of October 26th, 2016, Cohen made two phone calls to the defendant to confirm that he was finalizing the arrangements. You will see the telephone records of those calls. Then Cohen walked across the street, he opened a bank account in the name of a new shell company called Essential Consultants, LLC, which he had created to carry out the Stormy Daniels payoff.
+
+Matthew Colangelo: He then transferred $131,000 from the home equity line of credit on his own home into the shell company's bank account, and the next day Cohen wired 130 grand to Stormy Daniels' lawyer to keep her quiet. And as part of their efforts to try to keep the entire scheme under wraps, Cohen gave false information to the banks about the shell company's business purpose in the account opening forms he was required to complete and in the wire transfer records that he filled out describing the purpose of the $130,000 payment.
+
+Matthew Colangelo: Cohen made that payment at Donald Trump's direction and for his benefit, and he did it with a specific goal of influencing the outcome of the election. Now, look, no politician wants bad press, but the evidence at trial will show that this was not spin or communication strategy, this was a planned, coordinated long-running conspiracy to influence the 2016 election, to help Donald Trump get elected, through illegal expenditures, to silence people who had something bad to say about his behavior, using doctored corporate records and bank forms to conceal those payments along the way.
+
+Matthew Colangelo: It was election fraud. Pure and simple. We will never know, and it doesn't matter, if this conspiracy was the difference-maker in a close election, but you will see evidence in the defendant's own words from his social media posts, from his speeches at campaign rallies and other events, you will see in his own words, making crystal clear that he was certainly concerned about how all of this could hurt his standing with voters and with female voters in particular.
+
+Matthew Colangelo: You will also see evidence that on election night, as news outlets got closer to calling the election for Donald Trump, Keith Davidson, he was the lawyer for both Stormy Daniels and Karen McDougal, texted Dylan Howard at the National Enquirer and he said, "What have we done?" And about a month after the election, Pecker then authorized AMI to release both Sajudin and McDougal from their non-disclosure agreements.
+
+Matthew Colangelo: So, having paid for the stories in order to keep them from the public before Election Day, Pecker and AMI then told both McDougal and Sajudin a month after the election that they were no longer bound by the non-disclosure agreements. In January 2017, Pecker met again with Donald Trump. This was before Mr. Trump was inaugurated.
+
+Matthew Colangelo: He was still working primarily from Trump Tower here in Manhattan, and they met privately in Trump's office. The defendant thanked Pecker for handling the McDougal and Sajudin stories, and he invited him to the inauguration. And that summer, the defendant invited Pecker to the White House. Pecker brought his eyes and ears, Dylan Howard from the National Enquirer, to that dinner.
+
+Matthew Colangelo: And the defendant hosted a thank you dinner to thank Pecker and AMI for their contributions to his campaign. There were a few other loose ends to deal with after the election. One was figuring out how Michael Cohen was going to get paid back for the Stormy Daniels payoff. In January 2017, before the defendant moved down to Washington to begin his presidency, Cohen met with Allen Weisselberg to talk about how Cohen was going to get reimbursed for the payoff for Ms. Daniels.
+
+Matthew Colangelo: Weisselberg, you will remember, was the Trump Organization Chief Financial Officer, and he was one of the defendant's longest serving and most trusted employee. Neither Trump nor the Trump Organization could just write a check to Cohen for $130,000 with a memo line that said, reimbursement for porn star payoff.
+
+Matthew Colangelo: They had to disguise the nature of the repayment, so they agreed to cook the books and make it look like the repayment was actually income, payments for services rendered instead of a reimbursement. Weisselberg asked Cohen to bring a copy of a bank statement for the Essential Consultants' account showing the $130,000 payment that Cohen had made to keep Daniels quiet before the election.
+
+Matthew Colangelo: Weisselberg and Cohen agreed to a total repayment amount of $420,000. And here is how they got to that number. They started with the $130,000 that Trump owed Cohen for the Stormy Daniels payoff. Then they added $50,000 for a separate reimbursement Cohen was claiming which had to do with Tech Services he paid for during the campaign.
+
+Matthew Colangelo: That adds up to 180. Then they agreed to double that amount to $360,000 to account for taxes. Now, of course, if Trump was just reimbursing Cohen, there was no need to gross it up for taxes. They doubled it because their plan was to call it income instead of a reimbursement. And if Cohen was getting money they were calling income, he would have to pay taxes on it. Cohen was close to a 50 percent tax bracket when you consider federal and state and city tax, so to make him whole on the $180,000 that the defendant owed him, they had to double the amount to 360. Then he had added another $60,000 as a year-end bonus.
+
+Matthew Colangelo: And all of that comes to a total of $420,000. And Allen Weisselberg wrote all of that down. The bank statement that I told you about that he asked Cohen to bring to their meeting, the bank statement from the Essential Consultants LLC account, which showed the $130,000 wire that Cohen had made to Keith Davidson to keep Stormy Daniels quiet, you will see in this trial, Allen Weisselberg's handwriting down the side of that bank statement laying out every one of the steps that I just described, showing how they converted the $130,000 payoff amount to the 420 grand that Cohen was going to get paid back, as a grossed up way to disguise it, not as a reimbursement, but as income.
+
+Matthew Colangelo: Cohen and Weisselberg then met with Trump, who approved that repayment amount of 420 grand on the $130,000 Stormy Daniels payment and a few others expenses. Now, you will see evidence at trial that Donald Trump was a very frugal businessman. He believed in pinching pennies. He believed in watching every dollar.
+
+Matthew Colangelo: He believed in negotiating every bill. It's all over all of the books he has written. He ran the Trump Organization with total control. You will hear testimony about his relentless focus on the bottom line. But when it came time to pay Michael Cohen back for the catch-and-kill deal, you will see that he didn't negotiate the price down, he doubled it. And he doubled it so they could disguise it as income.
+
+Matthew Colangelo: And you will hear evidence that the Trump Organization was not in the practice of paying people twice what they owed for anything. This might be the only time that ever happened. And Donald Trump's willingness to do so here shows just how important it was to him to hide the true nature of Cohen's illegal payment to Ms. Daniels and the overall election conspiracy that they had launched in August of 2015. When Cohen and Weisselberg met with the defendant to agree on the doubled-up reimbursement amount, they decided they would pay it back in a series of monthly payments over the course of the entire year in 2017. Now, $420,000 spread over 12 payments comes out to $35,000 a month.
+
+Matthew Colangelo: You will see that calculation in Allen Weisselberg's handwritten notes, too. So the defendant and Cohen and Weisselberg agreed that every month Cohen would send a bogus invoice to the defendant through the Trump Organization, falsely requesting payments of $35,000 for legal services rendered in a given month of 2017 pursuant to a retainer agreement.
+
+Matthew Colangelo: That was a double lie. There was no retainer agreement. Cohen was not getting paid for legal services rendered in 2017. It was instead what they thought was a clever way to pay Cohen back without being too obvious about it. And in early February of 2017, Cohen went down to Washington, and he met with the defendant at the White House, and they confirmed that repayment arrangement.
+
+Matthew Colangelo: We are going to show you at trial a photo of Cohen at the White House for that meeting. And a few days later, after they met and confirmed the whole plan, Cohen sent the first of his fake invoices to the Trump Organization. And a few days after that, Cohen got his first reimbursement check. In total, Cohen submitted 11 phony invoices by email to the Trump Organization here in Manhattan so the defendant could pay him back.
+
+Matthew Colangelo: Each invoice repeated the lie that Cohen and defendant had agreed on in advance, that Cohen was requesting payment for legal services pursuant to a retainer agreement which didn't exist. Through these false business records, the defendant intended to make sure that nobody learned about the Stormy Daniels payoff and the illegal election fraud scheme launched at the Trump Tower meeting in 2015. The defendant's accounting staff at Trump Tower here in Manhattan then processed every one of those invoices as business records of the Trump Organization and retained them in the Trump Organization's files.
+
+Matthew Colangelo: The accounting staff recorded the reimbursements in their general ledgers, falsely, as legal expenses with a description of a retainer. The accounting staff then prepared checks that each included the description retainer. The checks were stapled to the bogus invoices for approval and signature. The first two checks were paid from a trust the defendant had created called the Donald J. Trump Revocable Trust, which held all of the Trump Organization's assets after he became president.
+
+Matthew Colangelo: The defendant was the beneficiary of that trust. Each of the remaining checks that were issued over the course of 2017 were paid from the defendant's own bank accounts. And the defendant signed those checks, each of them himself, while he was president. And the Trump Organization maintained all of those records, the false invoices, the vouchers with false entries, the checks with check stubs with false entries at Trump Tower here in Manhattan.
+
+Matthew Colangelo: And with the final payment in December of 2017, the defendant had repaid Cohen the full $420,000 they had agreed upon, and the monthly payments stopped. Now, during this trial you will hear a lot about Michael Cohen. I suspect the defense will go to great lengths to get you to reject his testimony precisely because it is so damming.
+
+Matthew Colangelo: You will learn, and we will be very upfront about it, the fact that Michael Cohen, like other witnesses in this trial, has made mistakes in his past. For example, Cohen will tell you that when the truth about the payoff to Stormy Daniels first began to come to light in 2018, he lied. He lied about it to protect his boss.
+
+Matthew Colangelo: You will also learn that Michael Cohen has a criminal record. He will testify that in April 2018, the FBI raided his residences and his office as part of an investigation that included potential violations of federal campaign finance law. Cohen will also testify in this trial that he ultimately pled guilty and went to jail for causing an unlawful corporate contribution in connection with the Karen McDougal payments and for making an excessive campaign contribution in connection with the Stormy Daniels payoff.
+
+Note: [Whereupon, Senior Court Reporter Lisa Kramsky is relieved by Senior Court Reporter Laurie Eisenberg, and the transcript continues on the following page.]
+
+Matthew Colangelo: He also pled guilty to and served time for tax crimes and lying to a bank and lying to Congress. And you'll also learn that Cohen has publicly committed to making sure the Defendant is held accountable for his role in this conspiracy. The evidence will also show why you can credit Michael Cohen's testimony, despite those past mistakes.
+
+Matthew Colangelo: As we discussed in jury selection, you will need to keep an open mind and carefully evaluate all of the evidence that corroborates Michael Cohen's testimony and the testimony of all of the witnesses. Cohen's testimony will be backed up by testimony from other witnesses you will hear from, including David Pecker and Keith Davidson.
+
+Matthew Colangelo: It will be backed up by an extensive paper trail of bank records, emails, text messages, phone logs, business documents and other records that we will show you, sometimes at length, during this trial. And it will be backed up by Donald Trump's own words on tape, in social media posts, in his own books, and in video of his own speeches.
+
+Matthew Colangelo: Now, as I said when I started, this case is about a criminal conspiracy and a cover-up, an illegal conspiracy to undermine the integrity of a presidential election, and then the steps that Donald Trump took to conceal that illegal election fraud. At the end of the case, we are confident that you will have no reasonable doubt that Donald Trump is guilty of falsifying business records with the intent to conceal an illegal conspiracy to undermine the integrity of a presidential election.
+
+Matthew Colangelo: And as you credit all of the evidence the People will present, we ask you to use your common sense, look past any distractions, look past any irrelevant sideshows that may pop up during this trial. Tune out the noise. Focus on the facts. Focus on the logical inferences that follow from those facts. Focus on the evidence.
+
+Matthew Colangelo: Listen to the testimony. Read the documents, the emails, the text messages, the bank statements, the handwritten notes, all of it. And, after all of that evidence is in, we'll have a chance to speak to you again during closing arguments. My colleague, Joshua Steinglass, will go through all of that evidence and explain that it, inescapably, leads to only one conclusion: Donald Trump is guilty of 34 counts of falsifying business records in the first degree.
+
+Juan Merchan: Thank you, Mr. Colangelo. Counsel.
+
+Todd Blanche: Good morning. Good morning, Your Honor.
+
+Juan Merchan: Good morning.
+
+Todd Blanche: President Trump is innocent. President Trump did not commit any crimes. The Manhattan District Attorney's Office should never have brought this case. You've heard this a few times already this morning, and you're going to hear it a lot more during this trial. The People, the Government, they have the burden of proof to prove President Trump guilty beyond a reasonable doubt.
+
+Todd Blanche: What that means, as Judge Merchan said a few minutes ago, is that President Trump is presumed innocent. He's cloaked in innocence. And that cloak of innocence does not leave President Trump today. It doesn't leave him at any day during this trial. And it won't leave him when you all deliberate. You will find that he is not guilty.
+
+Todd Blanche: Now, President Trump, you've seen him, of course, for years and years and years. You've seen him on television. You've seen photos of him. You've seen articles written about him. He's in some ways larger than life. But, he's also here in this courtroom doing what any of us would do: defending himself. You're going to hear me, as I've done already today, and others, even witnesses, refer to him as "President Trump". This is a title that he has earned because he was our 45th President.
+
+Todd Blanche: We will call him "President Trump" out of respect for the office that he held from 2017 to 2021. And as everybody knows, it's the office he's running for right now. He's the Republican nominee. But -- and this is important -- he's not just our former President. He's not just Donald Trump that you've seen on TV and read about and seen photos of. He's also a man.
+
+Todd Blanche: He's a husband. He's a father. And he's a person, just like you and just like me. What the People just did for about 45 minutes is present to you what appeared to be a very clean, nice story. It is not. It is not "simple", as the People just described. For one, and you heard the People admit this, most of what you are going to hear about in this trial, most of the conversations, most of the documents are from 2015, 2016, 2017, years and years ago, pre-COVID. And you're going to hear witnesses talk about conversations, meetings, people they met with from 2015. The story that you just heard, you will learn, is not true.
+
+Todd Blanche: And at the end of this trial, there will be plenty of reasonable doubt. Here is what I expect that you will learn happened: President Trump, for years, built a very large, successful company. He employs thousands of people. It's a purely private company. Not like AT&T or FedEx, publicly traded. And when he became President in 2017, he put up a wall between himself and his company, as the People just alluded to. He put his entire company in a Trust.
+
+Todd Blanche: He did this so that he could run the country, and he wouldn't have anything to do with his company while he was President. But, some of his employees, you'll learn, continued to help record personal expenses that President Trump incurred while he was President. Not surprising. They had been doing that for many years.
+
+Todd Blanche: You'll hear they're still doing that today. So, when -- when President Trump became President, when he took the Office of the Presidency in 2017, in January, Michael Cohen, who you heard the People allude to, assumed the role of President Trump's personal attorney. And you will learn that each month in 2017, Michael Cohen sent an invoice to some of the employees at the Trump -- at the Trump Tower, right here in Midtown, for $35,000. And on this invoice, Michael Cohen described his work as "payment to the retainer agreement for legal services rendered". The invoice was processed.
+
+Todd Blanche: Somebody at Trump Tower generated a check. The check was ultimately signed, and there was a record in a ledger on President Trump's personal records that reflected the invoice. For nine of the checks, the check made its way down to the White House, and President Trump signed it. You'll hear that he's the only signatory on his personal checking account, which is why he signed the check.
+
+Todd Blanche: So, what on Earth is a crime? What is a crime about what I just described? This business records violation that the People have brought against President Trump, the 34 counts, ladies and gentlemen, are really just 34 pieces of paper, the 34 counts of the invoices that Mr. Cohen sent to the folks at Trump Tower, the checks that were generated because of that invoice, and then the ledger notation from the invoice that said "for retainer agreement and legal services". None of this was a crime.
+
+Todd Blanche: Now, you just heard the People's theory about that $35,000, that it really wasn't a monthly retainer, that Michael Cohen was actually trying to cover up with President Trump the payback of this $130,000 payment to Stormy Daniels, who also goes by Ms. Clifford, Stephanie Clifford. You'll hear that Ms. Clifford/Ms. Daniels, did, in fact, sign an NDA in October of 2016 in exchange for $130,000. But, think for a moment of what the People just told you.
+
+Todd Blanche: President Trump did not pay Mr. Cohen back $130,000. President Trump paid Michael Cohen $420,000. And in the same breath, the People told you that President Trump is known as a frugal businessman, that he pinches pennies. Ask yourself: Would a frugal businessman, would a man who pinches pennies repay $130,000 debt to the tune of $420,000? More significantly than that, ladies and gentlemen, you're going to learn that this was not a payback.
+
+Todd Blanche: The $35,000 a month was not a payback to Mr. Cohen for the money that he gave to Ms. Daniels. He was President Trump's personal attorney. You will see documents, you will see emails. His signature block, Michael Cohen's signature block in 2017 said "Michael Cohen, Personal Attorney to President Donald J. Trump". You will hear that he told people that he served as President Trump's personal attorney.
+
+Todd Blanche: You will hear that he did legal work for President Trump and the First Lady as his personal attorney. Now, the People talk about the ledger. I mentioned the ledger a few times. Listen, the ledger is just a fancy way of describing how folks at Trump Tower, employees that work for President Trump kept track of the money that came in and the money that went out.
+
+Todd Blanche: There's nothing fancy about a ledger. It's something, I suppose, like a checkbook, where you keep track of what you're spending money on. And I expect that you will learn that the record, the ledger that was used in this case that President Trump is charged in part with, that the information that was placed in that ledger was done by someone named Deb Tarasoff.
+
+Todd Blanche: I expect she will testify. You will hear that she's a woman who has worked for President Trump for decades. Nobody is going to say she did anything wrong. I don't expect the People will say she is part of this scheme. What she will tell you is she had a conversation with another boss, someone who she worked for, another accountant, someone who has nothing to do with this, and she was told when she got the invoice from Mr. Cohen to call it "legal expense", which is exactly what the invoice said.
+
+Todd Blanche: And that's exactly what she did. And then, after recording it, she generated a check, which was her job. And then, again, for nine of the eleven checks, the checks made their way from Trump Tower, here in Midtown, to 230 miles down south to the White House, where they were signed. But -- and you heard this again from the People.
+
+Todd Blanche: I am not saying anything controversial. President Trump had nothing to do, had nothing to do with the invoice, with the check being generated, or with the entry on the ledger. Ms. Tarasoff isn't going to say she had any conversations with President Trump: Hey, how should I book this? How should I book this to keep it secret and keep it quiet?
+
+Todd Blanche: The invoice says it's for services rendered. And it's Michael Cohen. He's a lawyer. He worked for The Trump Organization, you'll learn, for many years. You won't hear any of that. Her boss, the person who told her how to book it, he's not gonna say he talked to President Trump about it. He's not going to say that he called the White House and interrupted a meeting as President Trump was running the country and said: Hey, we got this invoice, I know we're trying to cover it up here.
+
+Todd Blanche: Absolutely not. You'll learn President Trump had nothing to do with any of the 34 pieces of paper, the 34 counts, except he signed on to the checks, in the White House while he was running the country. That's not a crime. So -- and some of you heard this last week during jury selection. What are the People going to do? I don't expect they're going to dispute what I just said.
+
+Todd Blanche: I don't expect they're going to call a witness that says that President Trump had anything to do with what was written on the ledger, with generating the check, with the invoice coming in. So, you heard last week, and I expect you'll hear it during this trial, this idea of "accomplice liability", the idea that the People can get around the complete lack of knowledge or intent by President Trump.
+
+Todd Blanche: And, look, the reality is, President Trump is not on the hook, is not criminally responsible for something that Mr. Cohen may have done years after the fact. The evidence will prove otherwise. You also heard a lot of -- a lot of communication about the 2016 election. The People just told you that the reason why these invoices were recorded the way they were recorded way after the election -- President Trump was already in office -- was to cover up for Mr. Cohen, suggesting that Mr. Cohen was somehow trying to influence -- "influence" is the word they used -- the 2016 election.
+
+Todd Blanche: I have a spoiler alert. There is nothing wrong with trying to influence an election. It's called democracy. They put something sinister on this idea, as if it was a crime. You'll learn it's not. Michael Cohen paying Stormy Daniels or Stephanie Clifford $130,000 in exchange for her agreeing to not publicly spread false -- false claims about President Trump is not illegal.
+
+Todd Blanche: I'm going to say that again. Entering into a non-disclosure agreement --
+
+Matthew Colangelo: Objection.
+
+Juan Merchan: Sustained.
+
+Todd Blanche: Entering into a non-disclosure agreement is perfectly legal.
+
+Matthew Colangelo: Objection.
+
+Juan Merchan: Overruled.
+
+Todd Blanche: You will learn that companies do that all the time with some regularity. Executives, people who are wealthy, people who are famous enter into non-disclosure agreements regularly, and there's nothing illegal about it. I expect that you will learn that when Ms. Daniels threatened to go public with her false claim of a sexual encounter with President Trump back in 2008 [sic], that it was, as the People just said, very close to the election.
+
+Todd Blanche: And it was almost an attempt by Ms. Clifford/Ms. Daniels to extort President Trump.
+
+Matthew Colangelo: Objection.
+
+Juan Merchan: Sustained.
+
+Todd Blanche: It was sinister. And it was an attempt to try to embarrass President Trump, to embarrass his family. Because, as the People alluded to, at that time there were all kinds of salacious allegations going out, going around about President Trump, and it was damaging to him and damaging to his family. And you heard and you will hear during this trial that President Trump fought back, like he always does and like he's entitled to do, to protect his family, his reputation and his brand.
+
+Todd Blanche: And that is not a crime. You heard the People talk about this term "hush money payments", and I expect you'll hear that term used during the trial. Again, entering into an agreement with another individual -- you'll hear this agreement was negotiated by lawyers.
+
+Matthew Colangelo: Objection.
+
+Juan Merchan: Please approach.
+
+Note: [Whereupon, the following proceedings were held at sidebar.]
+
+Juan Merchan: Tell me what the objection is.
+
+Matthew Colangelo: Your Honor specifically excluded presence of counsel defense.
+
+Todd Blanche: Sorry, Your Honor. There will be testimony from Mr. Cohen that he was a lawyer, and there will be testimony he was working with Mr. Davidson, also a lawyer.
+
+Juan Merchan: I'll direct you stay away from it.
+
+Todd Blanche: Yes. So, it is true that in their opening, the People talked about how Mr. Pecker is going to talk about his communications with the General Counsel as well, which is also the same issue.
+
+Juan Merchan: Mr. Pecker is not on trial here.
+
+Todd Blanche: I understand.
+
+Note: [Whereupon, the following proceedings were held in open court.]
+
+Juan Merchan: The objection is sustained. That last comment is stricken.
+
+Todd Blanche: There is nothing illegal about entering into a non-disclosure agreement. Period. Now, the People talked about Michael Cohen. And there are going to be a lot of witnesses in addition to Mr. Cohen. You're going to hear myself, the other folks that are working with President Trump cross-examine, as the judge talked about, these witnesses.
+
+Todd Blanche: Some we'll cross-examine a lot. Some very little, if at all. But, one witness who you will hear a lot about is Michael Cohen. Mr. Cohen served as President Trump's attorney for many years, long before President Trump became President. He served as his personal attorney, working at Trump Tower, being paid for by the Trump companies.
+
+Todd Blanche: And then, as I mentioned, in 2017, he served as his -- as the personal attorney to President Trump in 2017, after President Trump took office. You will learn that shortly after the election in 2016, Michael Cohen wanted a job in the administration. He didn't get one. You'll hear that he was loyal. He was very loyal to President Trump and the companies for years.
+
+Todd Blanche: He defended President Trump on television, in printed media, publicly, privately. But, unbeknownst to President Trump, in all the years that Mr. Cohen worked for him, Mr. Cohen was also a criminal. Apart from his work for President Trump and the Trump companies, he cheated on his taxes, he lied to banks, he lied about side businesses he had with taxi medallions, among other things.
+
+Todd Blanche: And as the People alluded to, in 2018, he got caught. Now, shortly after getting caught in 2018, you will learn that he made a decision. The decision that he made was to blame President Trump for virtually all of his problems. He had been eventually disbarred as an attorney. He's a convicted felon. And he also is a convicted perjurer.
+
+Todd Blanche: He is an admitted liar. For many, many years, going back before President Trump became President, even before Michael Cohen started working for The Trump Organization, you'll learn that Michael Cohen was obsessed with President Trump. He is obsessed with President Trump even to this day. Today, Michael Cohen has podcasts, two of them.
+
+Todd Blanche: He goes on TV, X, TikTok, other social media platforms, and he rants and he raves about President Trump. He criticizes President Trump. He has talked extensively about his desire to see President Trump go to prison. He has talked extensively about his desire to see President Trump's family go to prison. He has talked extensively about President Trump getting convicted in this case.
+
+Todd Blanche: As a matter of fact, you will learn that last night, 12 hours ago, Mr. Cohen, on a public forum, said he had a mental excitement about this trial and his testimony. He called President Trump, just last night, a despicable human being, among other things. And he said that he wanted to see President Trump in an orange jumpsuit.
+
+Todd Blanche: That was last night. But, he says similar things multiple times a week during the entire pendency of this case and even before this case was brought. You'll learn that Mr. Cohen has misrepresented key conversations where the only witness who was present for the conversation was Mr. Cohen and, allegedly, President Trump.
+
+Todd Blanche: He has a goal, an obsession with getting Trump. And you're going to hear that. I submit to you that he cannot be trusted. Separately from his obsession with President Trump and his obsession to get President Trump, on multiple occasions Mr. Cohen has testified under oath and lied.
+
+Matthew Colangelo: Objection.
+
+Juan Merchan: Sustained.
+
+Todd Blanche: He walked -- he has walked into a courtroom very near here, raised his right hand, and swore to tell the truth. And now he will tell you, I expect, that he was lying.
+
+Matthew Colangelo: Objection.
+
+Juan Merchan: Sustained. Please approach.
+
+Note: [Whereupon, the following proceedings were held at sidebar.]
+
+Matthew Colangelo: There is no showing that Mr. Cohen testified falsely in any of the proceedings that Mr. Blanche is referring to.
+
+Todd Blanche: What I just said is that he testified that he testified falsely. He will testify that when he pled guilty in front of Judge Pauley, he lied.
+
+Susan Hoffinger: That's not what he said.
+
+Todd Blanche: That's what he said. He did say that.
+
+Juan Merchan: That's not what is standing. I don't know what you're testifying about from the podium. We'll hear it from the witness stand.
+
+Todd Blanche: They can use it against me.
+
+Juan Merchan: That's in dispute. I read it's in dispute. I've heard it's in dispute. You're not going into that.
+
+Matthew Colangelo: Just to confirm, it's disputed both in the Pauley trial and in Federal Court in front of Judge Furman.
+
+Todd Blanche: It's his words. He said -- the question was asked, "Were you telling the truth when you testified before Judge Pauley?" He said, "No." They asked, "Were you lying under oath?" And he said, "Yes."
+
+Susan Hoffinger: He said he lied across the street.
+
+Susan Necheles: It is across the street.
+
+Matthew Colangelo: That's not what Mr. Blanche said. He said he lied across the street. Second, if you put the entire testimony in context and full --
+
+Todd Blanche: It --
+
+Juan Merchan: Relax. Relax. Let him speak. I need to hear what he's saying.
+
+Matthew Colangelo: Both in his further testimony in that proceeding and in written submissions at his federal proceeding, he clarified and explained his testimony and said that he was not lying when he pled guilty, said he was prosecuted -- believed he was prosecuted unfairly.
+
+Juan Merchan: This is an opening statement. It's not argument. If you have this at the end of the trial, you can argue it at summations. I don't want to hear it now.
+
+Susan Necheles: Can't Mr. Blanche say: I expect the evidence to say, we heard from the prosecutor, we expect the evidence to say, we don't expect him to say?
+
+Juan Merchan: It's argument. You can bring it up on summation.
+
+Note: [Whereupon, the following proceedings were held in open court.]
+
+Juan Merchan: The objection is sustained.
+
+Todd Blanche: You will learn, ladies and gentlemen, that Michael Cohen has pled guilty to lying under oath. That means, to be clear, that just like I expect witnesses will come in here and raise their right hand and swear to tell the truth and then testify, that means that Mr. Cohen did that, raised his right hand, swore to tell the truth, and then lied.
+
+Todd Blanche: And admitted that. Pled guilty to lying. Under oath. So, you have two meaningful and significant issues with Mr. Cohen: His obsession with President Trump, and his desire to see President Trump go to jail in this case. His entire financial livelihood with podcasts. He's written several books. He's frequently on the media.
+
+Todd Blanche: His entire financial livelihood depends on President Trump's destruction. And, second, the fact -- admitted fact that he has lied under oath. I submit to you -- and I will talk to you again, as Judge Merchan said, at the end of the case -- that given this, you cannot make a serious decision about President Trump relying on the words of Michael Cohen.
+
+Todd Blanche: There will be other witnesses. I expect Ms. Clifford/Stormy Daniels will testify. She is, similarly, extremely biased against President Trump. You will hear that he met her several years ago, in 2006. I may have said 2008 earlier. In 2006, some 18 years ago. Then, at the time, as some of you may remember, President Trump was running a very popular TV show called The Apprentice, which was looking -- always looking for new opportunities and had a series of communications with Ms. Daniels.
+
+Todd Blanche: But, ultimately, it did not work out. Since then, Ms. Clifford has made a living off of these communications, even though she publicly denied any improper relationship in writing. You will hear that in the weeks and months leading up to the 2016 election, she saw her chance to make a lot of money, $130,000. And it worked.
+
+Todd Blanche: She got an NDA, and Michael Cohen paid her that money. He did that in exchange for her silence. Which, of course, didn't work. And since this story came out in 2018, became public, she's made hundreds of thousands of dollars because of it. She also wrote a book. She was paid for a documentary. And you'll also learn that courts have sided with President Trump in legal disputes between Ms. Daniels and President Trump and that she owes him somewhere around $600,000 as a result of those cases.
+
+Todd Blanche: But, I'm going to say something else about her testimony, and this is important. It doesn't matter. What I mean by that is, I expect you will learn that Ms. -- that Ms. Daniels doesn't have any idea. She doesn't know anything about the charged 34 counts in this case. She has no idea what Michael Cohen wrote on the invoice.
+
+Todd Blanche: She has no idea how it was booked at Trump Tower. And she has no idea about the checks that are also charged in this indictment. So, her testimony, while salacious, does not matter. Now, I want to talk to you for just a few minutes about what the People spent a long time talking about, which is this catch and kill scheme between Mr. Pecker at AMI and President Trump and Michael Cohen as the part of his lawyer.
+
+Todd Blanche: The People used the word "conspiracy". You will hear and see that there are 34 counts in this indictment. "Conspiracy" is not one of them. President Trump is not charged with any "conspiracy". That's a word the People have chosen to use. The reality is, there's nothing illegal about a scheme. There's nothing illegal about what you will hear happened among AMI and National Enquirer and Mr. Pecker and President Trump.
+
+Todd Blanche: It happens -- I expect you will hear shortly, this sort of thing happens regularly, that newspapers make decisions about what to publish, when to publish, and how to publish. It happens with politicians, with wealthy people, with famous people. It's not a scheme. Unless a scheme means something that doesn't matter, that's not illegal, that's not against the law.
+
+Todd Blanche: As part of this, the People talked about a catch and kill idea. Catch and kill. That you purchase the rights to a story. But, I encourage you to listen over the next couple of days -- well, listen to the whole trial, but certainly over the next couple of days when you hear Mr. Pecker testify about this supposed catch and kill.
+
+Todd Blanche: Listen to what he says about his motivation to sell magazines, not surprising, and whether it really is a catch and kill, and whether what the People just told you lines up with what the witness is going to say on that stand. So, I'm going to sit down. Before I do, I am going to say the same thing that the People said to you.
+
+Todd Blanche: Please listen to the evidence. Listen to the testimony. Listen to the testimony of Michael Cohen. Listen to the communications that folks had, the meetings that people had, 2015, 2016, 2017, years and years ago. And think about whether it rings true that what they're saying is accurate and lines up with the other evidence that you hear.
+
+Todd Blanche: Listen to the folks that still work at Trump Tower, some of them, about what they did when they got those various documents that make up the 34 counts. Listen about whether that has anything to do with President Trump or anything to do with AMI or a catch and kill scheme or the 2016 election. If you do that, I submit that you will reach the conclusion that it does not.
+
+Todd Blanche: And, listen, use your common sense. We're New Yorkers. That's why we're here. You told all of us, you told the Court, you told me, that you would put aside whatever ideas you have of President Trump from the past eight years, the fact that he was President, the fact that he is running again for an election this November.
+
+Todd Blanche: And we trust you to do that. We do. We trust that you're going to decide this case based upon the evidence that you hear in this courtroom and nothing else. And if you do that, there will be a very swift, a very swift not guilty verdict. Thank you.
+
+Juan Merchan: Thank you, Mr. Blanche. Counsel, please approach.
+
+Note: [Whereupon, the following proceedings were held at sidebar.]
+
+Juan Merchan: I know you want to take a short break. You can do that. But, I need to have the jurors out of here by 12:30.
+
+Joshua Steinglass: What time is it now?
+
+Juan Merchan: Ten to twelve. We can put your witness on the stand for ten minutes, maybe fifteen minutes, tops, or we can adjourn today and start tomorrow. It's up to you.
+
+Joshua Steinglass: What do you think? Start? We need five minutes to get him upstairs.
+
+Note: [Whereupon, the following proceedings were held in open court.]
+
+Juan Merchan: We're going to take a very short ten-minute recess. I ask you to please step out. Follow the instructions of the officer.
+
+Note: [Whereupon, the jurors and the alternate jurors are excused.]
+
+Juan Merchan: See you back at 12 noon.
+
+Note: [Whereupon, a recess is taken.]
+
+Note: [Whereupon, Senior Court Reporter Laurie Eisenberg is relieved by Senior Court Reporter Theresa Magnicarri, and the transcript continues on the following page.]
+
+Court Clerk: Case on trial continues. All parties are present. Appearances remain the same. Outside the presence of the jury.
+
+Juan Merchan: Bring in the jury.
+
+Note: [Jury entering courtroom.]
+
+Juan Merchan: You can be seated. Thank you.
+
+Court Clerk: The jury is present and properly seated.
+
+Juan Merchan: People, please call your first witness.
+
+Joshua Steinglass: The People call David Pecker.
+
+Note: [Witness entering courtroom.]
+
+Court Officer: Remain standing.
+
+Court Clerk: Please raise your right hand. Do you solemnly swear or affirm that the testimony that you are going to give before this Court and jury shall be the truth, the whole truth and nothing but the truth, do you so swear or affirm?
+
+David Pecker: I do. D-A-V-I-D P-E-C-K-E-R, called as a witness on behalf of the People, was duly sworn by the Clerk of the Court, upon being examined, testified as follows:
+
+Court Clerk: Please be seated.
+
+Court Officer: Please state your name.
+
+David Pecker: David Pecker.
+
+Court Officer: Spelling your last name.
+
+David Pecker: P-E-C-K-E-R.
+
+Court Officer: County of residence.
+
+David Pecker: Barfield, Connecticut.
+
+Juan Merchan: Good afternoon, Mr. Pecker. You may inquire.
+
+Joshua Steinglass: May I inquire?
+
+Juan Merchan: Yes.
+
+Joshua Steinglass: Thank you.
+
+Note: [Direct examination by Mr. Steinglass]
+
+Joshua Steinglass: Good afternoon, Mr. Pecker.
+
+David Pecker: Good afternoon.
+
+Joshua Steinglass: I'm sorry to start with this question. How old are you?
+
+David Pecker: Seventy-two.
+
+Joshua Steinglass: Are you married?
+
+David Pecker: Yes.
+
+Joshua Steinglass: How long have you been married?
+
+David Pecker: Thirty-six years.
+
+Joshua Steinglass: Can you briefly describe your educational background for the jury.
+
+David Pecker: Yes. I have a Bachelor's Degree from Pace University, and I also received a Doctorate Degree that was granted to me from Pace.
+
+Joshua Steinglass: I am going to ask you to slide your chair a little bit forward so your mouth is a little closer to the microphone.
+
+David Pecker: Okay.
+
+Joshua Steinglass: That's better. Thank you. Are you currently employed?
+
+David Pecker: I'm self-employed now.
+
+Joshua Steinglass: What are you doing now?
+
+David Pecker: I do consulting work.
+
+Joshua Steinglass: And is one of the companies you consult for your prior employer?
+
+David Pecker: Yes, I do.
+
+Joshua Steinglass: Who was your prior employer?
+
+David Pecker: My prior employer was American Media.
+
+Joshua Steinglass: Is that known as AMI for short?
+
+David Pecker: AMI is correct.
+
+Juan Merchan: I apologize for interrupting you. We didn't give the jurors an opportunity to get some writing materials. Do any of you want writing materials? Raise your right hand. Keep your hand up. I apologize for interrupting.
+
+Joshua Steinglass: No problem.
+
+Juan Merchan: Does everyone who wants a pad or a pen have one? Okay. Great. Sorry, Mr. Steinglass.
+
+Joshua Steinglass: No problem.
+
+Joshua Steinglass: So I think we left off, you were telling us what kind of company AMI is.
+
+David Pecker: American Media is a publishing company that primarily publishes celebrity magazines and it used to publish health and fitness magazines.
+
+Joshua Steinglass: Can you give us some examples of other AMI publications?
+
+David Pecker: Yes. The National Enquirer, the Globe, Life & Style, In Touch, Closer, Us Weekly.
+
+Joshua Steinglass: Star?
+
+David Pecker: Star. And on the health and fitness titles, it was Shape and Muscle & Fitness and Flex.
+
+Joshua Steinglass: What was your title at AMI?
+
+David Pecker: I was Chairman, President and CEO.
+
+Joshua Steinglass: Did you also have an ownership interest?
+
+David Pecker: Yes, I owned 10 percent of the company.
+
+Joshua Steinglass: How long did you work at AMI?
+
+David Pecker: From March 1999 through August of 2020.
+
+Joshua Steinglass: During the period from 2015, say, to 2017, what was your title?
+
+David Pecker: The same title, Chairman, President and CEO.
+
+Joshua Steinglass: And can you describe a little bit for the jury what your responsibilities were in those titles?
+
+David Pecker: In a publishing environment you have multiple different departments. On the editorial side, you have Editor-in-Chief, and you have the staff, managing editors, freelancers, reporters. And an on the operations side, you have various different departments, accounting department, finance department, and you have a legal department, Human Resources Administration.
+
+David Pecker: All those departments reported to the directors of each of those units that I just mentioned, and that is the leadership team. And everybody, all those people, reported directly to me.
+
+Joshua Steinglass: So as CEO and President and Chairman, did you have the final say over publishing decisions, including which stories would get published and which stories would not get published?
+
+David Pecker: Yes, I had the final say. On the celebrity side of the magazine industry, at least on the tabloid side, we used checkbook journalism and we pay for stories. So I gave a number to the editors that they could not spend more than $10,000 to investigate or produce or publish a story. So anything over $10,000 that they would spend on a story, that would have to be vetted and brought up to me if they were going to spend more for approval.
+
+Joshua Steinglass: In addition to having to approve expenditures, did you also have final kind of editorial say, in other words, the ability to determine that a particular story was not going to be run, or a particular story was going to be run?
+
+David Pecker: Being in the publishing industry for 40 years, I realized early in my career that the only thing that was important is the cover of a magazine. So when the editors produce a story, or prepare the cover, we would have a meeting and they would present to me what the story would be, what the concept was, what the cost was going to be.
+
+Joshua Steinglass: And if the story involved, I guess for lack of a better way to say it, a big story, or a famous person, did you have the final say on whether or not to publish that story?
+
+David Pecker: Yes, I did.
+
+Joshua Steinglass: Where generally was your office located?
+
+David Pecker: We were located in Boca Raton, Florida, and in Manhattan on -- I have been out a little bit, for a while, on the corner of Broad and Water Street.
+
+Joshua Steinglass: Okay. Are you familiar with the term "editor meetings?"
+
+David Pecker: Yes, I am.
+
+Joshua Steinglass: Can you explain to the jury what is an editor meeting, what are editor meetings?
+
+David Pecker: As the editors prepare and put a story together, and spending these expenditures to produce that, and then coming up to producing a cover, I would have a meeting for the editors to present their covers to me, and then I would take a look and see if the cover that's being presented meets some qualifications.
+
+David Pecker: As an example, we have a large research department, and if the cover subject was going to be presented, I personally wanted to make sure that the cover subject is not in the sole interest of the editor, that it was interested in who our audience is. We would have a lot of conversations with respect to why did they pick that subject, is the topic over right now, what the cover line is going to be, what the photo is, and then that's how.
+
+David Pecker: So we would have these meetings before the publication was finalized, and then we would have these meetings sometimes once or twice a week.
+
+Joshua Steinglass: And did you participate in editor meetings?
+
+David Pecker: Yes, I participated in all of them.
+
+Joshua Steinglass: Were there editor meetings for all of AMI's publications or on certain publications?
+
+David Pecker: Primarily the celebrity titles, the tabloids.
+
+Joshua Steinglass: How about the National Enquirer?
+
+David Pecker: Yes, for the National Enquirer, yes.
+
+Joshua Steinglass: Was that AMI's most well known tabloid, to use your word?
+
+David Pecker: Yes.
+
+Joshua Steinglass: During the period from 2015 to 2017, what were the last four digits of your work cellphone number?
+
+David Pecker: 7501
+
+Joshua Steinglass: Is it 01 or 91?
+
+David Pecker: 705-7591.
+
+Joshua Steinglass: You gave us more than that. All right. And your personal cellphone, just the last four digits?
+
+David Pecker: 5955
+
+Joshua Steinglass: How about the last four digits of your last phone number in New York City?
+
+David Pecker: 4899
+
+Joshua Steinglass: And did you have a separate office phone number in Florida?
+
+David Pecker: Yes, I did.
+
+Joshua Steinglass: You don't happen to remember the last four digits of that number?
+
+David Pecker: Yes, I do now, 1221.
+
+Joshua Steinglass: Okay. This isn't a quiz. During the same period, did you have an AMI email address?
+
+David Pecker: Yes, I did.
+
+Joshua Steinglass: How many email addresses?
+
+David Pecker: I had two email addresses.
+
+Joshua Steinglass: And without giving us the beginning portion of those email addresses, did they end with the domain name AMIlink.com?
+
+David Pecker: Yes, they did.
+
+Joshua Steinglass: Now, why did you have two separate email addresses at AMIlink.com?
+
+David Pecker: Well, the reason being, I would receive hundreds of emails a day and I had my assistants look at all of my emails to vet out which ones I should look at right away, which ones were important or not. I also had a second email address which was private because I would receive emails from the Human Resources Department on salaries and raises and compensation, or sometimes other sensitive issues which I didn't want my assistants to see, so I had two.
+
+Joshua Steinglass: So without giving us the exact name of those email addresses, is it fair to say you had one kind for general purposes and one for purposes that you didn't want other people to have access to?
+
+David Pecker: That's correct.
+
+Joshua Steinglass: And in addition to H.R. matters, like salary, did you also sometimes use the more restrictive email address when you were dealing with sensitive subjects or sources?
+
+David Pecker: Yes, for confidential I would.
+
+Joshua Steinglass: Are you here today pursuant to a subpoena?
+
+David Pecker: Yes, I am.
+
+Joshua Steinglass: And are you represented by counsel?
+
+David Pecker: Yes, I am.
+
+Joshua Steinglass: Is your lawyer present in court?
+
+David Pecker: Yes, he is.
+
+Joshua Steinglass: Are you familiar with somebody named Dylan Howard?
+
+David Pecker: Yes, I am.
+
+Joshua Steinglass: Who is Dylan Howard?
+
+David Pecker: Dylan Howard was a reporter, a celebrity reporter for American Media. He was also promoted over the years to become Editor-in-Chief of the National Enquirer, Editor of Star. He was the Managing Director of Radar, a digital celebrity site. And he was also the Chief Content Officer of the company. So, which means, to clarify, that means that all the editors reported directly to Dylan Howard.
+
+Joshua Steinglass: So he was kind of like Chief Editor-in-Chief?
+
+David Pecker: That's correct.
+
+Joshua Steinglass: But, in addition to that, he was also the Editor-in-Chief of the National Enquirer?
+
+David Pecker: Yes, he was.
+
+Joshua Steinglass: And was that true during the periods from 2015 to 2017?
+
+David Pecker: Yes, that's correct.
+
+Joshua Steinglass: In that capacity, who was his direct supervisor?
+
+David Pecker: Dylan reported directly to me.
+
+Joshua Steinglass: And can you describe for the jury a little bit about what Dylan Howard's roles were in each of those two jobs. I know you said he had a lot of jobs, but the two that I'm asking about in particular, being Editor-in-Chief of the National Enquirer and kind of being the Editor-in-Chief of all the AMI publications, the Chief Content Officer?
+
+David Pecker: The difference about celebrity magazines versus other magazines, these celebrity or tabloids are all weekly. So they're all weeklies. The editor, as Dylan, would receive, as I call it, his report card every week based on what the sales would be. So you would know immediately whatever decision Dylan made or we made for the cover of the magazine, you would immediately see what the sales were.
+
+David Pecker: If it was a mistake, you didn't do it again. That's one. The other piece, the other portion of the job is, all of the sources, freelancers, editors, photographers, writers, all reported up to different department heads, but they all ended up reporting to Dylan.
+
+Joshua Steinglass: As Chief Content Officer?
+
+David Pecker: As Chief Content Officer.
+
+Joshua Steinglass: Now -- withdrawn. So is it fair to say that Dylan Howard kind of ran the network of sources for AMI, all of AMI's publications?
+
+David Pecker: Yes, because his job was to make sure that we would have the most exclusive and current content.
+
+Joshua Steinglass: Now, when it came to -- I don't know how to say this, juicy stories, did he run those decisions by you?
+
+David Pecker: Yes, he did.
+
+Joshua Steinglass: Was part of his responsibilities to maintain relationships and cultivate relationships with potential sources?
+
+David Pecker: Yes, it was a very important part of his job.
+
+Joshua Steinglass: And forgive me for asking this question, I know it's a little bit basic, can you explain, what is a source?
+
+David Pecker: Yes. As an editor of a tabloid magazine, you develop over the years a group of sources, and the sources might be people who work in hotels, people who work for lawyers, people who work for various different aspects of a celebrity. A celebrity might be using like, for example, a limousine service. We develop sources.
+
+David Pecker: And that's really what makes a celebrity reporter or celebrity editor or celebrity Editor-in-Chief. It's important how valid their sources are, and they build this entire source network.
+
+Joshua Steinglass: Thank you. Does Dylan Howard still work at AMI, to your knowledge?
+
+David Pecker: It's my understanding he doesn't work for them any more.
+
+Joshua Steinglass: Are you still in touch with him personally?
+
+David Pecker: No, I'm not.
+
+Joshua Steinglass: Do you know where he is living now?
+
+David Pecker: It's my understanding he is living in Australia.
+
+Joshua Steinglass: Are you aware of any health conditions involving Mr. Howard?
+
+David Pecker: Yes.
+
+Emil Bove: Objection.
+
+Juan Merchan: Overruled.
+
+Joshua Steinglass: I don't want to get too personal. Can you tell us a little bit about what health conditions involving Mr. Howard you are aware of?
+
+David Pecker: From what I heard, is that he right now has a spinal condition.
+
+Joshua Steinglass: And are you aware of whether it's possible for him to travel internationally?
+
+David Pecker: It's my understanding he can't.
+
+Joshua Steinglass: During your time working at AMI, were you familiar with someone named Bonnie Fuller?
+
+David Pecker: Yes, I was.
+
+Joshua Steinglass: And who was Bonnie Fuller?
+
+David Pecker: Bonnie Fuller's history, she is a very famous editor and she was hired by Jann Wenner when he purchased Us Weekly. Bonnie Fuller was a celebrity editor and Jann Wenner hired her and she turned the magazine around and it became the most popular magazine in the country. And, rather, American Media was just in the process of competing against Bonnie Fuller and Us Weekly with my magazines, which was the National Enquirer and Star, and she was basically killing it. So I decided that to see if I could hire Bonnie Fuller.
+
+David Pecker: And I approached her, and I was able to bring her over from Wenner Media to become the Chief Editor of the Star.
+
+Juan Merchan: Can we stop at this point.
+
+Joshua Steinglass: Okay.
+
+Juan Merchan: Jurors, we're going to call it a day. I would ask you to please be back here in time for us to start at 11 o'clock in the morning. Again, we're going to work through lunch and we'll stop at 2 o'clock. I am not going to repeat all of the admonitions, I just gave them to you. Basically, don't discuss this case either among yourselves or with anyone else.
+
+Juan Merchan: Please continue to keep an open mind as to defendant's guilt or innocence. Please do not form or express an opinion as to the defendant's guilt or innocence. Put the case out of your mind. Don't think about it. Don't talk about it. And don't read anything about it. Thank you. I will see you tomorrow.
+
+Note: [Jury leaving courtroom.]
+
+Juan Merchan: Please be seated. You can step out, sir.
+
+David Pecker: Thank you.
+
+Note: [Witness leaving courtroom.]
+
+Juan Merchan: All right. As you know, tomorrow morning we're going to have our hearing at 9:30. If for some reason we're not done by 11, I expect that we will be, we'll pause it at that point and we'll deal with the jury and then pick it back up after that.
+
+Joshua Steinglass: Can we approach on scheduling matters?
+
+Note: [Whereupon, a sidebar took place between the court and counsel.]
+
+Joshua Steinglass: So I think you told the jury that we were working on Monday, but I thought the Court had asked --
+
+Juan Merchan: Yes, I will correct that.
+
+Joshua Steinglass: That was number one. Number two, I think you might have also said we were breaking early on Tuesday, the 30th. I am not sure that anyone is asking for that. My understanding is Mr. Stern isn't coming in that day at all.
+
+Susan Necheles: There is no seder.
+
+Juan Merchan: We can work all day. I will advise the jury of that.
+
+Joshua Steinglass: Great.
+
+Susan Necheles: Thank you.
+
+Juan Merchan: We do have one juror -- I believe we have one juror who observes the holiday. We can find out from her if she needs to leave at 2.
+
+Joshua Steinglass: My understanding is, I think I can speak with a little bit of authority on this point, for that day it's either all or nothing. With that holiday, it's either the juror wouldn't be able to come in at all or they will be able to stay until 5. There is nothing about leaving early that day.
+
+Juan Merchan: We will clarify.
+
+Emil Bove: I have a few applications with respect to Mr. Pecker.
+
+Juan Merchan: Sure.
+
+Note: [Whereupon, the following occurred back in open court.]
+
+Emil Bove: First of all, during the testimony this morning, being mindful of the Court's practice and ruling about not speaking objections, we objected to some testimony from Mr. Pecker about the whereabouts of Dylan Howard. I wanted to amplify that objection and move to strike the testimony. It was hearsay. He doesn't have firsthand knowledge of those facts, and it was also irrelevant.
+
+Juan Merchan: Irrelevant?
+
+Emil Bove: Yes, Judge.
+
+Joshua Steinglass: First of all, potential unavailable hearsay is admissible. Second of all, whether or not it's irrelevant depends on what arguments defense intends to make, and it also could be foundational for some arguments that we intend to make. I don't think it's irrelevant in any way. I do think it's appropriate to elicit hearsay solely as to the question of the witness's availability.
+
+Emil Bove: The question of witness availability for that hearsay exception, Judge, is for you, and you make that determination outside the presence of the jury. It's not relevant to what the jury is considering. They're not being asked to evaluate that exception. And so that is our position.
+
+Juan Merchan: Thank you. Your objection is noted. Anything else?
+
+Joshua Steinglass: No thank you.
+
+Emil Bove: Yes. There are a few other things that we expect will come up during the testimony of Mr. Pecker. We thought we could raise them now if the Court has the time.
+
+Juan Merchan: Sure.
+
+Emil Bove: One relates to the issue with the limiting instruction that the Court distributed this morning relating to Mr. Cohen. I think it's likely a similar issue will present itself during the testimony of Mr. Pecker, and in particular with respect to AMI's resolution with the U.S. Attorney's Office for the Southern District of New York.
+
+Emil Bove: We think the same limiting instruction, you know, modified to change out Mr. Cohen and to add AMI is appropriate. We will ask for that at the right time.
+
+Joshua Steinglass: That's reasonable.
+
+Juan Merchan: Is the email instruction that I drafted, is that acceptable?
+
+Emil Bove: Judge, we think it would need to be modified slightly. If we can take some time this afternoon to make a proposal to the Court.
+
+Juan Merchan: I would ask both sides to submit new proposals. Please get it to me by this afternoon.
+
+Emil Bove: The next issue relates to the potential for testimony about polygraphs administered to Mr. Sajudin. I think he may be the only one. The Court ruled in limine that evidence relating to the polygraph administered to Stormy Daniels was inadmissible. We think that the logic of the ruling should apply with equal force to any testimony from Mr. Pecker regarding the polygraph to Mr. Sajudin.
+
+Joshua Steinglass: We're not intending to elicit that.
+
+Juan Merchan: There you are.
+
+Emil Bove: Thank you. Next, we think it's likely that the government will offer evidence of some newspaper articles during the testimony of Mr. Pecker. Some from the National Enquirer. Also, at least one, maybe two, from the Wall Street Journal. When those are offered, we would ask that the limiting instruction be provided, that they're not being offered for the truth, and to explain to the jury the admissibility purposes for which they're being used at trial.
+
+Joshua Steinglass: I'm not sure that is the appropriate time to give that instruction. I would like to think about that. But, obviously, they're not being admitted for their truth, and so it may be appropriate at some point to inform the jury of that.
+
+Juan Merchan: If you could give me a sense of what these articles would be.
+
+Joshua Steinglass: Well, I think there are two categories. One we discussed at some length in the motions in limine last Monday, which were the articles in the National Enquirer, at least the headlines in the National Enquirer, the pro-Trump headlines and the anti-opponent headlines. I think Mr. Bove mentioned that we intend to elicit two Wall Street Journal articles, one from November 4, 2016, and the other from January 12, 2018. Those are also coming in for the facts and the dates of their publications, but not for truth of the matters asserted in any of those articles.
+
+Joshua Steinglass: So we have no objection to some type of instruction at the appropriate time.
+
+Juan Merchan: So the purpose for which you are offering them is to establish the date and the fact that it's published?
+
+Joshua Steinglass: And what the revelations were in those articles. Not because they're true, but because of the effect they had on the campaign for the articles that came out prior to the election, and for the cover-up, for the article that came out in January of 2018, kind of unmasking the Stormy Daniels deal.
+
+Juan Merchan: All right. So you can submit your proposed language later on and you can indicate what its intended purpose is for so I could read it to the jurors.
+
+Emil Bove: Thank you, Judge. We will do that. The last issue relates to some records that I think will be offered through the testimony of Mr. Pecker or through a subsequent custodian from AMI. They fit into two categories, as I understand it, a set of emails and a set of text messages. Without prejudging the testimony, I would not be shocked if Mr. Pecker can lay a business records foundation for some or all of those materials.
+
+Emil Bove: Certainly if he can't, I would be shocked if the custodian couldn't achieve that. Especially in light of Mr. Howard's absence at this trial, there are some complicated and embedded hearsay issues in the documents. Mr. Pecker is participating in some of the text message exchanges. He is also participating in some of the emails.
+
+Emil Bove: Those are not complicated. The ones where he is not a participant, there is embedded hearsay issues that will need to be addressed. We don't want to necessarily slow down the witness's testimony when those come in as business records in front of the jury, but at some point, particularly with respect to communications that Mr. Pecker is not a party to, we would like to be heard on the other hearsay issues they raise.
+
+Joshua Steinglass: This is a short issue. We can address evidentiary issues when they arise, but I don't believe there is a requirement that in order to be a business record that the witness be a party to the communications. So, like I said, we could address these issues when they arise.
+
+Emil Bove: Just to clarify the issue, the government can lay a foundation that a text message between Mr. Howard and a third party comes in as a business record. That text message communication is a business record. There's still an embedded hearsay issue with respect to the factual assertions in the text messages coming in for the truth or not.
+
+Emil Bove: That is the issue that is more tricky and requires more analysis. The business record foundation doesn't alleviate that issue. My point is, when Mr. Pecker is on the stand, if all that is going to be happening, communications are going to be coming into evidence based on the business records foundation, and some would be displayed to the jury when Mr. Pecker is a party, I don't think that is complicated.
+
+Emil Bove: On the other hand, if the government contemplates putting in text messages from Mr. Howard to third parties who have not testified yet and may not testify, and to display them to illustrate a narrative during the testimony of Mr. Pecker, that would be much more complicated, and we would ask to be heard at that time or whatever time the Court thinks is appropriate.
+
+Juan Merchan: Let's discuss it now.
+
+Emil Bove: I can go exhibit by exhibit.
+
+Juan Merchan: You can show me a couple of exhibits, I really just want to hear your legal argument.
+
+Emil Bove: So, for example, Government's Exhibit 163 is a string of November 2015 emails between people I understand to be AMI employees, Sharon Churcher, Barry Levine and Dylan Howard. So, as I said, I expect one way or the other the government to lay a business records foundation that that email thread can come in, not for the content of the statements but for the fact that AMI maintained an email system that allows those to come in. There are factual assertions in that email that are made by hearsay declarants, none of whom are going to testify at the trial, so those factual assertions in the email cannot come in for the truth.
+
+Emil Bove: When I say it is a little bit tedious, but there are several emails like this, and many, many sets of text messages like this. I am not suggesting the government is doing anything wrong here, but we would like to flag it because it does raise some complex issues that are going to need to be addressed.
+
+Joshua Steinglass: Let me just say briefly that this is kind of a detailed analysis, and I am glad to hear about it now, although it would have been better if we heard about it a months ago when we provided those exhibits and we could have hashed some of these things out in motions in limine, which we have passed the motions in limine deadline.
+
+Joshua Steinglass: That being said -- in order to get an advanced ruling. That being said, I understand what Mr. Bove is saying, and I think there are certain portions of some of the emails or texts that would come in but not for the truth. I do think that is kind of a case-by-case analysis. My suggestion is that Mr. Bove give us the proposed portions of these emails and texts that he believes should not be coming in for the truth.
+
+Joshua Steinglass: We can see if we agree about some of them. For example, the one that Mr. Bove just mentioned, which would be People's Exhibit 163, there is a portion of that email chain in which there is a detailed recitation of the Dino Sajudin story. Although that should come in because it informs what happened afterwards, we're not intending to argue that that is coming in for the truth of the matter asserted.
+
+Joshua Steinglass: So that is an example where I think we could agree, and there are probably many others.
+
+Juan Merchan: Mr. Bove, what I would ask you to do is identify the email or the email threads that you are referring to, consult with the prosecution, see what you can sort out, and then come to me with anything that you can't come to an agreement on.
+
+Emil Bove: Thank you. And we will. Just on the timing issue, we want to use your Honor's time efficiently, but, I think, as the Court is aware, we learned that Mr. Pecker would be called as a witness yesterday at about 3.
+
+Juan Merchan: I am not aware of what time it was.
+
+Emil Bove: That's the first time the government told us about it.
+
+Juan Merchan: Anything else from the defense?
+
+Emil Bove: No, your Honor. Thank you.
+
+Juan Merchan: From the People?
+
+Joshua Steinglass: No. Thank you, Judge.
+
+Juan Merchan: Is there anything else that you would like to submit or you would like me to consider before we have our hearing tomorrow at 9:30?
+
+Emil Bove: Just on the contempt motion?
+
+Juan Merchan: Yes.
+
+Emil Bove: No, your Honor. Thank you.
+
+Christopher Conroy: Nothing additional at this point. Can we approach for a moment on that?
+
+Juan Merchan: Sure.
+
+Note: [Whereupon, a sidebar took place between the court and counsel.]
+
+Christopher Conroy: I guess I was wondering if we should put a witness on tomorrow for the various truths. It's not clear to me whether there is an objection to those coming in based on the papers that we received.
+
+Juan Merchan: You consent to the introduction of posts?
+
+Christopher Conroy: Yeah, I'm just trying to figure out how the hearing would work out tomorrow, if we should have witnesses.
+
+Juan Merchan: You have to meet your burden. It's up to you how you are going to do that. How long do you think it will take to present your case?
+
+Christopher Conroy: Thirty-five minutes maybe.
+
+Juan Merchan: Okay.
+
+Christopher Conroy: Somewhere between 30 minutes to an hour.
+
+Juan Merchan: Are you going to present anything?
+
+Emil Bove: We may amplify some of the legal arguments that we made in the briefing. So subject to seeing what comes in in testimony, our plan is not to offer anything additional.
+
+Juan Merchan: Let's be sure we start at 9:30 sharp.
+
+Christopher Conroy: Thank you.
+
+Juan Merchan: Thank you. Have a good night.
+
+Note: [Whereupon, the trial in this matter stood adjourned to Tuesday, April 23, 2024, at 9:30 a.m.]

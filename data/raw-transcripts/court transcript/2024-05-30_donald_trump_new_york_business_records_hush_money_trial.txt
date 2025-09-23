@@ -1,0 +1,633 @@
+Source: https://rollcall.com/factbase/trump/transcript/donald-trump-testimony-new-york-business-records-hush-money-may-30-2024
+
+Note: [Editor's note: The following transcript was provided by the New York State Unified Court System, available here: https://cqrc.al/ny-people-v-donald-j-trump. These documents were reprocessed by optical character recognition (OCR), reviewed, formatted and checked for errors by our internal A.I. systems, and reviewed by a human. However, please check against the PDFs before quoting. A searchable PDF incorporating the corrected text can be viewed or downloaded at: https://cqrc.al/trump-ny-trial-2024-05-30 for verification.]
+
+Sergeant: All rise. Part 59 is now in session. The Honorable Juan Merchan is presiding.
+
+Juan Merchan: You may be seated.
+
+Court Clerk: This is The People of the State of New York against Donald J. Trump. Indictment 71543 of '23. Appearances, starting with the People.
+
+Joshua Steinglass: For the People, ADAs Joshua Steinglass, Matthew Colangelo, Susan Hoffinger, Becky Mangold, Christopher Conroy, Katherine Ellis. Good morning, everyone.
+
+Juan Merchan: Good morning.
+
+Todd Blanche: Good morning, Your Honor. Todd Blanche, and I am joined by Emil Bove, Susan Necheles, and Kendra Wharton, and President Trump to my left. Good morning.
+
+Juan Merchan: Good morning. Good morning, Mr. Trump. So, as promised, I did review the disputed sections of read-back, and I sent you an email this morning telling you what I had decided. In substance, I determined that all of the areas that were in dispute, which at this point weren't really very many, they should all come in. Subsequent to that, I received another email suggesting that if I was going to include one section, that I should include another; and my position is that you should as well.
+
+Juan Merchan: Anything that either one of you would like to put on the record regarding that?
+
+Joshua Steinglass: No thank you, Judge.
+
+Todd Blanche: No, your Honor.
+
+Juan Merchan: So, I think we are ready for the read back. We did receive another note that I would like to put on the record. It's marked as Court Exhibit Number 6, signed by the Jury Foreperson at 9:32 this morning, and it says: We, the jury, request: First, that the read-back of the instructions begin with the description of how the jury considers the evidence and what inferences can be drawn from the facts, example, rain metaphor, through the description of the law with respect to Count 1. As I see it, what they are asking then is for me to begin on Page 7 and continue to Page 35.
+
+Todd Blanche: We agree.
+
+Juan Merchan: You agree?
+
+Todd Blanche: Yes.
+
+Joshua Steinglass: Do you want to start on Page 6?
+
+Todd Blanche: I guess the only question is whether to start on Page 6, instead of 7, where the charge starts, Evidence. They certainly pointed to Page 7, which is the window, rain example, but they don't have a hard copy of the
+
+Juan Merchan: We can start on Page 6, that's fine. And then there was a second request: Whether or not we can be provided with headphones with a 3.5 MM input jack for use with the evidence laptop. I confirmed that we can provide them with such headphones, and I am also told that we can provide them with speakers that they can connect to the computer.
+
+Juan Merchan: This way they can all listen to it at the same time, which they can not do if they have headphones.
+
+Joshua Steinglass: We would just suggest both.
+
+Todd Blanche: Agreed.
+
+Juan Merchan: All right. Okay. If there is nothing else to clarify, let's bring in the jury.
+
+Joshua Steinglass: I don't think the Court Reporters have the last thing added this morning. I just want to put that on the record, if you give me one minute, please. So, we are adding Page 1481, Line 4 through Page 1482, Line 25. There was a piece of that that was already there, but it's now a more fulsome section. Okay.
+
+Todd Blanche: And we agree with that.
+
+Joshua Steinglass: May I, for the record, both parties were given a copy of Court Exhibit 6, which is a note from this morning and signed at 9:32 am. It is the one that your Honor just read into the record.
+
+Juan Merchan: Yes. Thank you for you acknowledging receipt. And I read it correctly?
+
+Todd Blanche: Yes, your Honor.
+
+Juan Merchan: Yesterday, at the end of the day I mentioned that the laptop did not have Wi-Fi capability. I wasn't sure that was put on the record. You both acknowledge that you heard that? MR. BLANCHE Yes.
+
+Susan Hoffinger: Yes.
+
+Joshua Steinglass: Yes.
+
+Juan Merchan: Okay. You can bring in the jury now.
+
+Sergeant: All rise. Jury entering.
+
+Note: [Whereupon, the jury entered the courtroom and were properly seated.]
+
+Juan Merchan: Please be seated.
+
+Court Clerk: Do all parties stipulate that all jurors are present and properly seated?
+
+Joshua Steinglass: Yes.
+
+Todd Blanche: Yes.
+
+Court Clerk: Thank you.
+
+Juan Merchan: Good morning, Jurors. Welcome back. Jurors, it has been a little bit since I last read your two notes from yesterday, so I am going to re-read them now. First note was signed by the Jury Foreperson at 2:56. It was marked as Court Exhibit Number 4, and it says: We, the Jury, request: First, David Pecker's testimony regarding the phone conversation to Donald Trump while David Pecker was in the investor meeting.
+
+Juan Merchan: Two, David Pecker's testimony regarding the decision not to finalize and fund the assignment of McDougal's life rights. Three, David Pecker's testimony regarding the Trump Tower meeting. And four, Michael Cohen's testimony regarding Trump Tower meeting. Okay. We have located that testimony, and we are ready to read it back to you in just one moment.
+
+Juan Merchan: You also sent us another note which was signed by the Jury Foreperson at 3:51. It was marked as Court Exhibit 5. It says: We, the jury, request to re-hear Judge's instructions. I then asked if you wanted to hear the entire set of instruction or just a portion of it. And this morning you gave us another note.
+
+Juan Merchan: That note has been marked as Court Exhibit Number 6, and it is signed by the Jury Foreperson at 9:32. And it says: We, the jury, request that the read back of the instructions begin with the description of how the jury considers the evidence and what inferences can be drawn from the facts, for example, the rain metaphor, through the description of the law with respect to Count 1. Did I read that correctly, Mr. Foreperson?
+
+Jury Foreperson: Yes, sir.
+
+Juan Merchan: So, Mr. Foreperson, should I assume that you no longer need to deal with Court Exhibit Number 5, that this replaces Court Exhibit Number 5?
+
+Jury Foreperson: Yes.
+
+Juan Merchan: There was a second request on this note, and that is: Whether or not we can be provided with headphones with a 3.5 MM input jack for use of the evidence laptop. Did I read that correctly, Mr. Foreperson?
+
+Jury Foreperson: Yes.
+
+Juan Merchan: I am told that, yes, you can be provided with such a headphone, but I am also told that you can be provided with speakers that can be connected to the laptop SO that more than one person can listen to it at a time. The choice is yours. I am letting you know you have the choice to make. And just let me know later, send me another note, you don't have to come back out, let me know if you want the headphones or the speakers.
+
+Juan Merchan: Ordinarily, I read the notes in the order in which they come out. But I wanted to ask whether you wanted the instructions read back first or you wanted the read-back first?
+
+Jury Foreperson: The instructions first, please, your Honor.
+
+Juan Merchan: Okay. So, the instructions will be Pages 6 through 35. When you judge the facts, you are to consider only the evidence. The evidence in this case includes: The testimony of the witnesses, the exhibits that were received in evidence, and the stipulations agreed to by the parties. Remember, a stipulation is information the parties have agreed to present to the jury as evidence, without calling a witness to testify.
+
+Juan Merchan: Testimony which was stricken from the record or to which an objection was sustained must be disregarded by you. Exhibits that were received in evidence are available, upon your request, for your inspection and consideration. Exhibits that were just seen during the trial, or marked for identification but not received in evidence, are not evidence, and are thus not available for your inspection and consideration.
+
+Juan Merchan: Testimony based upon those exhibits that were not received in evidence may be considered by you. In evaluating the evidence, you may consider any fact that is proven and any inference which may be drawn from such fact. To draw an inference means to infer, find, conclude that a fact exists or does not exist based upon proof of some other fact or facts.
+
+Juan Merchan: For example, suppose you go to bed one night and it is not raining, and when you wake up in the morning, you look out your window. You do not see rain, but you see that the street and sidewalk are wet, and that people are wearing raincoats and carrying umbrellas. Under those circumstances, it may be reasonable to infer, that is conclude, that it rained during the night.
+
+Juan Merchan: In other words, the fact of it having rained while you were asleep is an inference that might be drawn from the proven facts of the presence of the water on the street and sidewalk, and people in raincoats and carrying umbrellas. An inference must only by drawn from a proven fact or facts, and then, only if the inference flows naturally, reasonably and logically from the proven fact or facts, not if it is speculative.
+
+Juan Merchan: Therefore, in deciding whether to draw an inference, you must look at and consider all the facts in light of reason, common sense and experience. As you know, certain exhibits were admitted into evidence with some portions blacked out or redacted. Those redactions were made to remove personal identifying information and to ensure that only relevant admissible evidence was put before you.
+
+Juan Merchan: You may not speculate as to what material was redacted or why, and you may not draw any inference, favorable or unfavorable against either party, from the fact that certain material has been redacted. You may recall that I instructed you several times during the trial that certain exhibits were being accepted into evidence for a limited purpose only, and that you were not to consider that evidence for any other purpose.
+
+Juan Merchan: Under the law we refer to that as a limiting instruction. I will now remind you of some of the limiting instructions that you were given during the course of the trial. You will recall that you heard testimony that while David Pecker was an executive at AMI, AMI entered into a Non-Prosecution Agreement with Federal prosecutors, as well as the Conciliation Agreement with the Federal Election Commission, the FEC. I remind you that evidence was permitted to assist you, the jury, in assessing David Pecker's credibility and to help provide context for some of the surrounding events.
+
+Juan Merchan: You may consider that testimony for those purposes only. Neither the Non-Prosecution Agreement, nor the Conciliation Agreement is evidence of the Defendant's guilt, and you may not consider them in determining whether the Defendant is guilty or not guilty of the charged crimes. You also heard testimony that the Federal Election Commission conducted an investigation into the payment to Stormy Daniels and of responses submitted by Michael Cohen and his attorneys to the investigation.
+
+Juan Merchan: That evidence was permitted to assist you, the jury, in assessing Michael Cohen's credibility and to help provide context for some of the surrounding events. You may consider that evidence for those purposes only. Likewise, you will recall that you heard testimony that Michael Cohen pled guilty to violating the Federal Election Campaign Act, otherwise known a FECA. I remind you that evidence was permitted to assist you, the jury, in assessing Mr. Cohen's credibility as a witness and to help provide context for some of the events that followed.
+
+Juan Merchan: You may consider that testimony for those purposes only. Neither the fact of the FEC investigation, Mr. Cohen and his attorney's responses, or the fact that Mr. Cohen pleaded guilty constitutes evidence of the Defendant's guilt, and you may not consider them in determining whether the Defendant is guilty or not guilty of the charged crimes.
+
+Juan Merchan: You will recall that certain Wall Street Journal news articles were accepted into evidence during the trial. I remind you now that the articles were accepted and may be that the articles were published on or about a certain date and to provide context for the other evidence. The exhibits may not be considered by you as evidence that any of the assertions in the articles are actually true.
+
+Juan Merchan: There were other exhibits which contained hearsay and were not accepted for the truth of the matter asserted but for another purpose. For example, there were several National Enquirer headlines and an invoice from Investor Advisory Services which is People's 161 in evidence. Those were accepted for the limited purpose of demonstrating that the articles were published and the document created.
+
+Juan Merchan: There were also some text messages that were accepted with a similar limitation. For example, People's Exhibit 171-A with respect to Gina Rodriguez's texts and 257 with respect to Chris Cuomo's texts, those text messages were accepted for the limited purpose of providing context for the responses by Dylan Howard and Michael Cohen.
+
+Juan Merchan: The exhibits which were accepted into evidence with a limiting instruction are 152, 153-A, 153-B, 153-C, 161, 171-A, 180, 181 and 257. If you have any additional questions or need evidence with limitations, just send me a note with your question, and I will be happy to clarify. We now turn to the fundamental principles of our law that apply in all criminal trials: The presumption of innocence, the burden of proof, and the requirement of proof beyond a reasonable doubt.
+
+Juan Merchan: Throughout these proceedings, the Defendant is presumed to be innocent. As a result, you must find the Defendant not guilty, unless, on the evidence presented at this trial, you conclude that the People have proven the Defendant guilty beyond a reasonable doubt. In determining whether the People have satisfied their burden of proving the Defendant's guilt beyond a reasonable doubt, you may consider all of the evidence presented, whether by the People or by the Defendant.
+
+Juan Merchan: In doing so, however, remember that even though the Defendant introduced evidence, the burden of proof remains on the People. The fact that the Defendant did not testify is not a factor from which any inference unfavorable to the Defendant may be drawn. The Defendant is not required to prove that he is not guilty.
+
+Juan Merchan: In fact, the Defendant is not required to prove or disprove anything. proving the Defendant guilty beyond a reasonable doubt. That means, before you can find the Defendant guilty of a crime, the People must prove beyond a reasonable doubt every element of the crime including that the Defendant is the person who committed that crime.
+
+Juan Merchan: The burden of proof never shifts from the People to the Defendant. If the People fail to satisfy their burden of proof, you must find the Defendant not guilty, and if the People satisfy their burden of proof, you must find the Defendant guilty. What does our law mean when it requires proof of guilt beyond a reasonable doubt?
+
+Juan Merchan: The law uses the term of proof beyond a reasonable doubt to tell you how convincing the evidence of guilt must be to permit a verdict of guilty. The law recognizes that in dealing with human affairs, there are very few things in this world that we know with absolute certainty. Therefore, the law does not require the People to prove a defendant guilty beyond all possible doubt.
+
+Juan Merchan: On the other hand, it is not sufficient to prove that the Defendant is probably guilty. In a criminal case, the proof of guilt must be stronger than that. It must be A reasonable doubt is an honest doubt of the Defendant's guilt for which a reason exists based upon the nature and the quality of the evidence.
+
+Juan Merchan: It is an actual doubt, not an imaginary doubt. It is a doubt that a reasonable person, acting in a matter of this importance would be likely to entertain because of the evidence that was presented or because of the lack of convincing evidence. Proof of guilt beyond a reasonable doubt is proof that leaves you so firmly convinced of the Defendant's guilt, that you have no reasonable doubt of the existence of any element of the crime or of the Defendant's identity as the person who committed the crime.
+
+Juan Merchan: In determining whether the People have proven the Defendant's guilt beyond a reasonable doubt, you should be guided solely by a full and fair evaluation of the evidence. After carefully evaluating the evidence, each of you must decide whether that evidence convinces you beyond a reasonable doubt of the Defendant's guilt.
+
+Juan Merchan: Whatever your verdict may be, it must not rest upon baseless speculation. Nor may it be influenced in any way by bias, prejudice, sympathy, or by a desire to bring an end to your deliberations or to avoid an unpleasant If you are not convinced beyond a reasonable doubt that the Defendant is guilty of a charged crime, you must find the Defendant not guilty of that crime, and if you are convinced beyond a reasonable doubt that the Defendant is guilty of a charged crime, you must find the Defendant guilty of that crime.
+
+Juan Merchan: As judges of the facts, you alone determine the truthfulness and accuracy of the testimony of each witness. You must decide whether a witness told the truth and was accurate, or instead, testified falsely or was mistaken. You must also decide what importance to give to the testimony you accept as truthful and accurate.
+
+Juan Merchan: It is the quality of the testimony that is controlling, not the number of witnesses who testified. If you find that any witness has intentionally testified falsely as to any material fact, you may disregard that witness's entire testimony, or you may disregard so much of it as you find was untruthful and accept so much of it as you find to have been truthful and accurate.
+
+Juan Merchan: There is no particular formula for evaluating the truthfulness and accuracy of another person's statements or testimony. You bring to this process all of your varied truthfulness and accuracy of statements made to you by other people. The same factors used to make those decisions should be used in this case when evaluating the testimony.
+
+Juan Merchan: Some of the factors that you may wish to consider in evaluating testimony of a witness are as follows: Did the witness have an opportunity to see or hear the events about which he or she testified? Did the witness have the ability to recall those events accurately? Was the testimony of the witness plausible and likely to be true, or was it implausible and not likely to be true?
+
+Juan Merchan: Was the testimony of the witness consistent or inconsistent with other testimony or evidence in the case? Did the manner in which the witness testified reflect upon the truthfulness of that witness's testimony? To what extent, if any, did the witness's background, training, education or experience affect the believability of that witness's testimony?
+
+Juan Merchan: Did the witness have a conscious bias, hostility or some other attitude that affected the truthfulness of the witness's testimony? Did the witness show an unconscious bias, that acquired from stereotypes and attitudes about people or groups of people, and if so, did that unconscious bias impact that witness's ability to be truthful and accurate?
+
+Juan Merchan: You may consider whether a witness had, or did not have, a motive to lie. If a witness had a motive to lie, you may consider whether and to what extent, if any, that motive affected the truthfulness of that witness's testimony. If a witness did not have a motive to lie, you may consider that as well in evaluating the witness's truthfulness You may consider whether a witness hopes for or expects to receive a benefit for testifying.
+
+Juan Merchan: If so, you may consider whether and to what extent it affected the truthfulness of the witness's testimony. You may consider whether a witness has any interest in the outcome of the case, or instead, whether the witness has no such interest. You are not required to reject the testimony of an interested witness, or to accept the testimony of a witness who has no interest in the outcome of the case.
+
+Juan Merchan: You may, however, consider whether an interest in the outcome, or the lack of such interest, affected the truthfulness of the witness's testimony. convicted of a crime or has engaged in criminal conduct, and if so, whether and to what extent it affects your evaluation of the truthfulness of that witness's testimony.
+
+Juan Merchan: You are not required to reject the testimony of a witness who has been convicted of a crime or who has engaged in criminal conduct, or to accept the testimony of a witness who has not. You may, however, consider whether a witness's criminal conviction or conduct has affected the truthfulness of the witness's testimony.
+
+Juan Merchan: You may consider whether a witness made statements at this trial that are inconsistent with each other. You may consider whether a witness made previous statements that are inconsistent with his or her testimony at trial. You may consider whether a witness testified to a fact here at trial that the witness omitted to state at a prior time, when it would have been reasonable and logical for the witness to have stated that fact.
+
+Juan Merchan: In determining whether it would have been reasonable and logical for the witness to have stated the omitted fact, you may consider whether the witness's attention was called to the matter, and whether the witness was specifically asked about it. statements or omissions, you may consider whether and to what extent they affect the truthfulness or accuracy of that witness's testimony here at this trial.
+
+Juan Merchan: The contents of a prior inconsistent statement are not proof of what happened. You may use evidence of a prior inconsistent statement only to evaluate the truthfulness or accuracy of the witness's testimony here at trial. You may consider whether a witness's testimony is consistent with the testimony of other witnesses or with other evidence in the case.
+
+Juan Merchan: If there were inconsistencies by or among witnesses, you may consider whether they were significant inconsistencies related to important facts, or instead were the kind of minor inconsistencies that one might expect from multiple witnesses to the same event. You have heard testimony about the prosecution and defense counsel speaking to a witness about the case before the witness testified at this trial.
+
+Juan Merchan: The law permits the prosecution and defense counsel to speak to a witness about the case before the witness testifies, and permits the prosecutor and defense counsel to review with the witness the questions that will or may be asked at trial, including the questions that may You have also heard testimony that a witness read or reviewed certain materials pertaining to this case before the witness testified at trial.
+
+Juan Merchan: The law permits a witness to do SO. Speaking to a witness about his or her testimony and permitting the witness to review materials pertaining to the case before the witness testifies is a normal part of preparing for trial. It is not improper as long as it is not suggested that the witness depart from the truth.
+
+Juan Merchan: The People have the burden of proving beyond a reasonable doubt, not only that a charged crime was committed, but that the Defendant is the person who committed that crime. Thus, even if you are convinced beyond a reasonable doubt that a charged crime was committed by someone, you cannot convict the Defendant of that crime unless you are also convinced beyond a reasonable doubt that he is the person who committed that crime.
+
+Juan Merchan: Under our law, Michael Cohen is an accomplice because there is evidence that he participated in a crime based upon conduct involved in the allegations here against the Defendant. Our law is especially concerned about the commission of a crime, particularly when the accomplice has received, expects or hopes for a benefit in return for his testimony.
+
+Juan Merchan: Therefore, our law provides that a defendant may not be convicted of any crime upon the testimony of an accomplice, unless it is supported by corroborative evidence tending to connect the Defendant with the commission of that crime. In other words, even if you find the testimony of Michael Cohen to be believable, you may not convict the Defendant solely upon that testimony unless you also find that it was corroborated by other evidence tending to connect the Defendant with the commission of the crime.
+
+Juan Merchan: The corroborative evidence need not, by itself, prove that a crime was committed or that the Defendant is guilty. What the law requires is that there be evidence that tends to connect the Defendant with the commission of the crime charged in such a way as may reasonably satisfy you that the accomplice is telling the truth about the Defendant's participation in that crime.
+
+Juan Merchan: In determining whether there is the necessary corroboration, you may consider whether there is material, believable evidence, apart from the testimony of Michael Cohen, which itself tends to connect the Defendant to the You may also consider whether there is material, believable evidence, apart from the testimony of Michael Cohen, which, while it does not itself tend to connect the Defendant with the commission of the crime charged, it nonetheless so harmonizes with the narrative of the accomplice as to satisfy you that the accomplice is telling the truth about the Defendant's participation in the crime and thereby tends to connect the Defendant to the commission of the crime.
+
+Juan Merchan: I will now instruct you on the law applicable to the charged offense. That offense is Falsifying Business Records in the First Degree, 34 counts. Our law recognizes that two or more individuals can act jointly to commit a crime, and that in certain circumstances, each can be held criminally liable for the acts of the others.
+
+Juan Merchan: In that situation, those persons can be said to be, acting in concert with each other. Our law defines the circumstance under which one person may be criminally liable for the conduct of another. That definition is as follows: When one person engages in conduct which constitutes an offense, another is criminally liable for such conduct when, acting with the state of mind required for the commission of that offense, he or she solicits, person to engage in such conduct.
+
+Juan Merchan: Under that definition, mere presence at the scene of a crime, even with knowledge that the crime was taking place, or mere association with a perpetrator of a crime, does not by itself make a defendant criminally liable for that crime. In order for the Defendant to be held criminally liable for the conduct of another which constitutes an offense, you must find beyond a reasonable doubt: First, that he solicited, requested, commanded importuned, or intentionally aided that person to engage in that conduct.
+
+Juan Merchan: And second, that he did so with the state of mind required for the commission of the offense. If it is proven beyond a reasonable doubt that the Defendant is criminally liable for the conduct of another, the extent or degree of the defendant's participation in the crime does not matter. A defendant proven beyond a reasonable doubt to be criminally liable for the conduct of another in the commission of crime is as guilty of the crime as if the Defendant, personally, had committed every act constituting that crime.
+
+Juan Merchan: The People have the burden of proving beyond a mind required for the commission of the crime, and either personally, or by acting in concert with another person, committed each of the remaining elements of the crime. Your verdict on each count you consider, whether guilty or not guilty, must be unanimous.
+
+Juan Merchan: In order to find the Defendant guilty, however, you need not be unanimous on whether the Defendant committed the crime personally, or by acting in concert with another, or both. The First Count is Falsifying Business Records in the First Degree: Under our law, a person is guilty of Falsifying Business Records in the First Degree when, with intent to defraud that includes an intent to commit another crime or to aid or conceal the commission thereof, that person: Makes or causes a false entry in the business records of an enterprise.
+
+Juan Merchan: The following terms used in that definition have a special meaning: Enterprise means any entity of one or more persons, corporate or otherwise, public or private, engaged in business, commercial, professional, industrial, social, political or governmental activity. Business record means any writing or article, including computer data or a computer program, kept or or reflecting its condition or activity.
+
+Juan Merchan: Intent means conscious objective or purpose. Thus, a person acts with intent to defraud when his or her conscious objective or purpose is to do SO. Intent does not require premeditation. In other words, intent does not require advance planning. Nor is it necessary that the intent be in a person's mind for any particular period of time.
+
+Juan Merchan: The intent can be formed, and need only exist, at the very moment the person engages in prohibited conduct or acts to cause the prohibited result and not at any earlier time. The question naturally arises as to how to determine whether a defendant had the intent required for the commission of a crime. To make that determination in this case, you must decide if the required intent can be inferred beyond a reasonable doubt from the proven facts.
+
+Juan Merchan: In doing so, you may consider the person' conduct and all of the circumstances surrounding that conduct, including, but not limited to, to the following: What, if anything, did the person do or say? What result, if any, followed the person's conduct? probable consequence of that conduct. Therefore, in this case, from the facts you find to have been proven, decide whether you can infer beyond a reasonable doubt that the Defendant had the intent required for the commission of this crime.
+
+Juan Merchan: As I previously explained, a person acts with intent to defraud when his or her conscious objective or purpose is to do SO. In order to prove an intent to defraud, the People need not prove that the Defendant acted with the intent to defraud any particular person or entity. A general intent to defraud any person or entity suffices.
+
+Juan Merchan: Intent to defraud is also not constricted to an intent to deprive another of property or money and can extend beyond economic concerns. For the crime of Falsifying Business Records in the First Degree, the intent to defraud must include an intent to commit another crime or to aid or conceal the commission thereof.
+
+Juan Merchan: Under our law, although the People must prove an intent to commit another crime or to aid or conceal the commission thereof, they need not prove that the other crime was, in fact, committed, aided, or concealed. The People allege that the other crime the violation of New York Election Law Section 17-152. Section 17-152 of the New York Election Law provides that any two or more than persons who conspire to promote or prevent the election of any person to a public office by unlawful means and which conspiracy is acted upon by one or more of the parties thereto, shall be guilty of conspiracy to promote or prevent an election.
+
+Juan Merchan: Under our law, a person is guilty of such a conspiracy when, with intent that conduct be performed that would promote or prevent the election of a person to public office by unlawful means, he or she agrees with one or more persons to engage in or cause the performance of such conduct. Knowledge of a conspiracy does not by itself make the Defendant a co-conspirator.
+
+Juan Merchan: The Defendant must intend that conduct be performed that would promote or prevent the election of a person to public office by unlawful means. Intent mean conscious objective or purpose. Thus, a person acts with the intent that conduct be performed that would promote or prevent the election of a person to public office by unlawful means when his or her conscious objective or purpose is that such conduct be performed.
+
+Juan Merchan: Evidence that Defendant was present when others itself show that he personally agreed to engage in the conspiracy. Although you must conclude unanimously that the Defendant conspired to promote or prevent the election of any person to public office by unlawful means, you need not be unanimous as to what those unlawful means were.
+
+Juan Merchan: In determining whether the Defendant conspired to promote or prevent the election of any person to a public office by unlawful means, you may consider the following: One, violations of the Federal Election Campaign Act, otherwise known as FECA. Two, the falsification of other business records. Or three, violation of tax laws.
+
+Juan Merchan: The first of the People's theories of unlawful means, which I will now define for you as a Federal Election Campaign Act. Under the Federal Election Campaign Act, it is unlawful for an individual to willfully make a contribution to any candidate with respect to any election for Federal office, including the Office of President of the United States, which exceeds a certain limit.
+
+Juan Merchan: In 2015 and 2016, that limit was $2,700. It is also unlawful under the Federal Election Campaign Act for any corporation to willfully make a contribution of any connection with any Federal election, or for any person to cause such a corporate contribution. For purposes of these prohibitions, an expenditure made in cooperation, consultation, or concert with, or at the request or suggestion of a candidate or his agents, shall be considered to be a contribution to such candidate.
+
+Juan Merchan: The terms contribution and expenditure include anything of value, including, any purchase, payment, loan, or advance, made by any person for the purpose of influencing any election for Federal office. Under Federal law, a third party's payment of a candidate's expenses is deemed to be a contribution to the candidate unless the payment would have been made irrespective of the candidacy.
+
+Juan Merchan: If the payment would have been made even in the absence of the candidacy, the payment should not be treated as a contribution. FECA's definitions of contribution and expenditure do not include any cost incurred in covering or carrying a news story, commentary or editorial by a magazine, periodical publication or similar press entity, so long as such entity is a normal, legitimate press function.
+
+Juan Merchan: This is called the press exemption. includes solicitation letters seeking new subscribers to a publication. Second, of the People's theories of unlawful means which I will define for you now is the falsification of other business records. Under New York law, a person is guilty of Falsifying Business Records in the Second Degree when with intent to defraud, he or she makes or causes a false entry in the business records of an enterprise.
+
+Juan Merchan: I previously defined for you the terms of entries, business records and intent to defraud. For purposes of determining whether Falsifying Business Records in the Second Degree was an unlawful means used by a conspiracy to promote or prevent an election here, you may consider: One, the bank records associated with Michael Cohen's account formation paperwork for Resolution Consultants LLC and Essential Consultants LLC. Two, the bank records associated with Michael Cohen's wire to Keith Davidson.
+
+Juan Merchan: Three, the invoice from Investor Advisory Services Inc. to Resolution Consultants LLC. And, four, the 1099-miscellaneous forms that the Trump Organization issued to Michael Cohen. which I will define for you now, is a violation of tax laws. Under New York State and New York City law, it is unlawful to knowingly supply or submit materially false or fraudulent information in connection with any tax return.
+
+Juan Merchan: Likewise, under Federal law it is unlawful for a person to willfully make any tax return, statement, or other document that is fraudulent or false as to any material matter or, that the person does not believe to be true and correct as to every material matter. Under these Federal State and Local laws, such conduct is unlawful, even if it does not result in the underpayment of taxes.
+
+Juan Merchan: In order for you to find the Defendant guilty of the crime of Falsifying Business Records in the First Degree under Count 1, the People are required to prove, from all of the evidence in the case, beyond a reasonable doubt, each of the following two elements: First, that on or about February 14, 2017, in the County of New York and elsewhere, the Defendant, personally, or by acting in concert with another person, or persons, made or caused a false entry in the business records of an enterprise, specifically, an invoice from Michael Cohen dated February 14, 2017, marked as a record of the Donald J. Trump Revocable Trust and kept or maintained by the Trump Organization.
+
+Juan Merchan: And two, that the Defendant did SO with intent to defraud that included an intent to commit another crime or to aid or conceal the commission thereof. If you find that the People have proven beyond a reasonable doubt each of those two elements, you must find the Defendant guilty of this crime. If you find that the People have not proven beyond a reasonable doubt either one or both of those elements, you must find the Defendant not guilty of this crime.
+
+Juan Merchan: I believe that concludes my response to your first question. Was that responsive to you?
+
+Jury Foreperson: Yes.
+
+Juan Merchan: We will get the read-back, now.
+
+Court Reporter: I will read the questions as if I am the lawyer and my colleague will read the answers as if she was the witness. The first read back relates to the first question you had for David Pecker's testimony, re: Phone conversation with Donald Trump while Pecker was in investor meeting.
+
+Note: [Whereupon, the testimony as requested was read back in open court.]
+
+Court Reporter: This is cross-examination by Mr. Bove of the witness David Pecker.
+
+Note: [Whereupon, the testimony as requested was read back in open court.]
+
+Court Reporter: This is in response to your request number two. This is redirect examination of David Pecker by Mr. Steinglass.
+
+Note: [Whereupon, the testimony as requested was read back in open court.]
+
+Court Reporter: We are now on request number three, David Pecker's testimony of the Trump Tower meeting. This is, again, direct examination of David Pecker by Mr. Steinglass.
+
+Note: [Whereupon, the testimony as requested was read back in open court.]
+
+Court Reporter: This is cross-examination of David Pecker by Mr. Bove.
+
+Note: [Whereupon, the testimony as requested was read back in open court.]
+
+Court Reporter: This is still cross examination. It is just the next day.
+
+Note: [Whereupon, the testimony as requested was read back in open court.]
+
+Court Reporter: Going to page 1346. This is redirect examination of David Pecker by Mr. Steinglass.
+
+Note: [Whereupon, the testimony as requested was read back in open court.]
+
+Court Reporter: Now we are up to request number four. Michael Cohen's testimony regarding Trump Tower meeting. This is direct examination of Michael Cohen by Ms. Hoffinger.
+
+Note: [Whereupon, the testimony as requested was read back in open court.]
+
+Court Reporter: This is cross-examination of Michael Cohen by Mr. Blanche.
+
+Note: [Whereupon, the testimony as requested was read back in open court.]
+
+Juan Merchan: Jurors, I believe that concludes the read back. Have we responded to your notes?
+
+Jury Foreperson: Yes, you have.
+
+Juan Merchan: So, I will excuse you now to continue your deliberation. I would like you to please let us know if you would like the headphones or the speakers.
+
+Jury Foreperson: Both.
+
+Juan Merchan: Please let the record indicate that the foreperson has responded both. We will provide them for you. You can step out.
+
+Court Officer: All rise.
+
+Juan Merchan: Please do not deliberate while the audio is being set up.
+
+Note: [Whereupon, the jury retired to the jury room to continue deliberations.]
+
+Juan Merchan: You may be seated. You are excused.
+
+Note: [Whereupon, court is held in recess while the jury deliberates.]
+
+Note: [Whereupon, the case is in recess while the jury deliberates.]
+
+Juan Merchan: Good afternoon. Thank you for coming down. I asked that you come down at 4:15 just to make you aware that, at this time, I'm going to excuse the jury about 4:30. We'll give them a few more minutes, and then we'll excuse them.
+
+Todd Blanche: All right.
+
+Juan Merchan: I am going to step out for a few minutes.
+
+Note: [Whereupon, the case is in recess while the jury continues to deliberate.]
+
+Sergeant: Remain seated. Come to order. Part 59 is back in session.
+
+Juan Merchan: I apologize for the delay. We received a note. It was signed by the jury foreperson at 4:20. It's marked as Court Exhibit Number 7. It reads: "We, the jury, have a verdict. We would like an extra 30 minutes to fill out the Forms. Will that be possible?" You can hand this down SO you all can look at it.
+
+Note: [Whereupon, the jury note is given to the parties.]
+
+Juan Merchan: I am sure you will hear from the Sergeant and Major and everyone else. Please, let there be no outbursts, no reactions of any kind once we take a verdict. I will be right back in a few minutes.
+
+Joshua Steinglass: Thank you.
+
+Note: [Whereupon, a recess is taken.]
+
+Sergeant: All rise. Part 59 is now in session. The Honorable Juan Merchan is now presiding.
+
+Juan Merchan: Thank you. Please be seated. As I indicated a short time ago, we did receive a note. I read it into the record. You both had a chance to look at it?
+
+Joshua Steinglass: Yes, Judge.
+
+Todd Blanche: Yes.
+
+Juan Merchan: It's been marked Court Exhibit Number 7, signed by the jury foreperson at 4:20. It says: "We, the jury, have reached a verdict. We would like an extra 30 minutes to fill out the Forms. Would that be possible?" Are we ready to bring out the jury?
+
+Joshua Steinglass: Yes, Judge.
+
+Todd Blanche: Yes.
+
+Juan Merchan: Bring out the jury, please.
+
+Court Officer: Alternate jurors entering.
+
+Note: [Whereupon, the alternate jurors enter the courtroom and are seated in the first row of the audience at 5:04 PM.]
+
+Court Officer: All rise. Jury entering.
+
+Note: [Whereupon, the jurors are present and properly seated at 5:05 p.m..]
+
+Juan Merchan: Remain seated.
+
+Court Clerk: Do both parties stipulate that all jurors are present and properly seated?
+
+Joshua Steinglass: Yes.
+
+Todd Blanche: Yes.
+
+Emil Bove: Yes.
+
+Juan Merchan: Jurors, we received a note from you. It was signed by your jury foreperson at 4:20. It's been marked as Court Exhibit Number 7. It says: "We, the jury, have a verdict. We would like an extra 30 minutes to fill out the Forms. Would that be possible?" Mr. Foreperson, without telling me the verdict, has the jury, in fact, reached a jury?
+
+Juror 1: Yes, they have.
+
+Juan Merchan: Take the verdict, please.
+
+Court Clerk: Will the foreperson please rise. Have the members of the jury agreed upon a verdict?
+
+Juror 1: Yes, we have.
+
+Court Clerk: How say you to the first count of the indictment, charging Donald J. Trump with the crime of falsifying business records in the first degree, guilty or not guilty?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count two?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count three?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count five?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count six?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count seven?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count eight?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count nine?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count ten?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 11?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 12?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 13?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 14?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 15?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 16?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 17?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 18?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 19?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 20?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 21?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 22?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 23?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 24?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 25?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 26?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 27?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 28?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 29?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 30?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 31?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 32?
+
+Juror 1: Guilty.
+
+Court Clerk: How say you to count 33?
+
+Juror 1: Guilty.
+
+Court Clerk: And how say you to count 34?
+
+Juror 1: Guilty.
+
+Court Clerk: Please be seated.
+
+Note: [Whereupon, the court officer takes the jury's Verdict Sheet from the foreperson, gives it to the Court, and then gives it to the clerk of the court.]
+
+Court Clerk: Members of the jury, listen to your verdict as it stands recorded. You and each of you say through your foreperson that you find the Defendant, Donald J. Trump, guilty of all 34 counts charging falsifying business records in the first degree, and SO say you all. Is this the verdict?
+
+The Jurors: Yes.
+
+Note: [Whereupon, the jurors nod and verbally respond in the affirmative.]
+
+Court Clerk: Would either party like the jury polled?
+
+Todd Blanche: Yes, please.
+
+Court Clerk: Members of the jury, you have said through your foreperson that you find the Defendant, Donald J. Trump, guilty of all 34 counts of falsifying business records in the first degree. Juror Number 1, is that your verdict?
+
+Juror 1: Yes, it is.
+
+Court Clerk: Juror Number 2, is that your verdict?
+
+Juror 2: Yes, it is.
+
+Court Clerk: Juror Number 3, is that your verdict?
+
+Juror 3: Yes, it is.
+
+Court Clerk: Juror Number 4, is that your verdict?
+
+Juror 4: Yes.
+
+Court Clerk: Juror Number 5, is that your verdict?
+
+Juror 5: Yes.
+
+Court Clerk: Juror Number 7, is that your verdict?
+
+Juror 7: Yes, it is.
+
+Court Clerk: Juror Number 8, is that your verdict?
+
+Juror 8: Yes.
+
+Court Clerk: Juror Number 9, is that your verdict?
+
+Juror 9: Yes.
+
+Court Clerk: Juror Number 10, is that your verdict?
+
+Juror 10: Yes.
+
+Court Clerk: Juror Number 11, is that your verdict?
+
+Juror 11: Yes.
+
+Court Clerk: And Juror Number 12, is that your verdict?
+
+Juror 12: Yes.
+
+Court Clerk: Your Honor, the jury has been polled.
+
+Juan Merchan: Thank you. Jurors, I want to thank you very much for your service in this case. We started picking a jury here on April 15th. We had opening statements on April 22nd. And we didn't have summations until May 21st. That's a long time. That's a long time you were away from your jobs, your families, your other responsibilities.
+
+Juan Merchan: But, not only that, you were engaged in a very stressful and difficult task. I want you to know that I really admire your dedication and your hard work. I observed you. As I said before, I observed you during the course of the trial, and I could see how involved you were, how engaged you were, how invested you were in this process.
+
+Juan Merchan: And you gave this matter the attention it deserved. I want to thank you for that. I want to thank the alternate jurors, as well. We couldn't do this without you. I've had plenty of trials where I've had to use one or all of my alternate jurors. Without service of the alternate jurors, I would not have completed those trials.
+
+Juan Merchan: Thank you very much. Jurors, you'll remember, during the course of the trial I gave you certain admonitions many, many times. I want you to know that those admonitions no longer apply. You are free to discuss the case with anyone you would like to discuss it with, but you're also free not to. No one can make you do anything that you don't want to do. The choice is yours.
+
+Juan Merchan: In a few minutes, if it's okay with you, I would like to meet with you in the jury room, just to thank you personally for your work. Bear in mind, I'm not allowed to discuss the facts of the case. I'm also not permitted to discuss your deliberations But, I do want to personally thank you for your service, and I'd also like to get your feedback, get a sense of what we did right, what we did wrong.
+
+Juan Merchan: There are a couple of matters I need to take care of here. I, 11 do that quickly so I can join you in the back. At this time, I thank you very much. You're excused with the gratitude of the Court.
+
+Note: [Whereupon, the jurors are excused and discharged at 5:11 p.m. and exit the courtroom, and the alternate jurors are excused and discharged and exit the courtroom.]
+
+Juan Merchan: You may be seated. Any motions, applications, anything to go over at this time?
+
+Todd Blanche: Yes. We move for a Judgment of Acquittal and to set aside the verdict for the reasons we previously stated. Just to emphasize a few significant reasons that came out since we made it: There's no basis and there's no way this jury could have reached a verdict without accepting the testimony of Mr. Cohen; and we believe unequivocally that that testimony, even though it would stand in this courtroom, that he lied, there was perjury committed.
+
+Todd Blanche: And there is no reason that the Court should allow a verdict, knowing that one of the witnesses that, necessarily, had to be part of the crime that was committed and the offense should be used to convict President Trump. And so, for that reason, combined with the fact that there was no evidence, certainly limited evidence that had any -- any connection between the charged conduct and President Trump, and the limited connection was Michael Cohen, we believe in light of that fact, which I don't think is in dispute, the Court should enter a Judgment of Acquittal, notwithstanding the verdict.
+
+Juan Merchan: I'm sure you misspoke when you said "knowing". You' re not suggesting that I "know" anybody committed perjury; right?
+
+Todd Blanche: Correct.
+
+Juan Merchan: People?
+
+Joshua Steinglass: Very briefly, we, of course, disagree with Mr. Blanche's characterization of Michael Cohen's testimony. For all the reasons set forth in the summation and the entire trial record, there's more than enough evidence in this case for a reasonable jury to have reached the verdict that it did. So, we urge your Honor to reject the Defense motion.
+
+Juan Merchan: Your motion is denied. Any other motions or applications before we adjourn the matter?
+
+Todd Blanche: May we approach, briefly, your Honor?
+
+Juan Merchan: On the record.
+
+Note: [Whereupon, the following proceedings were held at sidebar.]
+
+Todd Blanche: I just wanted to ask about the sentencing date and be heard on the date. I didn't know what the Court's practice was.
+
+Juan Merchan: Sure. We can do that in open court.
+
+Todd Blanche: I didn't know the process.
+
+Juan Merchan: We can do that in open court.
+
+Note: [Whereupon, the following proceedings were held in open court.]
+
+Juan Merchan: Yes, Mr. Blanche?
+
+Todd Blanche: Your Honor, we would ask for a date for sentencing on some date in mid to late July. The reason for that is, as the Court is aware, President Trump faces other charges in other jurisdictions. In the case in Florida, there is a three-day hearing scheduled for late June; and the work ahead of that hearing requires Counsel to be in Florida, inside a SCIF, for much of the time between now and the date of hearing and, also, the date of the hearing itself, which will require us to just not be able to focus on this matter.
+
+Todd Blanche: So, we, respectfully, request a date at some point in mid to late July for sentence.
+
+Joshua Steinglass: Judge, the standard adjournment for an out I and S is six weeks. So, we don't oppose a date in mid-July.
+
+Juan Merchan: We will adjourn this matter for sentence to July 11th. We will order a Probation Report. Mr. Blanche, the clerk of the court will give you instructions on how to go about scheduling that Probation interview and getting that Probation Report. This will be July 11th, at 10:00 a.m.. If there are going to be any motions filed, I direct the Defense to file their motions no later than June 13th. That would be two weeks from today.
+
+Juan Merchan: If any motions are filed by that date, the People are directed to respond by June 27th. And that's the parameter of time that the Court would have to decide any motions. If there's nothing else, you're excused. Thank you very much.
+
+Joshua Steinglass: Thank you.
+
+Juan Merchan: What is the current bail status?
+
+Joshua Steinglass: There is no bail.
+
+Juan Merchan: Mr. Trump remains ROR'd.
+
+Note: [Whereupon, the case is adjourned for sentence to July 11th, 2024 at 10:00 a.m.]

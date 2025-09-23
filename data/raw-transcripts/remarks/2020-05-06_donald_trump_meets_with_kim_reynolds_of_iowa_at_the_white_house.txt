@@ -1,0 +1,565 @@
+Source: https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-kim-reynolds-iowa-governor-may-6-2020
+
+Donald Trump: Well, thank you very much. And it's an honor to have Governor Kim Reynolds, who is a -- a spectacular governor -- somebody that's done very well in every respect. But we're really here talking today about testing and about COVID-19. And we -- we have a lot of good understanding. We've worked very closely together. We've helped the people of Iowa. And I thought you would introduce your great doctor that you brought.
+
+Kim Reynolds: Yes.
+
+Donald Trump: And maybe you could give us a little talk in front of the media.
+
+Kim Reynolds: Yep.
+
+Donald Trump: And if you're different than me, you might actually get accurate coverage, which would be fantastic. Right? You may get accurate.
+
+Donald Trump: But, Kim, thank you very much for being with us. And please, would you like to say?
+
+Kim Reynolds: Yeah. Well, first of all, I appreciate the opportunity. I appreciate the opportunity to be here to personally say thank you to both you and the Vice President and your incredible team. The partnership and the collaboration as we've moved through this pandemic has been incredible. And we've -- not only for the calls that we have weekly, the coordination between the governors, to really -- you personally get on and ask if there's anything that we need to help address the pandemic in our states. I appreciate that very much.
+
+Kim Reynolds: Testing has been one of the areas that we are really leading on, so we know that that's critical for us to start to reopen Iowa. We have -- through the Test Iowa process, we have an assessment that Iowans can take and really monitor their own health. That will help us identify where some of the hotspots or clusters might be.
+
+Kim Reynolds: And then we have significantly increased our test- -- increased our testing capacity, so thank you. We've gone from 300 a day in March, to 1,300 a day in April, to almost 3,000 a day, now -- today. And we hope to increase that up to 5,000.
+
+Donald Trump: That's great.
+
+Kim Reynolds: It's really --
+
+Donald Trump: Wow.
+
+Kim Reynolds: And it really is making a difference.
+
+Kim Reynolds: And then, on top of that, we're doing really some robust case investigation and contact tracing, which has helped us identify, kind of, the scope of the virus activity so that we can be targeted in our approach and really help prevent it from really spiking and spreading. And so it helps us kind of contain and manage the virus as we move -- as we move forward.
+
+Kim Reynolds: I have with me today our state epidemiologist, Caitlin Pedati, and her team rocks. So on a day-in and day-out basis, they are really providing us the data and helping us monitor the way that we deal with COVID-19 in the state of Iowa, and the impact that it has on Iowans.
+
+Kim Reynolds: So maybe she could talk a little bit about what --
+
+Donald Trump: Sure.
+
+Kim Reynolds: -- we're doing, if you're okay with that.
+
+Donald Trump: Doctor, please.
+
+Caitlin Pedati: Absolutely. Thank you, Governor Reynolds, and thank you very much, Mr. President, for the time. You know, I think, like many states over the past several months, Iowa has really worked with our public health professionals, with our clinical partners, and with our laboratory partners at the local, state, and, of course, federal levels, to help enhance the resources and capacity that we have as part of this response. And so we've been able to do things like modernize our data systems, enhance our workforce capacity for public health case investigation and contact tracing, and, of course, expand our testing resources.
+
+Caitlin Pedati: And we've been able to do that in large part with the support of our State Hygienic Laboratory, and also some great partnerships, such as the one we have with the Iowa State Veterinary Laboratory, that's allowed us to increase not just our PCR diagnostic testing, but also our serologic testing.
+
+Caitlin Pedati: So we began to offer serologic testing in cohorts across the state to help us understand patterns of who might be exposed and how we might predict where the virus is moving in Iowa, and how we can direct community resources and get ahead by providing preventive public health support to businesses and healthcare facilities in areas where we think we might see increased activity.
+
+Caitlin Pedati: And so we continue to recognize that there is much we don't know about the virus. We know we have much to learn, for example, about serology and whether there is presence of neutralizing antibodies or how long people might enjoy that immunity. But we're hopeful that we can continue to use a variety of tools to help us get Iowans back to the ways that they live and interact and work, which, of course, includes the many Iowans that feed the nation.
+
+Kim Reynolds: Yep.
+
+Donald Trump: And what do you think of the immunity? What's your feeling? You have it -- are you immune? Or is just for a year? Or is it less? What do you think?
+
+Caitlin Pedati: I think it's an example of a place that we're just going to need to learn a little bit more.
+
+Donald Trump: And that only comes with time?
+
+Caitlin Pedati: It does come with time. And -- and, you know, this is a virus that's relatively new. You know, we only learned about at the end of last year. And I think the public health and clinical communities have done a tremendous amount of work in a short period of time. And I think that's due in large part to the support that we have when we work together, and also to flexibility. I think remaining flexible and looking at new resources and new ways to provide public health support across the state has been very important in Iowa.
+
+Kim Reynolds: I think, though, doing the serology testing with the diagnostic and PCR, it's really -- there's -- we're learning more and more about asymptomatic individuals. And so that's helped us kind of identify that, especially as we're trying to get the workforce back into the manufacturing and processing plants so that we can keep them up and going.
+
+Kim Reynolds: To better understand those that are testing positive, those that we know have at least had it and have the immunity in their system, it really brings some confidence to the workforce -- to go back into the plant to really make sure that we're separating the shifts, and so that we're providing the confidence of a safe work environment so that they feel comfortable going back to work and going back into the facility.
+
+Donald Trump: That's great.
+
+Kim Reynolds: So it's been a big piece of us really being able to stand up and keep operating the processing plants, which are so important to our ability to feed not only the country, but the world.
+
+Donald Trump: That's going much better now?
+
+Kim Reynolds: Yeah, it is. Yeah, we're making good progress.
+
+Donald Trump: How important is tracing?
+
+Caitlin Pedati: It's a very important part of routine public health activities. And this was something that we do for a variety of illnesses, and we adapt that approach depending on which illness we're talking about and which risk factor we want to assess. So if it's a foodborne illness, we'll ask you what you ate. And if it's COVID, we want to know where you've traveled, who you've been around, what your job is, so that we can understand what the risk might be -- not just how you might have gotten it, but right now, more importantly, who else might have been exposed.
+
+Caitlin Pedati: And so what it lets us do, as both case investigation and contact tracing, is understand more about this disease so that we can get better at limiting its spread and optimizing the outcomes for people who are more at risk. And it allows us to make a targeted, one-on-one touchpoint with people who have been exposed, to reinforce what they need to do on a personal level to keep themselves healthy.
+
+Donald Trump: Is COVID the most contagious of everything that you've seen? Is there anything that you've ever seen like this?
+
+Caitlin Pedati: You know, when we speak about contagiousness, we often talk about something called an R-naught value, or the amount of people who might become ill in a truly naive population if exposed to the virus. So things like measles, for example, have very high R-naughts. They're very infectious -- you know, 12 or higher. There have been early research around COVID that shows that it might be around the two to three range. But it's another example of a place where I think we need to learn more together as a national and global community.
+
+Donald Trump: Right. So you're really learning a lot. We're in the process of learning.
+
+Caitlin Pedati: That's absolutely right. You know, and we continue to do that.
+
+Donald Trump: Deborah agreed with you, right?
+
+Deborah L. Birx: Yes.
+
+Kim Reynolds: Well, every day, right?
+
+Caitlin Pedati: Every day.
+
+Kim Reynolds: I mean, to think it's only been two months from where we started and what we know today. And just having -- what we learn every single day has been incredible.
+
+Caitlin Pedati: Which is why being flexible, I think --
+
+Kim Reynolds: Yeah.
+
+Caitlin Pedati: -- is so important in this response.
+
+Kim Reynolds: Yes.
+
+Donald Trump: So do you think, in the fall, it could come back, even if it's in a lesser form and we put it out? Or do you think there's a good chance that it won't come back?
+
+Caitlin Pedati: I think it's another example of a place that we have more to learn about this virus. And part of what we've done over the past several months is use time to put the resources and structure in place to be better prepared if that is the situation.
+
+Donald Trump: We'll be definitely --
+
+Kim Reynolds: Oh, absolutely. I mean, that was -- when we first entered into this, when we were talking about stabilizing the virus, we didn't know if we'd have the ICU beds or the vents or the capacity, with our healthcare system. And today, we're able to demonstrate to Iowans the capacity that we have and the utilization that we have. And we're at about 80 percent availability of vents and ICU beds.
+
+Kim Reynolds: And so by demonstrating that, and by the time that was bought with the testing, we now really can start to open up Iowa in a responsible manner using the data that we have, knowing that our healthcare system won't be overwhelmed; that we are at a position, in case we do see some type of a surge. They have -- there's been unprecedented collaboration between the hospitals across the state, based on a region, to really identifying and understand what our resource capacity is --
+
+Donald Trump: Yeah, it's great.
+
+Kim Reynolds: -- within the state to address that.
+
+Donald Trump: We learned a lot.
+
+Kim Reynolds: We've learned a lot.
+
+Donald Trump: So the media likes to say we have the most cases, but we do, by far, the most testing. If we did very little testing, we wouldn't have the most cases. So, in a way, by doing all of this testing, we make ourselves look bad. For instance, they would say we have more than China. I don't think so. We have more than other countries. I don't think so.
+
+Donald Trump: But by doing all of the testing -- I'd love to get that chart from yesterday. It's such an incredible chart. We do many times -- we've done more testing than every other country combined, wouldn't you think? So we're going to have more cases because we do more testing. Otherwise, you don't know if you have a case. I think that's a correct statement.
+
+Kim Reynolds: Yeah, well, in Iowa right now, on a per capita basis, we've tested 1 in 50 Iowans. I mean, that's significant. But that really provides us the data that we need to understand the virus activity better. And so, we are aggressively testing, and we're testing in hotspots, so our numbers are going to go up.
+
+Kim Reynolds: But we need to look at trends, and we need to look at other -- virus activity is really, I think, what we need to focus on now and how we start to contain and manage that as we move forward.
+
+Donald Trump: So do you think it goes away -- it maybe comes back a little bit or a lot, but do you think it goes away in Iowa before the end of the summer?
+
+Caitlin Pedati: I think it's hard to predict. And, again, I think that part of what's been so important about the response so far is how we coordinate to be prepared for a variety of scenarios, whether this is a virus that becomes endemic and becomes part of seasonal illness; whether this is a virus that we see continued ups and downs and that we're able to monitor closely with the data modernization tools that we have and target resources, like testing, when we detect increases to help reaffirm with people the public health measures that they need to take while we await the additional resources, like medications and, subsequently, vaccines.
+
+Caitlin Pedati: So I think it's all part of how we look at managing this long term --
+
+Donald Trump: And only time will tell that.
+
+Kim Reynolds: And only time --
+
+Caitlin Pedati: I think that's right.
+
+Donald Trump: And you can't make -- based on data, you can't make predictions? Pretty much, it's impossible?
+
+Caitlin Pedati: You know, I think predictions -- and there's a variety of efforts in, you know, a variety of places about modeling a couple of different potential -- or forecasting different potential outcomes. And I think those are valuable things to do because they help you think about preparing, which is a big part of public health. But I think we have to keep in mind that we use the real-time data that we're getting, and we target resources as quickly as we possibly can.
+
+Donald Trump: Good.
+
+Caitlin Pedati: I also think that using the public health systems that we've developed -- things like the way we track influenza across the country that we've been doing for decades -- to think about taking all of those pieces and to understanding activity levels across the state and across the nation are going to be important approaches to looking at this in the long term.
+
+Kim Reynolds: And very similar, right?
+
+Donald Trump: And how do you compare this to -- yeah. How do you compare this to, as you said, influenza? How do you compare it?
+
+Caitlin Pedati: Part of the challenge with a new virus is that you have a population that's never seen it before. So everybody is susceptible, and we don't yet have a medication or vaccine, which makes it a little bit trickier than influenza. And so it means that, right now, we talk a lot more about public health mitigation strategies -- things like washing your hands frequently, you know, staying home when you're sick, and also making sure that we're providing the resources through public health and clinical and laboratory workforce to help direct efforts at controlling the spread by working with people who we know have tested positive.
+
+Donald Trump: So I have known people that have had the flu. All my life, I've known people -- many, many people.
+
+Donald Trump: [The President is handed a chart]
+
+Donald Trump: Oh, that's our testing. Look.
+
+Kim Reynolds: Yep.
+
+Donald Trump: So that's -- this is us. This is our testing. Obviously I'm referring to this line; otherwise, I wouldn't be showing you the chart. [Laughter] Because they'd then be saying, "Who's that one? They did a good job." Right? But this is the United States. This is Germany and India. And, let's see, Japan, South Korea are down here.
+
+Donald Trump: So if do did tests down here, we're going to have very few cases. If we do tests up here, we're going to have many more cases. So they keep saying, "They have a million cases." Well, that's because we're doing a lot of testing. Otherwise, Deborah -- in fact, I'm doing it because of Deborah. She keeps saying, "Keep going." We're going to break -- pretty soon, we're going to need a longer piece of paper.
+
+Donald Trump: But we don't get credit for it from the fake-news media. It's a terrible thing. But someday. Let's see. John -- John has been very nice to us.
+
+Donald Trump: But look at that. Isn't that something? Are you surprised by that, John? He's not allowed to say, by the way, because he's a reporter. [Laughs] He's not surprised. Is anybody surprised? Would anybody --
+
+Donald Trump: Impressive, though, right? Impressive. Look. Dead, stone-faced. No -- look. No? Not impressed?
+
+Question: You can't read my face with a mask. [Laughter]
+
+Donald Trump: I got my photographer back there. My Pulitzer Prize-winning photo- -- he'll agree with me. We take great pictures together.
+
+Donald Trump: So anyway, there's the story. And that's -- you know, to me, that's a big deal. Here, you can have that. Give it to your husband.
+
+Kim Reynolds: Yeah. Yeah, okay. [Laughs]
+
+Donald Trump: So I want to thank you very much. You're very lucky to have this young lady.
+
+Kim Reynolds: Oh, yeah. Absolutely. And now I'm seeing the danger of maybe bringing her here -- [laughter] --
+
+Donald Trump: No, I'm going to steal her. I'm stealing her.
+
+Kim Reynolds: -- because I can see the world is going to know how lucky I am. I have an incredible team, and you know that. I mean, that is really what allows us to stand up with confidence and talk about how we're going to move through the coronavirus and, really, the strategies that we're putting in place.
+
+Kim Reynolds: And it's because of Caitlin Pedati and her team, it really gives me great confidence when I talk to Iowans about how we are going to get through this, and we're going to learn to live with COVID-19. It's not going to go away for a while, so we need to learn how to manage it and not have it control our lives. And I believe that we can do that in a safe and responsible way, based on the testing, based on the data that we have in real time, and the targeted approach that we can take moving forward.
+
+Kim Reynolds: And then people -- we have to be responsible. If you're a vulnerable, older adult with underlying conditions, you need to stay home. We still have our social distancing that we talk about every single day. And we're not allowing people to gather in groups of more than 10. So we're being -- you told us to be responsible --
+
+Donald Trump: Yeah.
+
+Kim Reynolds: -- and we're being responsible. And I think, by doing that, we can really start to move through this.
+
+Donald Trump: And I'm being responsible too. I think we should put you on the task force. I really do.
+
+Kim Reynolds: Oh, you can do that. You just can't take her.
+
+Donald Trump: Can we do that?
+
+Kim Reynolds: You just can't take her.
+
+Donald Trump: No, no, I promise we won't. Only for the task force. But I'm not going to steal her --
+
+Kim Reynolds: Okay. Promise?
+
+Donald Trump: -- because that's -- I've lost friends by doing that.
+
+Kim Reynolds: Okay. [Laughs]
+
+Donald Trump: No, no. But I think you should be on the task force. Would you like to do that?
+
+Caitlin Pedati: Mr. President, I'd be happy to serve however you would like.
+
+Donald Trump: It's such a great deal and such a big, important thing. And -- but I'm only going to do it if I have Dr. Birx's permission. You'll work together.
+
+Donald Trump: But do you like the idea?
+
+Deborah L. Birx: No, absolutely. I think what's been so exciting about many of the states that don't get to be featured is they've been doing mitigation where they had to, but they've been doing outbreak investigation, contact tracing, and stopping the spread of the virus. And I think that's been very inspirational. And I think when they go into these plants and they test everyone, it was from individuals like this team that allowed us to see how much asymptomatic disease spread there was.
+
+Kim Reynolds: Yes. Yeah.
+
+Deborah L. Birx: And so we have to -- that's why we have to have these additional tools, and they've brought that to bear, both at nursing homes and in these meatpacking plants. But, really, taking it broader than that and ensuring the individuals who are associated with the meatpacking plant are also protected. And that's really given us insight into how to do functional contact tracing based on testing.
+
+Donald Trump: Yeah. And we should be talking about the meatpacking plant also. But I think it would be a tremendous -- I'm serious about it. I'd love for you to be on the task force. I only have one thing I have to do: The great Vice President of the United States, I have to get his approval for this because he's headed up the task force. And maybe he'll say, "I don't want her under any circumstance." [Laughter] Be careful. He can do it.
+
+Kim Reynolds: Same thing goes then, Mr. Vice President.
+
+Donald Trump: What do you think, Mike? Do you like the idea?
+
+Mike Pence: Mr. President, I'm -- I'm so grateful for the governor's leadership in Iowa, so very impressed with her team. I mean, Iowa has been leading the pack. What you've done on testing, Governor Reynolds, with the Test Iowa initiative; deploying resources; working very closely with our task force, Mr. President, to keep America's food supply rolling, the meat-processing plants, it is -- as Dr. Birx said, it is an example.
+
+Mike Pence: There are areas of the country where we have had to pay much more attention, where the outbreak has been much greater, and that's been right and proper, Mr. President -- the Greater New York City area, New Orleans, Detroit, Chicago.
+
+Mike Pence: But Iowa, with Governor Reynolds's leadership, has been a success story because whether it be the mitigation efforts, social distancing efforts, and now rolling out testing at a record pace in the state, Iowa has stayed in front of this effort and really represented some of the very best state response across the Heartland.
+
+Donald Trump: Incredible, right?
+
+Kim Reynolds: Thank you.
+
+Donald Trump: And having somebody from Iowa on the task force --
+
+Kim Reynolds: Yeah, it would be great.
+
+Donald Trump: -- would be great. That's great.
+
+Kim Reynolds: Especially with the food supply chain.
+
+Donald Trump: Thank you very much. We'll let you know about meetings.
+
+Sonny Perdue: Mr. President, you also need to understand your executive order from last week empowered our governors in this meat-processing to do that. And that's been a tremendous -- it's given comfort to the companies, as well as the employees, over the gold standard of CDC and OSHA from worker protection, along there with the testing has been a tremendous help. We're turning the corner on that.
+
+Donald Trump: Tell us how we're doing with that food chain.
+
+Sonny Perdue: The plants are reopening in Iowa and other places. We may have still a few closed, but we are working. They're opening this week. And I think we've turned the corner, based on that commonality --
+
+Donald Trump: It's really [inaudible].
+
+Sonny Perdue: -- of uniform standards there.
+
+Kim Reynolds: Oh, absolutely. Without hesitation. And I was on the call with several of our managers yesterday from the different facilities, and they asked that I extend a sincere thank-you for that executive order. It really has brought conformity across this -- the country.
+
+Donald Trump: Good.
+
+Kim Reynolds: And it was a very positive thing. And it really -- and then just helping make sure that we're protecting the workforce too, and it's working in conjunction with that. So it goes hand in hand [inaudible].
+
+Donald Trump: So your plant is -- how many plants do you have closed?
+
+Kim Reynolds: Well, we -- no, so we only have -- we don't have any shut down right now. We're at reduced capacity.
+
+Sonny Perdue: Perry is back up.
+
+Kim Reynolds: Perry is back up. In fact, they're at 60 percent capacity, and we just started the extensive testing last week with them, so it's a relatively good turnaround time.
+
+Donald Trump: Good. So you'll be in good shape.
+
+Kim Reynolds: Columbus Junction is at 100 percent. Waterloo is still shut down, but they're planning on coming back tomorrow. So we do have one. But we really -- and we've been able to maintain a lot of them just at reduced capacity, while we did the testing.
+
+Kim Reynolds: And to your point too, Dr. Birx, the contact tracing has been really, really a critical component of this. And we're doing it not only in our processing plants, but in our long-term care facilities as well.
+
+Kim Reynolds: And I want to give a shout-out to our National Guard because, because of Title 32, we've been able -- they're a big piece of not only our testing strike teams that were going into communities across the state, but also on our contact tracing. They've provided about 150 soldiers that are really helping us plow through. Because we're testing so much --
+
+Deborah L. Birx: Yes.
+
+Kim Reynolds: -- can you imagine the volume that we have for the contact tracing and what that entails? And so they've really been able to step up and step in and really help us through these efforts as well.
+
+Donald Trump: I'm just watching -- what a great governor -- the enthusiasm, the knowledge. You know, you need both. You can't just have one or the other.
+
+Kim Reynolds: Well, we have a great team. We're blessed.
+
+Donald Trump: No, it's a -- it's really -- you have a great governor. A really great governor in Iowa. Thank you very much. Thank you, Kim.
+
+Kim Reynolds: Yep.
+
+Donald Trump: John, go ahead.
+
+Question: Mr. President, I was actually speaking with the governor about this before she came to see you: There's a backlog in terms of live animals -- hogs, beef on the hoof -- out there. How soon will it be before that can get processed? And we are seeing some shortages in meats in many places across the country. How long will it be before the supply chain gets ramped back up again so that we're -- we don't have these shortages?
+
+Donald Trump: Right. Plenty of supply. Go ahead.
+
+Kim Reynolds: Yeah, I think so. We're moving in that direction, as the Secretary said. You've got to think South Dakota is coming back onboard. We'll have most of our facilities up and going.
+
+Kim Reynolds: And so as we continue to keep them up and processing and bring more back on line and continue to exceed the capacity, we're going to hopefully prevent what could have been, you know, a really sorry situation where we were euthanizing some of our protein supply and really impacting the food supply not only across the country, but throughout the world.
+
+Kim Reynolds: And so this is critical infrastructure. It's an essential workforce. And the team and the effort and the executive order, I think, has really maybe prevented what could have been a really serious situation.
+
+Kim Reynolds: And so I think -- Secretary, would you agree with that? We're --
+
+Sonny Perdue: Yeah, I think we've turned --
+
+Kim Reynolds: We're still monitoring it. We've turned a corner.
+
+Sonny Perdue: I think we've turned the corner. We see these plants coming back on line. Obviously, because of some infected employees, they won't be full force for a while, but we think the stores will be -- you'll see more variety and more meat cases fully supplied.
+
+Donald Trump: What's your timing? What's your timing, Sonny?
+
+Sonny Perdue: I'd say probably a week to 10 days where it's fully back up.
+
+Donald Trump: Fully back up?
+
+Kim Reynolds: Yeah. I mean, Perry came back up at 60 --
+
+Donald Trump: That'll be great.
+
+Kim Reynolds: -- 60 percent capacity, which is really -- that's a strong start up.
+
+Mike Pence: Mr. President, what the governors have made clear is that it was because the President used the Defense Production Act --
+
+Kim Reynolds: Yeah.
+
+Mike Pence: -- to make it clear that our objective is to keep meat-processing plants open, whether it be in Iowa, whether it be Delaware, whether it be in Colorado. And working through the Department of Agriculture, deploying CDC personnel to these meat-processing plants -- we're doing that.
+
+Mike Pence: And I think, Mr. President, one of the -- and you talked to a great Heartland governor, like Governor Kim Reynolds -- one of the great stories of the coronavirus outbreak has been that our food supply has continued to work every day, from the field to the fork, to the grocers, to the meat processors.
+
+Mike Pence: And thanks to the President's decision to use the Defense Production Act, we now have uniformity. And the objective is to work every day to keep those meat-processing plants open. And the ones that were coming down are going back on line.
+
+Sonny Perdue: While we're trying to keep the workers safe and healthy, along with these guidelines.
+
+Kim Reynolds: It's in tandem. We've done that.
+
+Kim Reynolds: And so, with the testing, with the PPE, with the restructuring in the facilities, they're also doing a lot of that as well to try to social distance where they can, to put in shields where they can, to look at the lines, to separate the shifts.
+
+Kim Reynolds: So, I mean, they really --
+
+Donald Trump: And I think they --
+
+Kim Reynolds: -- and the partnership, really --
+
+Donald Trump: Kim, I think we had a great talk with the owners of the plants, the top -- top people. Big people. These are big companies, actually. You wouldn't believe how many plants they have. And I think it was a very strong talk, and I think they got the message.
+
+Donald Trump: So within a week and a half, we should be in great shape. Maybe sooner.
+
+Question: Another piece of it is, as the price for animals on the hoof has gone down, the price of boxed beef has really skyrocketed and there's a huge price differential disparity there. Farmers are really hurting, whereas these meatpacking plants are making a lot of money. Is there something that the federal government can do? Farmers are asking.
+
+Donald Trump: Yeah. Well, I'll ask the Justice Department to look into it. Okay? I will ask them to take a very serious look into it, because it shouldn't be happening that way. And we want to protect our farmers. But they're looking into that very strongly.
+
+Question: What exactly, sir?
+
+Donald Trump: I said I've asked the Justice Department to look into it.
+
+Question: Look into the dis- --
+
+Donald Trump: Or whatever. Why is there disparity? What's going on? Are they dealing with each other? What's going on? Okay? Because it shouldn't be that way. Supply and demand should not allow that to happen, by normal supply and demand. Okay?
+
+Donald Trump: Thank you, John. Any other questions?
+
+Question: Are enough steps being taken to protect these workers?
+
+Donald Trump: Say it again.
+
+Question: Are enough steps being taken to protect the health and safety of these workers? The advocates for these workers say they're not being protected. I mean, what was it, 60 -- 60 percent infected at the Perry plant? Right? I mean, that's extraordinary.
+
+Mike Pence: Well, what we've looked at in each of these plants is, when we have an outbreak, the CDC deploys a team on the ground. We also worked with the governor and other governors around the country to deploy personal protective equipment to allow the workforce to safely return once testing is done. In most of these meat-processing plants, we end up testing everyone in the facility. And the people that are healthy are able to return with new countermeasures and new protection, new face masks or gloves, as the case may be.
+
+Mike Pence: And we're also working with the companies to put new countermeasures into place. But as the Secretary said, our objective is two equal goals. Number one is the safety and health of the workforce in our meat-processing plants and to ensure the strength of the food supply by getting people back to work and keeping the plants open.
+
+Donald Trump: Okay.
+
+Kim Reynolds: Yeah. No, I would completely agree with that. As I said, I was on a call with most them yesterday. Thank you for the conference call that you did, I think, this week, last week with our producers and governors across the country, specifically addressing this processing issue. So I appreciate that very much, Mr. Vice President.
+
+Kim Reynolds: And just to ask if they were having any trouble getting the PPE: No. They were fine. We are seeing the supply chain open up. I appreciate what the administration has done to make sure that they are -- they have the adequate PPE to protect their employees.
+
+Kim Reynolds: You know, this is their teammates. This is an essential workforce. They know how important it is to take care of their workforce. And a big part of it was providing them the confidence to go back into the facility knowing that they'd either tested positive and they'd recovered or they were on a shift with other employees that had tested negative.
+
+Kim Reynolds: And we'll continue to work with them. We've made it very clear if they want to additional testing, we'll be happy to do that. But they are testing them before they even enter the plant. They're doing a temperature scan. They're doing an assessment. They have to have the mask on when they enter the facility. Many times, they have the mask and the face shield. They're doing social distancing. They're relaxing their attendance policy.
+
+Donald Trump: And they feel much better, don't they?
+
+Kim Reynolds: And they feel better. Yeah. So, you know, it's a partnership. We're all working together to make sure that we're providing them the confidence of a safe environment, but at the same time, we're making sure that the food supply chain is moving and that the country is being fed. And we're continuing to [inaudible].
+
+Donald Trump: Will they be moving the plexiglass partitions [inaudible]?
+
+Kim Reynolds: So, they are. It's a fairly close working arrangement and so they are trying to separate, I think, with some additional space between the workforce. So I know it's some of the things that they're looking at. But they do it where they can. They put some of the shields, partitions in place. Yeah.
+
+Question: Mr. President, a follow-up on the task force. What will Dr. Fauci's role be in the task force going forward?
+
+Donald Trump: Same as it is now.
+
+Question: Okay.
+
+Donald Trump: He's been doing a very good job. We're very happy with Dr. Fauci, and he'll be doing the same, and Deborah will be doing the same. I know you'll be staying. I hope you'll be staying. We'd miss you otherwise. She's done a fantastic job. Both. No, same thing.
+
+Donald Trump: We're actually just adding some names. We may take off a couple that, frankly, you know, their expertise really no longer applies. But I think, Mike, you'll announce your names Monday, maybe.
+
+Mike Pence: Yes, sir.
+
+Donald Trump: Or sooner.
+
+Question: Mr. President --
+
+Donald Trump: Good names. And now we have a very distinguished person who really knows her business.
+
+Question: A follow-up on meat. Apparently, Wendy's has a shortage.
+
+Donald Trump: I'll have to call Nelson Peltz. I'll have to -- I'm going to call Nelson Peltz. He's going to be -- they're going to be okay. They'll be all right.
+
+Question: They're focusing on chicken.
+
+Donald Trump: Basically, you're saying, in a week and a half, you think everything is going to be good, or sooner.
+
+Sonny Perdue: Yes. These plants are opening as we speak. They're -- you know, this week -- the first next week --
+
+Donald Trump: You're going to have to push them. Push them more.
+
+Kim Reynolds: Yeah. And they're ramping up capacity, so.
+
+Donald Trump: Okay?
+
+Question: Mr. President, you had said earlier that when you were talking about winding down the task force, you'd heard from a lot of respected people who wanted you to keep it open.
+
+Donald Trump: Highly respected. Yes.
+
+Question: Who are some of the individuals? Can you --
+
+Donald Trump: Well, I'd rather not say because some of them aren't going to be able to make it. People want to be on the task force. They want to be on everything. You know, I've never seen anything like this. Anything having to do with this, they want to help. Every --
+
+Kim Reynolds: Yeah.
+
+Donald Trump: -- the biggest people, they want to be on. They want to be on the committees. They want to be on the financial committee or the sports committee.
+
+Question: Have you heard from any who would want to be on the task force?
+
+Donald Trump: I've heard of -- heard? That's all I do. I get calls from people -- the biggest people. They all want to be on. Enemies of mine -- people that don't like me want to be on the committees. I said, "That's strange." But they all want to do and they all want to help. So we're going to be announcing some very good names.
+
+Donald Trump: Now, in this case, you know, we want professional names that can help us, not just names where we put it on for the status of the task force. We don't need status; we need results.
+
+Question: Mr. President, last week, when you were in the East Room, I asked you about intelligence regarding the source of the virus. You suggested that you had seen some intelligence that gave you some confidence that it somehow emanated from the Institute of Virology. The Secretary of State on Sunday said the same thing. Where are you now on that issue?
+
+Donald Trump: No difference. No difference.
+
+Question: Have you seen anything else that gives you more confidence?
+
+Donald Trump: No. I don't think there'll be a big difference. If you ask me that question in two months, I don't think there'll be a big difference. And I think we know, and I think you probably know too.
+
+Donald Trump: Okay. Any other questions?
+
+Question: Just one follow-up on China, sir, related to the intelligence, but more specifically to how you will respond to China. You've talked about tariffs. Would you like to put tariffs on China as a punishment, or would it be more related to China not actually --
+
+Donald Trump: I don't want to talk about this.
+
+Question: Okay.
+
+Donald Trump: We're in the midst of some very big things, so I just don't want to talk about that now.
+
+Question: Are you satisfied with China in terms of how it's fulfilling the trade deal of phase one?
+
+Donald Trump: I will be able to report on that at the end of next week. They're buying a lot of farm product, but are they buying to the level that they were supposed to? You know, they were going to buy 50 billion dollars' worth. The most they ever did was 15 or 16, and now they're going to 50. Anywhere between 40 and 50, in terms of farm. But $250 billion overall. That's some -- that never happened. No President has ever even talked about anything like that. It's about time.
+
+Donald Trump: But I'll be able to report in about a week or two, as to not only with the farmers, but with many other industries also. Okay?
+
+Sonny Perdue: We'll have some updated ag numbers in this Friday.
+
+Donald Trump: Okay, good. I'd like to have that. I'll report them as they come in. But we're watching closely. And, you know, they understand. They have a deal. Hopefully, they're going to keep the deal. We'll see. They may, they may not. We're going to find out. We'll know soon.
+
+Question: On the ventilators that you say you're giving to other countries, how do you decide who gets them? Do they have to return them? Are you donating them?
+
+Donald Trump: Well, we have thousands of ventilators right now under development and already in storage, as you know. We're stockpiling. We have over 10,000. We've sent them to states. The states are all -- you have plenty of ventilators, right?
+
+Kim Reynolds: Yeah.
+
+Donald Trump: Did you ever think that was possible?
+
+Kim Reynolds: Nope. [Laughs]
+
+Donald Trump: They never wrote a story about it, Kim. Never.
+
+Kim Reynolds: No.
+
+Donald Trump: And that's a tough one.
+
+Kim Reynolds: We're at 80 to 85 percent availability.
+
+Donald Trump: That's not like a swab. That's not like a swab that's a piece of cotton. This is a big deal, doing a ventilator.
+
+Donald Trump: So countries know that we have tremendous amount -- tremendous volume. And they've been calling. Nigeria just called. We're giving them 250 ventilators. We have many countries -- I'd say 12, 14 countries -- that called. We're sending quite a few to France. We're sending quite a few to Spain and Italy. And we have other countries -- we have four African countries, countries located in Africa, who are really in bad shape, frankly. Very bad shape. And we're sending them quite a few.
+
+Donald Trump: So we're in a position where we can now help other people, because, basically, what are you talking -- you're talking about people dying. Again, it's not a question of countries. You're talking about a lot of people are dying. And we make a great ventilator, as you people found out. Your people actually told me the venti- -- you know, there are good ventilators and not so good. We go top of the line. We're making all top of the line.
+
+Donald Trump: So, we're sending them to a lot of countries as they need them. And they -- they call.
+
+Question: And are those donations? Will they have to be returned, or can they keep them?
+
+Donald Trump: So, we're working on that. And, in a certain way, I like them to be donations. I really do. I think it's goodwill. It's hard to say you have to pay us in order to save people from dying. And I'm the first one to say you got to pay.
+
+Donald Trump: But, you know, this is something that's a little bit different. I think it's something they really appreciate more than normally -- like, you know, you're doing some trade for some linen or whatever it is. A ventilator will save lives. And they are really -- some of these countries have none. Larry Kudlow knows. I mean, you know the kind of calls we've been getting. They're like desperation calls. Because you can't make them -- and it takes you months and months to get them set. We did it in weeks.
+
+Donald Trump: The people did an incredible job. I was very proud of them. There's not been something like this, like, since World War Two, you know. Especially that, because it's a big piece of equipment. Very expensive and very complex. You know, it's a very highly complex piece. The air has to flow at a certain level. You know, everything is -- it's a very, very complex piece of equipment.
+
+Donald Trump: So, it's a good question. But we have many countries calling, and we're helping as many as we can.
+
+Question: Sir, when you said a little while ago here that this was a worse attack than Pearl Harbor and 9/11, are you suggesting that COVID-19 is an actual act of war? Or --
+
+Donald Trump: I view it as a -- well, I view the invisible enemy as a war. I don't like how it got here because it could have been stopped. But, no, I view the invisible enemy like a war. Hey, it's killed more people than Pearl Harbor, and it's killed more people than the World Trade Center. World Trade Center was close to 3,000. Well, we're going to beat that by many times, unfortunately.
+
+Donald Trump: So, yeah. This -- we view it as a war. This is a mobilization against a war. It's a -- in many ways, it's a tougher enemy. You know, we do very well against the visible enemies. It's the invisible enemy. This is an invisible enemy. So -- but we're doing a good job.
+
+Question: What's your assessment, Mr. President, of the volunteer program that Jared Kushner put in place to ramp up PPE? And did it, as has been charged in a couple of news articles, favor people with political connections to you?
+
+Donald Trump: So I just heard that. I can only say this: These were young, brilliant people that were brought in because they have great expertise in this. People that love the country, people that I don't think were paid anything. In fact, some of them were very rich people, where they were able to sell their company. I mean, some people would say "nerds." Okay? This is what they do.
+
+Donald Trump: And I think they helped us a lot on ventilators. I wasn't involved in that, but I think they helped us a lot. You know, to they -- to them, they can look at a ventilator and it's a very simple machine. Somebody else looks at it; they have no clue. I think they did an incredible job.
+
+Donald Trump: Now, I don't know anything about any of the details of it, but it was a well-oiled machine. They were able to get things that nobody else was able to get. They got good pricing. Pricing, by the way, was not the most important element, but pricing was still, you know -- pricing is pricing. But we were able to get gowns and gloves and masks and all these things at a very early point. Now we're making a lot of them. You saw it yesterday, where we're making masks at Honeywell.
+
+Donald Trump: But I will say -- Deborah, you saw it too -- I mean, the level of ramp-up that we did so quickly. So I would say they did -- I wasn't involved in the details, but I could tell you, it started flowing. That was the -- with the planes pouring in all -- from all over the place.
+
+Question: And did the program in any way favor suppliers who had a political connection to you?
+
+Donald Trump: Well, I don't even know that, because I have no idea who -- who bought. I wasn't involved in that. We have a lot of support in our campaign. A lot of people are supporting our campaign. They want to see us win very badly. So, I don't know. Do they have companies? Do they not have companies? I can tell you, these -- I don't believe these kids would have any knowledge of any of these companies. Any of these companies.
+
+Donald Trump: And, you know, like I -- seeing this Dr. Bright -- I had never met Dr. Bright. I don't know who he is. I didn't hear good things about him. I did not hear good things about him at all. And to me, he seems like a disgruntled employee that's trying to help the Democrats win an election by getting out. I mean, he's got a pre-taped sermon about, you know, what he thinks. And I can tell you they didn't think he did a very particularly good job, as I understand it.
+
+Donald Trump: Now, I just got this this morning, because I'm saying, "Who is this guy?" But I never met him. I know nothing about him. But he's a disgruntled guy. And I don't think disgruntled people should be working for a certain administration. I mean, he certainly -- he certainly seemed to have a very well-packaged deal. And he's got the same lawyers that some other well-known people had. And he comes up with the whistleblower. I always thought whistleblower was sort of a secret thing. Well, everyone knows who he is, so why is it a whistleblower?
+
+Question: It just offers protection. It doesn't guarantee you any --
+
+Donald Trump: Protection from what? Protection from what?
+
+Question: [Inaudible]
+
+Donald Trump: But everybody knows who he is because he was very public about it. And if you look at his lawyers, his lawyers are the same lawyers that other people have used. And so I -- I don't know much about it, but to me, he seems like a disgruntled employee.
+
+Question: Mr. President, about the figures right now, are you --
+
+Donald Trump: Which figures?
+
+Question: Figures -- the death toll figures in the United States. Over 70,000. Do you believe those figures?
+
+Donald Trump: Well, I think what it is -- it is what it is, from -- you're saying it's 70,000. It's approximately now 70,000. So do I believe them? Yeah.
+
+Question: You don't have reason to cast doubt --
+
+Donald Trump: I don't believe them from China.
+
+Question: Yeah.
+
+Donald Trump: And I don't believe them from other countries, where I see, you know, a very tiny number of people died, but you're watching the news and you see what's going on.
+
+Donald Trump: But our numbers are, you know, essentially certified numbers. They're individual hospitals; they're putting out the numbers. I don't -- I don't imagine there'd be a very big variation.
+
+Donald Trump: No, it's a -- it's a big number, but it's also a number that it's at the lower scale -- I think, Deborah, you could say -- it's at the very lower scale of any number that we -- that was predicted, because if you look at the predictions, I guess they said from 100 to 220 thousand. That's if we did the big shut-ins and if we went to the total shutdown. And now it's time to open up our country. We're going to open up our country.
+
+Donald Trump: Okay. Thank you very much, everybody.

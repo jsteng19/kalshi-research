@@ -1,0 +1,391 @@
+Source: https://rollcall.com/factbase/trump/transcript/donald-trump-mike-pence-press-conference-coronavirus-briefing-march-3-2020
+
+Note: [The White House Press Office barred audio and video from this particular briefing. A transcript was released, but no audio or video is available]
+
+Mike Pence: Good afternoon, everybody. We just completed today's meeting of the White House Coronavirus Task Force. As you know, the President spoke this morning to county officials. And I want to remind everyone, as the President did today, that when it comes to health issues, state and local health authorities are in the lead, and the President reflected on that today.
+
+Mike Pence: The President also traveled with Dr. Fauci and the Secretary to the National Institute of Health and had a briefing there. For our part, I was on Capitol Hill. This team briefed the Republican Senate caucus, and we were invited to and briefed the Democrat Senate caucus.
+
+Mike Pence: Tomorrow we'll be on the House side. Our schedule is still firming up in the course of the day. But we had the opportunity to have a fulsome discussion about policies, and not just limited to the supplemental but, very broadly, dealing with the issue of the coronavirus in the country. And we were grateful for the opportunity to appear before both of those caucuses.
+
+Mike Pence: Let me give you just a couple of topline numbers. At this point, we are at 77 domestic cases of coronavirus. Sadly, Washington State confirmed three additional deaths today. Our condolences go to the families of those that were lost. That puts us at nine deaths, domestic. And they were individuals at either in a nursing home or who had been critically ill. And their families have our condolences.
+
+Mike Pence: We are at 13 states, plus New York City -- 14 total jurisdictions at this point -- where we have coronavirus cases currently operating.
+
+Mike Pence: I've had conversations today with the governor of Illinois and -- as well as the governor of Washington State, and good and productive conversations. And we're extremely grateful for the leadership the governors across the country and their health departments are providing in this instance.
+
+Mike Pence: Today, a couple of decision points from the White House Coronavirus Task Force. Today, we will issue new guidance from the CDC that will make it clear that any American can be tested with no restrictions, subject to doctor's orders. Several governors said to me that there was an impression that the test would not be administered to people who were only mildly symptomatic. We are issuing new guidance, effective immediately, from the CDC that will make it clear that any clinician on health authority can administer the test.
+
+Mike Pence: Testing was much a focal point of our efforts today. Dr. Birx and the Secretary and I convened a conference call with CEOs of some of the nation's leading commercial laboratories. At this point, as the experts around me can describe, we are addressing the testing issue in a variety of ways. CDC-approved tests are moving out. We should have 2,500 kits out before the end of this week, which represents about 1.5 million tests. Those are being focused on hospitals in the areas that have been affected, as well as hospitals that have requested those tests.
+
+Mike Pence: In addition to that, IDT is also spinning up their manufacturing for tests. I am told that there'll be up to a million a week by next week. And in our meetings with the CEOs of commercial laboratories -- and I'm going to have Dr. Birx speak to this -- we will be meeting tomorrow, here at the White House, with those CEOs, to clear away any potential barriers to them leaning all the way in.
+
+Mike Pence: It was inspiring to be with the pharmaceutical companies yesterday who had already formed a consortium to begin to share resources and share information about meeting the need both with therapeutics and with the development of a vaccine. And we'll be challenging, as we did today, on the President's behalf -- we'll be challenging the commercial laboratories in the country to spin up their capacity to collaborate and be able to process testing much more rapidly.
+
+Mike Pence: Seema Verma will elaborate for you, but tonight, the task force has authorized the decision that we're going to put all inspection resources, at the state level, focused on infectious disease, looking at nursing homes being a focal point of vulnerability and a vulnerable population. And Seema will clarify that with you, in addition to a variety of new sets of guidance that CMS is going to be issuing to nursing homes to really focus -- focus our energy and our efforts on protecting the most vulnerable and where we see the locus of the coronavirus today.
+
+Mike Pence: Finally, we today -- OMB will be issuing a new guidance. We will be directing all federal government agencies to review internal travel policies and to adhere to State Department advisories with regard to international travel.
+
+Mike Pence: Let me say again that, as Dr. Fauci reiterated again today, the threat of the coronavirus to the American public remains low. And as we continue to evaluate our circumstances, we'll continue to bring recommendations to the President for changes. But at this point, we're simply directing a review of internal travel policies of all federal agencies and directing them to adhere to State Department advisories.
+
+Mike Pence: Before I introduce the Secretary, let me also say tomorrow we'll be meeting with the CEOs of all the major airline carriers here. The topic will be contact tracing data and how we can -- we have a strong relationship in the 11 airports that have been assisting us with screening personnel coming back into the country -- we call them "funneling airports" -- but we're going to be meeting with CEOs tomorrow to talk about even greater cooperation from them.
+
+Mike Pence: But again, I would just -- I would just conclude by saying that tomorrow will be one week since the President asked me to lead the White House effort. And I couldn't be more proud or more impressed with the efforts at HHS, CDC, all of our agencies -- NIH. And I couldn't be more proud to see the way states and local governments have had a seamless relationship with federal agencies in responding to this. And that's the relationship that we have forged.
+
+Mike Pence: We'll continue to build on that, and we'll continue to focus this week obviously on ensuring that, in the supplemental bill, we not only make sure that the federal agencies are properly funded, but as I've told 50 governors and 3 territorial governors, we're going to make sure that state agencies and local healthcare providers also have the resources to be able to meet their needs without hesitation, to lean into this effort. As the President said, this is all hands on deck. We're all in this together, and we're going to continue to bring a whole-of-government approach.
+
+Mike Pence: With that, let me recognize the Secretary and then Dr. Birx, and we'll each make some comments and take a few questions. Okay? Mr. Secretary?
+
+Alex Azar: Great. Thank you very much, Mr. Vice President. And thank you all. As the Vice President mentioned, and I'm sure we'll all reiterate, at this time, the threat to any individual American remains low from the coronavirus.
+
+Alex Azar: As we've said, that can change rapidly. We are watching for that constantly. And, of course, with regard to any individual in contact with someone who is positive for the coronavirus, that risk is, of course, higher.
+
+Alex Azar: We're working to keep that risk low. We are aggressively deployed. The CDC is out in the state of Washington, out in Santa Clara County in California, assisting with community mitigation steps, taking the lessons that we have both from our pandemic action plan, as well as from the Singapore and Hong Kong cases -- what they've been able to do and some of the steps they've been able to get this situation more under control there.
+
+Alex Azar: I'm also very pleased to announce that the President of United States has donated his quarterly check to the Office of the Assistant Secretary of Health at HHS to fund the coronavirus preparedness and response activities. So, very pleased to receive that check today.
+
+Alex Azar: We continue to make significant advances, in particular on removing barriers and moving forward in our response activities, basically using every day that we have gained by the President's strong actions to take advantage of those days to advance the ball.
+
+Alex Azar: So, today, the President was up at NIAID, Dr. Fauci's institute, where he was informed that, just yesterday, the Food and Drug Administration authorized the entry into clinical trial -- phase one clinical trials of the vaccine candidate developed by NIAID scientists, who he got to meet today, and working with Moderna. So, hopefully, within again five to six weeks, that will be in humans and phase one clinical trials as a result of the FDA clearance.
+
+Alex Azar: In addition, just last night, the FDA and CDC issued guidance with regard to these respirator masks, the N95 masks that you see that look more like cones on someone's face -- healthcare workers. Something people don't know is most of those N95 masks -- the respirators, they're called -- in the United States are used in the construction trades and industrial trade. So, construction workers, miners.
+
+Alex Azar: And yesterday, the FDA and CDC issued guidance under an emergency use authorization, making it clear that those industrial N95 masks are approved and appropriate for use by healthcare providers under the current exigent circumstances of the novel coronavirus. That will free up a massive amount of additional supply in the marketplace for our healthcare providers, even as we engage in procurement activities under the supplemental that we hope to get to produce even more of those.
+
+Alex Azar: And then, finally, Dr. Hahn is going to be discussing with you some really important deregulatory work that we did. We think it's right-sizing regulation with regard to diagnostic testing that we did on Sunday morning that is unleashing massive capacity in the United States for lab developed testing. So with that, let me stop.
+
+Alex Azar: Mr. Vice President, thank you.
+
+Mike Pence: Great. Thank you, Mr. Secretary. And let me -- and perhaps Dr. Fauci can amplify this in just a moment: The American people do not have to buy a mask. The focus of our administration's efforts in this area, as I talked to Governor Pritzker today in Illinois, is we have a -- we have a reserve of some 43 million masks.
+
+Alex Azar: Masks overall.
+
+Mike Pence: We're working on -- I'll be traveling to 3M in Minnesota. The supplemental will contemplate a contract with that company and Honeywell and others to produce masks. And what we want to do is focus and make available the medical devices and protection for our healthcare workers.
+
+Mike Pence: And so, whatever you can do to get the word out to the American people that it is not necessary for the American people to buy masks in the midst of the coronavirus spread in the country. The risk remains low. And I'll let the physicians describe that to you if there's questions.
+
+Mike Pence: Let me introduce Dr. Birx for her comments.
+
+Deborah L. Birx: Thank you. Thank you, Mr. Vice President. So, yesterday, we talked about not only the vaccine development but the work ongoing in therapeutics, which will be available much earlier, as well as novel work on monoclonal antibodies.
+
+Deborah L. Birx: For those of you who are in the audience who may be a little older, who used to get immunoglobulin before you traveled, it's on that same principle. It can be used both as a protective, as well as a therapeutic. And so there's work going on for that.
+
+Deborah L. Birx: Today, we worked very hard and concentrated on the public -- the private sector to really get them engaged in testing, because we know every family is concerned, particularly mixed-generation families and households where there's both young children and the elderly that we know are at higher risk, potentially, for more sickness and actually more severe cases.
+
+Deborah L. Birx: And so we know that the private sector is going to be critical in getting those assays immediately available in more the pediatric clinics, the CVSs, and so that anybody who wants a test can access tests.
+
+Deborah L. Birx: Those are discussions we will have tomorrow and be able to really summarize on the movement towards making diagnostics more available, not only the nucleic acid diagnostics but the diagnostics that allow us to see who has been infected previously and really understand what the prevalence and incidence of this disease is -- because it's very difficult right now, when you're only looking at the sickest, to really understand how broad infections may or may not be.
+
+Deborah L. Birx: So we're excited about that work that's going to happen tomorrow. Thank you.
+
+Mike Pence: Okay. Very good. Thank you, Dr. Birx. Seema?
+
+Seema Verma: Thank you. As the Vice President said, we will be focusing all of our state agency resources that are involved in inspecting nursing homes and other healthcare facilities to focus on infection control practices. Healthcare providers are going to play a very critical role in preventing the spread of the coronavirus, and CMS has a unique role in holding healthcare providers accountable for maintaining these essential health and safety standards.
+
+Seema Verma: We're also issuing a call to action to hospitals, nursing homes, dialysis providers, and all healthcare facilities to review their infection control and emergency preparedness procedures to ensure that they are in compliance with CMS regulatory requirements.
+
+Seema Verma: In addition, we are reissuing some guidance around infection control, around transfers between nursing homes and hospitals, encouraging and requiring them to consult with local healthcare officials. And we're also issuing some guidance around screening visitors and healthcare workers.
+
+Seema Verma: The third item that we're releasing today is guidance to state inspectors who physically visit and evaluate healthcare facilities. The guidance provides information on the latest CDC protocols that they must follow when inspecting these facilities with suspected cases of respiratory illness. Inspectors should be coordinating with the CDC, CMS, and local healthcare officials. And they should also make sure that they have the appropriate protective -- personal protective equipment.
+
+Seema Verma: We've also deployed -- CMS has deployed two of our infection control specialists to CDC in Atlanta so that we can remain in lockstep with the CDC as the situation evolves. And this will allow us to coordinate our policies in real time.
+
+Seema Verma: And finally, CMS is preparing to send a team of inspectors to Washington State to inspect the nursing home, dialysis facility, and hospital that was involved in the recent COVID-19 cases so we can determine if all federal health and safety regulations were followed.
+
+Seema Verma: And we'll be evaluating the situation daily and continue to provide updates. Thank you.
+
+Mike Pence: Very good. Dr. Fauci?
+
+Anthony Fauci: I'll just take a quick moment to just reiterate what was said about the visit to the NIH by the President. And we were able to map out and discuss -- and something that we want to make sure everyone understands: He saw it firsthand the process of vaccine development and why it's very, very important that you do it in a stepwise fashion -- even though we're going more quickly than we've ever done that -- and that is to go through a phase one trial to show that it is safe, and then even a phase two trial, which will take several months.
+
+Anthony Fauci: So if you're looking at what's going to be available, the one dictum that you always know in medicine is: First, do no harm. And we've got to make sure that if we're going to protect the American people, if we're going to be giving them a vaccine to otherwise healthy people to protect them, we've got to make sure we have a vaccine that is safe and that is proven to be effective. Not only just safe with any side effects, but there have been situations where even vaccines have actually made someone worse. So we got to make sure that we don't do that.
+
+Anthony Fauci: That's the reason why, even though we're going at rocket speed, it's not going to be at least a year to a year and a half before we have a product that we would be able to confidently say let's rev it up and give. Not the case with therapeutics, because therapeutics -- you're giving it to someone who is already ill, and you're trying to save their life. That doesn't mean you're reckless with it; it means that you have almost an immediate answer as to whether it works.
+
+Anthony Fauci: So there are a couple of big trials that are going on in China, and there is one that's going on right here in the United States, testing a single drug. And there'll be other drugs to do that, testing whether or not if you do "standard of care" versus "standard of care versus a drug," whether or not that drug will actually be effective.
+
+Anthony Fauci: I was asked the question outside when we landed from the NIH, "When will that be?" It will be when you get enough data, and the Data and Safety Monitoring Board -- which is a group that independently looks at the data to determine are you actually making things worse or are you making things better. And they look at the data intimately.
+
+Anthony Fauci: Someone asked me, "Will that be two months, three months, five months?" We don't know. It will be when the time comes when they look at the data, if -- and this is a big "if" -- don't misinterpret it -- if a drug is effective, then you would make it available to individuals. Not guessing if it's effective, but is it effective.
+
+Anthony Fauci: Thank you.
+
+Mike Pence: Thank you, Dr. Fauci. Dr. Hahn?
+
+Stephen M. Hahn: Good afternoon, and thank you for the opportunity to clarify some of the issues that have been in the press and concerns by the American people around the diagnostic testing.
+
+Stephen M. Hahn: So, first of all, this is a test that is not what we call a point-of-care test. It's not like the strep test, where you go in a doctor's office and you get that test done. This is a test where a swab is done and it's sent to a laboratory, and in the laboratory they can perform that.
+
+Stephen M. Hahn: Currently, this test is available in state public health labs, based upon the great work that CDC has done to develop this test. And the type of test is called a PCR test. So CDC developed this test and has been distributing this to state public health laboratories. And by current count, there are 46 state public health laboratories that have access to this test and can do this testing around the country.
+
+Stephen M. Hahn: So, additional tests are being performed by a company -- or being developed -- not developed, but being manufactured by a company called Integrated DNA Technologies, IDT. They're working with CDC to increase the capacity of the CDC-developed test. They're giving those tests to CDC to further disseminate to the public health laboratories. They are also receiving orders from around the country -- academic healthcare institutions, big hospitals, as well as commercial laboratories around the country -- to further disseminate that test.
+
+Stephen M. Hahn: Their estimate is that, by the end of this week, they will be able to have shipped 1 million tests to these non-public health laboratories. In subsequent weeks, they expect to escalate even further their manufacturing to higher numbers than that. We don't have estimates for that for you at this time.
+
+Stephen M. Hahn: But we expect that the shipment of those tests, the non-public health labs, will significantly increase the capacity around the country for testing.
+
+Stephen M. Hahn: On Saturday, you know we issued an emergency use authorization, which provided a deregulatory and -- regulatory flexibility approach to what's called LDTs, or laboratory developed tests. That means X hospital in whatever state, whatever county, if they're certified, can develop their own laboratory based test. They notify us when that occurs, and then 15 days later provide us the validation data.
+
+Stephen M. Hahn: We use the same validation criteria. These are experienced laboratories, and we've already heard from four laboratories around the country that they've developed these tests and have started using those tests. So you can see this is a layered approach to increase our capacity.
+
+Stephen M. Hahn: And finally, FDA has been working with large commercial laboratories over the last three to four weeks, using our EUA approach, to help develop additional testing capacity.
+
+Stephen M. Hahn: And as the Vice President mentioned, we met with members today, over the phone, of large laboratories to actually discuss their expanded capacity and to further increase the availability of these tests for Americans.
+
+Stephen M. Hahn: So one last point: What can the average American expect in terms of availability of this test? Well, first of all, as we mentioned, CDC will be issuing new guidance with respect to the fact that a physician should be able to order this test, based upon their own clinical assessment of that patient.
+
+Stephen M. Hahn: And, secondly, we expect that their access -- Americans' access to this test will increase as more and more laboratories around the country have availability of this test. That should increase next week and further in the weeks ahead as more and more tests are available. Thank you.
+
+Robert Redfield: Thank you, Mr. Vice President. I think what I would -- I want to make a few points. The first point I want to make is to recognize the, really, 24/7 work that the state and local, territorial, tribal health departments are doing.
+
+Robert Redfield: They have -- they're at the front lines responding to this, implementing the principles that we've talked about before that are so important for this public health approach: early case identification, isolation of those individuals that are confirmed, and then aggressive contact tracing to try to identify additional cases. And then it repeats to isolation contact tracing.
+
+Robert Redfield: We're going to continue to see new cases diagnosed in the community across this country. But that really is a success, in my view, not a failure, of the incredible public health community that we have in these states and these local health departments, tribal and territorial.
+
+Robert Redfield: I also would like to make a comment to the American people. I want them to be prepared for the reality that there are going to be more cases in the community. But I want them to continue their daily lives. I want them to be mindful of the opportunity, again, to prepare themselves and their families as we see this. As I mentioned I want these new cases to be viewed as a success, in one sense, of our effective public health community, and not a failure.
+
+Robert Redfield: Finally, I just want to reemphasize what was said -- one thing else that they can do. These protective masks, they really are for healthcare professionals that are taking care of these individuals that are sick in the hospital. We need all the American public to be part of -- as the Vice President says, we're all on the same team here. And one of the most important components of that team is the American public.
+
+Robert Redfield: And I want them to recognize: If we felt there was a public health reason for them to be going out to develop masks, those of us here -- Tony and myself -- would tell you. But these masks are meant for the healthcare professionals that are at the frontlines trying to care these men and women that are quite sick.
+
+Robert Redfield: And lastly, I just want to reemphasize once more what was set already by the Secretary and the Vice President. Again, despite these new community cases, the risk at this time to the American public remains low.
+
+Robert Redfield: Thank you very much.
+
+Mike Pence: Thank you. We'll take a few questions. Thanks. Jim? Go ahead.
+
+Question: Yes, Mr. Vice President. You said that any American can be tested. Just follow up on that: Is that going to be free? And for Americans who can't afford that testing, what's going to be done to make sure they can be tested?
+
+Question: And just as a matter of, you know, why we're in this setting and not in an on-camera setting -- can you explain why this briefing is off camera, that we can't record the audio from this briefing? Are you finding that these briefings are not reassuring Americans?
+
+Mike Pence: Well, I think, on the first point, allow me to have Bob come back up. But I think you're going to see us in here every day answering questions --
+
+Question: But we don't see you right now.
+
+Mike Pence: -- and to give the American people the up-to-date information.
+
+Mike Pence: But the President was at NIH today. The President addressed the country today. What we want to do is give real-time information in a steady pace and be fully transparent to everybody. So I appreciate your cooperation with that.
+
+Mike Pence: I expect we'll be back on camera tomorrow, if you got a question you want on camera.
+
+Mike Pence: Bob, let me -- let me yield to Bob here.
+
+Alex Azar: And Seema also.
+
+Mike Pence: And Seema. Let me -- there will be coverage for this. We're going to make it very clear that Medicare covers these. Maybe you could start there.
+
+Seema Verma: Sure.
+
+Mike Pence: Medicare covers these. Medicaid covers these. We're sending out that guidance immediately.
+
+Mike Pence: But, you know, when I talked -- when I talked to some state officials, there was a sense that the tests would not be administered to people that were mildly symptomatic. We're issuing clear guidance that, subject to a doctor's orders, any American can be tested. And so we're removing that barrier, but I'll let them speak to --
+
+Seema Verma: Sure.
+
+Mike Pence: -- some of the public support for the cost.
+
+Seema Verma: Sure. So this is a diagnostic test. So if you went to a doctor today -- if you have health insurance and you got a test for strep or the flu, all of that would be covered within your insurance. That is an essential health benefit. So in the exchanges in Medicaid and in Medicare, this is a covered service. So this should be, you know, pretty routine.
+
+Seema Verma: And I'll turn it over to Dr. Redfield to talk about uninsured populations.
+
+Robert Redfield: Yeah, thank you.
+
+Question: Did you see that this are some reports -- some anecdotal reports of a gentleman going in, in Florida, or something like that, and having a bill for $3,000 after he underwent the coronavirus test? That was reported in the Miami Herald. Are you seeing anecdotal cases -- forgive me for interrupting but I just -- that was something that caught my eye.
+
+Seema Verma: Yeah, and I can't speak to the specifics of that case. But if you're in the Medicaid program, if you're in the Medicare program, if you're covered by the exchanges, that would be a covered service. It's a routine diagnostic test.
+
+Mike Pence: We'll look at it though. My team will write that one down and we'll pull it up.
+
+Robert Redfield: I just want to emphasize the tests that CDC provides to the public health community, as you heard Dr. Hahn talk about, that test is provided free of charge to our public health laboratories across the country.
+
+Question: Mr. Vice President?
+
+Mike Pence: Good. Yeah. Please.
+
+Question: You talked about masks. Dr. Redfield talked about masks. And I also have a question for Dr. Redfield, if I could. Senators Fischer and Sinema have introduced a bill offering limited liability to companies that produce these masks to try to ramp up production. Is that something you believe is necessary?
+
+Mike Pence: Senator Fischer talked to me about that over the weekend, and we're looking at it, and maybe well in the context of the supplemental. But I'd refer you to the White House Leg. Council about what the status of that is. But I certainly told her we strongly support any effort to continue production and availability of masks -- masks and gloves.
+
+Mike Pence: And something I talked to Governor Pritzker about in Illinois today is what we want our healthcare workers to know is that they're going to have the resources to administer care to patients and be properly protected in their own right. As we continue to gather data about how far the coronavirus has spread, we don't want our healthcare workers to be lacking any of the proper gear.
+
+Question: And to Dr. Redfield: Dr. Redfield, do you have a projection of if, given the current rate of spread of this virus, it will spread to all 50 states? And if so, when?
+
+Robert Redfield: You know, one of the things I've learned since I've had this opportunity is, we got to stay grounded in data. We're not -- we really can't see the future. We really don't know this virus very well. We're being introduced.
+
+Robert Redfield: But what we do know for sure, that in the right settings, it does have the potential to move quickly, when you think that just a couple weeks ago there were less than 3 cases in Korea and now there's 4,500. So I just think we -- I'm going to leave it like that. We'll just have to see how the data evolves.
+
+Mike Pence: We'll follow up. Thanks.
+
+Question: Thank you, Mr. Vice President. Well, I think we've all learned a lot in this whole process, and you've been, as you said, in the job about a week now since the President tasked you with this. What do we expect to learn in the next week? And what don't we know about this virus? And I don't know if that's for you for Dr. Birx or --
+
+Mike Pence: I think that's a great Dr. Fauci question. He's been at this a real long time, and he's the one we're all leaning on.
+
+Mike Pence: Dr. Fauci?
+
+Anthony Fauci: Well, there are several things that we don't know, I mean about the virus in general. For example, the degree to which asymptomatic infection a person can actually transmit. We know that it occurs because we have anecdotal information from case reports and just anecdotal back and forth with our Chinese colleagues. We don't know the extent to which that occurs.
+
+Anthony Fauci: The big unknown that I think we're going to be able to address as we get much more widespread ability to test is the degree of infection that might be out there that we don't think, just looking at what's going on, but we want to be sure. I mean, you want to make decisions -- when we talk about risk and things like that -- you want to make decisions based on data. And hopefully, very soon, we'll get a lot more data. And when we get a lot more data, we'll be able to upgrade, yeah.
+
+Question: And what is "soon"? Is it days, weeks?
+
+Anthony Fauci: You know, I have to look at the people about the testing and when they're going to be --
+
+Stephen M. Hahn: We already talked about the test timelines. Yeah.
+
+Anthony Fauci: Yeah. You already spoke about the test timeline.
+
+Mike Pence: Yeah. Right.
+
+Question: Dr. Fauci, how confident are you that China has been providing accurate information about the virus and its spread?
+
+Anthony Fauci: Right now, today, I'm pretty confident. I mean, in the beginning, you know there was that issue where it was said that the virus was transmitted only from an animal reservoir to a human, when actually there was ongoing transmission for a few weeks. But, right now, the data that we're getting from them, the Chinese scientists -- not any other of the members of what goes on there from a political standpoint -- but the scientists are reporting cases now, one after the other. I have had the opportunity to review them. I actually -- Bob and I wrote an editorial in the New England Journal of Medicine, based on one of those cases.
+
+Anthony Fauci: So I think what we're getting right now is good information.
+
+Anthony Fauci: The other thing that's important, that I mentioned the other day, is that as part of the WHO-sponsored team, we had two people on that -- one from the CDC and one from the NIH -- who are back now putting together a report. So we're going to get some better information right now. But I really don't think that there's a degree of, quote, "cover-up" that we're missing. I don't think so.
+
+Mike Pence: But let me -- but let me also -- if I can amplify on that point: In the last several days, there have been fewer newer cases in China than in the rest of the world.
+
+Question: And why is that?
+
+Mike Pence: I -- and why is that? [Laughter] Get used to this.
+
+Anthony Fauci: Okay, so the Chinese have really been -- I would have to use that word -- rather "draconian" in the things that they've done. They've created a degree of -- you talk about social distancing; I think this is taking it to somewhat of the extreme. They've shut down travel. They've shut down major cities. They have an entire city of Wuhan, which is 11 million people. There are about 55 million people in different cities that are not able to have that kind of free transportation as you would have imagined in a country like China.
+
+Anthony Fauci: And right now, some of the cities, like Beijing and Shanghai, they've said that if you've been out of the city, you can't come into the city from where you've been unless you have 14 days, essentially, of self-isolation. So they have taken social distancing to its farthest extreme, something that I don't think would tenable in this country.
+
+Mike Pence: Please.
+
+Question: Thank you, Mr. Vice President. It's a travel question. Especially, Dr. Redfield, you talk about how this is moving so quickly. The President had tweeted out that high-risk countries -- those coming from high-risk countries will be treated when they arrive in America. Is that happening? Are those coming from Italy, from South Korea -- when they arrive here in the United States, are they being tested? And are there other people being tested here in America when they arrive from other countries?
+
+Mike Pence: Well, we are now screening 100 percent of all travelers taking direct flights from all airports in Italy and South Korea to the United States of America. At this moment, as of this morning, the screening is taking place and it is -- multiple-layered screening is taking place in those countries, in cooperation and coordination with us.
+
+Mike Pence: We did have a discussion today with Homeland Security officials, and they are preparing recommendations to the President regarding screening on our end if we determine that that is also necessary.
+
+Mike Pence: But all passengers on all direct flights from all airports in Italy and South Korea are now being screened on multiple occasions before they board. Okay?
+
+Question: Can I just add quickly about the market reaction you saw today? The Fed took a pretty big step with its cut. The markets don't seem to have thought that that was enough. I'm wondering what you think, if anything, the federal government, the administration should do. In other words, why is it only up to the Fed to calm markets? Should you be considering a tax measure, a spending measure? Is there anything you need to do to sort of stop the bleeding, if you will, in the markets?
+
+Mike Pence: Well, I'm going to stay focused on the task the President gave me -- and I promise you it's what the President is focused on -- and that's the health and safety of the American people. We had a big day on Wall Street yesterday. I think it set a record. Today, I don't know where it closed, but it was a little down.
+
+Mike Pence: You know, we really do believe the fundamentals of this economy are strong. You look at lowest unemployment in 50 years, consumer confidence is high. I was just informed two days ago, from one source, that consumer spending continues, at least through the most recent report, to be very strong. Housing is strong.
+
+Mike Pence: So the President has said to us: The priority is the health and safety of the American people. We believe the strength of the American economy will take care of itself. But I'll leave it to our economic team to give any further.
+
+Mike Pence: Please.
+
+Question: Mr. Vice President --
+
+Mike Pence: I'll take a couple more because I appreciate you doing a briefing in this context.
+
+Question: Can you just clarify broadly, based on what the officials have said tonight, are there enough tests for the demand that is required?
+
+Mike Pence: Let me let the experts say that.
+
+Mike Pence: Dr. Hahn?
+
+Stephen M. Hahn: We are increasing demand -- or increasing capacity over the next several weeks. We will see increasing demand, and we're trying to meet that demand with increasing capacity, as I mentioned.
+
+Question: So is that a no?
+
+Stephen M. Hahn: It's -- we're -- right now, I'd say we need more capacity, and that's what we're doing.
+
+Question: And, Mr. Vice President, one sort of personal follow-up.
+
+Mike Pence: Yeah. Can I respond to that?
+
+Question: Yeah, of course.
+
+Mike Pence: It's a really good question. You know, I spoke to Governor Inslee today in Washington, and he informed me that now their university and their state labs are able to be conducting the testing, he said. They'll be able to do -- I think the timeframe was 1,000 tests a week at one of the facilities. So they're moving forward.
+
+Mike Pence: Because when I started talking with governors last week, one of the things they said was, "We want to be able to do the testing in our facilities." Okay? And I want to commend the Secretary, I want to commend FDA, for just rolling their sleeves up, making some changes this weekend. So now we've got states doing it.
+
+Mike Pence: That, we believe, is in a position to deal with the cases that we know and the communities that are being impacted, to a large degree. But with regard to the general public, it's the reason why Dr. Birx recommended today -- and we acted immediately -- to bring -- we had a conference call with the CEOs of the top commercial labs in the country. I mean, the people that are going to be able to produce at a volume that -- right now, we're focusing on hospitals, we're focusing on universities in affected areas.
+
+Mike Pence: But by having these massive commercial lab -- Quest and other companies that'll be here at the White House tomorrow -- and we'll have you all in when they're in -- is we want to get tests distributed to, you know -- I mean, when my kids were little, we went to MedCheck. Right? I mean, go to CVS to be able to pick up -- to hit -- to reach that many Americans, we're going to partner with the commercial sector.
+
+Mike Pence: Did I say all of that right?
+
+Deborah L. Birx: Perfectly, Mr. Vice President. [Laughter]
+
+Question: My one follow-up, sir, was: You, apparently, were at a school where a student ended up being quarantined later. Any concern about your own exposure to this?
+
+Mike Pence: No. None. No. We're using a lot of common sense. It's a good time of the year to wash your hands. I shake a lot of hands.
+
+Mike Pence: How about right here? I'll grab a couple more, especially for them.
+
+Question: Mr. Vice President, the new guidance from the CDC today, which makes it clear any American can be tested subject to doctor's orders, is that a result of lessons learned in these earlier cases? What's the impetus for this new guidance?
+
+Mike Pence: Well, it is from input that we received from some leaders at the state level, who were under the impression there are -- people at the laboratory level were under the impression that the only people that should be tested are people that are more than mildly symptomatic.
+
+Mike Pence: And we are issuing new guidance to make it clear that, subject to a doctor's orders, anyone can be tested. So we don't want -- we don't want any confusion on that point, not to say there was confusion. But we're issuing new guidance on that, and we'll be publishing that. Bob, that'll be published either tonight --
+
+Robert Redfield: Yeah, either tonight or early in the morning.
+
+Mike Pence: First thing in the morning. Okay? To be [inaudible]. Please.
+
+Question: So I want to go back to something that was talked about just a second ago, in China. Public health experts say the best way to control the spread of the virus, I guess, is to sort of shut down group gatherings, shuttering schools, closing factories, limiting travel gatherings. Is that something the White House is discussing? Is that -- is there any potential that these types of measures will be taken to sort of get this right under control?
+
+Mike Pence: Well, I think I want to have Bob come back up here because I think, you know, having been a governor, I can tell you that I know intuitively that these decisions are best made at the state and local level. You know, I've spoken to some governors about decisions that are being made. We defer to them, and we respect the decision.
+
+Mike Pence: But what we announced today, and OMB will be putting out guidance tonight, is that we are simply going to ask all federal agencies to review internal travel procedures, and to adhere to all State Department advisories. Specifically, we're going to make it clear, if it says "do not travel," you do not travel. If it says "additional precaution," take additional precaution. Okay?
+
+Mike Pence: Let me go back here. Right there.
+
+Question: Thank you, Mr. Vice President. Yesterday you had this meeting -- the task force had a meeting with the pharmaceutical executives.
+
+Mike Pence: We did.
+
+Question: And I'm sure that was useful. Is this an ongoing, regular type of meeting that you will have with them? Was this a one-off? When is your next scheduled meeting with pharmaceutical executives in terms of finding solutions from them to deal with the coronavirus?
+
+Mike Pence: I think it's a great question. Do you want to take that one?
+
+Stephen M. Hahn: It's a great question. We're having ongoing discussions with all the developers of therapeutics and diagnostics on a regular basis. In fact, as you saw yesterday, they all mentioned the collaborative relationship with the FDA is ongoing. We will continue that as we develop more therapeutics.
+
+Mike Pence: And I don't know that it got widely reported, but they told us yesterday that they had formed a consortium already, that they were beginning to share information. And I informed the CEOs of the commercial laboratories about that today, and they'll make their own decision.
+
+Mike Pence: But one of the things that we heard from one of the CEOs was that they have enormous capabilities, but seeing -- and maybe you could unpack that -- the capacity issue is something. They want to share information about capacity -- and you can clear that -- on testing.
+
+Deborah L. Birx: Yeah, I think many of you have gone to your clinics, and you'll see a little box outside. And so the tests are done in the clinic but then they're shipped to the lab.
+
+Deborah L. Birx: And so that we want to match that capacity of collection with the ability to run the assay. And so that's what our discussion will be tomorrow, and I think that's a really critical point to really link those two pieces perfectly, because if your turnaround times get very long, then it's very difficult for the family and the patients. And so we want test results to be achieved very quickly, as well as the specimens being able to be collected and go to the facilities to be run.
+
+Mike Pence: Okay. One more back here. Eamon?
+
+Question: Thank you, Mr. Vice President. Today, Google announced that it's canceling one of its big annual developers conferences -- a big annual event for them. Is that the right call? Are companies that are canceling travel and conferences overreacting, or is that the right decision for them to make now?
+
+Mike Pence: Mr. Secretary, you want to take a swing at that, and then maybe we'll have Dr. Fauci speak to it -- what our posture is officially, and we'll have the --
+
+Alex Azar: Yeah. So, officially, we don't have guidance on companies canceling travel domestically. We've got our outside-the-country State Department advisories. But the general rule is: Use common sense. We're just asking people to use common sense. And that's the basis of the OMB guidance that's going to go out for federal employees.
+
+Alex Azar: And if employers think they minimize some risk by doing that, use common sense on that front. We're not advising people to do that, to cancel those. We're continuing to evaluate that.
+
+Alex Azar: It's important to remember: Right now, we have very limited number of cases and very limited spread here in the United States today. Very localized community transmission.
+
+Alex Azar: As I think everybody on this stage has said, that can change very rapidly, and as we get more diagnostics out into the field, we're going to learn more about where it may have spread. We don't have an epidemiological reason to think that there are a lot of cases, but that could have happened.
+
+Alex Azar: We do respiratory disease surveillance regularly from the CDC. We have not seen spikes or unexplained trends in our respiratory disease surveillance that would suggest unknown pockets. But we want to be very candid with you and the American people: There are going to be more cases, and increased diagnostics are going to yield more cases. And as we learn about that, we will make advice about travel.
+
+Alex Azar: But, right now, it's just use common sense, be thoughtful about it, assess your own individual condition. You know the example I used earlier today is, you know, if you're medically frail and if you're aged, medically frail, whatever, maybe not the best time to visit a relative in a skilled nursing facility in a community that has community spread right now. Okay? Common sense. Common sense.
+
+Mike Pence: Dr. Fauci, how about --
+
+Question: The question was about conventions.
+
+Mike Pence: You want to put a button on that?
+
+Anthony Fauci: Yeah, I mean --
+
+Alex Azar: And I said -- and I told you. And I told you: We do not have any advisory we are giving about conventions or other business travel restrictions. Companies will make their own decisions based on their assessment and common sense.
+
+Mike Pence: Dr. Fauci, do you want to close on that?
+
+Question: The President is speaking in Las Vegas --
+
+Anthony Fauci: Yeah, just to underscore what Secretary Azar said: You know, I can't speak, nor can any of us speak, for any individual company. I think the leaders of that company -- it depends on, you know, risk, how -- their own assessments. They may feel, "Since we're not 100 percent sure of what's going on, I don't want to take a chance. What are we going to lose by cancelling it? Let's just wait and see." I think that was the reason for that decision, but that's not a broad, general decision for the country.
+
+Mike Pence: We will be back tomorrow. As I said, tomorrow we'll be meeting with airline executives. We're meeting with commercial laboratory executives. We're continuing to interact with all of our agencies and at the task force meeting. And we'll come back in. And I appreciate it very much.
+
+Mike Pence: And I think, Katie, still shots are fine on this. Everything is on the record. I hope this is helpful. We're going to keep it coming, folks. And -- but to the extent that you can convey the facts to the American public, it would be a great service.
+
+Mike Pence: And the key fact here is, based on the experts, the risk of coronavirus to the American public remains low. But we have engaged a whole-of-government approach. We are leaning into this effort. We have made progress on making testing available, and we're going to work to continue to broaden that out very significantly, not in months, but in the weeks ahead, for the American public. And we're going to keep putting their health and safety first. So, thank you all.

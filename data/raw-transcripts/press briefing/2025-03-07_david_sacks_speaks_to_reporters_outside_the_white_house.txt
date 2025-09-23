@@ -1,0 +1,159 @@
+Source: https://rollcall.com/factbase/trump/transcript/donald-trump-press-briefing-david-sacks-the-white-house-march-7-2025
+
+David Sacks: All right, I guess a lot of you are asking why are we doing a strategic bitcoin reserve today? I think the truth is it should have been done a long time ago. Over the past decade or so, the federal government has accumulated something like 400,000 bitcoin through civil or criminal asset forfeitures or seizures.
+
+David Sacks: Unfortunately, we did not have a -- a long-term strategy for maximizing the value of this asset as a country, and so roughly half that bitcoin was sold for something like $370 million. Today, that would be worth over $17 billion if we had held it. So, now the question is, "What do we do with the rest of it?" We think the number is around 200,000 bitcoin.
+
+David Sacks: We think this is a very strategic asset. We think it should be held long-term for the value of the country and to maximize the value of this asset for taxpayers. So, that's what we're doing and I'll take questions. Sorry, over here first.
+
+Question: Okay, two questions. The first, do you plan on buying more bitcoin or are you just going to take whatever you seize from assets and put it into the reserve? And then I have a follow up.
+
+David Sacks: Sure, so the reserve is capitalized with existing bitcoin that the -- the government already owns on its balance sheet. We don't have a plan to buy more except that the executive order provides that if the secretary of the Treasury or the secretary of Commerce can come up with a budget, neutral way to acquire more than they are authorized, they don't have to, but they're authorized to develop those strategies.
+
+David Sacks: I think it's important to say that this reserve does not cost taxpayer -- taxpayers a dime. We already own this bitcoin. And like I said, we're only allowed to buy more if it doesn't add to the deficit or the debt or cost taxpayers anything.
+
+Question: And then out of this summit today, is it correct that you are expecting major policy announcements? But if you were to envision what policies you're working toward, would you say it's fair to say that getting rid of capital gains taxes on cryptocurrency is on the table? And also, like working on de-banking issues with cryptocurrency companies.
+
+David Sacks: So, the objective of the summit today is to take in feedback and advice from the industry. We promised to do that during the campaign. That's the primary focus of today's summit is to hear from industry leaders, some of the foremost thinkers in the space. I think it's safe to say that the administration wants to end the war on crypto.
+
+David Sacks: We've promised to do that. We want to end Operation Choke Point 2.0, which unfairly persecuted and prosecuted founders just for starting crypto companies. They were often de-banked, not just their companies, but them personally. We think that's very unfair. These people were treated like criminals without ever having been convicted in a court of law of anything.
+
+David Sacks: That really needs to stop. That was a form of lawfare against this cutting edge technology. We're going to stop that. As far as taxes go, there's no proposal on the table that I'm aware of to do what you said. Over here.
+
+Question: [Inaudible] mining facility --
+
+David Sacks: Over here. Over here.
+
+Question: Who is going to oversee the audit? And is the government open to buying other cryptocurrencies outside of bitcoin in the future?
+
+David Sacks: So, the audit will be conducted by every department that has digital assets on its balance sheet. They're going to have to self-report effectively to the secretary of the Treasury and the president's Working Group on Digital Assets. So, we'll take in that report. And then the secretary of the Treasury will be setting up accounts within the Treasury Department: one for bitcoin and then one for all other digital assets.
+
+David Sacks: The executive order provides that we will not be acquiring other digital assets. So, I can give you a definitive answer on that. We will not be using taxpayer funds to acquire digital assets. Over here.
+
+Question: On acquiring more bitcoin by budget neutral means, has there been any discussion in the White House about potentially selling off other assets and reserves such as gold in order to buy more bitcoin? And what would the timeline for that be?
+
+David Sacks: No, there's been no conversation about that. I see people speculating about that online. Ultimately, it's going to be up to the secretary of the Treasury to manage the digital asset portfolio, the stockpile, in the most prudent way forward. What the executive order provides is that the secretary of the Treasury should exercise responsible stewardship.
+
+David Sacks: So -- but ultimately, it'll be up to the secretary of the Treasury and then also the secretary of Commerce to determine if there is budget neutral ways of adding to our bitcoin reserve. But we have not had conversations about what those might be yet. OK? Sure.
+
+Question: Do you see a difference between the reserve and stockpile? There's a talk about Aetherium. There's a lot about Cardano and [Inaudible] the other way of it. Can you talk about that a bit?
+
+David Sacks: So, the stockpile is designed to house all digital assets that the federal government owns except for bitcoin. So, bitcoin goes in the reserve. All the others go in the stockpile. The truth is we don't exactly know what the federal government owns in terms of digital assets today, because we've never done a full, complete audit.
+
+David Sacks: That needs to happen. We need to audit everything. We need to get a full accounting. And then once we have that accounting, we'll -- we'll be able to move those assets into the stockpile for responsible stewardship to maximize their long-term value under the Treasury Department. OK? Over there.
+
+Question: [Inaudible] question. So, as administration is making a push for crypto, can you tell us more about the approach to balancing the industry's desire for minimal regulations with the need to protect American consumers from fraud and volatility in this industry?
+
+David Sacks: Yes. So -- so I think that we want to have an approach in America that encourages innovation. And so, you need the proper regulatory framework to do that. I think that the regulatory framework that we've had over the past four years, it -- it wasn't fair and it wasn't clear. What the Biden administration said is that well -- that what they basically did was enforce a -- a new regulatory regime through prosecution without telling people what the rules were.
+
+David Sacks: And many crypto founders would tell me over and over again, "We just want to know what the rules are. We want to know what the rules of the road are. Just tell us what they are. We'll abide by them." And -- and they were never told those rules. They just got Wells notices. They were just prosecuted. So, we want there to be clarity.
+
+David Sacks: There needs to be guidelines. There needs to be protections for consumers. But most of all, there needs to be a clear, legal framework that everyone knows how to abide by. And I think the industry will do its part, if we do our part. If we make the rules clear to them, I think they will abide. And if they still break the rules and I'm talking about bad actors, not the good ones, then you know, they'll be -- they'll be punished.
+
+David Sacks: There should be punishments for bad actors. But I think there's many more good actors than bad actors. They need to be enabled. The innovation needs to be enabled. Over here.
+
+Question: Thank you. The president has repeatedly spoken about his concerns around DeepSeek -- China's DeepSeek and how you know, he thinks it should perhaps be banned. I just wanted to get your thoughts on whether it should be banned? Are you working on banning DeepSeek on government phones? Is there an EO that you're working on? Can you talk about the threat and your plans?
+
+David Sacks: We -- we don't have any news on that today, so I'm going to refrain from talking about it until we actually -- if and when we do have news about it.
+
+Question: Are you concerned about the rise of DeepSeek though, David?
+
+David Sacks: What I've said is that we're in an AI race with China. They're going to be very competitive. DeepSeek shows that China is good at AI. Roughly half of the world's AI researchers are in China. They're formidable. It's going to be a very, strong competition that we have with China to win the AI race. I'm confident that we will ultimately win the AI race, but we can't be complacent about it because China has excellent AI software developers, just like we do.
+
+Question: Do you think -- Has the president's launch of his own meme coin and his other crypto ventures been helpful or harmful in your efforts to kind of usher in some regulations and enhance the industry in the West?
+
+David Sacks: I don't think it's had any impact on it. The SEC has ruled that meme coins are not securities. They now provide clarity on that. And so, I think it's kind of irrelevant to what we're doing here with the Reserve.
+
+Question: And then on the disclosure of the -- all the government's assets and digital assets, bitcoin, are the intelligence agencies required to disclose that as well? The CIA, etcetera?
+
+David Sacks: The -- the executive order does not provide an exception in that regard. So, I believe that all the -- the -- the agencies will report on what they own. I have no reason to believe though that they do own, but that's a -- that's a good question. Yes, sir?
+
+Question: [Inaudible] the decision that's going to be taken today, are they going to impact like exchange with the Middle East or Europe relationship in -- in this fields?
+
+David Sacks: Sorry. Can you repeat that question?
+
+Question: So, the -- the decision they're going to be taken today are going to impact any kind of exchange relationship with -- with Europe or the Middle East in this particular [Inaudible]
+
+David Sacks: No, I don't think so.
+
+Question: David?
+
+David Sacks: Over here. Yes?
+
+Question: Hi. I just wanted to ask this follow up question to what she said, but basically are you guys going to be able to give the American public who might not be as informed on crypto, any reassurances they won't go bankrupt if they do invest? Are there going to be any laws, any -- any sort of implementation to protect the American consumer?
+
+David Sacks: So, the American consumer is protected by the same FAR laws that apply to everything else. And the SEC is in the process of issuing guidelines around, "What's a security? What's not security?" We support their efforts to do that. Separately and in parallel, there's legislation on Capitol Hill to define market structure.
+
+David Sacks: So, I believe that there are protections in place. There'll continue to be protections in place. But look, let me just be frank here. Crypto is a volatile industry. I would not -- you know, you ask me should people invest in it. That's not my place to tell them. People have to do the research. They have to do their homework.
+
+David Sacks: They have to decide, "Is this an appropriate asset for you?" You need to know, "What does the crypto do?" They're not all the same. And so, I would advise people like any other asset that you want to buy or any other investment, you should do your homework, because this is a very volatile industry. It's not for everyone.
+
+David Sacks: And my job is not to encourage people to buy crypto. My job is to create an innovation framework for the United States, is to be a policy advisor on innovation. So, I'm not a cheerleader for people one way or another doing what -- you know, you should do what -- what you feel is right in terms of your own investment portfolio.
+
+David Sacks: But we -- we want to make sure that innovators and entrepreneurs have the framework they need to innovate in the United States as opposed to going offshore.
+
+Question: Sixty percent of the --
+
+David Sacks: This here.
+
+Question: What do you have to say to Americans who are concerned with President Trump's personal investment in cryptocurrency, bitcoin, that kind of thing? Should they be concerned about his personal investment?
+
+David Sacks: I'm -- I'm not aware of that. What -- what exactly are you talking about?
+
+Question: President Trump being invested in things like meme coins, bitcoin, that kind of thing.
+
+David Sacks: I already addressed the meme coin point and I think with respect to the rest, I don't -- those are facts not in evidence.
+
+Question: Sir, thank you for taking our questions. What do you think is the message of holding high-profile summit like this here at the White House to people that maybe are on the fence about investing in cryptocurrency?
+
+David Sacks: Well, look, again, it's -- I don't want to address the issue of whether people should invest or not, because that's an individual decision that everyone should make with their financial advisor. Everybody has different financial objectives when they invest. Obviously, someone who's a 70-year-old retiree who's on a fixed income is in a different position than someone who's 22-year -- old -- a 22 -- year -- old, who's at the beginning of their investing career and may have surplus income.
+
+David Sacks: So, you should really figure that out with an investment advisor. But to -- to your other point, the reason why we're doing this summit at the White House here is to hear from industry leaders, the -- the best thinkers in the space, to give us guidance on what we need to do to make America the leader in digital asset innovation.
+
+David Sacks: Again, it's about innovation here. Investment decisions, that's -- that's something that's individual, people have to figure out with their advisors.
+
+Question: Just as a follow up, as a -- as the government making an investment, is this a sign of confidence into cryptocurrency? Because you said that by not -- by not holding, by selling and not holding, you lost money. That's implying that you guys believe it's going to keep going up. So, is -- is that, you know, your stance personally and the stance of the administration as far as you know?
+
+David Sacks: Well, look, again, the -- the reason why we set up the Bitcoin Reserve is because the federal government over the past decade or so, came to -- into possession of roughly 400,000 bitcoin, is the number that we believe. Half were sold for a relative pittance, something like $370 million. Today, those bitcoin would be worth over $17 billion if we had kept them.
+
+David Sacks: That was a real shame. That did not maximize value for the American taxpayer. So, what we want to do is make sure that with the remaining bitcoin that we have, we think that number is around 200,000 pending an audit, we want to make sure we get the most long-term value for the American people. And we think that the best way to preserve that value is to store these bitcoin for the long term.
+
+David Sacks: Bitcoin has often -- has often been called "digital gold," and what we're doing with the Reserve is effectively creating a digital Fort Knox to safeguard that digital gold. So, we believe this is a - a valuable asset that we should store for the American public and -- and preserve that value for the long term.
+
+David Sacks: Now again, I'm not going to advise any individual on what they should do because when an individual makes a decision, they have to take into account their personal financial needs. And the reality is that crypto, including bitcoin, is very volatile. And so, you know, I would not -- I'm just speaking frankly here, if you're a retiree on a fixed income and you need that money, I would not invest in any volatile asset, right?
+
+David Sacks: So, you have to make the decision that's right for you, but the decision that we believe is right for the federal balance sheet is to hold on to the bitcoin that we have, because we think it is in the interest of the American people. And if we had had this policy a decade ago, we'd all be $17 billion richer.
+
+David Sacks: So, we really missed out by not having this policy. And like I said at the beginning, the real mistake was not doing this ten years ago.
+
+Question: All right, last question -- As a national security threat, 60 percent of the mining of bitcoin is by our enemies. Any of these empty buildings that DOGE is talking about, can they be retrofitted into mining to protect the reserve?
+
+David Sacks: So, no -- no real comment on that. I mean, I think you know, we'll -- we'll look at the mining issue, but -- but no -- no -- no announcement on that today.
+
+Aide: That's it, guys. Thank you. If you want to do one more?
+
+David Sacks: All right, we can do one more. Yes?
+
+Question: David, real quick? Are you all partnering with any cryptocurrency exchanges like Coinbase, for example, with regard to guidance on this? Are you all are all receiving guidance from any of these officials that work at these exchanges?
+
+David Sacks: So, we're not working with the exchanges per se in that way. There are exchanges that are attending the Crypto Summit and we want to hear from industry leaders, including exchanges. Obviously, when it comes to securing the digital assets we already have, whether it's in the Reserve or the stockpile, it -- it behooves us to use a cutting edge custodian.
+
+David Sacks: I'm talking about a high tech company that is -- excels in that. And there have been RFPs that the government has -- has issued in the past to select those types of companies and that gets -- those companies get selected according to a regular procurement process.
+
+Question: David, what do you make of the criticism that other digital currencies, not bitcoin, should not be included in the strategic reserve?
+
+David Sacks: Well, the reality is that bitcoin is special. You know, bitcoin is the oldest cryptocurrency. It was the first one. It's been around for over 15 years. It has a market cap of something like $2 trillion. It's the most decentralized. It's the most secure. It's never been hacked. It's the most scarce. There's 21 million bitcoin.
+
+David Sacks: That's all they're ever going to be. There's -- effectively, you can think of the $2 trillion market cap as like a bug bounty on trying to find holes in the security. And no one's ever been able to do it. No one's ever effectively counterfeited a bitcoin. It has the most acceptance across the world and it's widely considered a store of value.
+
+David Sacks: So, we believe that it is special. It also, I should say, has no issuer. There's no issuer of -- of bitcoin and that makes it different than every other cryptocurrency. So again, we didn't go out looking to buy bitcoin. Se came into possession of it and the question was, "What do we do with it?" And we think it makes more sense to store this for the long term.
+
+David Sacks: And if there are opportunities to acquire more in a budget neutral way, that does not cost the taxpayer any money, that doesn't add to the deficit or the debt, then our secretaries of Treasury and Commerce can explore strategies for that. But the other cryptocurrencies, we -- we want to enable the innovation in the United States.
+
+David Sacks: But there's no compelling reason for the federal government to be acquiring those things. And our executive order provides that we will not acquire those cryptocurrencies again. There's no policy reason for doing that. OK, thank you very much.
+
+Aide: Thank you, guys.
+
+David Sacks: Yes.
+
+Question: Thank you.
