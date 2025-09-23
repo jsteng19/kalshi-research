@@ -387,7 +387,8 @@ def test_word_boundary_enforcement():
         'Democrat': 'Democrat',
         'Trump': 'Trump',
         'Biden': 'Biden',
-        'America': 'America'
+        'America': 'America',
+        'Dead': 'Dead'
     })
     
     test_cases = {
@@ -427,6 +428,15 @@ def test_word_boundary_enforcement():
             ("American", False),
             ("Americans", False),  # Different word, not plural of America
             ("Americana", False),
+        ],
+         'Dead': [
+            ("Dead", True),
+            ("deads", True),
+            ("dead's", True),
+            
+            # Should NOT match substrings
+            ("deadly", False),
+
         ]
     }
     
