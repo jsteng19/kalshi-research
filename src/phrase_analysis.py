@@ -4,10 +4,10 @@ from datetime import datetime
 import pandas as pd
 import numpy as np
 from scipy import stats
-
+# Defer kalshi import to avoid network calls during module import
+# from kalshi.rest import market
 import matplotlib.pyplot as plt
 import seaborn as sns
-# Set style for plots
 plt.style.use('default')
 sns.set_theme(style='whitegrid')
 plt.rcParams['figure.figsize'] = [12, 6]
@@ -15,6 +15,13 @@ plt.rcParams['figure.figsize'] = [12, 6]
 # Set pandas display options
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_colwidth', None)
+
+def get_phrases(event_ticker):
+    """Get phrases for a given event ticker"""
+    # Import only when needed to avoid network calls during module import
+    from kalshi.rest import market
+    markets = market.GetMarkets(event_ticker=event_ticker)
+    return [market['yes_sub_title'] for market in markets['markets']]
 
 
 def count_phrases(text, phrases):
@@ -25,9 +32,28 @@ def count_phrases(text, phrases):
     return counts
 
 def get_date_from_filename(filename):
-    """Extract date from filename format YYYY-MM-DD_..."""
-    date_str = filename.split('_')[0]
-    return datetime.strptime(date_str, '%Y-%m-%d')
+    """Extract date from filename format YYYY-MM-DD_... or YYYY_... or YYYY-title"""
+    try:
+        # Split by underscore first, then handle different formats
+        parts = filename.split('_')
+        date_str = parts[0]
+        
+        # Check if it's a hyphenated format (could be date or year-title)
+        if '-' in date_str:
+            hyphen_parts = date_str.split('-')
+            if len(hyphen_parts) == 3:  # YYYY-MM-DD format
+                return datetime.strptime(date_str, '%Y-%m-%d')
+            elif len(hyphen_parts) == 2 and len(hyphen_parts[0]) == 4:  # YYYY-title format
+                return datetime.strptime(hyphen_parts[0], '%Y')
+        
+        # Check if it's just a year
+        if len(date_str) == 4 and date_str.isdigit():
+            return datetime.strptime(date_str, '%Y')
+        
+        # Try full date format as fallback
+        return datetime.strptime(date_str, '%Y-%m-%d')
+    except (ValueError, IndexError):
+        return None
 
 def read_transcript(filepath):
     """Read and return transcript text"""
@@ -82,93 +108,201 @@ def process_directory(directory, phrases):
     
     return pd.DataFrame(results)
 
-def plot_phrase_frequency_over_time(df_category, df_non_category, phrase, window=30, start_date=None, show_monthly_grid=False, log_scale=False):
-    """Plot the frequency of a phrase over time with separate lines for category and non-category"""
+def process_json(json_file, phrases):
+    """Process transcripts from a JSON file with schema: {filename: {"transcript": text, ...}, ...}"""
+    import json
+    
+    results = []
+    
+    try:
+        with open(json_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        
+        for filename, file_data in data.items():
+            if 'transcript' in file_data:
+                try:
+                    date = get_date_from_filename(filename)
+                    text = file_data['transcript']
+                    counts = count_phrases(text, phrases)
+                    
+                    results.append({
+                        'date': date,
+                        'file': filename,
+                        'category': 'json',  # Default category for JSON files
+                        'text_length': len(text.split()),
+                        'text': text,  # Store full text for context analysis
+                        **counts
+                    })
+                except Exception as e:
+                    print(f"Error processing {filename}: {str(e)}")
+            else:
+                print(f"Warning: No 'transcript' field found in {filename}")
+    
+    except Exception as e:
+        print(f"Error reading JSON file {json_file}: {str(e)}")
+        return pd.DataFrame()
+    
+    return pd.DataFrame(results)
+
+
+def plot_phrase_frequency_over_time(
+    df_category,
+    df_non_category,
+    phrase,
+    window=30,
+    start_date=None,
+    end_date=None,
+    show_monthly_grid=False,
+    show_weekly_grid=False,
+    log_scale=False,
+    show_moving_average=True
+):
+    """Plot the frequency of a phrase over time with separate lines for category and non-category
+
+    Args:
+        df_category: DataFrame for category.
+        df_non_category: DataFrame for non-category.
+        phrase: Phrase to plot.
+        window: Rolling window for moving average.
+        start_date: Filter start date.
+        end_date: Filter end date.
+        show_monthly_grid: Show monthly grid.
+        show_weekly_grid: Show weekly grid.
+        log_scale: Use log scale for y-axis.
+        show_moving_average: If False, do not plot moving average lines.
+    """
     from IPython.display import HTML, display
-    
+
     plt.figure(figsize=(15, 6))
-    
+
     # Filter data to start from specified date if provided
     if start_date is not None:
         start_date = pd.Timestamp(start_date)
         df_category = df_category[df_category['date'] >= start_date].copy()
-        df_non_category = df_non_category[df_non_category['date'] >= start_date].copy()
+        if df_non_category is not None:
+            df_non_category = df_non_category[df_non_category['date'] >= start_date].copy()
     else:
         df_category = df_category.copy()
-        df_non_category = df_non_category.copy()
-    
+        if df_non_category is not None:
+            df_non_category = df_non_category.copy()
+
+    # Filter data to end at specified date if provided
+    if end_date is not None:
+        end_date = pd.Timestamp(end_date)
+        df_category = df_category[df_category['date'] <= end_date].copy()
+        if df_non_category is not None:
+            df_non_category = df_non_category[df_non_category['date'] <= end_date].copy()
+
     # Process category data
     df_category[f'{phrase}_freq'] = (df_category[phrase] / df_category['text_length']) * 1000
     category_series = df_category.set_index('date')[f'{phrase}_freq']
-    category_rolling = category_series.rolling(window=f'{window}D', min_periods=1).mean()
-    
-    # Process non-category data
-    df_non_category[f'{phrase}_freq'] = (df_non_category[phrase] / df_non_category['text_length']) * 1000
-    non_category_series = df_non_category.set_index('date')[f'{phrase}_freq']
-    non_category_rolling = non_category_series.rolling(window=f'{window}D', min_periods=1).mean()
-    
+    category_rolling = category_series.rolling(window=window, min_periods=1).mean()
+
+    # Process non-category data only if it exists
+    if df_non_category is not None and not df_non_category.empty:
+        df_non_category[f'{phrase}_freq'] = (df_non_category[phrase] / df_non_category['text_length']) * 1000
+        non_category_series = df_non_category.set_index('date')[f'{phrase}_freq']
+        non_category_rolling = non_category_series.rolling(window=window, min_periods=1).mean()
+    else:
+        non_category_series = pd.Series(dtype=float)
+        non_category_rolling = pd.Series(dtype=float)
+
     # Store original values for y-axis labels
     original_category_series = category_series.copy()
     original_category_rolling = category_rolling.copy()
     original_non_category_series = non_category_series.copy()
     original_non_category_rolling = non_category_rolling.copy()
-    
+
     # Apply log scale if requested
     if log_scale:
         # Add small constant to avoid log(0)
         category_series = np.log10(category_series + 0.1)
         category_rolling = np.log10(category_rolling + 0.1)
-        non_category_series = np.log10(non_category_series + 0.1)
-        non_category_rolling = np.log10(non_category_rolling + 0.1)
-    
+        if not non_category_series.empty:
+            non_category_series = np.log10(non_category_series + 0.1)
+            non_category_rolling = np.log10(non_category_rolling + 0.1)
+
     # Plot category data
-    plt.scatter(category_series.index, category_series.values, alpha=0.3, color='red', label='Category Transcripts')
-    plt.plot(category_rolling.index, category_rolling.values, 'r-', linewidth=2, label=f'Category {window}-day Average')
-    
-    # Plot non-category data
-    plt.scatter(non_category_series.index, non_category_series.values, alpha=0.3, color='blue', label='Non-Category Transcripts')
-    plt.plot(non_category_rolling.index, non_category_rolling.values, 'b-', linewidth=2, label=f'Non-Category {window}-day Average')
-    
+    plt.scatter(
+        category_series.index,
+        category_series.values,
+        alpha=0.3,
+        color='red',
+        label='Category Transcripts'
+    )
+    if show_moving_average:
+        plt.plot(
+            category_rolling.index,
+            category_rolling.values,
+            'r-',
+            linewidth=2,
+            label=f'Category {window}-day Average'
+        )
+
+    # Plot non-category data only if it exists
+    if not non_category_series.empty:
+        plt.scatter(
+            non_category_series.index,
+            non_category_series.values,
+            alpha=0.3,
+            color='blue',
+            label='Non-Category Transcripts'
+        )
+        if show_moving_average:
+            plt.plot(
+                non_category_rolling.index,
+                non_category_rolling.values,
+                'b-',
+                linewidth=2,
+                label=f'Non-Category {window}-day Average'
+            )
+
     title = f'Frequency of "{phrase}" Over Time'
     ylabel = 'Occurrences per 1000 words'
     if log_scale:
         title += ' (Log Scale)'
-    
+
     plt.title(title)
     plt.xlabel('Date')
     plt.ylabel(ylabel)
     plt.legend()
-    plt.grid(True, alpha=0.3)
-    
+
+    # Only show default grid if neither weekly nor monthly grid is enabled
+    if not show_weekly_grid and not show_monthly_grid:
+        plt.grid(True, alpha=0.3)
+
     # Add vertical line for inauguration
     plt.axvline(x=datetime(2025, 1, 20), color='k', linestyle='--', alpha=0.5, label='Inauguration')
-    
+
     # Add monthly vertical lines and counts only if requested
     if show_monthly_grid:
-        combined_df = pd.concat([df_category, df_non_category])
+        combined_df = df_category.copy()
+        if df_non_category is not None and not df_non_category.empty:
+            combined_df = pd.concat([df_category, df_non_category])
+
         if not combined_df.empty:
             date_range = pd.date_range(
                 start=combined_df['date'].min().replace(day=1),
                 end=combined_df['date'].max() + pd.DateOffset(months=1),
                 freq='MS'  # Month start
             )
-            
+
             # Calculate monthly statistics
             combined_df['year_month'] = combined_df['date'].dt.to_period('M')
             monthly_stats = combined_df.groupby('year_month').agg({
                 phrase: 'sum',
                 'date': 'count'
             }).rename(columns={'date': 'transcript_count'})
-            
+
             # Calculate % of months with 1+ occurrence
             months_with_occurrence = (monthly_stats[phrase] >= 1).sum()
             total_months = len(monthly_stats)
             pct_months_with_occurrence = (months_with_occurrence / total_months * 100) if total_months > 0 else 0
-            
+
             # Add monthly vertical lines and counts
             for date in date_range:
                 plt.axvline(x=date, color='gray', linestyle=':', alpha=0.5)
-                
+
                 # Get monthly count for this date
                 period = date.to_period('M')
                 if period in monthly_stats.index:
@@ -181,29 +315,84 @@ def plot_phrase_frequency_over_time(df_category, df_non_category, phrase, window
                         ) * 1.1)
                         if log_scale:
                             ymax = np.log10(ymax + 0.1)
-                        plt.text(date, ymax * 0.95, str(int(monthly_count)), 
-                                ha='center', va='top', fontsize=8, 
-                                bbox=dict(boxstyle='round,pad=0.2', facecolor='white', alpha=0.7))
-            
+                        plt.text(date, ymax * 0.95, str(int(monthly_count)),
+                                 ha='center', va='top', fontsize=8,
+                                 bbox=dict(boxstyle='round,pad=0.2', facecolor='white', alpha=0.7))
+
             # Add percentage to title
             title += f'\n({pct_months_with_occurrence:.1f}% of months with ≥1 occurrence)'
             plt.title(title)
-    
+
+    # Add weekly vertical lines and counts only if requested
+    if show_weekly_grid:
+        combined_df = df_category.copy()
+        if df_non_category is not None and not df_non_category.empty:
+            combined_df = pd.concat([df_category, df_non_category])
+
+        if not combined_df.empty:
+            # Find the first Monday on or before the minimum date
+            min_date = combined_df['date'].min()
+            days_since_monday = min_date.weekday()  # Monday is 0
+            first_monday = min_date - pd.Timedelta(days=days_since_monday)
+
+            # Create weekly date range (Mondays)
+            date_range = pd.date_range(
+                start=first_monday,
+                end=combined_df['date'].max() + pd.DateOffset(weeks=1),
+                freq='W-MON'  # Weekly on Monday
+            )
+
+            # Calculate weekly statistics
+            combined_df['year_week'] = combined_df['date'].dt.to_period('W-MON')
+            weekly_stats = combined_df.groupby('year_week').agg({
+                phrase: 'sum',
+                'date': 'count'
+            }).rename(columns={'date': 'transcript_count'})
+
+            # Calculate % of weeks with 1+ occurrence
+            weeks_with_occurrence = (weekly_stats[phrase] >= 1).sum()
+            total_weeks = len(weekly_stats)
+            pct_weeks_with_occurrence = (weeks_with_occurrence / total_weeks * 100) if total_weeks > 0 else 0
+
+            # Add weekly vertical lines and counts
+            for date in date_range:
+                plt.axvline(x=date, color='lightblue', linestyle=':', alpha=0.5)
+
+                # Get weekly count for this date
+                period = date.to_period('W-MON')
+                if period in weekly_stats.index:
+                    weekly_count = weekly_stats.loc[period, phrase]
+                    if weekly_count > 0:
+                        # Position text at top of plot
+                        ymax = min(8, max(
+                            original_category_rolling.max() if not original_category_rolling.empty else 0,
+                            original_non_category_rolling.max() if not original_non_category_rolling.empty else 0
+                        ) * 1.1)
+                        if log_scale:
+                            ymax = np.log10(ymax + 0.1)
+                        plt.text(date, ymax * 0.85, str(int(weekly_count)),
+                                 ha='center', va='top', fontsize=7,
+                                 bbox=dict(boxstyle='round,pad=0.2', facecolor='lightblue', alpha=0.7))
+
+            # Add percentage to title
+            title += f'\n({pct_weeks_with_occurrence:.1f}% of weeks with ≥1 occurrence)'
+            plt.title(title)
+
     # Auto-adjust y-axis limit and set custom labels for log scale
     if log_scale:
         ymax = max(
             original_category_rolling.max() if not original_category_rolling.empty else 0,
             original_non_category_rolling.max() if not original_non_category_rolling.empty else 0
         ) * 1.1  # Add 10% padding
-        
+
         # Set y-axis limits in log scale
         plt.ylim(np.log10(0.1), np.log10(ymax + 0.1))
-        
+
         # Create custom y-axis labels showing original values
         original_ticks = [0.1, 0.2, 0.5, 1, 2, 5, 10, 20, 50]
         log_ticks = [np.log10(tick) for tick in original_ticks if tick <= ymax]
         tick_labels = [str(tick) if tick >= 1 else f"{tick:.1f}" for tick in original_ticks if tick <= ymax]
-        
+
         plt.yticks(log_ticks, tick_labels)
     else:
         ymax = min(8, max(
@@ -211,19 +400,19 @@ def plot_phrase_frequency_over_time(df_category, df_non_category, phrase, window
             original_non_category_rolling.max() if not original_non_category_rolling.empty else 0
         ) * 1.1)  # Add 10% padding
         plt.ylim(0, ymax)
-    
+
     plt.tight_layout()
-    
+
     # Save plot to base64 string for embedding in HTML
     import io
     import base64
-    
+
     buf = io.BytesIO()
     plt.savefig(buf, format='png', dpi=100, bbox_inches='tight')
     buf.seek(0)
     plot_data = base64.b64encode(buf.read()).decode()
     plt.close()  # Close the figure to free memory
-    
+
     # Create collapsible HTML
     html = f"""
     <details>
@@ -235,23 +424,45 @@ def plot_phrase_frequency_over_time(df_category, df_non_category, phrase, window
         </div>
     </details>
     """
-    
+
     display(HTML(html))
 
-def plot_phrase_frequency_over_time_all(df_category, df_non_category=None, phrases=None, log_scale=False, show_monthly_grid=False, window=30, start_date=None):
+def plot_phrase_frequency_over_time_all(
+    df_category,
+    df_non_category=None,
+    phrases=None,
+    log_scale=False,
+    show_monthly_grid=False,
+    show_weekly_grid=False,
+    window=30,
+    start_date=None,
+    end_date=None,
+    show_moving_average=True
+):
     if phrases is None:
         print("No phrases provided")
         return
-        
+
     phrase_freqs = {}
     for phrase in phrases.keys():
         # Calculate average frequency across all data
         category_freq = (df_category[phrase].sum() / df_category['text_length'].sum()) * 1000 if not df_category.empty and df_category['text_length'].sum() > 0 else 0
-        non_category_freq = (df_non_category[phrase].sum() / df_non_category['text_length'].sum()) * 1000 if not df_non_category.empty and df_non_category['text_length'].sum() > 0 else 0
+        non_category_freq = (df_non_category[phrase].sum() / df_non_category['text_length'].sum()) * 1000 if df_non_category is not None and not df_non_category.empty and df_non_category['text_length'].sum() > 0 else 0
         phrase_freqs[phrase] = (category_freq + non_category_freq) / 2
 
     for phrase in phrase_freqs:
-        plot_phrase_frequency_over_time(df_category, df_non_category, phrase, log_scale=log_scale, show_monthly_grid=show_monthly_grid, window=window, start_date=start_date)
+        plot_phrase_frequency_over_time(
+            df_category,
+            df_non_category if df_non_category is not None else None,
+            phrase,
+            log_scale=log_scale,
+            show_monthly_grid=show_monthly_grid,
+            show_weekly_grid=show_weekly_grid,
+            window=window,
+            start_date=start_date,
+            end_date=end_date,
+            show_moving_average=show_moving_average
+        )
 
 
 def plot_length_distribution(df_category):
@@ -275,7 +486,7 @@ def plot_length_distribution(df_category):
 def analyze_files_phrase_occurrences(df, phrases):
     """Analyze phrase occurrences across a list of files"""
     # Filter dataframe to only include the specified files
-    
+    from IPython.display import display
     if df.empty:
         print("No matching files found.")
         return
@@ -378,6 +589,7 @@ def get_recent_contexts(df, phrase, phrases, n=10):
         matches = find_phrase_context(row['text'], phrases[phrase])
         for match in matches:
             all_matches.append({
+                'title': row['file'],
                 'date': row['date'],
                 'category': row['category'],
                 'context': match
@@ -394,6 +606,7 @@ def get_recent_contexts_all(df, phrases, n=10):
         if not contexts.empty:
             print(f"\n=== Recent usage of '{phrase}' ===\n")
             for _, row in contexts.iterrows():
+                print(f"Title: {row['title']}")
                 print(f"Date: {row['date'].strftime('%Y-%m-%d')} ({row['category']})")
                 print(f"Context: {row['context']}\n")
 
@@ -403,7 +616,7 @@ def get_per_appearance_frequency(dfs_dict, phrases):
     for phrase in phrases.keys():
         phrase_data = {}
         for name, df in dfs_dict.items():
-            pct = (df[phrase] >= 1).mean() * 100
+            pct = round((df[phrase] >= 1).mean() * 100, 2)
             phrase_data[name] = pct
         
         phrase_percentages[phrase] = phrase_data
@@ -414,12 +627,25 @@ def get_per_appearance_frequency(dfs_dict, phrases):
     phrase_df = phrase_df.sort_values(first_col, ascending=False)
     phrase_df.index.name = 'Phrase'
 
-    # Format table for display - dynamically format all columns as percentages
-    format_dict = {col: '{:.1f}%'.format for col in phrase_df.columns}
-    styled_df = phrase_df.style.format(format_dict)
+    # Create summary rows
+    summary_values = []
+    for idx in ['# of files', 'Average word count']:
+        row = []
+        for name, df in dfs_dict.items():
+            if idx == '# of files':
+                row.append(len(df))
+            else:  # Average word count
+                row.append(round(df['text_length'].mean(), 2))
+        summary_values.append(row)
+    
+    # Create summary DataFrame
+    summary_part = pd.DataFrame(summary_values, index=['# of files', 'Average word count'], columns=phrase_df.columns)
+    
+    # Combine summary and phrase data
+    combined_df = pd.concat([summary_part, phrase_df])
 
     print("Percentage of Appearances Containing Each Phrase:")
-    display(styled_df)
+    display(combined_df)
 
 
 def calculate_poisson_predictions(df, avg_length, phrases):

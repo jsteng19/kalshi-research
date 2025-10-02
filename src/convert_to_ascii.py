@@ -1,6 +1,8 @@
 import os
 import unicodedata
 import re
+import argparse
+import sys
 
 def convert_to_ascii(text):
     """Convert text to ASCII, replacing common Unicode characters with ASCII equivalents"""
@@ -105,34 +107,27 @@ def convert_to_ascii(text):
     
     return ascii_text.strip()
 
-def process_sotu_files():
-    """Convert all SOTU files to ASCII"""
-    sotu_dir = 'data/processed-transcripts/sotu'
-    
-    # Create output directory if it doesn't exist
-    os.makedirs(sotu_dir, exist_ok=True)
-    
-    # Process each file
-    for filename in os.listdir(sotu_dir):
+def process_directory(target_dir):
+    """Convert all .txt files in the given directory to ASCII"""
+    if not os.path.isdir(target_dir):
+        print(f"Error: Directory not found at {target_dir}")
+        return
+
+    for filename in os.listdir(target_dir):
         if filename.endswith('.txt'):
-            filepath = os.path.join(sotu_dir, filename)
-            
-            # Read the file
+            filepath = os.path.join(target_dir, filename)
             try:
                 with open(filepath, 'r', encoding='utf-8') as f:
                     text = f.read()
-                
-                # Convert to ASCII
                 ascii_text = convert_to_ascii(text)
-                
-                # Write back to the same file
                 with open(filepath, 'w', encoding='ascii') as f:
                     f.write(ascii_text)
-                
                 print(f"Processed: {filename}")
-                
             except Exception as e:
                 print(f"Error processing {filename}: {str(e)}")
 
 if __name__ == '__main__':
-    process_sotu_files() 
+    parser = argparse.ArgumentParser(description="Convert all .txt files in a directory to ASCII, replacing common Unicode characters.")
+    parser.add_argument("directory", help="The target directory containing the .txt files to process.")
+    args = parser.parse_args()
+    process_directory(args.directory)

@@ -12,3 +12,6 @@ matplotlib>=3.7.1  # For plotting
 seaborn>=0.12.2  # For enhanced plotting
 jupyter>=1.0.0  # For running notebooks
 scipy>=1.11.0  # For statistical calculations 
+youtube-transcript-api
+python-dotenv>=1.0.0  # For loading .env files
+groq
