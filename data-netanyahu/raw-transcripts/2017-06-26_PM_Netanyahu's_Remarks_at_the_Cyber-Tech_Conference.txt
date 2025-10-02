@@ -1,0 +1,35 @@
+Source: https://www.gov.il/en/pages/speechcyber260617
+
+
+
+Prime Minister Benjamin Netanyahu at Tel Aviv University Cyber Week, made the following remarks:
+
+"A few years ago I decided to establish Israel as one of the five leading cyber powers in the world and I think by all accounts, we're there. But, the jury in cyber security is always out. And it's a constant challenge.
+
+Cyber security is serious business. It's serious business for two reasons: the first reason is that it's a serious and growing threat. And it's a growing threat everywhere because everything, every single thing is being digitized. And the distinction between hi-tech and low-tech is rapidly disappearing. And as that happens in one country after another, in one industry after another, in one critical infrastructure after another, and as we enter the world of the internet of things the need for cyber security is growing exponentially.
+
+This is a problem for all governments, not only to protect their military or their security organizations or their critical infrastructure, their businesses and every single organization. How you approach this is something that governments grapple with and we decided to apply a rule that we use in the military when you have a lot of forces scattered in the field and you can't really organize them, you decide: okay, we're going that way. And everybody fall in line and we sort of organize ourselves as we move.
+
+Our decision in this case was to create a national cyber defense authority and we are organizing them around the cyber net so that everybody has secure information between the government and the various organizations and the business organizations. We can communicate in a secure way and the parties inside the net can communicate with each other. Not only to respond to attacks but to prevent them, to prevent them by early warning, to prevent them also by guidance, by teaching a systemic doctrine to the extent that you can be systemic in this business. We are experiencing every month dozens of cyber-attacks on the national level. And at any given moment, including right now, there are probably three to five attacks on the national level that emanate from various sources - the usual suspects and a few others.
+
+So we have set up our own system, it's constantly evolving, and a 100 or so big companies that have joined and organizations that have joined the cyber net is growing, more will follow, I predict at the end just about everybody will be there because everyone needs it.
+
+And we are ready to cooperate with other countries; we are ready to cooperate with other governments because in general, again with some reservations, we're better together.
+
+The second reason why cyber security is a serious business is because it's a great business because it's growing geometrically, because, forgive me all of you who are in this business, because there's never a permanent solution. Never. Never. It's an endless business. Any of you old enough to remember Mad magazine? Remember Spy vs. Spy? You know, this is Spy vs. Spy except that it's done in a very fast pace which is constantly increasing. So, the battle for market share in a fast growing market is open to anyone, although there are certain requirements and I think certain barriers to entry. But this produces an endless crop of companies.
+
+We in Israel have, I don't know, I haven't counted, 600-700 startups and they're continuously added and weeded out, added and weeded out. This is a fast geometrically rising market and you have to be chess players, except, you have to be speed chess players in this. This is what Israel excels in and this is why it's a great advantage today in this business to come from Israel.
+
+Let me say a few words in Hebrew.
+
+[Hebrew]
+
+I just said that most of the governments, in fact, all of the governments in the world that I come into contact with want cooperation with Israel on hi-tech and just about every one of them wants cooperation with us on cyber technology and cyber security technology and of course, this is going to come to full expression in the upcoming visit of the Prime Minister of India, my friend, Narendra Modi, who's coming here in a few days. We look forward to receiving him.
+
+This is an expression of the change in Israel's status. There used to be a thing called the Arab boycott, remember that? Well, that's dissipated for many, many reasons, strategic and others.
+
+But the prominence of Israel in the technological field and in the cyber field have made Israeli companies very, very attractive. So because we have a lot of speed chess players, because we have hundreds of startups, because we have demonstrable success in providing solutions in this rapidly changing sphere, Israel has become an attractive target for cyber security investment, and I think if I tally it roughly as we can see, in 2016 we have about 20% of the global private cyber security investment around the world. The fact that you're here in this conference means that you recognize that simple fact.
+
+So here is the end of my brief speech. Cyber security is serious business. It's a serious threat and it's a big business.
+
+And I want to thank you all for coming to do cyber business here in Israel."

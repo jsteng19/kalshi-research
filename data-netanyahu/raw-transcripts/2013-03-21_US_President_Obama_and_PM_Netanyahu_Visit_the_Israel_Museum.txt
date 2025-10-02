@@ -1,0 +1,61 @@
+Source: https://www.gov.il/en/pages/eventmus210313
+
+US President Barack Obama, today (Thursday, 21 March 2013), US President Barack Obama, visited the Israel Museum, where he visited the Shrine of the Book, home of the Dead Sea Scrolls. Upon meeting Prime Minister Benjamin Netanyahu, the President said, "We had a great evening last night."
+
+Later, at the entrance to the technology exhibit, Prime Minister Benjamin Netanyahu asked Dudu Fisher, who was present, to sing "He who Makes Peace on High" for President Obama. The Prime Minister explained that this is what the Jewish People pray for and that the song symbolizes the deep link between the long history of the Jewish People and the Land of Israel.
+
+Prime Minister Netanyahu showed President Obama a series of technological products of the Israeli high-tech industries, in the framework of a special exhibit that was opened in his honor and which shows the technological face of the State of Israel. The Prime Minister noted that Israel was recently ranked first in the world in research and development intensity and said, "R&D is our DNA."
+
+The products that were chosen are in the fields of renewable energy, the war on traffic accidents, medicine, search and rescue, and robotics, and were selected from among proposals presented by Israel's universities in keeping with their degree of innovation, impact on humanity and presentability.
+
+They were chosen by a professional committee headed by Prime Minister's Office National Economic Council Chairman Prof. Eugene Kandel. Also on the committee were Science and Technology Ministry Director General Menachem Greenbloom; Industry, Trade and Labor Ministry Chief Scientist Dr. Avi Chason and Prime Minister's Office communications Unit Head Rafi Shamir.
+
+The chosen products:
+
+In the field of energy alternatives – Phinergy
+
+In the field of the struggle against traffic accidents – Mobileye
+
+In the field of medicine – BNA technology by ElMindA
+
+In the field of search and rescue – robot snake
+
+In the field of medicine – Rewalk
+
+In the field of medicine – MiniDesktop
+
+1. In the field of energy alternatives – Phinergy
+
+Phinergy has developed an aluminum-air battery designed for electric vehicles, and which allows a significant increase in travel range (three times that of a regular electric vehicle). The technology will allow for a reduction in global oil consumption. The system is based on metal air technology, including aluminum air and zinc air. A metal-air battery features an air-electrode that breathes oxygen from ambient air, instead of the conventional cathode. That is, the battery consumes the required oxygen from the air, rather than having heavy materials that bound oxygen inside it. Metal-air batteries therefore have a huge potential for delivering high capacity with low weight. The technology also has the significant advantages of zero CO2 emissions, full recyclability, safety and low cost. (Based on development at Bar-Ilan University.)
+
+See http://www.youtube.com/watch?v=6-zcxI0XdK8&feature=youtu.be
+
+2.In the field of the struggle against traffic accidents – Mobileye
+
+The goal of Mobileye, a global pioneer in developing Advanced Driver Assistance Systems (ADAS), is to develop and market vision-based systems that will help drivers keep passengers safe on the roads and decrease traffic accidents by warning about dangerous situations and even braking the vehicle when necessary. To date, Mobileye’s technology has been implemented and launched by BMW, Volvo, GM and Ford in over one million vehicles. Beginning in 2014, the system will become standard for new vehicles as per the standards set by Euro-NCAP. (Developed in association with Hebrew University.)
+
+See http://www.youtube.com/user/MobileyeAWS?feature=watch
+
+3.In the field of medicine – BNA technology by ElMindA
+
+ElMindA's Brain Network Activation technology platform provides a non-invasive tool for the visualization and quantification of BNAs of specific brain functionalities, disease development and rehabilitation from injuries, reactions to treatment, psychiatric and neurological problems, and pain. (Developed in association with Bar Ilan University.)
+
+4.In the field of search and rescue – robot snake
+
+The robot is designed to enter spaces in collapsed structures with minimal disturbance. The robot thus assists in location and rescue operations. The robot is unique in its manner of crawling and is very flexible thanks to its great number of segments. Each joint is motorized and has a computer, sensors, wireless communications and batteries. Its head carries a camera. Thanks to its flexible structure, the snake is able to crawl through wreckage without causing additional structural collapses and provide vital information about inaccessible areas, including the status of people who might be trapped, the location of hazardous materials, etc. (Developed in association with the Technion.)
+
+See http://www.youtube.com/watch?v=6k_yrwash9w
+
+5.In the field of medicine – Rewalk
+
+The Rewalk approach aims to give persons with lower limb disabilities, such as paraplegia, an experience that is as close to natural walking as possible. The ReWalk exoskeleton suit uses a patented technology with motorized legs that power knee and hip movement. Battery-powered for all-day use, ReWalk is controlled by on-board computers and motion sensors, restoring self-initiated walking without needing tethers or switches to begin stepping. ReWalk controls movement using subtle changes in center of gravity, mimics natural gait and provides functional walking speed. A forward tilt of the upper body is sensed by the system, which triggers the first step. Repeated body shifting generates a sequence of steps, which allows natural and efficient walking. The ReWalk also sits, stands, allows turning and has the ability to climb and descend stairs. (Developed by a graduate of the Technion.)
+
+See http://www.youtube.com/watch?feature=player_embedded&v=2Xd27c-pz4Y
+
+6.In the field of medicine – MiniDesktop
+
+A headset has been developed that enables computers to be controlled by brainwaves or facial movements. The computer is controlled without a mouse or keyboard by means of a headset that images the user's brainwaves from 14 separate points. The system, which was developed by three software engineering graduates from Ben-Gurion University of the Negev, is designed to serve the physically handicapped who could not otherwise operate a computer or other devices.
+
+See https://www.dropbox.com/s/4nlfuc546y4vzbh/MindDesktop1.mp4
+
+At the exhibit, President Peres showed US President Obama the Ma'an-Tech initiative, which incorporates outstanding Arab engineers into key roles in leading high-tech companies in Israel (including Intel, Microsoft, Google, HP and IBM), which the former initiated with the CEO of Cisco Systems, John Chambers. President Obama had heard of the project before his arrival and asked to find out more about this unique project during his visit.

@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:2
+#EXT-X-TARGETDURATION:10
+#EXT-X-PLAYLIST-TYPE:VOD
+#ANVATO-SEGMENT-INFO: type=master
+#EXTINF:4.000,
+https://dcs-mcdn.mp.lura.live/permedia/subs.vtt
+#EXT-X-ENDLIST

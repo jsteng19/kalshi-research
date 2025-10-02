@@ -1,0 +1,25 @@
+Source: https://www.gov.il/en/pages/event_cyber200618
+
+PM Netanyahu addressed the 8th Annual International Cybersecurity Conference, at Tel Aviv University. His address included a simulated cyberattack in which the following appeared on the video monitor:
+
+Ladies and Gentlemen,
+
+This conference has just been hacked. Ironic, isn’t it? A conference dedicated to cybersecurity being hacked.
+
+We are based in a country not far from Israel. That’s all you need to know for now.
+
+The bank accounts of everyone sitting in this hall have just been frozen. The intellectual property of your companies is in our hands, so are your private conversations. This information is being sent to your competition and your enemies.
+
+Have a nice day.]
+
+Following is an excerpt from Prime Minister Netanyahu's remarks:
+
+"This is not far-fetched. In the jargon they say, state actors could do much worse; no, not state actors – states. States can do much worse. They can do everything that you heard here and much more. They can cripple our most sensitive systems. They can even take over, literally take over, some of those vital systems.
+
+And it is not something that is theoretical in the future. It’s already happening in the present, as you well know. You wouldn’t be here. You wouldn’t have companies. There wouldn’t be this thriving business if there wasn’t this amazing threat to our banks, our airplanes, even our weapons.
+
+We have unbelievable opportunities and we’re realizing them and at the same time we have unbelievable challenges and we must confront them. There will be no silver bullet. It doesn’t exist. There will be no solution that stops hermetically any country or even the majority of attacks. It’s not going to happen.
+
+We monitor the attacks on Beer Sheva. You should go and see the CERT center. We can monitor quite a bit. We can stop quite a bit. But the only way we can address this enormous challenge to enormous opportunities is to keep running ahead, to be ahead faster and faster and faster. This is a supreme test for our civilization. It is going to be tested not only by criminal organizations, by terrorist, but by other states.
+
+We have to combine forces. This is why we’re holding this cyber conference here. It is to protect the present and ensure the future, no less than that. I welcome you to come to Israel. You couldn’t have come to a better place for cybersecurity. We want your business."

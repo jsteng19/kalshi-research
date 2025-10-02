@@ -1,0 +1,79 @@
+Source: https://www.gov.il/en/pages/speechtech310117
+
+
+
+‏-Transcription-
+
+…wonderful work that you're doing.
+
+I'm glad to see you all, including the Governor of Michigan, the head of Cisco and of Check Point and many, many, many others. I think there are about over 10,000 participants in this conference, and I welcome you all.
+
+We have, in the meeting ground between big data, connectivity and artificial intelligence, we have vast opportunities, and we have huge industries springing up from, as if from nowhere, almost instantaneously.
+
+We didn't have a car industry in Israel. We tried. We actually built fiberglass cars. They crashed. I don't mean on the road. I remember as a young officer, one of my fellow officers, who's now our ambassador in China, we had a fiberglass car, with which we drove to breaks, weekend breaks from our unit. And one day, I leaned on the car, and my elbow smashed into the fiberglass. That was our car industry. It didn't last long, as you can imagine.
+
+Now, we have a different car industry. We have about 500 companies, start-up companies, that are creating the software for the new automotive industry, for driverless cars and for all the other applications that are changing, maybe revolutionize this industry. Here's an opportunity. Here's also a problem, because with the interconnectivity of cars and all the changes that you're well familiar with, you need cyber security.
+
+So here's another industry that's springing up here very quickly, very rapidly – it's called digital health. Israel happens to have one of the two best databases for its population in the world. And because of that we have twin opportunities. Twin opportunities are preventive medicine on a vast scale and vast efficiencies, vast efficiencies. And also, personalized medicine, with fantastic productivity.
+
+But there is a problem with this new industry. It's called cybersecurity. And the same opportunities, the same opportunities and challenges are everywhere. They're in every field of commerce, they're in agriculture, areas of security itself. Cybersecurity is a prerequisite. It's not going to solve the extent of the problems that we're going to encounter because the digital – rather, the internet of things is going to create so many connections, so many trillions of connections, that it is virtually impossible to address it. We’ll have to have many, not a solution, but an infinite number of solutions, or an attempt to create solutions again and again and again.
+
+You're in a wonderful business. It's endless. But it requires, obviously, gearing up for these specific challenges. In a way… Not in a way, in every way, it's a new kind of warfare. Very different from what we've seen before. A century ago, soldiers hunkered down in trenches, and in tragic circumstances they slaughtered each other by the thousands, often by the hundreds of thousands. And of course, 70 years ago in World War Two, bombs rained down from the sky and civilians were slaughtered by the millions.
+
+Today, warfare has changed again, dramatically. I don't mean just physical warfare of the kind I just described. I'm talking about the capacity– and it's not imaginary, it's not futuristic, and it's not exaggerated. It's moving very rapidly to a situation where, with the click of a button, you can bring down nations to their knees very rapidly, and if you so desire and if you're willing to take the risks. Because every system can be hacked – our airplanes, our hospitals, our cars, our banks. Actually the most important word here is our databanks, they can be hacked, and the possibilities of sabotage and worse are all there.
+
+So this new type of warfare gets more complicated by the day. And I believe it's no coincidence that you're all here in Israel – again, over 10,000 of you, from five continents. Because you recognize that Israel is a world leader in cybersecurity. We realized, as Eviatar said, early on that our small geographic size need not limit our cybersecurity capabilities. In fact, I think it's the opposite. I think because we are small, we have that power. We're small, we're concentrated, so there are a lot of fine young people, which means fine young brains that interact.
+
+So here's a secret, here's a non-cyber secret of the cyber age. People still need to meet. Yeah, you can get things online. But when they meet, these brilliant people from different disciplines, and they meet regularly in a small space, you actually get results that you are not going to get just by clicking away. Can you get that? I mean, that's completely contrary to what your whole industry is about theoretically, but it's not. It's the meeting of teams, small teams. They see each other, they look each other in the eye, sometimes their looks are glazed I can tell you, I met some of these people. But they look each other in their own way, they talk to each other, and they get these fantastic results.
+
+So Israel has this concentration of very talented people who meet and come from different disciplines.
+
+I thought that this is a tremendous opportunity because we have of course the military experience that unites most of them, and now the companies that are budding out, hundreds of start-ups, all in a very small space.
+
+So a few years ago, I set the goal for Israel of becoming one of the top five cybersecurity powers in the world. It's a goal we have met. I deliberately decided to place our National Cyber Headquarters right next to Ben-Gurion University. In fact, it's on the university campus.
+
+And so the world has the opportunity to bring the greatest cybersecurity firms to that small area in Beer-Sheva. Beer-Sheva used to be known for camels, camels and palm trees from the days of Abraham. Beer-Sheva means seven wells; now there are wells of human creativity and cyber creativity. Everybody works together there in a small space: the government, academia, the private sector. The best young minds we have.
+
+In fact, I was showing Steve Forbes of Forbes Magazine, I took him there a few years ago to show him this explosion that is happening there and all these companies and one of these young people looks familiar and I said, "Who are you? I recognize your face." And he says to me, "Prime Minister, you don’t remember me? I was your NSA briefer," the Israeli NSA briefer. And I said, "Yeah? And what are you doing now?" And he looked at me and he said, "Now? Now I'm rich."
+
+We are working together, all of us, to keep our country safe and our companies and we should be working together to keep your countries safe and your companies. We are developing and sharing incredibly powerful technologies, incredibly powerful, to fight back against the threat of cyber warfare, which is a growing threat by the day.
+
+Today Israel receives roughly one-fifth of the world's global private investment in cybersecurity. One-fifth, it's about 20%, and given that we are one-tenth of one percent of the world's population. it means we're punching about 200 times above our weight. Not two times, not ten times and not even 100 times – 200 times above our weight, which means there's something here that defies numerical size and as I told you I think it actually works to our benefit that we have this concentration of talent here. This is just the beginning because every day we are making new breakthroughs, every day we are expanding our capabilities, every day we are exploring new opportunities.
+
+I have a list of dos and don'ts. Let me start with the big don'ts. A big don't is don’t overregulate. And that is a constant battle because in this industry, as in any industry, and especially one that is related to defense capabilities, the temptation to regulate is enormous. The temptation to overregulate is even bigger. And so there are pressures constantly coming, for good reasons, from our respected bureaucracies to overregulate. And if there's been any effort that we've been involved with and I include both Eviatar and Eli Groner, the Director General of the Prime Minister's Office, and my Chief Economic Adviser, Avi Simhon, who all have used their elbows to fight back because once you begin to overregulate you constrain the enormous growth potential in this industry. And obviously there is tradeoffs, we understand that.
+
+But we are committed and I am committed to the continued growth of the cybersecurity industry. So the first don't is – don't overregulate. The second and the third and the fourth are the dos – the first dos is help. Help where you can to stimulate growth. We've done something I don’t do – I'm very much, if you can characterize me, a free marketeer, but I have done here something that we have seldom done and that is to give focused tax breaks to a specific industry. We said, "We'll give you tax breaks if you employ employees in Beer-Sheva." We want to establish Beer-Sheva as the cyber capital, well we'll suffice, the Eastern Hemisphere will be fine.
+
+So we are giving these tax breaks to employees, Israeli employees or foreign employees, which we welcome, we welcome. On the contrary, we think it will be a great investment on your part to have people from your companies, your countries come for a few years to work with our companies and we're trying to make things easier for them, with spouses for example. That's another break that we do, that's another "do", because we think it's the best way to use human knowledge, to have this interactivity.
+
+I have to tell you that the story of Israel's hi-tech success is definitely rooted in our experiences in the military, but it's also rooted in the experiences of Israelis who went to the other Silicon Wadi, the one there, spent a few years there, came back. And the invaluable experience that they gleaned there helped create our own hi-tech industry. So by all means, bring your people here, they will be welcomed with tax breaks and other things that can make their lives here, the lives of their families as well, comfortable and productive.
+
+The third thing that we're doing are benefits. We're giving benefits from the Chief Scientist and our Cyber Directorate to companies that are coming here. The fourth, we have special programs for comfortable landing for companies that are coming here. I think that NEC is now experiencing that, IBM, Cisco obviously. We're trying to make it easy for companies to establish themselves here. Many have established research centers. I think it's a great potential opportunities.
+
+And the last is we're developing our own human resources, our own young men and women in various educational programs in the army, but not only in the army, elsewhere. And what we're trying to do is capitalize on the fact that we have these people in programs that require rapid problem-solving, rapidity of problem-solving and out-of-the-box thinking. These are not just words. There's a national culture and we want to make sure that we have more and more people who are capable of doing this.
+
+So we think this is something we can share with you and we invite you to share with us your experiences because I believe that by working together we can more effectively defend against the forces of terror, this cyber terror, that threaten us all. When I said terror actually there is a linkage between the forces of terror now and the use of the cyberspace. You see it most effectively or most tragically in ISIS, its use of cyber tools, its ability to recruit young people with vulnerable dispositions. It's also possible to fight them using these tools of big data, connectivity and artificial intelligence.
+
+The same tools they use can be used against them and are being used against them with great effectiveness. I won't go into that.
+
+Iran attempts to hack critical infrastructure in the region and in the countries of the West, many countries not in the West. The internet of things can be hijacked by nefarious actors for dangerous purposes with dangerous results. Again, what you see today is going to get a lot worse in the future if we don't band together.
+
+That's why I intend to raise the subject and discuss the subject of cooperation in cybersecurity in my upcoming visit in Washington with President Trump. I had here a visit by Rudy Giuliani who is a special adviser to President Trump on cybersecurity. We discussed some of these aspects, but again, I think that Israel and the United States that are two leading powers, the United States obviously the leading power in the battle for cybersecurity, Israel, I would say, right up there. I think it's critical that we augment whatever each of us is doing alone by our cooperation, both on the government-to-government level and what we can do with our cybersecurity industries.
+
+It's not possible as yet to have a very broad cooperation for cybersecurity between many governments, but it is important to have cooperation between some governments, and especially like-minded governments and that germination I think can come out of this discussion between President Trump and myself. We've already had important discussions with the US government, but I think we need to expand this and recognize that there is a core interest of the civilized countries and the democratic countries to protect themselves and their citizens against cyber-attacks. The more we work together, the stronger and safer we'll become.
+
+I encourage everyone here to invest in Israel, cooperate with Israeli companies. I'm sure you recognize the spirit, you sense it; it's powerful and strong and friendly. I think we're truly sitting on the cutting edge of this new technology and we've had many successes in ensuring our security. It's not an accident, as one would say. It's not an accident that in the froth and gushing of this entire Middle East and beyond, Israel is a secure and safe island. We have invested in our security in creative ways, successful ways, not only in the digital area, sometimes in the physical area.
+
+And having said, I spoke about our security fence the other day. You may have noticed it. And I take this opportunity to explain or clarify what I did and did not say in my tweet the other night.
+
+I thought you'd be interested in that.
+
+I did point out the remarkable success of Israel's security fence. But I did not comment about US-Mexico relations. We've had and will continue to have good relations with Mexico.
+
+And I believe our ties are much stronger than any passing disagreement or misunderstanding. And in fact, I've had a long and fruitful and very friendly relationship with Mexican President Enrique Peña Nieto and it will continue.
+
+We stand, all of us, at the nexus of big data, connectivity and artificial intelligence. Great opportunities, but great challenges. And Israel, we're exploiting these opportunities and we're meeting these challenges. I invite you to do both with us. And it's my ardent hope that the nations around the world will come together to defeat our common threats and seize our vast opportunities. There is no better place to do so than the State of Israel.
+
+Welcome and much success.
+
+Thank you. Thank you very much.

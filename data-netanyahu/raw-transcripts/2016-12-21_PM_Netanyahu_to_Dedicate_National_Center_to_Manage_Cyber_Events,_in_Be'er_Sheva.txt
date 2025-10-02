@@ -1,0 +1,21 @@
+Source: https://www.gov.il/en/pages/spokecyber211216
+
+
+
+Prime Minister Benjamin Netanyahu will, tomorrow at the high-tech park in Be'er Sheva, dedicate and tour the National Cyber Defense Authority center for managing cyber events (CERT). (See below for schedule and coverage details.)
+
+The Israel National Cyber Bureau, in the Prime Minister's Office, was established in 2011 following a decision by the Prime Minister. In accordance with a 2015 Cabinet decision, the Prime Minister ordered the establishment of the National Cyber Defense Authority, as part of the INCB, and tasked it with defending Israel's civilian cyber space.
+
+Be'er Sheva Mayor Rubik Danilovitz, INCB head Dr. Eviatar Matania and NCDA head Buki Carmeli will attend tomorrow's ceremony.
+
+The CERT (Cyber Event Readiness Teams) will work to improve defensive resilience and will assist in dealing with cyber events. It will also serve as a focus for the sharing of relevant information with all relevant elements in the economy and with additional partners around the world.
+
+This will be a unique center in the world vis-à-vis innovative technological system and infrastructures, support systems and advanced defensive capabilities, which will enable the formation of an up-to-date picture of the situation and the managing of cyber events in real time. It was established in cooperation with international and Israeli industry (the latter security and civilian).
+
+The project to build the center, which began two years ago, was established in the Be'er Sheva high-tech park as part of the city's cyber ecosystem. The center was established based on futuristic planning that will foster functional continuity also in time of emergency as well as the upgrading of systems and infrastructures in order to maintain its up-to-date status and technological advantage.
+
+The center combines operational components and processes including the government SOC (real-time monitoring); a cyber center and functional continuity for the Ministry of National Infrastructures, Energy and Water Resources; and a cyber center for the financial sector in cooperation with the Finance Ministry, Bank of Israel and the Israel Securities Authority. In the future it will include centers for additional sectors. The center also enables multiple cyber events to be dealt with simultaneously including by providing responses based on field teams.
+
+It should be noted that many countries have expressed interest in the Israeli center and have asked to visit it and study its unique model.
+
+Prime Minister Netanyahu: "We are completing an additional significant step in building an elite cyber defense for the State of Israel – the establishment of a center for managing events that is among the most advanced in the world in terms of technologies, systems and doctrine. We are realizing the vision of Be'er Sheva as an international cyber capital that attracts multi-national companies to invest in Israel."

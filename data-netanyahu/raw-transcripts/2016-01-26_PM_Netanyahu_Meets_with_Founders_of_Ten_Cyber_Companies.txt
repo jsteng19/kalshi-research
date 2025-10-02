@@ -1,0 +1,25 @@
+Source: https://www.gov.il/en/pages/eventcybertech260116
+
+
+
+Prime Minister Benjamin Netanyahu today at the Cybertech Conference in Tel Aviv, held a unique meeting, including an open conversation among participants, with ten founders of cyber companies who either raised substantial capital or carried out major exits in 2015.
+
+Prime Minister Netanyahu:
+
+"We are working to establish the industry and we are discussing several things. First, we provided incentives to companies, thus expressing our great commitment to the industry. Second, I would like to clarify the issue of regulation. The State of Israel has a clear security problem and I am certain that you understand the implications of cyber threats, which originate from both organizations and countries. This is a threat that could paralyze a country. We would like for there to be as few regulations as possible along with as much security as possible and we will sort this out forthwith."
+
+Israel National Cyber Bureau (INCB) Head Dr. Eviatar Matania:
+
+"We have been dealing with this issue [oversight] for over two years, also with other bodies. We are considering what is the correct way vis-à-vis export controls. At the end of the process, we will settle things. The direction is that there will be fewer restrictions along with a prospering industry. This is our main goal – continued prosperity for the industry. There will be a clear set-up, quick and not bureaucratic. We are proceeding with great caution."
+
+The companies that participated in the meeting were: Illusive Networks, ARGUS, CHECKMARX, SAFE-T (which carried out a public offering on the Tel Aviv Stock Exchange), ForeScout, CYBEREASON, Intellinx (which was acquired by Bottomline), CyActive (which was acquired by PayPal), Secure Islands (which was acquired by Microsoft), Lacoon and Checkpoint.
+
+Prime Minister Netanyahu sought, in the framework of this unique and intimate meeting, to congratulate the entrepreneurs for their impressive achievements in 2015, their significant contributions to the Israeli economy and their critical role in developing pioneering technologies in the field of cyber defense, which are used by many countries and organizations around the world.
+
+The entrepreneurs expressed their appreciation for the government's determined activity in recent years in advancing the cyber defense industry. They noted the INCB's program of incentives, which was formulated especially for the companies at CyberSpark in Be'er Sheva, as well as the Israel Tech Challenge which was established by the INCB along with the Jewish Agency and Project Masa in order to bring Jewish graduates from leading overseas universities and integrate them into Israeli industries. The entrepreneurs also referred to the dramatic contributions of the programs of the Economy and Industry Ministry Chief Scientist including – inter alia – research and development grants and technological greenhouses.
+
+Prime Minister Netanyahu emphasized the government's commitment to provide continued assistance and backing for the Israeli cyber defense industry in all relevant areas. Regarding export controls, the Prime Minister made it clear that he had instructed the INCB to formulate an outline that would be as minimal as possible, even while taking risks, in order to support the continued growth and prosperity of the industry by removing impediments and ensuring certainty for entrepreneurs and investors.
+
+One of the most significant challenges to the continued growth of the Israeli cyber defense industry is the expansion of qualitative human capital. The Prime Minister asked his people to advance bringing in experts from around the world in order to strengthen the Israeli cyber industry.
+
+In addition to Prime Minister Netanyahu and INCB Head Dr. Matania, Prime Minister's Office Director General Eli Groner, National Security Council Acting Chairman Yaakov Nagal, National Economic Council Chairman Prof. Avi Simhon, Economy and Industry Ministry Director General Amit Lang and Economy and Industry Ministry Chief Scientist Avi Hasson also attended the meeting.
