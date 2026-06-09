@@ -1,0 +1,2173 @@
+{
+  "version": 1,
+  "events": {
+    "KXNBAMENTION-26FEB03BOSDAL": {
+      "timestamp": "2026-02-09T16:40:51.150745",
+      "vwaps": {
+        "Triple Double": 32.32,
+        "Trade / Trades / Traded": 94.87,
+        "Tech / Technical": 23.0,
+        "Retire / Retired / Retirement": 93.93,
+        "Playoff": 26.01,
+        "MVP": 66.79,
+        "Jordan": 96.84,
+        "Injury / Injured": 10.02,
+        "Elbow": 67.92,
+        "Buzzer": 83.76,
+        "Ankle": 72.38,
+        "American Airlines": 88.0,
+        "Alley-oop": 94.88,
+        "All-Star": 96.77,
+        "Airball / Air Ball": 68.0
+      }
+    },
+    "KXNBAMENTION-26FEB01OKCDEN": {
+      "timestamp": "2026-02-09T16:40:51.427366",
+      "vwaps": {
+        "Triple Double": 56.51,
+        "Trade / Trades / Traded": 71.21,
+        "Tech / Technical": 7.16,
+        "Retire / Retired / Retirement": 92.83,
+        "Playoff": 96.1,
+        "MVP": 34.62,
+        "Jordan": 78.85,
+        "Injury / Injured": 77.83,
+        "Elbow": 94.86,
+        "Buzzer": 91.49,
+        "Ball Arena": 16.23,
+        "Ankle": 97.83,
+        "Alley-oop": 84.76,
+        "All-Star": 94.33,
+        "Airball / Air Ball": 95.75
+      }
+    },
+    "KXNBAMENTION-26JAN27MILPHI": {
+      "timestamp": "2026-02-09T16:40:51.680347",
+      "vwaps": {
+        "Xfinity": 74.48,
+        "Triple Double": 96.0,
+        "Trade / Trades / Traded": 83.17,
+        "Tech / Technical": 91.0,
+        "Retire / Retired / Retirement": 71.24,
+        "Playoff": 8.79,
+        "MVP": 87.21,
+        "Jordan": 93.02,
+        "Injury / Injured": 52.47,
+        "Elbow": 16.66,
+        "Buzzer": 96.0,
+        "Ankle": 79.21,
+        "Alley-oop": 16.85,
+        "All-Star": 95.01,
+        "Airball / Air Ball": 23.15
+      }
+    },
+    "KXNBAMENTION-26JAN26PORBOS": {
+      "timestamp": "2026-02-09T16:40:51.976924",
+      "vwaps": {
+        "Triple Double": 9.72,
+        "Trade / Trades / Traded": 79.02,
+        "Tech / Technical": 90.59,
+        "TD Garden": 93.92,
+        "Retire / Retired / Retirement": 95.71,
+        "Playoff": 96.99,
+        "MVP": 94.93,
+        "Jordan": 94.17,
+        "Injury / Injured": 91.75,
+        "Elbow": 81.69,
+        "Buzzer": 94.76,
+        "Ankle": 91.92,
+        "Alley-oop": 85.87,
+        "All-Star": 72.7,
+        "Airball / Air Ball": 10.07
+      }
+    },
+    "KXNBAMENTION-26JAN20SASHOU": {
+      "timestamp": "2026-02-09T16:40:52.319906",
+      "vwaps": {
+        "Triple Double": 96.05,
+        "Trade / Trades / Traded": 21.52,
+        "Toyota": 94.0,
+        "Tech / Technical": 93.0,
+        "Retire / Retired / Retirement": 32.74,
+        "Playoff": 17.62,
+        "MVP": 84.09,
+        "Jordan": 83.0,
+        "Injury / Injured": 96.0,
+        "Elbow": 16.6,
+        "Buzzer": 12.52,
+        "Ankle": 88.22,
+        "Alley-oop": 66.32,
+        "All-Star": 24.18,
+        "Airball / Air Ball": 38.55
+      }
+    },
+    "KXNBAMENTION-26JAN19OKCCLE": {
+      "timestamp": "2026-02-09T16:40:52.571596",
+      "vwaps": {
+        "Triple Double": 96.0,
+        "Trade / Trades / Traded": 3.0,
+        "Tech / Technical": 95.0,
+        "Rocket": 69.0,
+        "Retire / Retired / Retirement": 93.0,
+        "Playoff": 95.0,
+        "MVP": 93.0,
+        "Jordan": 97.0,
+        "Injury / Injured": 74.0,
+        "Elbow": 90.0,
+        "Buzzer": 3.0,
+        "Ankle": 3.0,
+        "Alley-oop": 2.0,
+        "All-Star": 4.0,
+        "Airball / Air Ball": 94.0
+      }
+    },
+    "KXNBAMENTION-26JAN13SASOKC": {
+      "timestamp": "2026-02-09T16:40:52.908405",
+      "vwaps": {
+        "Triple Double": 95.81,
+        "Trade / Trades / Traded": 19.42,
+        "Tech / Technical": 96.78,
+        "Retire / Retirement": 84.0,
+        "Playoff": 11.65,
+        "Paycom": 15.32,
+        "MVP": 93.03,
+        "Jordan": 88.21,
+        "Injury / Injured": 6.02,
+        "Elbow": 8.59,
+        "Buzzer": 95.0,
+        "Ankle": 86.04,
+        "Alley-oop": 91.85,
+        "All-Star": 77.03,
+        "Airball / Air Ball": 81.99
+      }
+    },
+    "KXNBAMENTION-26JAN06MIAMIN": {
+      "timestamp": "2026-02-09T16:40:53.210916",
+      "vwaps": {
+        "Triple Double": 83.03,
+        "Trade / Trades / Traded": 83.0,
+        "Tech / Technical": 23.91,
+        "Target": 96.0,
+        "Retire / Retirement": 88.69,
+        "Playoff": 97.02,
+        "MVP": 87.26,
+        "Jordan": 78.1,
+        "Injury / Injured": 87.0,
+        "Elbow / Elbows / Elbowed": 89.0,
+        "Buzzer": 97.0,
+        "Ankle": 30.24,
+        "Alley-oop": 79.0,
+        "All-Star": 10.0,
+        "Airball / Air Ball": 18.14
+      }
+    },
+    "KXNBAMENTION-26JAN05DENPHI": {
+      "timestamp": "2026-02-09T16:40:53.478454",
+      "vwaps": {
+        "Xfinity": 89.71,
+        "Triple Double": 11.55,
+        "Trade / Trades / Traded": 20.1,
+        "Tech / Technical": 96.87,
+        "Retire / Retirement": 95.31,
+        "Playoff": 88.5,
+        "MVP": 85.11,
+        "Injury / Injured": 96.04,
+        "Buzzer": 11.64,
+        "Ankle": 96.51,
+        "Alley-oop": 9.39,
+        "All-Star": 20.52,
+        "Airball / Air Ball": 20.26
+      }
+    },
+    "KXNBAMENTION-25DEC30PHIMEM": {
+      "timestamp": "2026-02-09T16:40:53.729919",
+      "vwaps": {
+        "Tee Morant / Dad / Father": 92.0,
+        "Triple Double": 80.0,
+        "Trade / Trades / Traded": 10.05,
+        "Tech / Technical": 84.95,
+        "Retire / Retirement": 94.87,
+        "Playoff": 8.04,
+        "MVP": 74.0,
+        "Injury / Injured": 29.08,
+        "FedEx /  FedExForum": 17.0,
+        "Buzzer Beater": 96.84,
+        "Ankle": 23.0,
+        "Alley-oop": 95.84,
+        "All-Star": 89.05,
+        "Airball / Air Ball": 68.29
+      }
+    },
+    "KXNBAMENTION-25DEC15DETBOS": {
+      "timestamp": "2026-02-09T16:40:54.015867",
+      "vwaps": {
+        "Triple Double": 5.7,
+        "Trade / Trades / Traded": 4.26,
+        "Tatum": 60.48,
+        "Retire / Retirement": 91.05,
+        "Playoff": 96.0,
+        "MVP": 9.25,
+        "Injury / Injured": 2.94,
+        "Garden": 97.02,
+        "Buzzer Beater": 92.11,
+        "Ankle": 96.03,
+        "Airball / Air Ball": 17.36,
+        "Achilles": 90.05
+      }
+    },
+    "KXNBAMENTION-25DEC08PHXMIN": {
+      "timestamp": "2026-02-09T16:40:54.272132",
+      "vwaps": {
+        "Twin Cities": 94.01,
+        "Triple Double": 17.84,
+        "Trade / Trades / Traded": 26.8,
+        "Target": 30.94,
+        "Retire / Retirement": 74.72,
+        "Poster / Posterized": 24.89,
+        "MVP": 14.59,
+        "Injury / Injured": 94.02,
+        "Durant": 77.57,
+        "Buzzer Beater": 15.81,
+        "Ant Man / Ant-Man": 11.41,
+        "Ankle": 12.92,
+        "Airball / Air Ball": 43.22
+      }
+    },
+    "KXNBAMENTION-25DEC01PHXLAL": {
+      "timestamp": "2026-02-09T16:40:54.445169",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25NOV25ORLPHI": {
+      "timestamp": "2026-02-09T16:40:54.533135",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25NOV18MEMSAS": {
+      "timestamp": "2026-02-09T16:40:54.638722",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25NOV03MINBKN": {
+      "timestamp": "2026-02-09T16:40:54.694208",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25OCT27CLEDET": {
+      "timestamp": "2026-02-09T16:40:54.753809",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25OCT21GSWLAL": {
+      "timestamp": "2026-02-09T16:40:54.802781",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25OCT14OKCMIL": {
+      "timestamp": "2026-02-09T16:40:54.868771",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25OCT07CHICLE": {
+      "timestamp": "2026-02-09T16:40:54.917612",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26FEB07DALSAS": {
+      "timestamp": "2026-02-09T16:41:03.925395",
+      "vwaps": {
+        "Rookie": 79.0,
+        "Overtime": 91.94,
+        "Frost Bank": 66.58,
+        "Triple Double": 39.06,
+        "Trade / Trades / Traded": 30.01,
+        "Tech / Technical": 61.62,
+        "Retire / Retired / Retirement": 33.71,
+        "Playoff": 16.0,
+        "MVP": 91.0,
+        "Jordan": 96.76,
+        "Injury / Injured": 70.03,
+        "Elbow": 48.21,
+        "Draft": 13.13,
+        "Crowd / Crowded": 97.26,
+        "Buzzer": 26.06,
+        "Ankle": 93.81,
+        "Alley-oop": 79.01,
+        "Airball / Airballs / Airballed": 97.18
+      }
+    },
+    "KXNBAMENTION-26FEB05CHITOR": {
+      "timestamp": "2026-02-09T16:41:04.209809",
+      "vwaps": {
+        "Rookie": 19.0,
+        "Overtime": 93.0,
+        "Scotiabank": 92.0,
+        "Triple Double": 16.0,
+        "Trade / Trades / Traded": 82.0,
+        "Tech / Technical": 17.0,
+        "Retire / Retired / Retirement": 77.0,
+        "Playoff": 29.0,
+        "MVP": 97.62,
+        "Jordan": 21.07,
+        "Injury / Injured": 26.0,
+        "Elbow": 88.0,
+        "Draft": 96.67,
+        "Crowd / Crowded": 15.04,
+        "Buzzer": 12.0,
+        "Ankle": 26.0,
+        "Alley-oop": 31.26,
+        "Airball / Airballs / Airballed": 19.0
+      }
+    },
+    "KXNBAMENTION-26FEB03PHXPOR": {
+      "timestamp": "2026-02-09T16:41:04.532577",
+      "vwaps": {
+        "Triple Double": 31.54,
+        "Trade / Trades / Traded": 32.9,
+        "Tech / Technical": 96.37,
+        "Retire / Retired / Retirement": 90.91,
+        "Playoff": 96.74,
+        "MVP": 20.46,
+        "Moda": 34.31,
+        "Jordan": 17.27,
+        "Injury / Injured": 77.6,
+        "Elbow": 94.72,
+        "Buzzer": 87.79,
+        "Ankle": 94.44,
+        "Alley-oop": 95.2,
+        "All-Star": 24.26,
+        "Airball / Air Ball": 12.49
+      }
+    },
+    "KXNBAMENTION-26FEB02PHILAC": {
+      "timestamp": "2026-02-09T16:41:04.900012",
+      "vwaps": {
+        "Triple Double": 41.52,
+        "Trade / Trades / Traded": 13.73,
+        "Tech / Technical": 97.01,
+        "Retire / Retired / Retirement": 96.43,
+        "Playoff": 25.24,
+        "MVP": 94.14,
+        "Jordan": 81.96,
+        "Intuit": 31.39,
+        "Injury / Injured": 96.03,
+        "Elbow": 26.65,
+        "Buzzer": 31.59,
+        "Ankle": 75.97,
+        "Alley-oop": 93.95,
+        "All-Star": 42.82,
+        "Airball / Air Ball": 73.34
+      }
+    },
+    "KXNBAMENTION-26JAN26GSWMIN": {
+      "timestamp": "2026-02-09T16:41:05.202970",
+      "vwaps": {
+        "Triple Double": 15.15,
+        "Trade / Trades / Traded": 9.04,
+        "Tech / Technical": 10.23,
+        "Target": 9.2,
+        "Retire / Retired / Retirement": 96.54,
+        "Playoff": 96.21,
+        "MVP": 9.46,
+        "Jordan": 11.0,
+        "Injury / Injured": 95.93,
+        "Elbow": 76.46,
+        "Buzzer": 6.37,
+        "Ankle": 16.49,
+        "Alley-oop": 96.86,
+        "All-Star": 15.04,
+        "Airball / Air Ball": 13.72
+      }
+    },
+    "KXNBAMENTION-26JAN23HOUDET": {
+      "timestamp": "2026-02-09T16:41:05.483087",
+      "vwaps": {
+        "Triple Double": 87.0,
+        "Trade / Trades / Traded": 93.0,
+        "Tech / Technical": 97.0,
+        "Retire / Retired / Retirement": 94.0,
+        "Playoff": 16.0,
+        "MVP": 9.0,
+        "Little Caesars": 96.0,
+        "Jordan": 89.0,
+        "Injury / Injured": 91.0,
+        "Elbow": 13.0,
+        "Buzzer": 71.0,
+        "Ankle": 12.0,
+        "Alley-oop": 91.0,
+        "All-Star": 10.0,
+        "Airball / Air Ball": 82.0
+      }
+    },
+    "KXNBAMENTION-26JAN20LALDEN": {
+      "timestamp": "2026-02-09T16:41:05.733742",
+      "vwaps": {
+        "Triple Double": 21.67,
+        "Trade / Trades / Traded": 91.76,
+        "Tech / Technical": 13.8,
+        "Retire / Retired / Retirement": 18.89,
+        "Playoff": 94.42,
+        "MVP": 97.0,
+        "Jordan": 26.78,
+        "Injury / Injured": 33.45,
+        "Elbow": 91.15,
+        "Buzzer": 70.53,
+        "Ball Arena": 93.34,
+        "Ankle": 88.16,
+        "Alley-oop": 97.15,
+        "All-Star": 88.62,
+        "Airball / Air Ball": 25.06
+      }
+    },
+    "KXNBAMENTION-26JAN18ORLMEM": {
+      "timestamp": "2026-02-09T16:41:06.271574",
+      "vwaps": {
+        "Triple Double": 78.57,
+        "Trade / Trades / Traded": 33.1,
+        "Tech / Technical": 89.53,
+        "Retire / Retired / Retirement": 65.72,
+        "Playoff": 26.06,
+        "MVP": 89.67,
+        "Jordan": 23.05,
+        "Injury / Injured": 10.4,
+        "FedExForum / FedEx": 82.65,
+        "Elbow": 97.76,
+        "Buzzer": 28.55,
+        "Ankle": 93.92,
+        "Alley-oop": 82.99,
+        "All-Star": 14.9,
+        "Airball / Air Ball": 12.01
+      }
+    },
+    "KXNBAMENTION-26JAN15MEMORL": {
+      "timestamp": "2026-02-09T16:41:06.612533",
+      "vwaps": {
+        "Triple Double": 93.0,
+        "Trade / Trades / Traded": 83.0,
+        "Tech / Technical": 45.29,
+        "Retire / Retirement": 24.17,
+        "Playoff": 95.83,
+        "MVP": 82.0,
+        "Kia": 11.41,
+        "Jordan": 25.0,
+        "Injury / Injured": 73.0,
+        "Elbow": 8.77,
+        "Buzzer": 81.76,
+        "Ankle": 20.0,
+        "Alley-oop": 11.0,
+        "All-Star": 7.0,
+        "Airball / Air Ball": 95.0
+      }
+    },
+    "KXNBAMENTION-26JAN12BOSIND": {
+      "timestamp": "2026-02-09T16:41:06.921711",
+      "vwaps": {
+        "Triple Double": 7.05,
+        "Trade / Trades / Traded": 7.27,
+        "Tech / Technical": 9.44,
+        "Retire / Retirement": 5.83,
+        "Playoff": 94.99,
+        "MVP": 16.02,
+        "Jordan": 10.56,
+        "Injury / Injured": 10.02,
+        "Gainbridge": 93.0,
+        "Elbow": 25.52,
+        "Buzzer": 18.01,
+        "Ankle": 94.88,
+        "Alley-oop": 94.95,
+        "All-Star": 10.0,
+        "Airball / Air Ball": 17.17
+      }
+    },
+    "KXNBAMENTION-26JAN06DALSAC": {
+      "timestamp": "2026-02-09T16:41:07.235117",
+      "vwaps": {
+        "Triple Double": 92.96,
+        "Trade / Trades / Traded": 8.5,
+        "Tech / Technical": 11.94,
+        "Retire / Retirement": 11.93,
+        "Playoff": 10.85,
+        "MVP": 95.55,
+        "Jordan": 97.33,
+        "Injury / Injured": 7.52,
+        "Golden": 6.16,
+        "Elbow / Elbows / Elbowed": 5.77,
+        "Buzzer": 97.25,
+        "Ankle": 97.0,
+        "Alley-oop": 93.57,
+        "All-Star": 79.77,
+        "Airball / Air Ball": 85.11
+      }
+    },
+    "KXNBAMENTION-25DEC29CLESAS": {
+      "timestamp": "2026-02-09T16:41:07.664911",
+      "vwaps": {
+        "Alien": 24.94,
+        "Triple Double": 79.01,
+        "Trade / Trades / Traded": 7.18,
+        "Tech / Technical": 9.88,
+        "Retire / Retirement": 91.71,
+        "Playoff": 95.42,
+        "MVP": 12.86,
+        "Injury / Injured": 27.45,
+        "Frost Bank": 23.96,
+        "Buzzer Beater": 67.99,
+        "Ankle": 7.27,
+        "Alley-oop": 95.03,
+        "All-Star": 27.05,
+        "Airball / Air Ball": 10.6
+      }
+    },
+    "KXNBAMENTION-25DEC26LACPOR": {
+      "timestamp": "2026-02-09T16:41:07.963579",
+      "vwaps": {
+        "Triple Double": 13.81,
+        "Trade / Trades / Traded": 14.96,
+        "Tech / Technical": 69.34,
+        "Retire / Retirement": 19.6,
+        "Playoff": 34.33,
+        "MVP": 96.69,
+        "Moda": 8.76,
+        "Injury / Injured": 11.07,
+        "Buzzer Beater": 15.03,
+        "Ankle": 96.24,
+        "Alley-oop": 95.69,
+        "All-Star": 19.95,
+        "Airball / Air Ball": 95.96
+      }
+    },
+    "KXNBAMENTION-25DEC22CHACLE": {
+      "timestamp": "2026-02-09T16:41:08.248118",
+      "vwaps": {
+        "Triple Double": 4.0,
+        "Trade / Trades / Traded": 5.93,
+        "Tech / Technical": 95.01,
+        "Rocket": 89.16,
+        "Retire / Retirement": 7.84,
+        "Playoff": 32.06,
+        "MVP": 78.14,
+        "Injury / Injured": 6.29,
+        "Christmas": 96.01,
+        "Buzzer Beater": 96.0,
+        "Ankle": 73.34,
+        "Alley-oop": 83.31,
+        "Airball / Air Ball": 81.07
+      }
+    },
+    "KXNBAMENTION-25DEC19OKCMIN": {
+      "timestamp": "2026-02-09T16:41:08.525463",
+      "vwaps": {
+        "Triple Double": 92.84,
+        "Trade / Trades / Traded": 7.3,
+        "Target Center": 96.32,
+        "Retire / Retirement": 4.48,
+        "Playoff": 4.88,
+        "MVP": 23.85,
+        "Injury / Injured": 73.2,
+        "Christmas": 93.14,
+        "Buzzer Beater": 92.6,
+        "Ankle": 5.84,
+        "Airball / Air Ball": 7.61
+      }
+    },
+    "KXNBAMENTION-25DEC15HOUDEN": {
+      "timestamp": "2026-02-09T16:41:08.785615",
+      "vwaps": {
+        "Triple Double": 97.1,
+        "Trade / Trades / Traded": 98.07,
+        "Retire / Retirement": 5.67,
+        "Playoff": 4.4,
+        "MVP": 96.28,
+        "Joker": 96.06,
+        "Injury / Injured": 98.25,
+        "Buzzer Beater": 90.35,
+        "Ball Arena": 17.76,
+        "Ankle": 93.48,
+        "Airball / Air Ball": 97.11
+      }
+    },
+    "KXNBAMENTION-25DEC13SASOKC": {
+      "timestamp": "2026-02-09T16:41:09.057933",
+      "vwaps": {
+        "Triple Double": 91.02,
+        "Trade / Trades / Traded": 92.4,
+        "Retire / Retirement": 86.28,
+        "Playoff": 13.71,
+        "Paycom": 5.08,
+        "MVP": 5.77,
+        "Injury / Injured": 93.92,
+        "Draft": 94.58,
+        "Dominant / Dominance / Dominating": 5.16,
+        "Buzzer Beater": 6.51,
+        "Ankle": 90.74,
+        "Airball / Air Ball": 8.98
+      }
+    },
+    "KXNBAMENTION-25DEC09NYKTOR": {
+      "timestamp": "2026-02-09T16:41:09.339328",
+      "vwaps": {
+        "Triple Double": 3.46,
+        "Trade / Trades / Traded": 95.46,
+        "Snow / Snowy / Snowing": 16.91,
+        "Retire / Retirement": 97.44,
+        "Playoff": 16.04,
+        "MVP": 16.66,
+        "Kawhi": 11.5,
+        "Injury / Injured": 97.2,
+        "Buzzer Beater": 6.28,
+        "Ankle": 6.05,
+        "Airball / Air Ball": 18.1
+      }
+    },
+    "KXNBAMENTION-25DEC05DALOKC": {
+      "timestamp": "2026-02-09T16:41:09.515836",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25DEC01CHIORL": {
+      "timestamp": "2026-02-09T16:41:09.630907",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25NOV28DALLAL": {
+      "timestamp": "2026-02-09T16:41:09.678532",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25NOV24HOUPHX": {
+      "timestamp": "2026-02-09T16:41:09.730272",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25NOV21INDCLE": {
+      "timestamp": "2026-02-09T16:41:09.787813",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25NOV17MILCLE": {
+      "timestamp": "2026-02-09T16:41:09.842485",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25NOV10WASDET": {
+      "timestamp": "2026-02-09T16:41:09.899699",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25NOV07GSWDEN": {
+      "timestamp": "2026-02-09T16:41:09.956390",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25NOV04ORLATL": {
+      "timestamp": "2026-02-09T16:41:10.011714",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25OCT31LALMEM": {
+      "timestamp": "2026-02-09T16:41:10.132037",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25OCT27DENMIN": {
+      "timestamp": "2026-02-09T16:41:10.390675",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26FEB07GSWLAL": {
+      "timestamp": "2026-02-11T13:55:37.008585",
+      "vwaps": {
+        "Triple Double": 18.0,
+        "Trade / Trades / Traded": 78.0,
+        "Tech / Technical": 30.99,
+        "Retire / Retired / Retirement": 90.0,
+        "Playoff": 12.18,
+        "MVP": 9.0,
+        "Jordan": 95.0,
+        "Injury / Injured": 26.0,
+        "Elbow": 19.0,
+        "Draft": 96.65,
+        "Crowd / Crowded": 96.64,
+        "Buzzer": 93.0,
+        "Ankle": 97.0,
+        "Alley-oop": 15.0,
+        "Airball / Airballs / Airballed": 82.0
+      }
+    },
+    "KXNBAMENTION-26FEB04OKCSAS": {
+      "timestamp": "2026-02-11T13:55:37.230415",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26JAN31DALHOU": {
+      "timestamp": "2026-02-11T13:55:37.486003",
+      "vwaps": {
+        "Triple Double": 86.0,
+        "Trade / Trades / Traded": 62.0,
+        "Toyota": 84.0,
+        "Tech / Technical": 21.0,
+        "Retire / Retired / Retirement": 96.0,
+        "Playoff": 37.0,
+        "MVP": 90.0,
+        "Jordan": 91.0,
+        "Injury / Injured": 32.0,
+        "Elbow": 97.0,
+        "Buzzer": 31.0,
+        "Ankle": 33.0,
+        "Alley-oop": 15.0,
+        "All-Star": 92.0,
+        "Airball / Air Ball": 91.0
+      }
+    },
+    "KXNBAMENTION-26JAN28LALCLE": {
+      "timestamp": "2026-02-11T13:55:37.840221",
+      "vwaps": {
+        "Triple Double": 96.94,
+        "Trade / Trades / Traded": 78.0,
+        "Tech / Technical": 95.0,
+        "Rocket": 78.0,
+        "Retire / Retired / Retirement": 85.0,
+        "Playoff": 19.06,
+        "MVP": 95.82,
+        "Jordan": 23.0,
+        "Injury / Injured": 78.0,
+        "Elbow": 13.06,
+        "Buzzer": 91.0,
+        "Ankle": 22.0,
+        "Alley-oop": 86.51,
+        "All-Star": 13.01,
+        "Airball / Air Ball": 97.0
+      }
+    },
+    "KXNBAMENTION-26JAN24BOSCHI": {
+      "timestamp": "2026-02-11T13:55:38.108123",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26JAN21CLECHA": {
+      "timestamp": "2026-02-11T13:55:38.260797",
+      "vwaps": {
+        "Triple Double": 72.5,
+        "Trade / Trades / Traded": 88.0,
+        "Tech / Technical": 65.57,
+        "Spectrum": 19.44,
+        "Retire / Retired / Retirement": 88.0,
+        "Playoff": 14.0,
+        "MVP": 14.0,
+        "Jordan": 69.09,
+        "Injury / Injured": 11.78,
+        "Elbow": 7.0,
+        "Buzzer": 20.08,
+        "Ankle": 92.69,
+        "Alley-oop": 69.97,
+        "All-Star": 96.92,
+        "Airball / Air Ball": 91.58
+      }
+    },
+    "KXNBAMENTION-26JAN14DENDAL": {
+      "timestamp": "2026-02-11T13:55:38.544634",
+      "vwaps": {
+        "Triple Double": 23.03,
+        "Trade / Trades / Traded": 95.26,
+        "Tech / Technical": 14.44,
+        "Retire / Retirement": 92.07,
+        "Playoff": 87.77,
+        "MVP": 90.41,
+        "Jordan": 82.66,
+        "Injury / Injured": 96.9,
+        "Elbow": 7.68,
+        "Buzzer": 60.75,
+        "Ankle": 84.36,
+        "American Airlines": 92.26,
+        "Alley-oop": 13.71,
+        "All-Star": 91.45,
+        "Airball / Air Ball": 84.91
+      }
+    },
+    "KXNBAMENTION-26JAN07LALSAS": {
+      "timestamp": "2026-02-11T13:55:38.962636",
+      "vwaps": {
+        "Triple Double": 20.23,
+        "Trade / Trades / Traded": 80.92,
+        "Tech / Technical": 17.07,
+        "Retire / Retirement": 32.64,
+        "Playoff": 85.63,
+        "MVP": 93.52,
+        "Jordan": 60.3,
+        "Injury / Injured": 75.27,
+        "Frost Bank": 93.86,
+        "Elbow": 18.56,
+        "Buzzer": 81.54,
+        "Ankle": 13.85,
+        "Alley-oop": 97.49,
+        "All-Star": 78.27,
+        "Airball / Air Ball": 90.03
+      }
+    },
+    "KXNBAMENTION-25DEC25HOULAL": {
+      "timestamp": "2026-02-11T13:55:39.249992",
+      "vwaps": {
+        "King James": 11.12,
+        "All-Star": 95.47,
+        "Triple Double": 82.58,
+        "Trade / Trades / Traded": 83.02,
+        "Tech / Technical": 18.63,
+        "Retire / Retirement": 91.0,
+        "Playoff": 94.95,
+        "MVP": 25.7,
+        "Injury / Injured": 36.78,
+        "Crypto / Crypto.com": 15.96,
+        "Buzzer Beater": 33.53,
+        "Ankle": 17.84,
+        "Alley-oop": 90.24,
+        "Airball / Air Ball": 24.25
+      }
+    },
+    "KXNBAMENTION-25NOV26HOUGSW": {
+      "timestamp": "2026-02-11T13:55:39.476635",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25NOV19NYKDAL": {
+      "timestamp": "2026-02-11T13:55:39.580015",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25NOV12LALOKC": {
+      "timestamp": "2026-02-11T13:55:39.681503",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25NOV05SASLAL": {
+      "timestamp": "2026-02-11T13:55:39.786932",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25OCT29LALMIN": {
+      "timestamp": "2026-02-11T13:55:39.887622",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25OCT23OKCIND": {
+      "timestamp": "2026-02-11T13:55:39.992945",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25OCT22CLENYK": {
+      "timestamp": "2026-02-11T13:55:40.094474",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25OCT12DENLAC": {
+      "timestamp": "2026-02-11T13:55:40.196060",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25OCT05LALGSW": {
+      "timestamp": "2026-02-11T13:55:40.300644",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26FEB11SASGSW": {
+      "timestamp": "2026-02-11T14:00:10.598497",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26FEB07HOUOKC": {
+      "timestamp": "2026-02-11T14:00:10.851651",
+      "vwaps": {
+        "Overtime": 91.86,
+        "Rookie": 41.0,
+        "Paycom": 96.25,
+        "Triple Double": 93.89,
+        "Trade / Trades / Traded": 93.37,
+        "Tech / Technical": 10.14,
+        "Retire / Retired / Retirement": 81.34,
+        "Playoff": 42.0,
+        "MVP": 35.23,
+        "Jordan": 88.49,
+        "Injury / Injured": 90.58,
+        "Elbow": 81.78,
+        "Draft": 34.44,
+        "Crowd / Crowded": 26.56,
+        "Buzzer": 95.0,
+        "Ankle": 95.94,
+        "Alley-oop": 30.26,
+        "Airball / Airballs / Airballed": 96.54
+      }
+    },
+    "KXNBAMENTION-26FEB04DENNYK": {
+      "timestamp": "2026-02-11T14:00:11.195577",
+      "vwaps": {
+        "MSG / Madison Square Garden": 85.0,
+        "Triple Double": 96.0,
+        "Trade / Trades / Traded": 93.0,
+        "Tech / Technical": 11.0,
+        "Retire / Retired / Retirement": 70.0,
+        "Playoff": 92.0,
+        "MVP": 96.0,
+        "Jordan": 94.0,
+        "Injury / Injured": 88.0,
+        "Elbow": 96.0,
+        "Draft": 95.0,
+        "Crowd / Crowded": 96.0,
+        "Buzzer": 94.0,
+        "Ankle": 92.0,
+        "Alley-oop": 93.0,
+        "Airball / Airballs / Airballed": 97.0
+      }
+    },
+    "KXNBAMENTION-26JAN28SASHOU": {
+      "timestamp": "2026-02-11T14:00:11.605880",
+      "vwaps": {
+        "Triple Double": 7.61,
+        "Trade / Trades / Traded": 87.45,
+        "Toyota": 86.25,
+        "Tech / Technical": 6.03,
+        "Retire / Retired / Retirement": 93.51,
+        "Playoff": 91.8,
+        "MVP": 95.34,
+        "Jordan": 96.95,
+        "Injury / Injured": 96.51,
+        "Elbow": 90.03,
+        "Buzzer": 7.88,
+        "Ankle": 91.71,
+        "Alley-oop": 10.02,
+        "All-Star": 8.71,
+        "Airball / Air Ball": 13.04
+      }
+    },
+    "KXNBAMENTION-26JAN21OKCMIL": {
+      "timestamp": "2026-02-11T14:00:11.878510",
+      "vwaps": {
+        "Triple Double": 89.13,
+        "Trade / Trades / Traded": 90.98,
+        "Tech / Technical": 9.96,
+        "Retire / Retired / Retirement": 96.82,
+        "Playoff": 78.73,
+        "MVP": 4.73,
+        "Jordan": 11.58,
+        "Injury / Injured": 79.16,
+        "Fiserv": 83.98,
+        "Elbow": 94.85,
+        "Buzzer": 80.24,
+        "Ankle": 95.81,
+        "Alley-oop": 67.96,
+        "All-Star": 91.05,
+        "Airball / Air Ball": 91.24
+      }
+    },
+    "KXNBAMENTION-26JAN16MINHOU": {
+      "timestamp": "2026-02-11T14:00:12.179349",
+      "vwaps": {
+        "Triple Double": 95.99,
+        "Trade / Trades / Traded": 92.38,
+        "Toyota": 91.88,
+        "Tech / Technical": 83.66,
+        "Retire / Retirement": 91.35,
+        "Playoff": 90.72,
+        "MVP": 10.93,
+        "Jordan": 94.23,
+        "Injury / Injured": 17.67,
+        "Elbow": 7.38,
+        "Buzzer": 79.07,
+        "Ankle": 86.23,
+        "Alley-oop": 84.17,
+        "All-Star": 13.75,
+        "Airball / Air Ball": 28.01
+      }
+    },
+    "KXNBAMENTION-26JAN07DENBOS": {
+      "timestamp": "2026-02-11T14:00:12.454922",
+      "vwaps": {
+        "Triple Double": 15.5,
+        "Trade / Trades / Traded": 18.4,
+        "Tech / Technical": 86.64,
+        "TD Garden": 96.66,
+        "Retire / Retirement": 92.57,
+        "Playoff": 8.16,
+        "MVP": 88.43,
+        "Jordan": 94.99,
+        "Injury / Injured": 94.93,
+        "Elbow": 93.7,
+        "Buzzer": 84.44,
+        "Ankle": 95.55,
+        "Alley-oop": 8.06,
+        "All-Star": 73.97,
+        "Airball / Air Ball": 19.84
+      }
+    },
+    "KXNBAMENTION-25DEC25DALGSW": {
+      "timestamp": "2026-02-11T14:00:12.804510",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25NOV26MINOKC": {
+      "timestamp": "2026-02-11T14:00:13.032065",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25NOV12ORLNYK": {
+      "timestamp": "2026-02-11T14:00:13.145065",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25NOV05MINNYK": {
+      "timestamp": "2026-02-11T14:00:13.256345",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25OCT29CLEBOS": {
+      "timestamp": "2026-02-11T14:00:13.449612",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25OCT23DENGSW": {
+      "timestamp": "2026-02-11T14:00:13.557502",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25OCT15DALLAL": {
+      "timestamp": "2026-02-11T14:00:13.696076",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26FEB12DALLAL": {
+      "timestamp": "2026-02-12T13:59:07.517647",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26FEB06NYKDET": {
+      "timestamp": "2026-02-12T13:59:07.792367",
+      "vwaps": {
+        "Triple Double": 16.17,
+        "Overtime": 86.8,
+        "Buzzer": 69.83,
+        "Playoff": 82.98,
+        "Crowd / Crowded": 94.85,
+        "Elbow": 73.4,
+        "MVP": 75.92,
+        "Draft": 91.0,
+        "Ankle": 85.97,
+        "Injury / Injured": 96.79,
+        "Trade / Trades / Traded": 86.13,
+        "Little Caesars": 33.42,
+        "Alley-oop": 25.24,
+        "Retire / Retired / Retirement": 10.14,
+        "Rookie": 96.0,
+        "Airball / Airballs / Airballed": 65.74,
+        "Tech / Technical": 79.78,
+        "Jordan": 91.51
+      }
+    },
+    "KXNBAMENTION-26JAN29OKCMIN": {
+      "timestamp": "2026-02-12T13:59:08.154872",
+      "vwaps": {
+        "Tech / Technical": 87.04,
+        "Retire / Retired / Retirement": 12.42,
+        "Trade / Trades / Traded": 88.31,
+        "Buzzer": 71.33,
+        "Target": 87.93,
+        "Playoff": 73.92,
+        "Triple Double": 19.4,
+        "Jordan": 72.63,
+        "MVP": 93.37,
+        "All-Star": 90.95,
+        "Elbow": 84.71,
+        "Injury / Injured": 94.76,
+        "Ankle": 29.19,
+        "Alley-oop": 20.7,
+        "Airball / Air Ball": 60.81
+      }
+    },
+    "KXNBAMENTION-26JAN22GSWDAL": {
+      "timestamp": "2026-02-12T13:59:08.508910",
+      "vwaps": {
+        "Ankle": 95.0,
+        "Alley-oop": 13.21,
+        "Jordan": 23.99,
+        "Tech / Technical": 86.94,
+        "Injury / Injured": 97.87,
+        "Triple Double": 13.01,
+        "Retire / Retired / Retirement": 14.89,
+        "Buzzer": 9.02,
+        "Playoff": 90.04,
+        "MVP": 14.65,
+        "American Airlines": 92.97,
+        "All-Star": 92.98,
+        "Trade / Trades / Traded": 90.95,
+        "Elbow": 11.54,
+        "Airball / Air Ball": 74.75
+      }
+    },
+    "KXNBAMENTION-26JAN15NYKGSW": {
+      "timestamp": "2026-02-12T13:59:08.858141",
+      "vwaps": {
+        "Chase": 96.3,
+        "Jordan": 95.24,
+        "Ankle": 89.61,
+        "Retire / Retirement": 9.98,
+        "Trade / Trades / Traded": 93.92,
+        "Playoff": 7.51,
+        "Buzzer": 23.83,
+        "Tech / Technical": 82.98,
+        "MVP": 27.53,
+        "Triple Double": 26.68,
+        "All-Star": 8.57,
+        "Airball / Air Ball": 30.15,
+        "Alley-oop": 11.52,
+        "Injury / Injured": 96.95,
+        "Elbow": 85.3
+      }
+    },
+    "KXNBAMENTION-26JAN02DENCLE": {
+      "timestamp": "2026-02-12T13:59:09.241681",
+      "vwaps": {
+        "Tech / Technical": 92.73,
+        "Airball / Air Ball": 93.02,
+        "Injury / Injured": 97.65,
+        "Triple Double": 21.43,
+        "MVP": 10.0,
+        "Trade / Trades / Traded": 3.44,
+        "Alley-oop": 12.74,
+        "All-Star": 95.81,
+        "Ankle": 5.95,
+        "Buzzer Beater": 6.19,
+        "Retire / Retirement": 5.05,
+        "Playoff": 9.07,
+        "Rocket": 37.38
+      }
+    },
+    "KXNBAMENTION-25DEC26PHICHI": {
+      "timestamp": "2026-02-12T13:59:09.585973",
+      "vwaps": {
+        "Retire / Retirement": 13.0,
+        "Ankle": 11.0,
+        "Alley-oop": 12.97,
+        "Airball / Air Ball": 93.0,
+        "Injury / Injured": 95.0,
+        "Tech / Technical": 4.0,
+        "Playoff": 90.0,
+        "Triple Double": 92.0,
+        "Buzzer Beater": 4.98,
+        "MVP": 90.04,
+        "Trade / Trades / Traded": 95.0,
+        "United": 95.0,
+        "All-Star": 91.0
+      }
+    },
+    "KXNBAMENTION-25DEC19PHINYK": {
+      "timestamp": "2026-02-12T13:59:09.929558",
+      "vwaps": {
+        "Injury / Injured": 97.14,
+        "Spike Lee": 89.31,
+        "Ankle": 90.34,
+        "Retire / Retirement": 6.0,
+        "Trade / Trades / Traded": 6.35,
+        "MVP": 92.42,
+        "Airball / Air Ball": 93.28,
+        "MSG / Madison Square Garden": 96.28,
+        "Buzzer Beater": 5.05,
+        "Playoff": 90.21,
+        "Triple Double": 7.11
+      }
+    },
+    "KXNBAMENTION-25DEC16SASNYK": {
+      "timestamp": "2026-02-12T13:59:10.161800",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25DEC13NYKORL": {
+      "timestamp": "2026-02-12T13:59:10.386601",
+      "vwaps": {
+        "Triple Double": 6.28,
+        "Injury / Injured": 95.96,
+        "Airball / Air Ball": 93.94,
+        "Ankle": 94.11,
+        "Buzzer Beater": 6.85,
+        "Kia": 18.16,
+        "Trade / Trades / Traded": 8.39,
+        "MVP": 77.64,
+        "Retire / Retirement": 6.61,
+        "Playoff": 93.01,
+        "Disney": 9.63
+      }
+    },
+    "KXNBAMENTION-25DEC10SASLAL": {
+      "timestamp": "2026-02-12T13:59:10.731372",
+      "vwaps": {
+        "King James": 7.14,
+        "MVP": 10.07,
+        "Record": 98.21,
+        "Airball / Air Ball": 97.3,
+        "Crypto / Crypto.com": 86.78,
+        "Trade / Trades / Traded": 96.35,
+        "10 Point / Double Digit": 96.19,
+        "Retire / Retirement": 7.51,
+        "Buzzer Beater": 4.32,
+        "Ankle": 96.04,
+        "Triple Double": 92.14,
+        "Injury / Injured": 97.47
+      }
+    },
+    "KXNBAMENTION-25DEC05LALBOS": {
+      "timestamp": "2026-02-12T13:59:11.073147",
+      "vwaps": {
+        "Poster / Posterized": 6.7,
+        "Record": 95.09,
+        "Injury / Injured": 96.05,
+        "MVP": 94.07,
+        "10 Point / Double Digit": 96.0,
+        "Retire / Retirement": 24.01,
+        "Buzzer Beater": 74.65,
+        "King James": 7.79,
+        "Airball / Air Ball": 89.1,
+        "Garden": 95.03,
+        "Triple Double": 2.67,
+        "Nike": 5.0,
+        "Trade / Trades": 2.16,
+        "Ankle": 5.8
+      }
+    },
+    "KXNBAMENTION-25NOV28MILNYK": {
+      "timestamp": "2026-02-12T13:59:11.302059",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25NOV21DENHOU": {
+      "timestamp": "2026-02-12T13:59:11.409687",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25NOV14MIANYK": {
+      "timestamp": "2026-02-12T13:59:11.513887",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25NOV07HOUSAS": {
+      "timestamp": "2026-02-12T13:59:11.616661",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25OCT31BOSPHI": {
+      "timestamp": "2026-02-12T13:59:11.733405",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25OCT24BOSNYK": {
+      "timestamp": "2026-02-12T13:59:11.834025",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26FEB09MILORL": {
+      "timestamp": "2026-02-12T13:59:22.251245",
+      "vwaps": {
+        "Buzzer": 35.0,
+        "Tech / Technical": 85.0,
+        "MVP": 73.0,
+        "Injury / Injured": 96.0,
+        "Playoff": 35.0,
+        "Kia": 91.0,
+        "Rookie": 93.0,
+        "Alley-oop": 89.0,
+        "Trade / Trades / Traded": 89.0,
+        "Elbow": 91.0,
+        "Triple Double": 24.0,
+        "All-Star": 96.0,
+        "Retire / Retirement": 15.0,
+        "Jordan": 92.0,
+        "Overtime": 14.0,
+        "Airball / Air Ball": 83.0,
+        "Ankle": 51.0
+      }
+    },
+    "KXNBAMENTION-26FEB12MILOKC": {
+      "timestamp": "2026-02-19T18:49:11.898062",
+      "vwaps": {
+        "Rookie": 90.56,
+        "Paycom": 93.69,
+        "Injury / Injured": 96.73,
+        "Elbow": 78.04,
+        "Jordan": 11.86,
+        "Overtime": 11.01,
+        "MVP": 94.14,
+        "Retire / Retired / Retirement": 55.67,
+        "Buzzer": 49.55,
+        "Airball / Airballs / Airballed": 60.06,
+        "Triple Double": 59.79,
+        "Crowd / Crowded": 92.67,
+        "Playoff": 13.38,
+        "Trade / Trades / Traded": 95.33,
+        "Draft": 89.75,
+        "Tech / Technical": 32.83,
+        "Alley-oop": 77.68,
+        "Ankle": 73.94
+      }
+    },
+    "KXNBAMENTION-26FEB22BOSLAL": {
+      "timestamp": "2026-02-23T15:37:32.913875",
+      "vwaps": {
+        "Rookie": 94.93,
+        "Tech / Technical": 80.93,
+        "Overtime": 27.98,
+        "Injury / Injured": 94.7,
+        "Ankle": 32.16,
+        "Draft": 20.28,
+        "Alley-oop": 42.02,
+        "Jordan": 63.28,
+        "Retire / Retired / Retirement": 22.96,
+        "Crowd / Crowded": 94.64,
+        "Trade / Trades / Traded": 82.99,
+        "Buzzer": 59.24,
+        "Elbow": 86.97,
+        "MVP": 75.99,
+        "Triple Double": 79.19,
+        "Playoff": 95.0,
+        "Airball / Airballs / Airballed": 79.87,
+        "Crypto / Crypto.com": 90.98
+      }
+    },
+    "KXNBAMENTION-26FEB09OKCLAL": {
+      "timestamp": "2026-02-23T15:37:33.319490",
+      "vwaps": {
+        "Tech / Technical": 81.46,
+        "Overtime": 25.61,
+        "Ankle": 20.67,
+        "Elbow": 93.79,
+        "Crypto / Crypto.com": 94.97,
+        "Alley-oop": 90.74,
+        "Playoff": 92.22,
+        "Rookie": 92.31,
+        "Trade / Trades / Traded": 96.19,
+        "Buzzer": 29.5,
+        "Jordan": 78.73,
+        "Triple Double": 74.87,
+        "Retire / Retirement": 54.49,
+        "All-Star": 96.13,
+        "Injury / Injured": 98.0,
+        "Airball / Air Ball": 90.06,
+        "MVP": 83.01
+      }
+    },
+    "KXNBAMENTION-26FEB23UTAHOU": {
+      "timestamp": "2026-02-23T15:38:09.704440",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26JAN26ORLCLE": {
+      "timestamp": "2026-02-23T15:38:09.996440",
+      "vwaps": {
+        "Playoff": 95.81,
+        "Alley-oop": 82.39,
+        "Jordan": 90.3,
+        "Buzzer": 60.96,
+        "Trade / Trades / Traded": 92.97,
+        "Rocket": 95.96,
+        "Tech / Technical": 83.52,
+        "Ankle": 94.69,
+        "MVP": 15.42,
+        "Injury / Injured": 95.52,
+        "Airball / Air Ball": 5.95,
+        "All-Star": 95.68,
+        "Retire / Retired / Retirement": 10.56,
+        "Elbow": 26.19,
+        "Triple Double": 5.26
+      }
+    },
+    "KXNBAMENTION-26FEB19BOSGSW": {
+      "timestamp": "2026-02-23T15:39:05.694799",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26FEB20DALMIN": {
+      "timestamp": "2026-02-25T17:39:01.546611",
+      "vwaps": {
+        "Target": 89.0,
+        "Playoff": 13.44,
+        "Tech / Technical": 84.81,
+        "Buzzer": 71.98,
+        "Retire / Retired / Retirement": 10.24,
+        "Trade / Trades / Traded": 90.98,
+        "MVP": 87.75,
+        "Crowd / Crowded": 92.7,
+        "Triple Double": 15.56,
+        "Jordan": 80.9,
+        "Airball / Airballs / Airballed": 10.19,
+        "Elbow": 88.81,
+        "Draft": 39.99,
+        "Overtime": 7.71,
+        "Alley-oop": 63.82,
+        "Rookie": 93.39,
+        "Ankle": 84.26,
+        "Injury / Injured": 95.33
+      }
+    },
+    "KXNBAMENTION-26FEB08LACMIN": {
+      "timestamp": "2026-02-25T17:39:03.210688",
+      "vwaps": {
+        "Draft": 95.0,
+        "Ankle": 6.05,
+        "Airball / Airballs / Airballed": 17.16,
+        "Trade / Trades / Traded": 96.59,
+        "Injury / Injured": 97.52,
+        "Playoff": 90.0,
+        "Elbow": 90.96,
+        "Triple Double": 20.81,
+        "Jordan": 96.35,
+        "Crowd / Crowded": 84.19,
+        "Tech / Technical": 82.99,
+        "Retire / Retired / Retirement": 9.3,
+        "Buzzer": 76.44,
+        "MVP": 82.0,
+        "Alley-oop": 12.01
+      }
+    },
+    "KXNBAMENTION-26FEB01MILBOS": {
+      "timestamp": "2026-02-25T17:39:04.741813",
+      "vwaps": {
+        "All-Star": 37.32,
+        "Retire / Retired / Retirement": 14.47,
+        "TD Garden": 42.19,
+        "Alley-oop": 20.11,
+        "Trade / Trades / Traded": 93.85,
+        "Triple Double": 10.0,
+        "Ankle": 20.0,
+        "Tech / Technical": 83.0,
+        "Injury / Injured": 96.67,
+        "MVP": 89.89,
+        "Playoff": 91.53,
+        "Airball / Air Ball": 15.0,
+        "Jordan": 92.85,
+        "Buzzer": 70.38,
+        "Elbow": 92.0
+      }
+    },
+    "KXNBAMENTION-26JAN30TORORL": {
+      "timestamp": "2026-02-25T17:39:05.722455",
+      "vwaps": {
+        "Airball / Air Ball": 25.6,
+        "Playoff": 92.0,
+        "Kia": 88.63,
+        "Buzzer": 61.12,
+        "Elbow": 92.58,
+        "Jordan": 31.2,
+        "All-Star": 93.94,
+        "Triple Double": 18.0,
+        "Retire / Retired / Retirement": 12.04,
+        "Trade / Trades / Traded": 91.8,
+        "Alley-oop": 80.0,
+        "Ankle": 40.0,
+        "MVP": 35.12,
+        "Injury / Injured": 96.91,
+        "Tech / Technical": 85.0
+      }
+    },
+    "KXNBAMENTION-26JAN24LALDAL": {
+      "timestamp": "2026-02-25T17:39:07.217944",
+      "vwaps": {
+        "Tech / Technical": 6.04,
+        "Buzzer": 54.77,
+        "Elbow": 97.02,
+        "MVP": 95.96,
+        "Ankle": 90.4,
+        "Trade / Trades / Traded": 95.68,
+        "Triple Double": 84.98,
+        "Playoff": 84.17,
+        "American Airlines": 81.95,
+        "Airball / Air Ball": 18.18,
+        "Injury / Injured": 97.1,
+        "All-Star": 89.17,
+        "Alley-oop": 84.2,
+        "Retire / Retired / Retirement": 7.41,
+        "Jordan": 11.54
+      }
+    },
+    "KXNBAMENTION-26JAN14CLEPHI": {
+      "timestamp": "2026-02-25T17:39:08.130678",
+      "vwaps": {
+        "Elbow": 80.88,
+        "Xfinity": 30.86,
+        "Tech / Technical": 9.11,
+        "Alley-oop": 17.2,
+        "Buzzer": 63.39,
+        "MVP": 88.78,
+        "Trade / Trades / Traded": 71.85,
+        "Playoff": 85.0,
+        "Triple Double": 21.02,
+        "Retire / Retirement": 9.98,
+        "Jordan": 25.02,
+        "Injury / Injured": 94.97,
+        "Ankle": 7.05,
+        "All-Star": 93.86,
+        "Airball / Air Ball": 22.13
+      }
+    },
+    "KXNBAMENTION-25DEC25SASOKC": {
+      "timestamp": "2026-02-25T17:39:09.440249",
+      "vwaps": {
+        "Triple Double": 23.25,
+        "Tech / Technical": 83.98,
+        "Ankle": 25.39,
+        "Trade / Trades / Traded": 86.68,
+        "All-Star": 94.86,
+        "Injury / Injured": 90.03,
+        "Playoff": 94.65,
+        "MVP": 94.27,
+        "Airball / Air Ball": 32.8,
+        "Retire / Retirement": 12.07,
+        "Alley-oop": 79.81,
+        "Buzzer Beater": 9.95,
+        "Paycom": 95.07
+      }
+    },
+    "KXNBAMENTION-25NOV26DETBOS": {
+      "timestamp": "2026-02-25T17:39:09.842695",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25NOV19GSWMIA": {
+      "timestamp": "2026-02-25T17:39:10.092892",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25OCT16HOUATL": {
+      "timestamp": "2026-02-25T17:39:10.456761",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25OCT12CLEBOS": {
+      "timestamp": "2026-02-25T17:39:10.867197",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26FEB19DETNYK": {
+      "timestamp": "2026-02-26T12:27:58.527054",
+      "vwaps": {
+        "Injury / Injured": 91.25,
+        "Crowd / Crowded": 87.1,
+        "Triple Double": 22.17,
+        "Rookie": 88.87,
+        "MSG / Madison Square Garden": 92.48,
+        "Tech / Technical": 34.39,
+        "Elbow": 77.37,
+        "Trade / Trades / Traded": 35.4,
+        "Airball / Airballs / Airballed": 70.51,
+        "Buzzer": 35.61,
+        "Retire / Retired / Retirement": 54.56,
+        "Alley-oop": 23.95,
+        "Draft": 22.06,
+        "Ankle": 74.7,
+        "MVP": 71.04,
+        "Jordan": 74.36,
+        "Overtime": 18.13,
+        "Playoff": 93.63
+      }
+    },
+    "KXNBAMENTION-26FEB23SASDET": {
+      "timestamp": "2026-02-26T12:45:32.278964",
+      "vwaps": {
+        "Rookie": 95.8,
+        "Injury / Injured": 95.82,
+        "Retire / Retired / Retirement": 12.18,
+        "Ankle": 14.2,
+        "MVP": 90.73,
+        "Overtime": 13.52,
+        "Elbow": 23.1,
+        "Jordan": 40.56,
+        "Crowd / Crowded": 96.83,
+        "Trade / Trades / Traded": 70.05,
+        "Airball / Airballs / Airballed": 80.68,
+        "Draft": 12.2,
+        "Playoff": 89.82,
+        "Triple Double": 31.04,
+        "Alley-oop": 16.15,
+        "Buzzer": 19.91,
+        "Tech / Technical": 82.65
+      }
+    },
+    "KXNBAMENTION-26FEB22CLEOKC": {
+      "timestamp": "2026-02-27T12:32:47.858670",
+      "vwaps": {
+        "Crowd / Crowded": 40.51,
+        "Playoff": 31.19,
+        "Airball / Airballs / Airballed": 59.82,
+        "Buzzer": 30.3,
+        "Rookie": 94.94,
+        "Ankle": 81.96,
+        "Tech / Technical": 66.99,
+        "Injury / Injured": 95.02,
+        "MVP": 91.64,
+        "Draft": 71.99,
+        "Elbow": 91.33,
+        "Overtime": 78.89,
+        "Retire / Retired / Retirement": 9.95,
+        "Alley-oop": 34.24,
+        "Jordan": 19.77,
+        "Paycom": 51.0,
+        "Triple Double": 17.23,
+        "Trade / Trades / Traded": 91.97
+      }
+    },
+    "KXNBAMENTION-26FEB08NYKBOS": {
+      "timestamp": "2026-02-27T12:32:48.274599",
+      "vwaps": {
+        "Tech / Technical": 70.0,
+        "Crowd / Crowded": 95.35,
+        "MVP": 41.21,
+        "Draft": 98.0,
+        "Trade / Trades / Traded": 91.05,
+        "Buzzer": 31.09,
+        "Alley-oop": 23.46,
+        "Playoff": 95.12,
+        "Airball / Airballs / Airballed": 26.01,
+        "Jordan": 94.5,
+        "Elbow": 87.27,
+        "Ankle": 93.88,
+        "Injury / Injured": 97.69,
+        "Triple Double": 88.68,
+        "Retire / Retired / Retirement": 13.42
+      }
+    },
+    "KXNBAMENTION-26JAN30DETGSW": {
+      "timestamp": "2026-02-27T12:32:48.675306",
+      "vwaps": {
+        "Injury / Injured": 96.06,
+        "Trade / Trades / Traded": 90.75,
+        "Alley-oop": 27.36,
+        "Buzzer": 23.73,
+        "All-Star": 95.79,
+        "Elbow": 55.8,
+        "Jordan": 26.56,
+        "Triple Double": 14.89,
+        "Playoff": 95.9,
+        "Airball / Air Ball": 28.45,
+        "MVP": 29.34,
+        "Retire / Retired / Retirement": 17.38,
+        "Ankle": 41.63,
+        "Chase": 20.47,
+        "Tech / Technical": 94.71
+      }
+    },
+    "KXNBAMENTION-26JAN24NYKPHI": {
+      "timestamp": "2026-02-27T12:32:49.063400",
+      "vwaps": {
+        "Xfinity": 4.56,
+        "Tech / Technical": 8.12,
+        "Retire / Retired / Retirement": 12.68,
+        "Jordan": 43.65,
+        "Trade / Trades / Traded": 14.57,
+        "Buzzer": 10.57,
+        "Elbow": 88.88,
+        "Ankle": 11.27,
+        "Airball / Air Ball": 12.28,
+        "Triple Double": 90.81,
+        "MVP": 9.0,
+        "All-Star": 96.8,
+        "Alley-oop": 13.47,
+        "Playoff": 11.7,
+        "Injury / Injured": 96.94
+      }
+    },
+    "KXNBAMENTION-26JAN16CLEPHI": {
+      "timestamp": "2026-02-27T12:32:49.502579",
+      "vwaps": {
+        "Airball / Air Ball": 75.94,
+        "Buzzer": 15.24,
+        "Xfinity": 89.74,
+        "Jordan": 94.99,
+        "Triple Double": 14.08,
+        "Retire / Retirement": 5.19,
+        "Ankle": 7.06,
+        "All-Star": 92.29,
+        "Tech / Technical": 8.03,
+        "Injury / Injured": 94.98,
+        "MVP": 89.96,
+        "Trade / Trades / Traded": 94.89,
+        "Elbow": 83.92,
+        "Alley-oop": 6.33,
+        "Playoff": 94.68
+      }
+    },
+    "KXNBAMENTION-25DEC25CLENYK": {
+      "timestamp": "2026-02-27T12:32:49.890738",
+      "vwaps": {
+        "Tech / Technical": 90.2,
+        "MSG / Madison Square Garden": 95.87,
+        "All-Star": 93.88,
+        "MVP": 91.68,
+        "Buzzer Beater": 7.84,
+        "Injury / Injured": 97.18,
+        "Trade / Trades / Traded": 78.69,
+        "Triple Double": 17.07,
+        "Playoff": 95.53,
+        "Retire / Retirement": 7.5,
+        "Airball / Air Ball": 88.77,
+        "Ankle": 88.55,
+        "Alley-oop": 18.59
+      }
+    },
+    "KXNBAMENTION-25NOV08PHXLAC": {
+      "timestamp": "2026-02-27T12:32:50.131255",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25OCT22SASDAL": {
+      "timestamp": "2026-02-27T12:32:50.248892",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26FEB22DENGSW": {
+      "timestamp": "2026-02-28T10:29:35.187029",
+      "vwaps": {
+        "Airball / Airballs / Airballed": 73.54,
+        "Tech / Technical": 83.99,
+        "Overtime": 21.1,
+        "Crowd / Crowded": 89.77,
+        "Rookie": 93.96,
+        "MVP": 89.74,
+        "Triple Double": 83.86,
+        "Buzzer": 19.86,
+        "Draft": 29.0,
+        "Playoff": 82.0,
+        "Elbow": 37.27,
+        "Retire / Retired / Retirement": 12.06,
+        "Chase": 75.49,
+        "Trade / Trades / Traded": 82.96,
+        "Ankle": 91.61,
+        "Alley-oop": 24.46,
+        "Jordan": 6.55,
+        "Injury / Injured": 95.85
+      }
+    },
+    "KXNBAMENTION-26FEB20LACLAL": {
+      "timestamp": "2026-02-28T10:29:35.419345",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26MAR03PHXSAC": {
+      "timestamp": "2026-03-03T15:32:04.470133",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26MAR02LACGSW": {
+      "timestamp": "2026-03-03T15:32:04.574448",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26FEB24NYKCLE": {
+      "timestamp": "2026-03-03T15:32:04.815638",
+      "vwaps": {
+        "Rookie": 83.6,
+        "Draft": 40.03,
+        "Tech / Technical": 84.82,
+        "Trade / Trades / Traded": 93.49,
+        "Elbow": 88.35,
+        "Overtime": 20.2,
+        "Retire / Retired / Retirement": 12.56,
+        "Jordan": 74.01,
+        "Rocket": 96.0,
+        "Injury / Injured": 95.03,
+        "MVP": 82.69,
+        "Airball / Airballs / Airballed": 40.22,
+        "Alley-oop": 43.08,
+        "Buzzer": 72.08,
+        "Playoff": 87.74,
+        "Ankle": 91.78,
+        "Triple Double": 87.15,
+        "Crowd / Crowded": 90.96
+      }
+    },
+    "KXNBAMENTION-26FEB28LALGSW": {
+      "timestamp": "2026-03-04T12:45:52.189792",
+      "vwaps": {
+        "Chase": 81.87,
+        "Trade / Trades / Traded": 70.0,
+        "Rookie": 92.62,
+        "Draft / Drafted": 90.0,
+        "Airball / Airballs / Airballed": 88.94,
+        "Retire / Retired / Retirement": 19.05,
+        "Buzzer": 41.19,
+        "Injury / Injured": 95.66,
+        "Overtime": 13.0,
+        "Playoff": 32.1,
+        "MVP": 30.56,
+        "Alley-oop": 47.31,
+        "Tech / Technical": 39.13,
+        "Triple Double": 39.43,
+        "Elbow": 38.41,
+        "Jordan": 26.0,
+        "Crowd / Crowded": 94.83,
+        "Ankle": 30.0
+      }
+    },
+    "KXNBAMENTION-26FEB21HOUNYK": {
+      "timestamp": "2026-03-04T12:45:52.563393",
+      "vwaps": {
+        "Rookie": 91.82,
+        "Crowd / Crowded": 96.82,
+        "Playoff": 55.27,
+        "Draft": 30.0,
+        "Overtime": 16.05,
+        "Ankle": 82.61,
+        "Airball / Airballs / Airballed": 85.8,
+        "Injury / Injured": 94.73,
+        "MVP": 30.02,
+        "Triple Double": 27.08,
+        "Retire / Retired / Retirement": 27.95,
+        "Tech / Technical": 77.99,
+        "Elbow": 88.63,
+        "Buzzer": 63.56,
+        "Alley-oop": 62.6,
+        "Jordan": 65.88,
+        "Trade / Trades / Traded": 76.0
+      }
+    },
+    "KXNBAMENTION-26FEB11NYKPHI": {
+      "timestamp": "2026-03-04T12:45:52.919964",
+      "vwaps": {
+        "Jordan": 88.89,
+        "MVP": 81.26,
+        "Trade / Trades / Traded": 29.56,
+        "Crowd / Crowded": 92.81,
+        "Injury / Injured": 94.0,
+        "Tech / Technical": 79.98,
+        "Airball / Airballs / Airballed": 68.62,
+        "Playoff": 87.9,
+        "Draft": 43.73,
+        "Retire / Retired / Retirement": 40.41,
+        "Alley-oop": 79.9,
+        "Ankle": 40.29,
+        "Elbow": 18.15,
+        "Overtime": 86.96,
+        "Xfinity": 49.73,
+        "Buzzer": 27.8,
+        "Triple Double": 82.63,
+        "Rookie": 92.77
+      }
+    },
+    "KXNBAMENTION-26MAR01SASNYK": {
+      "timestamp": "2026-03-04T12:49:37.833219",
+      "vwaps": {
+        "Alley-oop": 20.76,
+        "Overtime": 75.24,
+        "Buzzer": 17.72,
+        "Triple Double": 62.95,
+        "Elbow": 19.07,
+        "Crowd / Crowded": 90.9,
+        "Jordan": 33.47,
+        "Ankle": 23.16,
+        "Tech / Technical": 24.0,
+        "Airball / Airballs / Airballed": 82.7,
+        "Playoff": 89.27,
+        "Trade / Trades / Traded": 45.12,
+        "Rookie": 92.5,
+        "Retire / Retired / Retirement": 9.02,
+        "MSG / Madison Square Garden": 90.14,
+        "MVP": 90.42,
+        "Injury / Injured": 96.79,
+        "Draft / Drafted": 77.84
+      }
+    },
+    "KXNBAMENTION-26FEB27CLEDET": {
+      "timestamp": "2026-03-04T12:49:38.199279",
+      "vwaps": {
+        "Ankle": 32.42,
+        "Elbow": 68.02,
+        "Little Caesars": 70.0,
+        "Draft / Drafted": 35.85,
+        "Jordan": 30.09,
+        "Trade / Trades / Traded": 94.17,
+        "Tech / Technical": 41.75,
+        "Playoff": 90.22,
+        "Retire / Retired / Retirement": 10.12,
+        "Triple Double": 67.38,
+        "Overtime": 47.49,
+        "Injury / Injured": 95.75,
+        "Buzzer": 28.99,
+        "Airball / Airballs / Airballed": 38.51,
+        "Rookie": 68.39,
+        "MVP": 92.23,
+        "Alley-oop": 20.32,
+        "Crowd / Crowded": 92.77
+      }
+    },
+    "KXNBAMENTION-26FEB25OKCDET": {
+      "timestamp": "2026-03-04T12:49:38.545168",
+      "vwaps": {
+        "Ankle": 85.9,
+        "Draft": 25.04,
+        "Alley-oop": 26.22,
+        "MVP": 93.28,
+        "Jordan": 21.32,
+        "Airball / Airballs / Airballed": 74.47,
+        "Retire / Retired / Retirement": 11.03,
+        "Triple Double": 35.29,
+        "Tech / Technical": 36.51,
+        "Playoff": 92.54,
+        "Overtime": 18.61,
+        "Buzzer": 29.09,
+        "Injury / Injured": 96.74,
+        "Crowd / Crowded": 89.92,
+        "Trade / Trades / Traded": 29.14,
+        "Little Caesars": 52.84,
+        "Elbow": 53.26,
+        "Rookie": 93.59
+      }
+    },
+    "KXNBAMENTION-26MAR06DALBOS": {
+      "timestamp": "2026-03-05T14:46:54.338676",
+      "vwaps": {
+        "Jordan": 81.95,
+        "Crowd / Crowded": 79.39,
+        "MVP": 73.25,
+        "Alley-oop": 34.54,
+        "Tech / Technical": 67.55,
+        "Draft / Drafted": 72.0,
+        "Overtime": 26.97,
+        "Ankle": 67.0,
+        "Triple Double": 41.48,
+        "Buzzer": 49.85,
+        "TD Garden": 83.0,
+        "Injury / Injured": 92.22,
+        "Airball / Airballs / Airballed": 32.66,
+        "Rookie": 90.8,
+        "Elbow": 80.1,
+        "Retire / Retired / Retirement": 21.44,
+        "Playoff": 87.05
+      }
+    },
+    "KXNBAMENTION-26FEB25BOSDEN": {
+      "timestamp": "2026-03-05T14:46:54.568819",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26MAR08NYKLAL": {
+      "timestamp": "2026-03-05T14:47:22.897952",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26MAR06LACSAS": {
+      "timestamp": "2026-03-05T14:47:23.014970",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26MAR01MINDEN": {
+      "timestamp": "2026-03-05T14:47:23.263903",
+      "vwaps": {
+        "Ball Arena": 82.91,
+        "Playoff": 89.34,
+        "Elbow": 90.42,
+        "Triple Double": 85.79,
+        "MVP": 91.41,
+        "Retire / Retired / Retirement": 63.29,
+        "Injury / Injured": 94.46,
+        "Airball / Airballs / Airballed": 79.41,
+        "Buzzer": 14.25,
+        "Alley-oop": 6.85,
+        "Tech / Technical": 91.4,
+        "Crowd / Crowded": 77.02,
+        "Rookie": 85.87,
+        "Ankle": 83.81,
+        "Overtime": 74.16,
+        "Jordan": 88.07,
+        "Trade / Trades / Traded": 95.97,
+        "Draft / Drafted": 83.95
+      }
+    },
+    "KXNBAMENTION-26FEB27DENOKC": {
+      "timestamp": "2026-03-05T14:47:23.493033",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26MAR07GSWOKC": {
+      "timestamp": "2026-03-05T14:47:49.626499",
+      "vwaps": {
+        "Airball / Airballs / Airballed": 69.0,
+        "Buzzer": 49.0,
+        "Injury / Injured": 91.0,
+        "MVP": 88.0
+      }
+    },
+    "KXNBAMENTION-26MAR05LALDEN": {
+      "timestamp": "2026-03-05T14:48:14.672817",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26FEB26HOUORL": {
+      "timestamp": "2026-03-05T14:48:14.926470",
+      "vwaps": {
+        "Injury / Injured": 95.73,
+        "Crowd / Crowded": 30.87,
+        "Alley-oop": 19.66,
+        "Playoff": 31.62,
+        "Tech / Technical": 75.77,
+        "Triple Double": 82.43,
+        "Kia": 83.79,
+        "Overtime": 55.21,
+        "Retire / Retired / Retirement": 9.22,
+        "Rookie": 50.19,
+        "MVP": 60.93,
+        "Buzzer": 57.93,
+        "Ankle": 80.12,
+        "Trade / Trades / Traded": 90.33,
+        "Draft": 29.17,
+        "Jordan": 61.83,
+        "Airball / Airballs / Airballed": 68.69,
+        "Elbow": 56.33
+      }
+    },
+    "KXNBAMENTION-26FEB26MINLAC": {
+      "timestamp": "2026-03-05T14:48:37.901041",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26MAR10MINLAL": {
+      "timestamp": "2026-03-10T13:35:32.721514",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26MAR09NYKLAC": {
+      "timestamp": "2026-03-10T13:35:32.829149",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26MAR07ORLMIN": {
+      "timestamp": "2026-03-10T13:35:33.077485",
+      "vwaps": {
+        "Airball / Airballs / Airballed": 60.04,
+        "Draft / Drafted": 67.99,
+        "Playoff": 93.56,
+        "Elbow": 95.78,
+        "Crowd / Crowded": 90.9,
+        "Jordan": 20.2,
+        "Ankle": 29.49,
+        "MVP": 96.91,
+        "Trade / Trades / Traded": 94.98,
+        "Retire / Retired / Retirement": 6.3,
+        "Alley-oop": 9.19,
+        "Triple Double": 28.89,
+        "Tech / Technical": 36.53,
+        "Target Center": 88.33,
+        "Overtime": 66.76,
+        "Rookie": 38.41,
+        "Buzzer": 18.41,
+        "Injury / Injured": 94.58
+      }
+    },
+    "KXNBAMENTION-26MAR05GSWHOU": {
+      "timestamp": "2026-03-10T13:35:33.488429",
+      "vwaps": {
+        "Crowd / Crowded": 91.95,
+        "Alley-oop": 19.73,
+        "Playoff": 91.48,
+        "Toyota": 90.91,
+        "Draft / Drafted": 90.76,
+        "Rookie": 55.22,
+        "Injury / Injured": 95.82,
+        "Trade / Trades / Traded": 95.0,
+        "Jordan": 46.46,
+        "Ankle": 73.04,
+        "Airball / Airballs / Airballed": 78.46,
+        "Elbow": 32.15,
+        "Retire / Retired / Retirement": 11.43,
+        "Overtime": 63.97,
+        "MVP": 38.1,
+        "Triple Double": 35.4,
+        "Buzzer": 19.36,
+        "Tech / Technical": 31.02
+      }
+    },
+    "KXNBAMENTION-26MAR08HOUSAS": {
+      "timestamp": "2026-03-10T13:35:43.752927",
+      "vwaps": {
+        "Jordan": 78.38,
+        "Rookie": 93.97,
+        "Frost Bank": 41.73,
+        "Trade / Trades / Traded": 32.35,
+        "Buzzer": 20.06,
+        "Retire / Retired / Retirement": 17.99,
+        "MVP": 83.1,
+        "Crowd / Crowded": 19.22,
+        "Alley-oop": 67.54,
+        "Draft / Drafted": 86.96,
+        "Overtime": 31.88,
+        "Airball / Airballs / Airballed": 66.01,
+        "Injury / Injured": 93.87,
+        "Playoff": 94.29,
+        "Ankle": 81.59,
+        "Elbow": 86.98,
+        "Triple Double": 32.57,
+        "Tech / Technical": 71.0
+      }
+    },
+    "KXNBAMENTION-26MAR01PHIBOS": {
+      "timestamp": "2026-03-10T13:35:44.133250",
+      "vwaps": {
+        "Tech / Technical": 91.0,
+        "Jordan": 47.42,
+        "Buzzer": 26.9,
+        "Ankle": 77.97,
+        "Overtime": 30.34,
+        "Triple Double": 25.37,
+        "Retire / Retired / Retirement": 14.09,
+        "MVP": 85.22,
+        "Airball / Airballs / Airballed": 40.39,
+        "Injury / Injured": 92.55,
+        "Elbow": 86.96,
+        "Crowd / Crowded": 84.45,
+        "Playoff": 87.22,
+        "Rookie": 93.59,
+        "TD Garden": 86.89,
+        "Alley-oop": 21.36,
+        "Trade / Trades / Traded": 94.97,
+        "Draft / Drafted": 84.92
+      }
+    },
+    "KXNBAMENTION-26FEB01LALNYK": {
+      "timestamp": "2026-03-10T13:35:44.499473",
+      "vwaps": {
+        "MVP": 93.99,
+        "Alley-oop": 37.04,
+        "Tech / Technical": 32.25,
+        "All-Star": 94.9,
+        "MSG / Madison Square Garden": 89.84,
+        "Triple Double": 88.14,
+        "Retire / Retired / Retirement": 30.5,
+        "Trade / Trades / Traded": 94.0,
+        "Injury / Injured": 97.93,
+        "Airball / Air Ball": 49.0,
+        "Elbow": 85.0,
+        "Jordan": 36.12,
+        "Ankle": 88.94,
+        "Buzzer": 33.15,
+        "Playoff": 90.9
+      }
+    },
+    "KXNBAMENTION-26JAN19DALNYK": {
+      "timestamp": "2026-03-10T13:35:44.839939",
+      "vwaps": {
+        "Elbow": 82.0,
+        "Trade / Trades / Traded": 87.0,
+        "Tech / Technical": 93.0,
+        "All-Star": 97.0,
+        "Ankle": 95.0,
+        "Playoff": 86.0,
+        "Triple Double": 9.0,
+        "Airball / Air Ball": 27.0,
+        "Buzzer": 19.0,
+        "MSG / Madison Square Garden": 96.0,
+        "Alley-oop": 8.0,
+        "Retire / Retired / Retirement": 11.0,
+        "Jordan": 94.0,
+        "MVP": 82.0,
+        "Injury / Injured": 98.0
+      }
+    },
+    "KXNBAMENTION-25DEC23DENDAL": {
+      "timestamp": "2026-03-10T13:35:45.210947",
+      "vwaps": {
+        "Trade / Trades / Traded": 92.86,
+        "Ankle": 85.31,
+        "Triple Double": 95.24,
+        "Retire / Retirement": 5.7,
+        "Tech / Technical": 18.18,
+        "Buzzer Beater": 4.59,
+        "Injury / Injured": 96.98,
+        "Playoff": 88.36,
+        "Christmas": 96.99,
+        "Alley-oop": 16.59,
+        "American Airlines": 21.07,
+        "Airball / Air Ball": 95.55,
+        "MVP": 97.37
+      }
+    },
+    "KXNBAMENTION-25DEC02NYKBOS": {
+      "timestamp": "2026-03-10T13:35:45.554198",
+      "vwaps": {
+        "Euro / Eurostep": 28.82,
+        "Ring": 30.64,
+        "Heat Check": 21.88,
+        "Splash": 96.79,
+        "Dunk / Dunks / Dunked": 97.0,
+        "Trade / Traded": 86.0,
+        "Triple Double": 85.11,
+        "Downtown": 84.0,
+        "Bang": 17.23,
+        "Nasty": 12.8,
+        "Poster / Posterized": 24.0,
+        "Charge / Charged": 79.72,
+        "Buzzer Beater": 15.05,
+        "MVP": 85.0,
+        "Challenge / Challenged": 97.0,
+        "Snatch / Snatched": 23.55
+      }
+    },
+    "KXNBAMENTION-25NOV11BOSPHI": {
+      "timestamp": "2026-03-10T13:35:45.777543",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25OCT28NYKMIL": {
+      "timestamp": "2026-03-10T13:35:45.880894",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-25OCT21HOUOKC": {
+      "timestamp": "2026-03-10T13:35:46.000442",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26MAR10BOSSAS": {
+      "timestamp": "2026-03-14T19:08:40.128401",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26MAR11CLEORL": {
+      "timestamp": "2026-03-14T19:09:06.306187",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26MAR14SACLAC": {
+      "timestamp": "2026-03-14T19:10:15.244782",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26MAR08BOSCLE": {
+      "timestamp": "2026-03-14T19:10:44.036262",
+      "vwaps": {}
+    },
+    "KXNBAMENTION-26MAR04OKCNYK": {
+      "timestamp": "2026-03-14T19:10:55.383668",
+      "vwaps": {}
+    }
+  }
+}

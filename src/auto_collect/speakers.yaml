@@ -1,0 +1,355 @@
+# Speaker Registry for Mention Markets
+# Maps speakers to their data sources and collection strategies
+#
+# Strategies:
+#   - youtube_channel: Fetch from a specific YouTube channel
+#   - youtube_search: Search YouTube for videos with speaker
+#   - factbase: Use Factbase API (for politicians on Roll Call)
+#   - web_scrape: Use Firecrawl/Playwright to scrape specific sites
+#   - agent_discover: Let agent figure out how to collect data
+#
+# When a new market is discovered and speaker isn't in this registry,
+# the system falls back to agent_discover mode.
+
+speakers:
+  # ========================================
+  # GOVERNMENT / POLITICS
+  # ========================================
+  
+  bessent:
+    name: "Scott Bessent"
+    aliases: ["Scott Bessent", "Bessent", "Treasury Secretary Bessent"]
+    role: "Treasury Secretary"
+    data_dir: "data-mentions/politics/bessent"
+    strategy: youtube_search
+    youtube_config:
+      search_queries:
+        - "Scott Bessent press briefing"
+        - "Scott Bessent Treasury remarks"
+        - "Scott Bessent interview"
+      prefer_channels:
+        - "C-SPAN"
+        - "Bloomberg Television"
+        - "CNBC"
+    transcript_sources:
+      - "https://home.treasury.gov/news/press-releases"
+    notes: "Treasury Secretary - check official Treasury site for transcripts"
+
+  leavitt:
+    name: "Karoline Leavitt"
+    aliases: ["Karoline Leavitt", "Leavitt", "Press Secretary Leavitt"]
+    role: "White House Press Secretary"
+    data_dir: "data-mentions/politics/leavitt"
+    strategy: youtube_search
+    youtube_config:
+      search_queries:
+        - "Karoline Leavitt press briefing"
+        - "White House press briefing"
+      prefer_channels:
+        - "The White House"
+        - "C-SPAN"
+    transcript_sources:
+      - "https://www.whitehouse.gov/briefing-room/"
+    notes: "Press Secretary - White House YouTube has official uploads"
+
+  vance:
+    name: "JD Vance"
+    aliases: ["JD Vance", "Vance", "Vice President Vance"]
+    role: "Vice President"
+    data_dir: "data-mentions/politics/vance"
+    strategy: factbase
+    factbase_config:
+      person: "vance"
+    youtube_config:
+      search_queries:
+        - "JD Vance remarks"
+        - "JD Vance speech"
+      prefer_channels:
+        - "C-SPAN"
+        - "The White House"
+    notes: "VP Vance - Factbase has good coverage, YouTube as backup"
+
+  aoc:
+    name: "Alexandria Ocasio-Cortez"
+    aliases: ["AOC", "Alexandria Ocasio-Cortez", "Ocasio-Cortez"]
+    role: "Congresswoman"
+    data_dir: "data-mentions/politics/aoc"
+    strategy: youtube_search
+    youtube_config:
+      search_queries:
+        - "AOC press conference"
+        - "Alexandria Ocasio-Cortez speech"
+        - "AOC remarks"
+      prefer_channels:
+        - "C-SPAN"
+    notes: "AOC - check her official YouTube and C-SPAN"
+
+  hochul:
+    name: "Kathy Hochul"
+    aliases: ["Kathy Hochul", "Hochul", "Governor Hochul"]
+    role: "Governor of New York"
+    data_dir: "data-mentions/politics/hochul"
+    strategy: youtube_search
+    youtube_config:
+      search_queries:
+        - "Kathy Hochul budget address"
+        - "Governor Hochul remarks"
+      prefer_channels:
+        - "New York State"
+    transcript_sources:
+      - "https://www.governor.ny.gov/"
+    notes: "NY Governor - state website has transcripts"
+
+  starmer:
+    name: "Keir Starmer"
+    aliases: ["Keir Starmer", "Starmer", "Prime Minister Starmer"]
+    role: "UK Prime Minister"
+    data_dir: "data-mentions/politics/starmer"
+    strategy: youtube_search
+    youtube_config:
+      search_queries:
+        - "Keir Starmer PMQs"
+        - "Prime Minister's Questions Starmer"
+      prefer_channels:
+        - "UK Parliament"
+    transcript_sources:
+      - "https://hansard.parliament.uk/"
+    notes: "UK PM - Hansard has official PMQ transcripts"
+
+  johnson_mike:
+    name: "Mike Johnson"
+    aliases: ["Mike Johnson", "Speaker Johnson"]
+    role: "Speaker of the House"
+    data_dir: "data-mentions/politics/johnson"
+    strategy: youtube_search
+    youtube_config:
+      search_queries:
+        - "Mike Johnson remarks"
+        - "Speaker Johnson speech"
+      prefer_channels:
+        - "C-SPAN"
+    notes: "House Speaker"
+
+  # ========================================
+  # BUSINESS / FINANCE
+  # ========================================
+  
+  powell:
+    name: "Jerome Powell"
+    aliases: ["Jerome Powell", "Powell", "Fed Chair Powell", "Chairman Powell"]
+    role: "Federal Reserve Chair"
+    data_dir: "data-mentions/finance/powell"
+    strategy: youtube_search
+    youtube_config:
+      search_queries:
+        - "Jerome Powell press conference"
+        - "Federal Reserve FOMC press conference"
+        - "Powell Fed remarks"
+      prefer_channels:
+        - "Federal Reserve"
+    transcript_sources:
+      - "https://www.federalreserve.gov/newsevents/pressreleases.htm"
+    notes: "Fed Chair - Federal Reserve website has official transcripts"
+
+  dimon:
+    name: "Jamie Dimon"
+    aliases: ["Jamie Dimon", "Dimon"]
+    role: "CEO of JPMorgan Chase"
+    data_dir: "data-mentions/finance/dimon"
+    strategy: youtube_search
+    youtube_config:
+      search_queries:
+        - "Jamie Dimon interview"
+        - "Jamie Dimon WEF Davos"
+        - "Jamie Dimon CNBC"
+      prefer_channels:
+        - "CNBC"
+        - "Bloomberg Television"
+        - "World Economic Forum"
+    notes: "JPMorgan CEO - interviews usually on financial news channels"
+
+  jensen:
+    name: "Jensen Huang"
+    aliases: ["Jensen Huang", "Jensen", "Huang"]
+    role: "CEO of NVIDIA"
+    data_dir: "data-mentions/finance/jensen"
+    strategy: youtube_search
+    youtube_config:
+      search_queries:
+        - "Jensen Huang interview"
+        - "Jensen Huang keynote"
+        - "NVIDIA Jensen Huang"
+      prefer_channels:
+        - "NVIDIA"
+        - "World Economic Forum"
+    notes: "NVIDIA CEO - check NVIDIA official channel and tech conferences"
+
+  sacks:
+    name: "David Sacks"
+    aliases: ["David Sacks", "Sacks"]
+    role: "AI & Crypto Czar"
+    data_dir: "data-mentions/finance/sacks"
+    strategy: youtube_search
+    youtube_config:
+      search_queries:
+        - "David Sacks interview"
+        - "David Sacks WEF"
+        - "David Sacks All-In podcast"
+      prefer_channels:
+        - "All-In Podcast"
+        - "World Economic Forum"
+    notes: "Tech investor, All-In podcast host"
+
+  # ========================================
+  # ENTERTAINMENT / LATE NIGHT
+  # ========================================
+  
+  colbert_show:
+    name: "The Late Show with Stephen Colbert"
+    aliases: ["Late Show", "Colbert", "Stephen Colbert"]
+    type: "show"
+    data_dir: "data-mentions/entertainment/colbert"
+    strategy: youtube_channel
+    youtube_config:
+      channel_id: "UCMtFAi84ehTSYSE9XoHefig"  # The Late Show official channel
+      playlist_patterns:
+        - "full interview"
+        - "extended interview"
+    notes: "Official Late Show channel posts full interviews"
+
+  fallon_show:
+    name: "The Tonight Show Starring Jimmy Fallon"
+    aliases: ["Tonight Show", "Fallon", "Jimmy Fallon"]
+    type: "show"
+    data_dir: "data-mentions/entertainment/fallon"
+    strategy: youtube_channel
+    youtube_config:
+      channel_id: "UC8-Th83bH_thdKZDJCrn88g"  # The Tonight Show official channel
+      playlist_patterns:
+        - "full interview"
+        - "extended interview"
+    notes: "Official Tonight Show channel"
+
+  kimmel_show:
+    name: "Jimmy Kimmel Live!"
+    aliases: ["Kimmel", "Jimmy Kimmel", "Jimmy Kimmel Live"]
+    type: "show"
+    data_dir: "data-mentions/entertainment/kimmel"
+    strategy: youtube_channel
+    youtube_config:
+      channel_id: "UCa6vGFO9ty8v5KZJXQxdhaw"  # Jimmy Kimmel Live official
+      playlist_patterns:
+        - "full interview"
+        - "extended interview"
+    notes: "Official Kimmel channel"
+
+  seth_meyers_show:
+    name: "Late Night with Seth Meyers"
+    aliases: ["Late Night", "Seth Meyers"]
+    type: "show"
+    data_dir: "data-mentions/entertainment/seth_meyers"
+    strategy: youtube_channel
+    youtube_config:
+      channel_id: "UCVTyTA7-g9nopHeHbeuvpRA"  # Late Night official channel
+      playlist_patterns:
+        - "full interview"
+        - "extended interview"
+    notes: "Official Late Night channel"
+
+  mrbeast:
+    name: "MrBeast"
+    aliases: ["MrBeast", "Jimmy Donaldson", "Mr Beast"]
+    role: "YouTuber"
+    data_dir: "data-mentions/entertainment/mrbeast"
+    strategy: youtube_channel
+    youtube_config:
+      channel_id: "UCX6OQ3DkcsbYNE6H8uQQuVA"
+    notes: "MrBeast main channel - transcripts via YouTube API"
+
+  # ========================================
+  # WEF / DAVOS (temporary events)
+  # ========================================
+  
+  wef_generic:
+    name: "World Economic Forum"
+    aliases: ["WEF", "Davos", "World Economic Forum"]
+    type: "event"
+    data_dir: "data-mentions/events/wef"
+    strategy: youtube_channel
+    youtube_config:
+      channel_id: "UC7XXQi-wpLDx0w2JddOMjfg"  # WEF official channel
+      search_queries:
+        - "Davos 2026"
+        - "WEF conversation"
+    notes: "WEF official channel posts all sessions"
+
+
+# ========================================
+# EVENT TYPE MAPPINGS
+# ========================================
+# Maps event types to collection strategies and search patterns
+
+event_types:
+  press_briefing:
+    default_strategy: youtube_search
+    search_suffix: "press briefing full"
+    prefer_channels:
+      - "C-SPAN"
+      - "The White House"
+    transcript_check:
+      - "whitehouse.gov"
+      - "state.gov"
+      
+  interview:
+    default_strategy: youtube_search
+    search_suffix: "interview full"
+    prefer_channels:
+      - "CNBC"
+      - "Bloomberg Television"
+      - "Fox News"
+      - "CNN"
+
+  late_night:
+    default_strategy: youtube_channel
+    search_suffix: "full interview"
+    notes: "Usually on show's official YouTube channel"
+    
+  speech:
+    default_strategy: youtube_search
+    search_suffix: "full speech remarks"
+    prefer_channels:
+      - "C-SPAN"
+      
+  podcast:
+    default_strategy: youtube_search
+    search_suffix: "full episode"
+    
+  congressional_hearing:
+    default_strategy: youtube_search
+    search_suffix: "hearing testimony"
+    prefer_channels:
+      - "C-SPAN"
+    transcript_sources:
+      - "congress.gov"
+
+
+# ========================================
+# COLLECTION DEFAULTS
+# ========================================
+
+defaults:
+  youtube:
+    min_delay: 8.0
+    max_delay: 15.0
+    max_retries: 5
+    use_proxy: true
+    prefer_manual_captions: true
+    
+  web_scrape:
+    timeout_ms: 60000
+    wait_after_load_ms: 3500
+    max_retries: 3
+    
+  data_format:
+    filename_pattern: "{date}_{title}.txt"
+    date_format: "%Y-%m-%d"

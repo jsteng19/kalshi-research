@@ -1,0 +1,3 @@
+"""
+Kalshi Research package
+""" 
