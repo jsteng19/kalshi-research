@@ -57,6 +57,13 @@ recurring markets — NBA/NCAAB announcer mentions especially — that work was 
 that generate self-contained HTML dashboards (`src/nba/generate_report.py`), which are far cleaner
 and more reproducible than the notebooks. A few examples are in [`examples/reports/`](examples/reports).
 
+A report validates the transcript sample for the game's announcer crew, then compares historical
+mention rates against the live Kalshi book for each traded phrase:
+
+![Report overview — transcript validation for the announcer crew](examples/report_overview.png)
+
+![Phrase table — historical mention rates vs. live Kalshi bid/ask, with model-vs-market deltas](examples/report_prices.png)
+
 ## Usage
 
 ```bash

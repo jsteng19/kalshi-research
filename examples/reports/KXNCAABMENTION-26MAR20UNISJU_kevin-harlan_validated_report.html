@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KXNCAABMENTION-26MAR20UNISJU | NCAAB Report</title>
+<style>
+:root {
+    --primary: #003087; --secondary: #c41230; --accent: #ffc72c;
+    --success: #38a169; --warning: #d69e2e; --danger: #e53e3e;
+    --bg: #f7fafc; --card-bg: #ffffff; --text: #2d3748;
+    --text-muted: #718096; --border: #e2e8f0;
+}
+* { box-sizing: border-box; }
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: var(--bg); color: var(--text); line-height: 1.6;
+    margin: 0; padding: 20px;
+}
+.container { max-width: 1400px; margin: 0 auto; }
+h1 { color: var(--primary); border-bottom: 3px solid var(--accent); padding-bottom: 10px; }
+h2 { color: var(--secondary); margin-top: 30px; }
+h3 { color: var(--primary); }
+.card {
+    background: var(--card-bg); border-radius: 8px; padding: 20px;
+    margin: 15px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.stats-grid {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 12px; margin: 20px 0;
+}
+.stat-box {
+    background: linear-gradient(135deg, var(--primary), var(--secondary));
+    color: white; padding: 16px; border-radius: 8px; text-align: center;
+}
+.stat-box .value { font-size: 1.8em; font-weight: bold; }
+.stat-box .label { opacity: 0.9; font-size: 0.85em; }
+details {
+    background: var(--card-bg); border: 1px solid var(--border);
+    border-radius: 8px; margin: 10px 0;
+}
+summary {
+    padding: 15px 20px; cursor: pointer; font-weight: 600;
+    background: #f8f9fa; border-radius: 8px 8px 0 0; list-style: none;
+}
+summary::-webkit-details-marker { display: none; }
+summary::before { content: '\25B6  '; color: var(--accent); }
+details[open] summary::before { content: '\25BC  '; }
+details[open] summary { border-bottom: 1px solid var(--border); }
+.details-content { padding: 20px; }
+table { width: 100%; border-collapse: collapse; margin: 15px 0; font-size: 0.9em; }
+th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid var(--border); }
+th { background: var(--primary); color: white; position: sticky; top: 0; white-space: nowrap; }
+tr:hover { background: #f7fafc; }
+.context-box {
+    background: #f8f9fa; border-left: 4px solid var(--accent);
+    padding: 15px; margin: 10px 0; font-size: 0.9em;
+}
+.context-box .source { color: var(--text-muted); font-size: 0.85em; margin-bottom: 8px; }
+.chart-img { max-width: 100%; height: auto; border-radius: 6px; }
+.generated-time { color: var(--text-muted); font-size: 0.85em; text-align: right; margin-top: 30px; }
+.delta-positive { color: var(--success); font-weight: bold; }
+.delta-negative { color: var(--danger); font-weight: bold; }
+.delta-neutral { color: var(--text-muted); }
+@media (max-width: 768px) { .stats-grid { grid-template-columns: 1fr 1fr; } }
+</style>
+</head><body><div class="container">
+<h1>Away @ Home</h1>
+<div class="card">
+    <p><strong>Event:</strong> KXNCAABMENTION-26MAR20UNISJU</p>
+    <p><strong>Crew:</strong> Kevin Harlan</p>
+    <p><strong>Network:</strong> N/A</p>
+    <p style="color:var(--text-muted);font-size:0.85em;">Generated 2026-03-20 16:02:47</p>
+</div>
+
+<div class="stats-grid">
+    <div class="stat-box"><div class="value">16</div><div class="label">Phrases</div></div>
+    <div class="stat-box"><div class="value">32</div><div class="label">Validated Cleaned</div></div>
+    <div class="stat-box"><div class="value">32</div><div class="label">Validated Raw</div></div>
+    <div class="stat-box"><div class="value">32</div><div class="label">MM Cleaned</div></div>
+    <div class="stat-box"><div class="value">0</div><div class="label">Diarized</div></div>
+    <div class="stat-box"><div class="value">1242</div><div class="label">All Crews</div></div>
+    <div class="stat-box"><div class="value">100</div><div class="label">Historical Events</div></div>
+</div>
+
+<h2>Validation</h2>
+<div class="card">
+<p><strong>Validation mode:</strong> confirmed only</p>
+<p><strong>Included games:</strong> 32 | <strong>March Madness games:</strong> 32</p>
+<p><strong>Status mix:</strong> confirmed_valid 32 | probable_valid 0</p>
+<p><strong>Word counts:</strong> raw avg 11817, raw median 12006, used avg 10951, used median 11250</p>
+<p><strong>Name evidence:</strong> cleaned PBP first-name mentions average 34.4 per included game.</p>
+<p><strong>Criteria:</strong> include only transcripts that pass team/date matching, announcer-intro mismatch checks, and the minimum full-game floor of 8,000 words. By default only <code>confirmed_valid</code> games are included; <code>--include-probable</code> also includes structurally valid games lacking strong announcer-name confirmation.</p>
+</div>
+
+<h2>Included Games</h2>
+<div class="card"><div style="overflow-x:auto;"><table><tr><th>Date</th><th>Season</th><th>Round</th><th>Matchup</th><th>March Madness</th><th>Status</th><th>Raw PBP Mentions</th><th>Cleaned PBP Mentions</th><th>Raw Analyst Mentions</th><th>Cleaned Analyst Mentions</th><th>Raw Words</th><th>Cleaned Words</th><th>Used Words</th><th>Raw File</th><th>Cleaned File</th></tr>
+<tr><td>2025-03-29</td><td>2024-25</td><td>Elite 8</td><td>3 Texas Tech vs. 1 Florida</td><td>True</td><td>confirmed_valid</td><td>22</td><td>22</td><td>34</td><td>34</td><td>14210</td><td>13522</td><td>13522</td><td>2025-03-29_texas-tech-vs-florida.txt</td><td>2025-03-29_texas-tech-vs-florida.txt</td></tr>
+<tr><td>2025-03-27</td><td>2024-25</td><td>Sweet 16</td><td>10 Arkansas vs. 3 Texas Tech</td><td>True</td><td>confirmed_valid</td><td>18</td><td>15</td><td>37</td><td>38</td><td>14009</td><td>13093</td><td>13093</td><td>2025-03-27_arkansas-vs-texas-tech.txt</td><td>2025-03-27_arkansas-vs-texas-tech.txt</td></tr>
+<tr><td>2025-03-23</td><td>2024-25</td><td>Second round</td><td>6 Ole Miss vs. 3 Iowa State</td><td>True</td><td>confirmed_valid</td><td>8</td><td>3</td><td>16</td><td>13</td><td>12827</td><td>11859</td><td>11859</td><td>2025-03-23_ole-miss-vs-iowa-state.txt</td><td>2025-03-23_ole-miss-vs-iowa-state.txt</td></tr>
+<tr><td>2025-03-23</td><td>2024-25</td><td>Second round</td><td>6 Illinois vs. 3 Kentucky</td><td>True</td><td>confirmed_valid</td><td>11</td><td>10</td><td>25</td><td>25</td><td>12550</td><td>11975</td><td>11975</td><td>2025-03-23_illinois-vs-kentucky.txt</td><td>2025-03-23_illinois-vs-kentucky.txt</td></tr>
+<tr><td>2025-03-21</td><td>2024-25</td><td>First round</td><td>14 Lipscomb vs. 3 Iowa State</td><td>True</td><td>confirmed_valid</td><td>15</td><td>10</td><td>32</td><td>28</td><td>10804</td><td>9448</td><td>9448</td><td>2025-03-21_lipscomb-vs-iowa-state.txt</td><td>2025-03-21_lipscomb-vs-iowa-state.txt</td></tr>
+<tr><td>2025-03-21</td><td>2024-25</td><td>First round</td><td>14 Troy vs. 3 Kentucky</td><td>True</td><td>confirmed_valid</td><td>6</td><td>4</td><td>21</td><td>16</td><td>10905</td><td>9189</td><td>9189</td><td>2025-03-21_troy-vs-kentucky.txt</td><td>2025-03-21_troy-vs-kentucky.txt</td></tr>
+<tr><td>2025-03-21</td><td>2024-25</td><td>First round</td><td>11 Xavier vs. 6 Illinois</td><td>True</td><td>confirmed_valid</td><td>9</td><td>5</td><td>19</td><td>17</td><td>10175</td><td>9320</td><td>9320</td><td>2025-03-21_xavier-vs-illinois.txt</td><td>2025-03-21_xavier-vs-illinois.txt</td></tr>
+<tr><td>2025-03-21</td><td>2024-25</td><td>First round</td><td>11 North Carolina vs. 6 Ole Miss</td><td>True</td><td>confirmed_valid</td><td>14</td><td>8</td><td>33</td><td>28</td><td>13377</td><td>11732</td><td>11732</td><td>2025-03-21_north-carolina-vs-ole-miss.txt</td><td>2025-03-21_north-carolina-vs-ole-miss.txt</td></tr>
+<tr><td>2024-03-30</td><td>2023-24</td><td>Elite 8</td><td>3 Illinois vs. 1 UConn</td><td>True</td><td>confirmed_valid</td><td>9</td><td>8</td><td>28</td><td>29</td><td>11006</td><td>10609</td><td>10609</td><td>2024-03-30_illinois-vs-uconn.txt</td><td>2024-03-30_illinois-vs-uconn.txt</td></tr>
+<tr><td>2024-03-22</td><td>2023-24</td><td>First round</td><td>16 Grambling vs. 1 Purdue</td><td>True</td><td>confirmed_valid</td><td>4</td><td>4</td><td>10</td><td>10</td><td>10147</td><td>9961</td><td>9961</td><td>2024-03-22_grambling-vs-purdue.txt</td><td>2024-03-22_grambling-vs-purdue.txt</td></tr>
+<tr><td>2024-03-22</td><td>2023-24</td><td>First round</td><td>9 TCU vs. 8 Utah State</td><td>True</td><td>confirmed_valid</td><td>176</td><td>176</td><td>265</td><td>260</td><td>10118</td><td>9800</td><td>9800</td><td>2024-03-22_tcu-vs-utah-state.txt</td><td>2024-03-22_tcu-vs-utah-state.txt</td></tr>
+<tr><td>2024-03-22</td><td>2023-24</td><td>First round</td><td>15 Western Kentucky vs. 2 Marquette</td><td>True</td><td>confirmed_valid</td><td>152</td><td>150</td><td>247</td><td>245</td><td>9174</td><td>8870</td><td>8870</td><td>2024-03-22_western-kentucky-vs-marquette.txt</td><td>2024-03-22_western-kentucky-vs-marquette.txt</td></tr>
+<tr><td>2024-03-22</td><td>2023-24</td><td>First round</td><td>10 Colorado vs. 7 Florida</td><td>True</td><td>confirmed_valid</td><td>197</td><td>194</td><td>316</td><td>315</td><td>12928</td><td>12001</td><td>12001</td><td>2024-03-22_colorado-vs-florida.txt</td><td>2024-03-22_colorado-vs-florida.txt</td></tr>
+<tr><td>2023-03-23</td><td>2022-23</td><td>Sweet 16</td><td>3 Gonzaga vs. 2 UCLA</td><td>True</td><td>confirmed_valid</td><td>8</td><td>7</td><td>19</td><td>19</td><td>12489</td><td>11619</td><td>11619</td><td>2023-03-23_gonzaga-vs-ucla.txt</td><td>2023-03-23_gonzaga-vs-ucla.txt</td></tr>
+<tr><td>2023-03-23</td><td>2022-23</td><td>Sweet 16</td><td>8 Arkansas vs. 4 UConn</td><td>True</td><td>confirmed_valid</td><td>8</td><td>8</td><td>51</td><td>51</td><td>12422</td><td>12291</td><td>12291</td><td>2023-03-23_arkansas-vs-uconn.txt</td><td>2023-03-23_arkansas-vs-uconn.txt</td></tr>
+<tr><td>2023-03-18</td><td>2022-23</td><td>Second round</td><td>13 Furman vs. 5 San Diego State</td><td>True</td><td>confirmed_valid</td><td>15</td><td>15</td><td>31</td><td>32</td><td>11930</td><td>11831</td><td>11831</td><td>2023-03-18_furman-vs-san-diego-state.txt</td><td>2023-03-18_furman-vs-san-diego-state.txt</td></tr>
+<tr><td>2023-03-18</td><td>2022-23</td><td>Second round</td><td>5 Duke vs. 4 Tennessee</td><td>True</td><td>confirmed_valid</td><td>12</td><td>20</td><td>30</td><td>52</td><td>11199</td><td>11032</td><td>11032</td><td>2023-03-18_duke-vs-tennessee.txt</td><td>2023-03-18_duke-vs-tennessee.txt</td></tr>
+<tr><td>2023-03-16</td><td>2022-23</td><td>First round</td><td>13 Furman vs. 4 Virginia</td><td>True</td><td>confirmed_valid</td><td>13</td><td>11</td><td>43</td><td>35</td><td>12480</td><td>11004</td><td>11004</td><td>2023-03-16_furman-vs-virginia.txt</td><td>2023-03-16_furman-vs-virginia.txt</td></tr>
+<tr><td>2023-03-16</td><td>2022-23</td><td>First round</td><td>12 Oral Roberts vs. 5 Duke</td><td>True</td><td>confirmed_valid</td><td>11</td><td>11</td><td>21</td><td>19</td><td>9479</td><td>8958</td><td>8958</td><td>2023-03-16_oral-roberts-vs-duke.txt</td><td>2023-03-16_oral-roberts-vs-duke.txt</td></tr>
+<tr><td>2023-03-16</td><td>2022-23</td><td>First round</td><td>13 Louisiana vs. 4 Tennessee</td><td>True</td><td>confirmed_valid</td><td>5</td><td>5</td><td>20</td><td>20</td><td>9957</td><td>9817</td><td>9817</td><td>2023-03-16_louisiana-vs-tennessee.txt</td><td>2023-03-16_louisiana-vs-tennessee.txt</td></tr>
+<tr><td>2022-03-27</td><td>2021-22</td><td>Elite 8</td><td>10 Miami vs. 1 Kansas</td><td>True</td><td>confirmed_valid</td><td>18</td><td>18</td><td>36</td><td>35</td><td>12276</td><td>11852</td><td>11852</td><td>2022-03-27_miami-vs-kansas.txt</td><td>2022-03-27_miami-vs-kansas.txt</td></tr>
+<tr><td>2022-03-25</td><td>2021-22</td><td>Sweet 16</td><td>11 Iowa State vs. 10 Miami</td><td>True</td><td>confirmed_valid</td><td>13</td><td>10</td><td>20</td><td>15</td><td>10679</td><td>9266</td><td>9266</td><td>2022-03-25_iowa-state-vs-miami.txt</td><td>2022-03-25_iowa-state-vs-miami.txt</td></tr>
+<tr><td>2022-03-25</td><td>2021-22</td><td>Sweet 16</td><td>4 Providence vs. 1 Kansas</td><td>True</td><td>confirmed_valid</td><td>20</td><td>19</td><td>21</td><td>20</td><td>12965</td><td>11894</td><td>11894</td><td>2022-03-25_providence-vs-kansas.txt</td><td>2022-03-25_providence-vs-kansas.txt</td></tr>
+<tr><td>2022-03-20</td><td>2021-22</td><td>Second round</td><td>7 Ohio State vs. 2 Villanova</td><td>True</td><td>confirmed_valid</td><td>18</td><td>17</td><td>27</td><td>23</td><td>12571</td><td>12228</td><td>12228</td><td>2022-03-20_ohio-state-vs-villanova.txt</td><td>2022-03-20_ohio-state-vs-villanova.txt</td></tr>
+<tr><td>2022-03-20</td><td>2021-22</td><td>Second round</td><td>5 Houston vs. 4 Illinois</td><td>True</td><td>confirmed_valid</td><td>17</td><td>16</td><td>49</td><td>49</td><td>13245</td><td>12292</td><td>12292</td><td>2022-03-20_houston-vs-illinois.txt</td><td>2022-03-20_houston-vs-illinois.txt</td></tr>
+<tr><td>2021-03-27</td><td>2020-21</td><td>Sweet 16</td><td>15 Oral Roberts vs. 3 Arkansas</td><td>True</td><td>confirmed_valid</td><td>83</td><td>83</td><td>5</td><td>5</td><td>9027</td><td>8823</td><td>8823</td><td>2021-03-27_oral-roberts-vs-arkansas.txt</td><td>2021-03-27_oral-roberts-vs-arkansas.txt</td></tr>
+<tr><td>2021-03-21</td><td>2020-21</td><td>Second round</td><td>12 Oregon State vs. 4 Oklahoma State</td><td>True</td><td>confirmed_valid</td><td>83</td><td>73</td><td>17</td><td>15</td><td>13079</td><td>11468</td><td>11468</td><td>2021-03-21_oregon-state-vs-oklahoma-state.txt</td><td>2021-03-21_oregon-state-vs-oklahoma-state.txt</td></tr>
+<tr><td>2021-03-21</td><td>2020-21</td><td>Second round</td><td>6 Texas Tech vs. 3 Arkansas</td><td>True</td><td>confirmed_valid</td><td>71</td><td>70</td><td>19</td><td>18</td><td>11125</td><td>10463</td><td>10463</td><td>2021-03-21_texas-tech-vs-arkansas.txt</td><td>2021-03-21_texas-tech-vs-arkansas.txt</td></tr>
+<tr><td>2021-03-21</td><td>2020-21</td><td>Second round</td><td>9 Wisconsin vs. 1 Baylor</td><td>True</td><td>confirmed_valid</td><td>79</td><td>72</td><td>15</td><td>12</td><td>11313</td><td>9473</td><td>9473</td><td>2021-03-21_wisconsin-vs-baylor.txt</td><td>2021-03-21_wisconsin-vs-baylor.txt</td></tr>
+<tr><td>2019-03-30</td><td>2018-19</td><td>Elite 8</td><td>3 Texas Tech vs. 1 Gonzaga</td><td>True</td><td>confirmed_valid</td><td>19</td><td>16</td><td>18</td><td>18</td><td>12082</td><td>11589</td><td>11589</td><td>2019-03-30_texas-tech-vs-gonzaga.txt</td><td>2019-03-30_texas-tech-vs-gonzaga.txt</td></tr>
+<tr><td>2019-03-28</td><td>2018-19</td><td>Sweet 16</td><td>3 Texas Tech vs. 2 Michigan</td><td>True</td><td>confirmed_valid</td><td>0</td><td>0</td><td>1</td><td>1</td><td>11038</td><td>10366</td><td>10366</td><td>2019-03-28_texas-tech-vs-michigan.txt</td><td>2019-03-28_texas-tech-vs-michigan.txt</td></tr>
+<tr><td>2018-03-22</td><td>2017-18</td><td>Sweet 16</td><td>7 Texas A&M vs. 3 Michigan</td><td>True</td><td>confirmed_valid</td><td>21</td><td>20</td><td>30</td><td>28</td><td>16543</td><td>12775</td><td>12775</td><td>2018-03-22_texas-a-m-vs-michigan.txt</td><td>2018-03-22_texas-a-m-vs-michigan.txt</td></tr>
+</table></div></div>
+
+<h2>Prices, Rates &amp; Frequency</h2>
+<div class="card"><div style="overflow-x:auto;"><table>
+<tr><th>Phrase</th><th>Kalshi Rate</th><th>Kalshi Rate (Kevin Harlan)</th><th>VWAP</th><th>Bid/Ask</th><th>Last</th><th>Vol</th><th>Delta</th><th>Validated Cleaned (32)</th><th>Validated Raw (32)</th><th>MM Cleaned (32)</th><th>MM Raw (32)</th></tr>
+<tr><td style='white-space:nowrap;'>Draft / Drafted</td><td style='white-space:nowrap;'>49% (28/57)</td><td style='white-space:nowrap;'>-</td><td>-</td><td>41c/43c</td><td>44c</td><td>181</td><td><span class="delta-positive">+7%</span></td><td>16% (5/32)</td><td>16% (5/32)</td><td>16% (5/32)</td><td>16% (5/32)</td></tr>
+<tr><td style='white-space:nowrap;'>Transfer / Transferred</td><td style='white-space:nowrap;'>80% (73/91)</td><td style='white-space:nowrap;'>-</td><td>-</td><td>80c/82c</td><td>82c</td><td>1,982</td><td><span class="delta-neutral">-1%</span></td><td>91% (29/32)</td><td>91% (29/32)</td><td>91% (29/32)</td><td>91% (29/32)</td></tr>
+<tr><td style='white-space:nowrap;'>Event does not qualify</td><td style='white-space:nowrap;'>0% (0/21)</td><td style='white-space:nowrap;'>-</td><td>-</td><td>0c/1c</td><td>1c</td><td>2,159</td><td><span class="delta-neutral">-0%</span></td><td>0% (0/32)</td><td>0% (0/32)</td><td>0% (0/32)</td><td>0% (0/32)</td></tr>
+<tr><td style='white-space:nowrap;'>Elbow</td><td style='white-space:nowrap;'>62% (56/90)</td><td style='white-space:nowrap;'>-</td><td>-</td><td>57c/59c</td><td>60c</td><td>535</td><td><span class="delta-neutral">+4%</span></td><td>31% (10/32)</td><td>34% (11/32)</td><td>31% (10/32)</td><td>34% (11/32)</td></tr>
+<tr><td style='white-space:nowrap;'>Ankle</td><td style='white-space:nowrap;'>46% (42/91)</td><td style='white-space:nowrap;'>-</td><td>-</td><td>45c/46c</td><td>46c</td><td>2,172</td><td><span class="delta-neutral">+1%</span></td><td>41% (13/32)</td><td>44% (14/32)</td><td>41% (13/32)</td><td>44% (14/32)</td></tr>
+<tr><td style='white-space:nowrap;'>Walk On</td><td style='white-space:nowrap;'>15% (14/91)</td><td style='white-space:nowrap;'>-</td><td>-</td><td>14c/16c</td><td>18c</td><td>130</td><td><span class="delta-neutral">+0%</span></td><td>19% (6/32)</td><td>22% (7/32)</td><td>19% (6/32)</td><td>22% (7/32)</td></tr>
+<tr><td style='white-space:nowrap;'>Alley-oop/Alley oop/Alleyoop</td><td style='white-space:nowrap;'>26% (24/91)</td><td style='white-space:nowrap;'>-</td><td>-</td><td>23c/25c</td><td>24c</td><td>709</td><td><span class="delta-neutral">+2%</span></td><td>12% (4/32)</td><td>9% (3/32)</td><td>12% (4/32)</td><td>9% (3/32)</td></tr>
+<tr><td style='white-space:nowrap;'>Airball/Air ball/Air-ball/Airballs/Air balls/Air-balls/Airballed/Air balled/Air-balled</td><td style='white-space:nowrap;'>50% (2/4)</td><td style='white-space:nowrap;'>-</td><td>-</td><td>43c/44c</td><td>43c</td><td>4,035</td><td><span class="delta-positive">+6%</span></td><td>19% (6/32)</td><td>19% (6/32)</td><td>19% (6/32)</td><td>19% (6/32)</td></tr>
+<tr><td style='white-space:nowrap;'>Schedule</td><td style='white-space:nowrap;'>53% (48/91)</td><td style='white-space:nowrap;'>-</td><td>-</td><td>43c/44c</td><td>44c</td><td>1,407</td><td><span class="delta-positive">+9%</span></td><td>16% (5/32)</td><td>16% (5/32)</td><td>16% (5/32)</td><td>16% (5/32)</td></tr>
+<tr><td style='white-space:nowrap;'>Buzzer</td><td style='white-space:nowrap;'>33% (2/6)</td><td style='white-space:nowrap;'>-</td><td>-</td><td>44c/45c</td><td>45c</td><td>2,388</td><td><span class="delta-negative">-11%</span></td><td>22% (7/32)</td><td>22% (7/32)</td><td>22% (7/32)</td><td>22% (7/32)</td></tr>
+<tr><td style='white-space:nowrap;'>Double Double</td><td style='white-space:nowrap;'>49% (44/90)</td><td style='white-space:nowrap;'>-</td><td>-</td><td>40c/41c</td><td>41c</td><td>619</td><td><span class="delta-positive">+8%</span></td><td>44% (14/32)</td><td>44% (14/32)</td><td>44% (14/32)</td><td>44% (14/32)</td></tr>
+<tr><td style='white-space:nowrap;'>Overtime/Over time/Over-time</td><td style='white-space:nowrap;'>51% (43/84)</td><td style='white-space:nowrap;'>-</td><td>-</td><td>35c/36c</td><td>36c</td><td>795</td><td><span class="delta-positive">+16%</span></td><td>22% (7/32)</td><td>22% (7/32)</td><td>22% (7/32)</td><td>22% (7/32)</td></tr>
+<tr><td style='white-space:nowrap;'>All American / All America</td><td style='white-space:nowrap;'>53% (30/57)</td><td style='white-space:nowrap;'>-</td><td>-</td><td>40c/41c</td><td>39c</td><td>1,078</td><td><span class="delta-positive">+12%</span></td><td>44% (14/32)</td><td>44% (14/32)</td><td>44% (14/32)</td><td>44% (14/32)</td></tr>
+<tr><td style='white-space:nowrap;'>NIL</td><td style='white-space:nowrap;'>19% (17/91)</td><td style='white-space:nowrap;'>-</td><td>-</td><td>15c/16c</td><td>17c</td><td>997</td><td><span class="delta-neutral">+3%</span></td><td>0% (0/32)</td><td>3% (1/32)</td><td>0% (0/32)</td><td>3% (1/32)</td></tr>
+<tr><td style='white-space:nowrap;'>Record</td><td style='white-space:nowrap;'>57% (52/91)</td><td style='white-space:nowrap;'>-</td><td>-</td><td>63c/64c</td><td>63c</td><td>293</td><td><span class="delta-negative">-6%</span></td><td>69% (22/32)</td><td>72% (23/32)</td><td>69% (22/32)</td><td>72% (23/32)</td></tr>
+<tr><td style='white-space:nowrap;'>Recruit / Recruited / Recruitment</td><td style='white-space:nowrap;'>47% (43/91)</td><td style='white-space:nowrap;'>-</td><td>-</td><td>51c/53c</td><td>54c</td><td>956</td><td><span class="delta-neutral">-5%</span></td><td>44% (14/32)</td><td>53% (17/32)</td><td>44% (14/32)</td><td>53% (17/32)</td></tr>
+</table></div></div>
+
+<h2>Transcript vs. Kalshi (FP / FN)</h2>
+<div class="card"><div style="overflow-x:auto;"><table>
+<tr><th rowspan='2'>Phrase</th><th colspan='4'>Kevin Harlan</th><th colspan='4'>All Crews</th></tr>
+<tr><th>Games</th><th>FP</th><th>FN</th><th>Acc.</th><th>Games</th><th>FP</th><th>FN</th><th>Acc.</th></tr>
+<tr><td style='white-space:nowrap;'>Draft / Drafted</td><td>0</td><td>-</td><td>-</td><td>-</td><td>0</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td style='white-space:nowrap;'>Transfer / Transferred</td><td>0</td><td>-</td><td>-</td><td>-</td><td>0</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td style='white-space:nowrap;'>Event does not qualify</td><td>0</td><td>-</td><td>-</td><td>-</td><td>0</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td style='white-space:nowrap;'>Elbow</td><td>0</td><td>-</td><td>-</td><td>-</td><td>0</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td style='white-space:nowrap;'>Ankle</td><td>0</td><td>-</td><td>-</td><td>-</td><td>0</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td style='white-space:nowrap;'>Walk On</td><td>0</td><td>-</td><td>-</td><td>-</td><td>0</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td style='white-space:nowrap;'>Alley-oop/Alley oop/Alleyoop</td><td>0</td><td>-</td><td>-</td><td>-</td><td>0</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td style='white-space:nowrap;'>Airball/Air ball/Air-ball/Airballs/Air balls/Air-balls/Airballed/Air balled/Air-balled</td><td>0</td><td>-</td><td>-</td><td>-</td><td>0</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td style='white-space:nowrap;'>Schedule</td><td>0</td><td>-</td><td>-</td><td>-</td><td>0</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td style='white-space:nowrap;'>Buzzer</td><td>0</td><td>-</td><td>-</td><td>-</td><td>0</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td style='white-space:nowrap;'>Double Double</td><td>0</td><td>-</td><td>-</td><td>-</td><td>0</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td style='white-space:nowrap;'>Overtime/Over time/Over-time</td><td>0</td><td>-</td><td>-</td><td>-</td><td>0</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td style='white-space:nowrap;'>All American / All America</td><td>0</td><td>-</td><td>-</td><td>-</td><td>0</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td style='white-space:nowrap;'>NIL</td><td>0</td><td>-</td><td>-</td><td>-</td><td>0</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td style='white-space:nowrap;'>Record</td><td>0</td><td>-</td><td>-</td><td>-</td><td>0</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td style='white-space:nowrap;'>Recruit / Recruited / Recruitment</td><td>0</td><td>-</td><td>-</td><td>-</td><td>0</td><td>-</td><td>-</td><td>-</td></tr>
+</table></div></div>
+<div class="card">
+<h3>Announcer Comparison (Kalshi hit rates)</h3>
+<div style="overflow-x:auto;"><table>
+<tr><th>Announcer</th><th>Games</th><th>Draft / Drafted</th><th>Transfer / Transferr</th><th>Event does not quali</th><th>Elbow</th><th>Ankle</th></tr>
+<tr><td><strong>Andrew Catalon</strong></td><td>1</td><td>-</td><td>0%</td><td>-</td><td>0%</td><td>100%</td></tr><tr><td><strong>Dan Shulman</strong></td><td>1</td><td>-</td><td>100%</td><td>-</td><td>100%</td><td>100%</td></tr><tr><td><strong>Dave Flemming</strong></td><td>1</td><td>100%</td><td>0%</td><td>-</td><td>100%</td><td>100%</td></tr><tr><td><strong>Dave O'Brien</strong></td><td>3</td><td>100%</td><td>100%</td><td>-</td><td>0%</td><td>33%</td></tr><tr><td><strong>Dave Pasch</strong></td><td>1</td><td>-</td><td>100%</td><td>-</td><td>100%</td><td>0%</td></tr><tr><td><strong>Gus Johnson</strong></td><td>2</td><td>100%</td><td>100%</td><td>-</td><td>50%</td><td>50%</td></tr><tr><td><strong>Guy Haberman</strong></td><td>1</td><td>0%</td><td>100%</td><td>-</td><td>0%</td><td>100%</td></tr><tr><td><strong>Ian Eagle</strong></td><td>1</td><td>-</td><td>100%</td><td>-</td><td>100%</td><td>0%</td></tr><tr><td><strong>Jason Benetti</strong></td><td>2</td><td>-</td><td>100%</td><td>-</td><td>50%</td><td>0%</td></tr><tr><td><strong>John Fanta</strong></td><td>1</td><td>-</td><td>100%</td><td>-</td><td>100%</td><td>0%</td></tr><tr><td><strong>Jon Sciambi</strong></td><td>3</td><td>100%</td><td>100%</td><td>-</td><td>67%</td><td>100%</td></tr><tr><td><strong>Karl Ravech</strong></td><td>2</td><td>-</td><td>100%</td><td>-</td><td>100%</td><td>0%</td></tr><tr><td><strong>Kevin Brown</strong></td><td>1</td><td>-</td><td>100%</td><td>-</td><td>100%</td><td>100%</td></tr><tr><td><strong>Kevin Kugler</strong></td><td>4</td><td>-</td><td>0%</td><td>-</td><td>100%</td><td>75%</td></tr><tr><td><strong>Noah Eagle</strong></td><td>1</td><td>-</td><td>0%</td><td>-</td><td>0%</td><td>0%</td></tr><tr><td><strong>Paul Burmeister</strong></td><td>1</td><td>-</td><td>100%</td><td>-</td><td>0%</td><td>0%</td></tr><tr><td><strong>Richard Cross</strong></td><td>1</td><td>100%</td><td>100%</td><td>-</td><td>100%</td><td>0%</td></tr><tr><td><strong>Ted Robinson</strong></td><td>1</td><td>-</td><td>0%</td><td>-</td><td>100%</td><td>0%</td></tr><tr><td><strong>Tom Hart</strong></td><td>3</td><td>-</td><td>100%</td><td>-</td><td>100%</td><td>67%</td></tr><tr><td><strong>Tom McCarthy</strong></td><td>1</td><td>-</td><td>100%</td><td>-</td><td>100%</td><td>100%</td></tr>
+</table></div>
+<p style="color:var(--text-muted);font-size:0.85em;">* = this game's announcer. Top 5 phrases shown.</p>
+</div>
+<div class="generated-time">Report complete.</div>
+</div></body></html>

@@ -207,8 +207,10 @@ client_secrets*.json
 .claude/worktrees/
 .claude/settings.local.json
 
-# Generated reports
+# Generated reports (committed samples in examples/reports/ are kept)
 reports/
+!examples/reports/
+!examples/reports/**
 
 # Bloated / non-source data (kept locally, excluded from the repo)
 *.webarchive
